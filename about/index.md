@@ -1,5 +1,6 @@
 ---
 title: eRrion
+author: eRrion
 layout: about
 ---
 
