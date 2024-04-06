@@ -16,18 +16,20 @@
   <meta name="author" content="eRrion">
   <meta name="keywords" content="">
   
-    <meta name="description" content="傅里叶变换回顾· 无论是在信号分析还是谱分析, 傅里叶变换总是一个强大的工具, 把时域转换到频域上进行分析. 而在数值计算(计算物理)领域我们则需要把傅里叶变换到计算机上去实现. 对于周期函数 f(x)f(x)f(x), 其周期为 2l2l2l, 则其可以写成傅里叶级数 f(x)&#x3D;a0+∑k∞(akcos⁡kπlx+bksin⁡kπlx)f(x) &#x3D; a_0 + \sum_{k}^{\infty}">
+    <meta name="description" content="-迪蜡熊如是说(雾  傅里叶变换回顾· 无论是在信号分析还是谱分析, 傅里叶变换总是一个强大的工具, 把时域转换到频域上进行分析. 而在数值计算(计算物理)领域我们则需要把傅里叶变换到计算机上去实现. 对于周期函数 f(x)f(x)f(x), 其周期为 2l2l2l, 则其可以写成傅里叶级数 f(x)&#x3D;a0+∑k∞(akcos⁡kπlx+bksin⁡kπlx)f(x) &#x3D; a_0 + \sum_">
 <meta property="og:type" content="article">
 <meta property="og:title" content="数值计算领域不会梦到快速傅里叶算法">
 <meta property="og:url" content="http://mr-errion.github.io/2024/04/06/FFT%E7%AE%97%E6%B3%95%E6%B5%85%E6%9E%90/index.html">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="傅里叶变换回顾· 无论是在信号分析还是谱分析, 傅里叶变换总是一个强大的工具, 把时域转换到频域上进行分析. 而在数值计算(计算物理)领域我们则需要把傅里叶变换到计算机上去实现. 对于周期函数 f(x)f(x)f(x), 其周期为 2l2l2l, 则其可以写成傅里叶级数 f(x)&#x3D;a0+∑k∞(akcos⁡kπlx+bksin⁡kπlx)f(x) &#x3D; a_0 + \sum_{k}^{\infty}">
+<meta property="og:description" content="-迪蜡熊如是说(雾  傅里叶变换回顾· 无论是在信号分析还是谱分析, 傅里叶变换总是一个强大的工具, 把时域转换到频域上进行分析. 而在数值计算(计算物理)领域我们则需要把傅里叶变换到计算机上去实现. 对于周期函数 f(x)f(x)f(x), 其周期为 2l2l2l, 则其可以写成傅里叶级数 f(x)&#x3D;a0+∑k∞(akcos⁡kπlx+bksin⁡kπlx)f(x) &#x3D; a_0 + \sum_">
 <meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://mr-errion.github.io/2024/04/06/img/fft.png">
 <meta property="article:published_time" content="2024-04-06T12:01:00.000Z">
-<meta property="article:modified_time" content="2024-04-06T15:37:34.842Z">
+<meta property="article:modified_time" content="2024-04-06T15:46:57.536Z">
 <meta property="article:author" content="eRrion">
 <meta property="article:tag" content="Algorithms, FFT">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://mr-errion.github.io/2024/04/06/img/fft.png">
   
   
   
@@ -227,7 +229,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          942 字
+          949 字
         
       </span>
     
@@ -280,7 +282,7 @@
               <p id="updated-time" class="note note-info" style="display: none">
                 
                   
-                    本文最后更新于 2024-04-06T23:37:34+08:00
+                    本文最后更新于 2024-04-06T23:46:57+08:00
                   
                   
 
@@ -290,7 +292,10 @@
             
               <div class="markdown-body">
                 
-                <h1 id="傅里叶变换回顾">傅里叶变换回顾<a class="anchor" href="#傅里叶变换回顾">·</a></h1>
+                <p><img src="../img/fft.png" srcset="/img/loading.gif" lazyload alt="图片alt"></p>
+<p align="right">-迪蜡熊如是说(雾<p>
+<hr>
+<h1 id="傅里叶变换回顾">傅里叶变换回顾<a class="anchor" href="#傅里叶变换回顾">·</a></h1>
 <p>无论是在信号分析还是谱分析, 傅里叶变换总是一个强大的工具, 把时域转换到频域上进行分析. 而在数值计算(计算物理)领域我们则需要把傅里叶变换到计算机上去实现.</p>
 <p>对于周期函数 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">f(x)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span></span></span></span>, 其周期为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>2</mn><mi>l</mi></mrow><annotation encoding="application/x-tex">2l</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord">2</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span></span></span></span>, 则其可以写成傅里叶级数</p>
 <p class="katex-block "><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo>=</mo><msub><mi>a</mi><mn>0</mn></msub><mo>+</mo><munderover><mo>∑</mo><mi>k</mi><mi mathvariant="normal">∞</mi></munderover><mrow><mo fence="true">(</mo><msub><mi>a</mi><mi>k</mi></msub><mi>cos</mi><mo>⁡</mo><mfrac><mrow><mi>k</mi><mi>π</mi></mrow><mi>l</mi></mfrac><mi>x</mi><mo>+</mo><msub><mi>b</mi><mi>k</mi></msub><mi>sin</mi><mo>⁡</mo><mfrac><mrow><mi>k</mi><mi>π</mi></mrow><mi>l</mi></mfrac><mi>x</mi><mo fence="true">)</mo></mrow></mrow><annotation encoding="application/x-tex">f(x) = a_0 + \sum_{k}^{\infty} \left( a_{k} \cos \frac{k\pi}{l} x + b_{k} \sin \frac{k\pi}{l} x \right) 
