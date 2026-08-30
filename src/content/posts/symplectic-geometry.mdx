@@ -1,0 +1,104 @@
+---
+title: 辛几何：经典力学的自然语言
+description: 从哈密顿方程出发，理解辛形式为何比坐标更接近经典动力学的本质。
+published: 2026-08-30
+tags: [geometry, mathematical-methods]
+featured: true
+series: geometric-mechanics
+seriesOrder: 1
+---
+
+import Theorem from '../../components/math/Theorem.astro';
+import Definition from '../../components/math/Definition.astro';
+import Proof from '../../components/math/Proof.astro';
+
+经典力学常常从一组坐标开始：广义坐标 $ q^i $ 和共轭动量 $ p_i $。然而哈密顿方程的真正内容并不依赖这组坐标。坐标只是局部的记账方式，背后的几何对象是相空间上的辛形式。
+
+$$
+ \omega = \mathrm{d} q^i \wedge \mathrm{d} p_i .
+$$
+
+这篇札记的目标，是从熟悉的哈密顿方程出发，逐步把坐标表达重写为几何语言。
+
+## 1. 从相空间开始
+
+设构型空间为 $ Q $。经典系统的状态由位置和动量共同决定，因此自然的相空间是余切丛 $ T^*Q $。在局部坐标 $ (q^i, p_i) $ 下，余切丛带有典范一形式
+
+$$
+ \theta = p_i \, \mathrm{d} q^i ,
+$$
+
+其外微分给出典范辛形式 $ \omega = - \mathrm{d} \theta $。符号约定并不重要，重要的是 $ \omega $ 同时满足闭性与非退化性。
+
+<Definition number="1" name="辛流形">
+一个辛流形是二元组 $ (M, \omega) $，其中 $ M $ 是偶数维光滑流形，$ \omega \in \Omega^2(M) $ 满足 $ \mathrm{d} \omega = 0 $，并且对每个非零切向量 $ v $，都存在 $ w $ 使 $ \omega(v, w) \neq 0 $。
+</Definition>
+
+非退化性允许我们把一形式唯一地转换成向量场。这正是能量函数产生动力学的原因。
+
+## 2. 哈密顿向量场
+
+给定光滑函数 $ H: M \to \mathbb{R} $，定义它的哈密顿向量场 $ X_H $ 为
+
+$$
+ \iota_{X_H} \omega = \mathrm{d} H .
+$$
+
+在典范坐标中令 $ X_H = a^i \partial_{q^i} + b_i \partial_{p_i} $，代入上式便得到
+
+$$
+ a^i = \frac{\partial H}{\partial p_i}, \qquad
+ b_i = - \frac{\partial H}{\partial q^i} .
+$$
+
+积分曲线 $ \gamma(t) $ 满足 $ \dot{\gamma} = X_H $，于是上式正是哈密顿方程。这里的关键变化是：运动方程不再被看作两行特殊的坐标公式，而是由 $ H $ 与 $ \omega $ 共同决定的向量场。
+
+### 能量守恒不是额外假设
+
+沿着哈密顿流，能量的变化率为
+
+$$
+ \frac{\mathrm{d}}{\mathrm{d}t} H(\gamma(t))
+ = \mathrm{d}H(X_H)
+ = \omega(X_H, X_H)
+ = 0 .
+$$
+
+最后一步来自二形式的反对称性。因此，在没有显含时间的系统里，能量守恒直接编码在辛结构中。
+
+<Theorem number="2" name="Liouville 定理">
+哈密顿流保持辛形式，即 $ \mathcal{L}_{X_H} \omega = 0 $。因此它也保持相空间体积 $ \omega^n / n! $。
+</Theorem>
+
+<Proof>
+由 Cartan 公式以及 $ \mathrm{d}\omega = 0 $，
+$$
+ \mathcal{L}_{X_H}\omega
+ = \mathrm{d}(\iota_{X_H}\omega) + \iota_{X_H}(\mathrm{d}\omega)
+ = \mathrm{d}^2 H
+ = 0 .
+$$
+辛形式被保持后，它的外积幂自然也被保持。
+</Proof>
+
+## 3. Poisson 括号
+
+对两个可观测量 $ f $ 与 $ g $，定义 Poisson 括号
+
+$$
+ \{f, g\} = \omega(X_f, X_g) .
+$$
+
+它把相空间上的函数空间变成 Lie 代数。可观测量沿动力学的演化写成
+
+$$
+ \dot{f} = \{f, H\} .
+$$
+
+这一形式尤其重要，因为它已经隐约呈现量子化的轮廓：经典理论中的 Poisson 括号将在量子理论中被对易子取代。
+
+## 4. 结构先于坐标
+
+辛几何带来的核心观念可以概括为：坐标帮助计算，结构解释不变量。典范变换、守恒量、Liouville 定理以及经典系统的量子化，都不应被理解为偶然的坐标技巧。它们是同一个辛结构在不同问题中的投影。
+
+下一篇将从作用量原理出发，解释 Lagrange 子流形如何把 Hamilton–Jacobi 理论嵌入这幅几何图景。

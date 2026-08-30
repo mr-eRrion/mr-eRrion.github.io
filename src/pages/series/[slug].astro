@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const seriesList = await getCollection('series');
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return seriesList.map((series) => ({
+    params: { slug: series.id },
+    props: {
+      series,
+      posts: posts
+        .filter((post) => post.data.series?.id === series.id)
+        .sort((a, b) => (a.data.seriesOrder ?? 0) - (b.data.seriesOrder ?? 0))
+    }
+  }));
+}
+
+const { series, posts } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const statusLabels = { ongoing: '连载中', completed: '已完结', planned: '筹备中' };
+---
+
+<BaseLayout title={`${series.data.title} · 相空间札记`} description={series.data.description}>
+  <article class="series-detail" data-pagefind-body>
+    <header class="series-cover">
+      <div class="series-cover-meta"><span>PHASE SPACE NOTES</span><span>VOLUME {String(series.data.volume).padStart(2, '0')}</span></div>
+      <div class="series-cover-main">
+        <div class="series-cover-copy">
+          <span class="series-status">{statusLabels[series.data.status]}</span>
+          <p>{series.data.subtitle}</p>
+          <h1>{series.data.title}</h1>
+        </div>
+        <div class="series-cover-symbol" aria-hidden="true">Φ<sup>{series.data.volume}</sup></div>
+      </div>
+      <div class="series-cover-footer"><p>{series.data.description}</p><span>{posts.length} CHAPTERS</span></div>
+    </header>
+
+    <section class="series-toc-section">
+      <div class="series-toc-heading"><span class="eyebrow">CONTENTS</span><h2>目录</h2><p>建议按顺序阅读，各章在概念上彼此衔接。</p></div>
+      <ol class="series-chapters">
+        {posts.map((post, index) => (
+          <li>
+            <a href={`${base}/posts/${post.id}/`}>
+              <div class="chapter-number"><span>CHAPTER</span><strong>{String(post.data.seriesOrder ?? index + 1).padStart(2, '0')}</strong></div>
+              <div class="chapter-copy"><h3>{post.data.title}</h3><p>{post.data.description}</p></div>
+              <time datetime={post.data.published.toISOString()}>{post.data.published.toISOString().slice(0, 10).replaceAll('-', '.')}</time>
+              <b class="chapter-arrow">→</b>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+  </article>
+</BaseLayout>

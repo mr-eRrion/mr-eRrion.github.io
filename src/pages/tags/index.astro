@@ -1,0 +1,25 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TAG_LABELS } from '../../config';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const tags = [...new Set(posts.flatMap((post) => post.data.tags))].map((tag) => ({ tag, count: posts.filter((post) => post.data.tags.includes(tag)).length }));
+---
+
+<BaseLayout title="主题 · 相空间札记" description="按数学物理主题浏览文章。">
+  <section class="listing-shell compact-listing">
+    <header class="listing-header"><span class="eyebrow">TOPICS</span><h1>主题</h1><p>沿着概念之间的联系，而不只是时间顺序阅读。</p></header>
+    <div class="tag-grid">
+      {tags.map(({ tag, count }, index) => (
+        <a href={`${base}/tags/${tag}/`}>
+          <span>{String(index + 1).padStart(2, '0')}</span>
+          <h2>{TAG_LABELS[tag] ?? tag}</h2>
+          <p>{count} 篇文章</p>
+          <b>→</b>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

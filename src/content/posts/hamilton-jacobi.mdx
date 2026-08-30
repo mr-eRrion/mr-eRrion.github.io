@@ -1,0 +1,52 @@
+---
+title: Hamilton–Jacobi 方程与 Lagrange 子流形
+description: 把作用量看作生成函数，理解经典轨道族如何成为相空间中的几何对象。
+published: 2026-08-29
+tags: [geometry, mathematical-methods]
+series: geometric-mechanics
+seriesOrder: 2
+---
+
+import Definition from '../../components/math/Definition.astro';
+
+在哈密顿力学中，一条轨道是相空间中的曲线；在 Hamilton–Jacobi 理论中，我们希望一次描述一整族轨道。关键是寻找函数 $ S(q, t) $，使它满足
+
+$$
+ \frac{\partial S}{\partial t}
+ + H\!\left(q, \frac{\partial S}{\partial q}, t\right)
+ = 0 .
+$$
+
+这个方程把动力学问题转换成一阶非线性偏微分方程，但它更深层的意义来自辛几何。
+
+## 1. 作用量作为生成函数
+
+设 $ S(q, t) $ 是沿经典轨道计算的作用量。端点发生变化时，作用量的微分为
+
+$$
+ \mathrm{d} S = p_i \, \mathrm{d} q^i - H \, \mathrm{d} t .
+$$
+
+因此 $ p_i = \partial S / \partial q^i $，而 $ \partial S / \partial t = -H $。Hamilton–Jacobi 方程正是这两个关系的相容条件。
+
+## 2. Lagrange 子流形
+
+<Definition number="1" name="Lagrange 子流形">
+在 $ 2n $ 维辛流形 $ (M, \omega) $ 中，若 $ n $ 维子流形 $ L \subset M $ 满足 $ \omega|_L = 0 $，则称 $ L $ 为 Lagrange 子流形。
+</Definition>
+
+函数 $ S(q) $ 的微分图像
+
+$$
+ L_S = \left\{\left(q, p\right) \in T^*Q
+ \;\middle|\;
+ p_i = \frac{\partial S}{\partial q^i}\right\}
+$$
+
+恰好是 $ T^*Q $ 中的 Lagrange 子流形。于是，解 Hamilton–Jacobi 方程可以理解为寻找在哈密顿流下具有适当演化性质的 Lagrange 子流形。
+
+## 3. 从轨道到轨道族
+
+普通哈密顿方程给出初值确定的一条轨道，而一个完备积分 $ S(q, \alpha, t) $ 则编码由参数 $ \alpha $ 标记的轨道族。几何语言把“积分运动方程”重新解释为“构造适当的 Lagrange 叶状结构”。
+
+这一视角也解释了 Hamilton–Jacobi 理论为何自然连接几何光学、WKB 近似与半经典量子力学：它们都在研究相位函数所定义的 Lagrange 几何。

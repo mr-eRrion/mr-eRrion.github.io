@@ -1,0 +1,64 @@
+---
+title: 动量映射与 Noether 定理
+description: 对称性如何在辛流形上产生守恒量，以及 Lie 群作用为何是正确的组织语言。
+published: 2026-08-28
+tags: [geometry, mathematical-methods]
+series: geometric-mechanics
+seriesOrder: 3
+---
+
+import Theorem from '../../components/math/Theorem.astro';
+import Proof from '../../components/math/Proof.astro';
+
+Noether 定理常被表述为“连续对称性对应守恒量”。在辛几何中，这句话可以被精确化：对称群的无穷小生成元与哈密顿函数之间由动量映射连接。
+
+## 1. Lie 群作用
+
+设 Lie 群 $ G $ 作用在辛流形 $ (M, \omega) $ 上。Lie 代数元素 $ \xi \in \mathfrak{g} $ 诱导基本向量场
+
+$$
+ \xi_M(x)
+ = \left.\frac{\mathrm{d}}{\mathrm{d}t}\right|_{t = 0}
+ \exp(t\xi) \cdot x .
+$$
+
+如果群作用保持辛形式，那么 $ \mathcal{L}_{\xi_M}\omega = 0 $。局部地，$ \iota_{\xi_M}\omega $ 因而是闭一形式。
+
+## 2. 动量映射
+
+动量映射是映射 $ J: M \to \mathfrak{g}^* $，满足对任意 $ \xi \in \mathfrak{g} $，函数
+
+$$
+ J_\xi(x) = \langle J(x), \xi \rangle
+$$
+
+的哈密顿向量场正是 $ \xi_M $。换言之，
+
+$$
+ \iota_{\xi_M}\omega = \mathrm{d}J_\xi .
+$$
+
+<Theorem number="1" name="辛形式的 Noether 定理">
+若哈密顿量 $ H $ 在 $ G $ 的作用下不变，则对每个 $ \xi \in \mathfrak{g} $，$ J_\xi $ 都沿 $ H $ 的哈密顿流守恒。
+</Theorem>
+
+<Proof>
+由 $ G $ 不变性可得 $ \xi_M[H] = 0 $。另一方面，
+$$
+ \frac{\mathrm{d}}{\mathrm{d}t}J_\xi
+ = \{J_\xi, H\}
+ = \omega(\xi_M, X_H)
+ = \mathrm{d}H(\xi_M)
+ = 0 .
+$$
+</Proof>
+
+## 3. 旋转对称性
+
+三维空间中的旋转群 $ \mathrm{SO}(3) $ 作用在质点相空间上，其动量映射就是角动量
+
+$$
+ J(q, p) = q \times p .
+$$
+
+中心势只依赖 $ |q| $，因此具有旋转不变性，角动量随之守恒。熟悉的向量公式由此成为一般几何机制的一个具体坐标表达。

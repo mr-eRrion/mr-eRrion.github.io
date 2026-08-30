@@ -1,0 +1,69 @@
+---
+import '../styles/global.css';
+import { SITE } from '../config';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  title?: string;
+  description?: string;
+  article?: CollectionEntry<'posts'>;
+}
+
+const {
+  title = SITE.title,
+  description = SITE.description,
+  article
+} = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const socialImage = new URL(`${base}/og.png`, Astro.site);
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" type="image/png" href={`${base}/favicon.png`} />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {!article && <meta property="og:image" content={socialImage} />}
+    {!article && <meta property="og:image:width" content="1730" />}
+    {!article && <meta property="og:image:height" content="909" />}
+    {!article && <meta name="twitter:image" content={socialImage} />}
+    {article && <meta property="article:published_time" content={article.data.published.toISOString()} />}
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-mark" href={`${base}/`} aria-label="相空间札记首页">
+        <span class="mark-symbol">Φ</span>
+        <span>相空间札记</span>
+      </a>
+      <nav aria-label="主导航">
+        <a href={`${base}/posts/`}>文章</a>
+        <a href={`${base}/series/`}>专栏</a>
+        <a href={`${base}/archive/`}>归档</a>
+        <a href={`${base}/tags/`}>主题</a>
+        <a href={`${base}/about/`}>关于</a>
+        <a href={`${base}/search/`} aria-label="搜索">⌕</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+        <span>© {new Date().getFullYear()} {SITE.title}</span>
+      <span class="footer-motto">{SITE.motto}</span>
+    </footer>
+  </body>
+</html>

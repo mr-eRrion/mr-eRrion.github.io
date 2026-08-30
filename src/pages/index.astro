@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const featuredSeries = (await getCollection('series')).find((series) => series.data.featured);
+const seriesPosts = featuredSeries
+  ? (await getCollection('posts', ({ data }) => !data.draft && data.series?.id === featuredSeries.id))
+      .sort((a, b) => (a.data.seriesOrder ?? 0) - (b.data.seriesOrder ?? 0))
+  : [];
+---
+
+<BaseLayout>
+  <section class="hero page-shell">
+    <div class="hero-kicker">MATHEMATICAL PHYSICS · NOTES & ESSAYS</div>
+    <h1>在数学结构中，<br /><em>重新理解物理。</em></h1>
+    <p class="hero-intro">
+      这里记录关于几何、量子理论与统计物理的思考。每篇文章从定义出发，保留推导的脉络，也关心公式背后的物理图景。
+    </p>
+    <div class="hero-actions">
+      <a class="button primary" href={`${base}/posts/`}>开始阅读</a>
+      <a class="button quiet" href={`${base}/about/`}>关于本站 <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <section class="equation-band" aria-label="站点主题公式">
+    <div class="page-shell equation-inner">
+      <span class="equation-label">A guiding principle</span>
+      <div class="display-equation" aria-label="作用量变分等于零">
+        <span>δ</span><span class="script-s">S</span><span> = 0</span>
+      </div>
+      <p>物理定律往往不是一组孤立的方程，而是某个更深层结构的投影。</p>
+    </div>
+  </section>
+
+  {featuredSeries && (
+    <section class="page-shell home-series">
+      <div class="section-heading">
+        <div><span class="section-number">01</span><h2>正在连载</h2></div>
+        <a href={`${base}/series/`}>全部专栏 <span aria-hidden="true">→</span></a>
+      </div>
+      <a class="home-series-card" href={`${base}/series/${featuredSeries.id}/`}>
+        <div class="home-series-volume"><span>VOLUME</span><strong>{String(featuredSeries.data.volume).padStart(2, '0')}</strong></div>
+        <div class="home-series-copy"><span>{featuredSeries.data.subtitle}</span><h3>{featuredSeries.data.title}</h3><p>{featuredSeries.data.description}</p></div>
+        <div class="home-series-chapters"><span>{seriesPosts.length} CHAPTERS</span>{seriesPosts.slice(0, 3).map((post) => <small>{String(post.data.seriesOrder).padStart(2, '0')} · {post.data.title}</small>)}</div>
+        <div class="home-series-arrow">→</div>
+      </a>
+    </section>
+  )}
+
+  <section class="page-shell home-section">
+    <div class="section-heading">
+      <div>
+        <span class="section-number">02</span>
+        <h2>精选文章</h2>
+      </div>
+      <a href={`${base}/posts/`}>查看全部 <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="featured-grid">
+      <article class="featured-main">
+        <div class="article-meta"><span>几何力学</span><time datetime="2026-08-30">2026.08.30</time></div>
+        <h3><a href={`${base}/posts/symplectic-geometry/`}>辛几何：经典力学的自然语言</a></h3>
+        <p>从哈密顿方程出发，理解辛形式为何比坐标更接近经典动力学的本质。</p>
+        <div class="article-index">I</div>
+      </article>
+      <article class="featured-side">
+        <div class="article-meta"><span>量子理论</span><time datetime="2026-08-18">2026.08.18</time></div>
+        <h3><a href={`${base}/posts/path-integral/`}>路径积分中的经典极限</a></h3>
+        <p>驻相近似如何把量子振幅重新组织成经典轨道。</p>
+        <div class="article-index">II</div>
+      </article>
+      <article class="featured-side">
+        <div class="article-meta"><span>统计物理</span><time datetime="2026-08-05">2026.08.05</time></div>
+        <h3><a href={`${base}/posts/ising-criticality/`}>临界点附近，尺度意味着什么</a></h3>
+        <p>从关联长度到普适性，建立相变的几何直觉。</p>
+        <div class="article-index">III</div>
+      </article>
+    </div>
+  </section>
+
+  <section class="page-shell topic-section">
+    <div class="section-heading">
+      <div><span class="section-number">03</span><h2>探索主题</h2></div>
+    </div>
+    <div class="topic-list">
+      <a href={`${base}/tags/geometry/`}><span>01</span><strong>几何与拓扑</strong><small>Geometry & Topology</small><b>→</b></a>
+      <a href={`${base}/tags/quantum/`}><span>02</span><strong>量子理论</strong><small>Quantum Theory</small><b>→</b></a>
+      <a href={`${base}/tags/statistical-physics/`}><span>03</span><strong>统计物理</strong><small>Statistical Physics</small><b>→</b></a>
+      <a href={`${base}/tags/mathematical-methods/`}><span>04</span><strong>数学方法</strong><small>Mathematical Methods</small><b>→</b></a>
+    </div>
+  </section>
+</BaseLayout>

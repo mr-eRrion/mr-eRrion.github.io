@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TAG_LABELS } from '../../config';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
+  return tags.map((tag) => ({ params: { tag }, props: { posts: posts.filter((post) => post.data.tags.includes(tag)) } }));
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title={`${TAG_LABELS[tag!] ?? tag} · 相空间札记`}>
+  <section class="listing-shell compact-listing">
+    <header class="listing-header"><span class="eyebrow">TOPIC</span><h1>{TAG_LABELS[tag!] ?? tag}</h1><p>该主题下共有 {posts.length} 篇文章。</p></header>
+    <div class="post-list">
+      {posts.map((post, index) => (
+        <article>
+          <div class="post-list-index">{String(index + 1).padStart(2, '0')}</div>
+          <div><div class="article-meta"><time>{post.data.published.toISOString().slice(0, 10)}</time></div><h2><a href={`${base}/posts/${post.id}/`}>{post.data.title}</a></h2><p>{post.data.description}</p></div>
+          <a class="round-arrow" href={`${base}/posts/${post.id}/`}>→</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

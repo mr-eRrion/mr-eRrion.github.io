@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout title="页面未找到 · 相空间札记">
+  <section class="not-found"><div class="error-symbol">∅</div><span>404 · EMPTY SET</span><h1>这个页面不存在。</h1><p>它可能被移动了，或者从来没有进入我们的定义域。</p><a class="button primary" href={`${base}/`}>返回首页</a></section>
+</BaseLayout>

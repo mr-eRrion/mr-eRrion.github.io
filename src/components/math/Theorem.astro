@@ -1,0 +1,15 @@
+---
+interface Props {
+  name?: string;
+  number?: string;
+}
+
+const { name, number } = Astro.props;
+---
+
+<aside class="math-environment theorem">
+  <div class="environment-title">
+    <strong>定理{number ? ` ${number}` : ''}</strong>{name && <span>（{name}）</span>}
+  </div>
+  <slot />
+</aside>

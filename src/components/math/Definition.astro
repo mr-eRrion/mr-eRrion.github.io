@@ -1,0 +1,15 @@
+---
+interface Props {
+  name?: string;
+  number?: string;
+}
+
+const { name, number } = Astro.props;
+---
+
+<aside class="math-environment definition">
+  <div class="environment-title">
+    <strong>定义{number ? ` ${number}` : ''}</strong>{name && <span>（{name}）</span>}
+  </div>
+  <slot />
+</aside>

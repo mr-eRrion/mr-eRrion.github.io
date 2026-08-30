@@ -1,0 +1,32 @@
+---
+title: 路径积分中的经典极限
+description: 驻相近似如何把量子振幅重新组织成经典轨道。
+published: 2026-08-18
+tags: [quantum, mathematical-methods]
+featured: true
+---
+
+量子传播子可以形式地写成对所有路径的求和：
+
+$$
+ K(q_f, t_f; q_i, t_i)
+ = \int \mathcal{D}q \, \exp\!\left(\frac{\mathrm{i}}{\hbar} S[q]\right).
+$$
+
+当 $ \hbar \to 0 $ 时，相位快速振荡，相邻路径的贡献大多彼此抵消；只有作用量的一阶变分消失时，相位才在局部保持稳定。
+
+## 驻相条件
+
+令 $ q = q_{\mathrm{cl}} + \eta $，且端点处 $ \eta = 0 $。作用量展开为
+
+$$
+ S[q] = S[q_{\mathrm{cl}}]
+ + \delta S[q_{\mathrm{cl}}; \eta]
+ + \frac{1}{2} \delta^2 S[q_{\mathrm{cl}}; \eta] + \cdots .
+$$
+
+经典轨道由 $ \delta S = 0 $ 选出。于是经典极限并不是“只保留一条路径”，而是量子振幅在驻相点附近发生相干叠加。
+
+## 半经典结构
+
+二阶涨落决定 Van Vleck 行列式，并给传播子带来经典流的稳定性信息。这说明半经典近似并非简单删除量子效应，而是把它们组织成围绕经典轨道的涨落层级。

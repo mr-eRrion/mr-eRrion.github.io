@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const seriesList = (await getCollection('series')).sort((a, b) => a.data.volume - b.data.volume);
+const posts = await getCollection('posts', ({ data }) => !data.draft);
+const statusLabels = { ongoing: '连载中', completed: '已完结', planned: '筹备中' };
+---
+
+<BaseLayout title="专栏 · 相空间札记" description="按专著与课程结构组织的数学物理系列文章。">
+  <section class="listing-shell series-index" data-pagefind-body>
+    <header class="listing-header">
+      <span class="eyebrow">SERIES · MONOGRAPHS</span>
+      <h1>专栏</h1>
+      <p>把文章组织成卷册，沿着一条完整的思想路径阅读。</p>
+    </header>
+    <div class="series-grid">
+      {seriesList.map((series) => {
+        const count = posts.filter((post) => post.data.series?.id === series.id).length;
+        return (
+          <a class="series-card" href={`${base}/series/${series.id}/`}>
+            <div class="series-card-top"><span>VOLUME {String(series.data.volume).padStart(2, '0')}</span><b>{statusLabels[series.data.status]}</b></div>
+            <div class="series-card-symbol">Φ<sup>{series.data.volume}</sup></div>
+            <div class="series-card-copy">
+              <small>{series.data.subtitle}</small>
+              <h2>{series.data.title}</h2>
+              <p>{series.data.description}</p>
+            </div>
+            <div class="series-card-footer"><span>{count} 个章节</span><strong>打开专栏 →</strong></div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { TAG_LABELS } from '../../config';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort((a, b) => b.data.published.valueOf() - a.data.published.valueOf());
+---
+
+<BaseLayout title="文章 · 相空间札记" description="数学物理、几何、量子理论与统计物理文章。">
+  <section class="listing-shell">
+    <header class="listing-header">
+      <span class="eyebrow">ARTICLES</span>
+      <h1>文章</h1>
+      <p>从定义与结构出发，保留推导的完整脉络。</p>
+    </header>
+    <div class="post-list" data-pagefind-body>
+      {posts.map((post, index) => (
+        <article>
+          <div class="post-list-index">{String(index + 1).padStart(2, '0')}</div>
+          <div>
+            <div class="article-meta">
+              <time datetime={post.data.published.toISOString()}>{post.data.published.toISOString().slice(0, 10).replaceAll('-', '.')}</time>
+              <span>{post.data.tags.map((tag) => TAG_LABELS[tag] ?? tag).join(' · ')}</span>
+            </div>
+            <h2><a href={`${base}/posts/${post.id}/`}>{post.data.title}</a></h2>
+            <p>{post.data.description}</p>
+          </div>
+          <a class="round-arrow" href={`${base}/posts/${post.id}/`} aria-label={`阅读${post.data.title}`}>→</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
