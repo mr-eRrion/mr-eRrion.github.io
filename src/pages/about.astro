@@ -1,15 +1,20 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<BaseLayout title="关于 · 相空间札记" description="关于相空间札记及其写作原则。">
+<BaseLayout title="关于 · 相空间札记" description="关于相空间札记。">
   <section class="about-shell" data-pagefind-body>
-    <header><span class="eyebrow">ABOUT</span><h1>写给愿意停下来<br />看清结构的人。</h1></header>
+    <header><span class="eyebrow">ABOUT</span><h1>写下正在理解的<br />数学与物理。</h1></header>
     <div class="about-grid">
-      <div class="about-aside"><span>Φ</span><p>PHASE SPACE<br />NOTES</p></div>
+      <div class="about-aside">
+        <img src={`${base}/chara.png`} alt="eRrion 的头像" width="230" height="230" />
+        <p>eRrion<br />PHASE SPACE NOTES</p>
+      </div>
       <div class="about-copy">
-        <p class="lead">相空间札记是一个关于数学物理的个人写作项目。</p>
-        <p>这里关注的不是公式的堆叠，而是公式之间为何以这样的方式连接：一个定义解决了什么困难，一项假设排除了哪些可能，一种几何结构如何约束物理演化。</p>
+        <p class="lead">你好，我是 eRrion。这里是我整理数学与物理学习过程的长期笔记。</p>
+        <p>我主要关注几何、经典力学、量子理论与统计物理，也会记录证明、计算方法以及阅读过程中逐渐形成的问题。这里的数学与物理各自拥有独立的位置：有时研究数学结构本身，有时讨论具体的物理机制，也会在二者自然相遇时追踪它们之间的联系。</p>
+        <p>我希望这些文章不只是结论的陈列，而能保留理解发生的路径：一个定义解决了什么困难，一项假设排除了哪些可能，一种结构又如何改变我们看待问题的方式。你也可以在 <a href="https://github.com/mr-eRrion" rel="me external">GitHub</a> 上找到我。</p>
         <h2>写作原则</h2>
         <ol>
           <li><strong>从定义出发。</strong> 尽量明确对象、假设与符号约定。</li>

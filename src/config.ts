@@ -1,7 +1,7 @@
 export const SITE = {
   title: '相空间札记',
-  description: '关于数学物理、几何与量子理论的个人札记。',
-  author: 'Errion',
+  description: '记录数学、物理以及二者交汇处的个人札记。',
+  author: 'eRrion',
   motto: '从结构中理解物理'
 } as const;
 

@@ -1,6 +1,6 @@
 # 相空间札记
 
-一个面向数学物理写作的 Astro 静态博客。支持 Markdown/MDX、KaTeX 数学公式、定理与证明环境、专栏卷册、文章目录、标签、归档、RSS、静态全文搜索和 GitHub Pages 自动部署。
+一个用于记录数学与物理内容的 Astro 静态博客。支持 Markdown/MDX、KaTeX 数学公式、定理与证明环境、专栏卷册、文章目录、标签、归档、RSS、静态全文搜索和 GitHub Pages 自动部署。
 
 ## 本地使用
 

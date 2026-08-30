@@ -3,9 +3,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const pagefindBase = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
 ---
 
-<BaseLayout title="搜索 · 相空间札记" description="搜索站内数学物理文章。">
+<BaseLayout title="搜索 · 相空间札记" description="搜索站内数学与物理文章。">
   <section class="listing-shell compact-listing">
-    <header class="listing-header"><span class="eyebrow">SEARCH</span><h1>搜索</h1><p>检索文章标题、正文与数学主题。</p></header>
+    <header class="listing-header"><span class="eyebrow">SEARCH</span><h1>搜索</h1><p>检索文章标题、正文以及数学与物理主题。</p></header>
     <div class="search-panel">
       <pagefind-config base-url={pagefindBase}></pagefind-config>
       <pagefind-input placeholder="输入关键词……"></pagefind-input>
