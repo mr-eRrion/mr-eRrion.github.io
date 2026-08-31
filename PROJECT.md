@@ -27,7 +27,7 @@
 - 技术栈为 Astro 7、TypeScript、Markdown/MDX、KaTeX 和 Pagefind。
 - 输出模式为纯静态站点，不依赖服务端运行时或数据库。
 - 文章源文件位于 `src/content/posts/`，专栏元数据位于 `src/content/series/`。
-- 文章可以通过 `draft` 隐藏；内容 schema 提供 `featured` 标记；专栏归属使用 `series` 和正整数 `seriesOrder`。
+- 文章可以通过 `draft` 隐藏；`featured` 标记用于在首页置顶，首页最多展示 3 篇置顶文章；专栏归属使用 `series` 和正整数 `seriesOrder`。
 - 全站标题、简介、作者与标签中文名集中在 `src/config.ts`。
 - URL 和静态资源必须基于 Astro 的 `BASE_URL` 构造，以支持 GitHub Pages 子路径部署。
 - `dist/`、`.astro/` 和 `node_modules/` 是生成内容，不进入版本控制。
@@ -149,7 +149,6 @@ GitHub 仓库需在 Pages 设置中选择 GitHub Actions 作为发布来源。
 
 ## 待决定事项
 
-- 首页“精选文章”目前由页面中的固定文案与链接呈现，尚未完全由内容集合的 `featured` 字段生成；后续是否统一为数据驱动需要单独决定。
 - 文章级 Open Graph 图片尚未建立独立字段与生成流程。
 - 当前没有自动化断链、可访问性或浏览器端回归测试；内容和界面增长后可再评估是否引入。
 - 尚未规定草稿预览、文章发布前审校清单和长期备份策略。
