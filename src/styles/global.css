@@ -319,6 +319,8 @@ nav a:hover { color: var(--blue); }
   .post-grid { display: block; padding-top: 48px; }
   .toc, .margin-note { display: none; }
   .prose { font-size: 16.5px; line-height: 1.9; }
+  .prose table { display: block; max-width: 100%; overflow-x: auto; }
+  .prose th, .prose td { min-width: 9rem; }
   .prose h2::before { width: auto; margin-right: 8px; margin-left: 0; }
   .about-grid { grid-template-columns: 1fr; gap: 38px; }
   .about-aside { width: 150px; }

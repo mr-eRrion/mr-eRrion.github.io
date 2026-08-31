@@ -157,4 +157,4 @@ GitHub 仓库需在 Pages 设置中选择 GitHub Actions 作为发布来源。
 
 - 阶段：可运行的初始版本，处于内容扩充与站点细节完善期。
 - 已有能力：Markdown/MDX、KaTeX、数学环境组件、文章目录、专栏章节、标签、归档、RSS、Pagefind 搜索、sitemap、响应式布局和 GitHub Pages 自动部署。
-- 已有内容：5 篇文章、1 个连载专栏。
+- 已有内容：6 篇文章、1 个连载专栏；其中包含一篇讨论 Codex Skills 与凝聚态物理科研工作流的 AI for Research 文章。

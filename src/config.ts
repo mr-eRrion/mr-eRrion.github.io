@@ -6,6 +6,7 @@ export const SITE = {
 } as const;
 
 export const TAG_LABELS: Record<string, string> = {
+  'ai-for-research': 'AI for Research',
   geometry: '几何与拓扑',
   quantum: '量子理论',
   'statistical-physics': '统计物理',
