@@ -7,9 +7,9 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort((a,
 const years = Map.groupBy(posts, (post) => post.data.published.getFullYear());
 ---
 
-<BaseLayout title="归档 · 相空间札记" description="相空间札记的文章时间归档。">
+<BaseLayout title="文章列表 · eRrion 的小屋">
   <section class="listing-shell compact-listing">
-    <header class="listing-header"><span class="eyebrow">ARCHIVE</span><h1>归档</h1><p>{posts.length} 篇文章，按时间倒序排列。</p></header>
+    <header class="listing-header"><span class="eyebrow">ARCHIVE</span><h1>共</h1><p>{posts.length} 篇文章，按时间倒序排列。</p></header>
     <div class="archive-list">
       {[...years.entries()].map(([year, yearPosts]) => (
         <section>

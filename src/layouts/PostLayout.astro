@@ -22,7 +22,7 @@ const previousPost = seriesIndex > 0 ? seriesPosts[seriesIndex - 1] : undefined;
 const nextPost = seriesIndex >= 0 ? seriesPosts[seriesIndex + 1] : undefined;
 ---
 
-<BaseLayout title={`${post.data.title} · 相空间札记`} description={post.data.description} article={post}>
+<BaseLayout title={`${post.data.title} · eRrion 的小屋`} description={post.data.description} article={post}>
   <article class="post-shell">
     <header class="post-header">
       <a class="back-link" href={`${base}/posts/`}>← 返回文章</a>
@@ -53,10 +53,6 @@ const nextPost = seriesIndex >= 0 ? seriesPosts[seriesIndex + 1] : undefined;
       <div class="prose" data-pagefind-body>
         <slot />
       </div>
-      <aside class="margin-note" aria-hidden="true">
-        <span>Φ</span>
-        <p>结构先于坐标，几何先于计算。</p>
-      </aside>
     </div>
     {series && (
       <nav class="series-navigation" aria-label="专栏章节导航">

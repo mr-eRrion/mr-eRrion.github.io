@@ -7,12 +7,11 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort((a, b) => b.data.published.valueOf() - a.data.published.valueOf());
 ---
 
-<BaseLayout title="文章 · 相空间札记" description="关于数学、物理以及二者交汇处的文章。">
+<BaseLayout title="文章 · eRrion 的小屋" description="有哪些优秀的物理数学同人作品？">
   <section class="listing-shell">
     <header class="listing-header">
       <span class="eyebrow">ARTICLES</span>
       <h1>文章</h1>
-      <p>从定义与结构出发，保留推导的完整脉络。</p>
     </header>
     <div class="post-list" data-pagefind-body>
       {posts.map((post, index) => (

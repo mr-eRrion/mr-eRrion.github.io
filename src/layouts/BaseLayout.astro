@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE } from '../config';
+import { SITE, TAG_LABELS } from '../config';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -18,13 +18,25 @@ const {
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const socialImage = new URL(`${base}/og-v2.png`, Astro.site);
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isActive = (path: string) => path === '/'
+  ? currentPath === (base || '/')
+  : currentPath === `${base}${path}` || currentPath.startsWith(`${base}${path}/`);
+const navigation = [
+  { path: '/', label: '首页', number: '01' },
+  { path: '/posts', label: '全部文章', number: '02' },
+  { path: '/series', label: '专栏', number: '03' },
+  { path: '/archive', label: '归档', number: '04' },
+  { path: '/tags', label: '主题索引', number: '05' },
+  { path: '/about', label: '关于', number: '06' }
+];
 ---
 
 <!doctype html>
 <html lang="zh-CN">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
@@ -42,28 +54,77 @@ const socialImage = new URL(`${base}/og-v2.png`, Astro.site);
     {!article && <meta name="twitter:image" content={socialImage} />}
     {article && <meta property="article:published_time" content={article.data.published.toISOString()} />}
     <title>{title}</title>
+    <script is:inline>
+      try {
+        const theme = localStorage.getItem('blog-theme');
+        if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+      } catch {}
+    </script>
   </head>
   <body>
-    <header class="site-header">
-      <a class="site-mark" href={`${base}/`} aria-label="相空间札记首页">
-        <span class="mark-symbol">Φ</span>
-        <span>相空间札记</span>
+    <a class="skip-link" href="#main-content">跳到正文</a>
+    <div class="site-frame">
+    <header class="site-sidebar">
+      <a class="site-mark" href={`${base}/`} aria-label="首页">
+        <span class="mark-symbol" aria-hidden="true">Φ</span>
+        <span>eRrion 的小屋</span>
       </a>
-      <nav aria-label="主导航">
-        <a href={`${base}/posts/`}>文章</a>
-        <a href={`${base}/series/`}>专栏</a>
-        <a href={`${base}/archive/`}>归档</a>
-        <a href={`${base}/tags/`}>主题</a>
-        <a href={`${base}/about/`}>关于</a>
-        <a href={`${base}/search/`} aria-label="搜索">⌕</a>
-      </nav>
+      <a class="sidebar-search" href={`${base}/search/`} aria-label="搜索札记"><span>搜索札记</span><span aria-hidden="true">⌕</span></a>
+      <details class="sidebar-menu" open>
+        <summary>浏览与主题 <span aria-hidden="true">＋</span></summary>
+        <div class="sidebar-group">
+          <p class="sidebar-label">浏览 <i>Explore</i></p>
+          <nav class="primary-nav" aria-label="主导航">
+            {navigation.map(({ path, label, number }) => (
+              <a href={`${base}${path === '/' ? '/' : `${path}/`}`} aria-current={isActive(path) ? 'page' : undefined}>
+                <span>{label}</span><small>{number}</small>
+              </a>
+            ))}
+          </nav>
+        </div>
+        <div class="sidebar-group">
+          <p class="sidebar-label">主题 <i>Topics</i></p>
+          <nav class="topic-nav" aria-label="主题导航">
+            {Object.entries(TAG_LABELS).map(([tag, label]) => <a href={`${base}/tags/${tag}/`} aria-current={isActive(`/tags/${tag}`) ? 'page' : undefined}>{label}</a>)}
+          </nav>
+        </div>
+        <div class="sidebar-note"><span>札记 / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>RSS 订阅 ↗</a></div>
+      </details>
+      <div class="theme-switch" role="group" aria-label="外观主题">
+        <button type="button" data-theme-choice="light" aria-label="浅色主题" aria-pressed="false">☼ <span>浅色</span></button>
+        <button type="button" data-theme-choice="dark" aria-label="深色主题" aria-pressed="false">☾ <span>深色</span></button>
+        <button type="button" data-theme-choice="system" aria-label="跟随系统主题" aria-pressed="true">◐ <span>系统</span></button>
+      </div>
     </header>
-    <main>
+    <div class="site-content">
+    <div class="edition-stripe" aria-hidden="true"></div>
+    <main id="main-content" tabindex="-1">
       <slot />
     </main>
     <footer class="site-footer">
         <span>© {new Date().getFullYear()} {SITE.title}</span>
       <span class="footer-motto">{SITE.motto}</span>
     </footer>
+    </div>
+    </div>
+    <script>
+      const menu = document.querySelector<HTMLDetailsElement>('.sidebar-menu');
+      const narrowScreen = window.matchMedia('(max-width: 760px)');
+      const syncMenu = () => { if (menu) menu.open = !narrowScreen.matches; };
+      syncMenu();
+      narrowScreen.addEventListener('change', syncMenu);
+      const themeButtons = document.querySelectorAll<HTMLButtonElement>('[data-theme-choice]');
+      const syncThemeButtons = () => themeButtons.forEach((button) => {
+        button.setAttribute('aria-pressed', String(button.dataset.themeChoice === (document.documentElement.dataset.theme || 'system')));
+      });
+      syncThemeButtons();
+      themeButtons.forEach((button) => button.addEventListener('click', () => {
+        const theme = button.dataset.themeChoice!;
+        if (theme === 'system') delete document.documentElement.dataset.theme;
+        else document.documentElement.dataset.theme = theme;
+        try { localStorage.setItem('blog-theme', theme); } catch {}
+        syncThemeButtons();
+      }));
+    </script>
   </body>
 </html>

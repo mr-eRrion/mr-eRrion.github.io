@@ -8,12 +8,11 @@ const posts = await getCollection('posts', ({ data }) => !data.draft);
 const statusLabels = { ongoing: '连载中', completed: '已完结', planned: '筹备中' };
 ---
 
-<BaseLayout title="专栏 · 相空间札记" description="按专著与课程结构组织的数学与物理系列文章。">
+<BaseLayout title="专栏 · eRrion 的小屋" description="有组织的系列文章">
   <section class="listing-shell series-index" data-pagefind-body>
     <header class="listing-header">
       <span class="eyebrow">SERIES · MONOGRAPHS</span>
       <h1>专栏</h1>
-      <p>把文章组织成卷册，沿着一条完整的思想路径阅读。</p>
     </header>
     <div class="series-grid">
       {seriesList.map((series) => {

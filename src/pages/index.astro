@@ -8,29 +8,29 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft)).sort(
   (a, b) => b.data.published.valueOf() - a.data.published.valueOf()
 );
 const pinnedPosts = posts.filter(({ data }) => data.featured).slice(0, 3);
-const timelinePosts = posts.filter(({ data }) => !data.featured);
+const pinnedIds = new Set(pinnedPosts.map((post) => post.id));
+const timelinePosts = posts.filter((post) => !pinnedIds.has(post.id));
 const formatDate = (date: Date) => date.toISOString().slice(0, 10).replaceAll('-', '.');
 ---
 
 <BaseLayout>
   <header class="home-intro page-shell">
-    <span class="eyebrow">MATHEMATICS · PHYSICS · NOTES</span>
-    <h1>相空间札记</h1>
-    <p>记录数学、物理以及二者交汇处的问题。</p>
+    <div class="home-breadcrumb"><span aria-hidden="true">/</span><span>首页</span></div>
+    <p>今天要从哪里开始呢？</p>
   </header>
 
-  <main class="home-feed page-shell" data-pagefind-body>
+  <div class="home-feed page-shell" data-pagefind-body>
     {pinnedPosts.length > 0 && (
       <section class="pinned-section" aria-labelledby="pinned-heading">
         <div class="home-section-heading">
           <h2 id="pinned-heading">置顶</h2>
-          <span>{String(pinnedPosts.length).padStart(2, '0')}</span>
+          <span>PINNED / {String(pinnedPosts.length).padStart(2, '0')}</span>
         </div>
         <div class="pinned-posts">
           {pinnedPosts.map((post) => (
             <a class="pinned-post" href={`${base}/posts/${post.id}/`}>
               <div class="pinned-post-meta">
-                <span>PINNED</span>
+                <span>置顶文章</span>
                 <time datetime={post.data.published.toISOString()}>{formatDate(post.data.published)}</time>
               </div>
               <h3>{post.data.title}</h3>
@@ -45,7 +45,7 @@ const formatDate = (date: Date) => date.toISOString().slice(0, 10).replaceAll('-
     <section class="timeline-section" aria-labelledby="timeline-heading">
       <div class="home-section-heading">
         <h2 id="timeline-heading">最新文章</h2>
-        <a href={`${base}/archive/`}>归档 <span aria-hidden="true">→</span></a>
+        <a href={`${base}/archive/`}>列表 <span aria-hidden="true">→</span></a>
       </div>
       <div class="home-timeline">
         {timelinePosts.map((post) => (
@@ -63,5 +63,5 @@ const formatDate = (date: Date) => date.toISOString().slice(0, 10).replaceAll('-
         ))}
       </div>
     </section>
-  </main>
+  </div>
 </BaseLayout>

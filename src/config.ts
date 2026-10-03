@@ -1,8 +1,8 @@
 export const SITE = {
-  title: '相空间札记',
-  description: '记录数学、物理以及二者交汇处的个人札记。',
+  title: 'eRrion 的小屋',
+  description: '这个人很神秘，什么都留下了',
   author: 'eRrion',
-  motto: '从结构中理解物理'
+  motto: '行胜于言，勤能补拙'
 } as const;
 
 export const TAG_LABELS: Record<string, string> = {
