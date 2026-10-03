@@ -1,30 +1,33 @@
 ---
+import { i18n, routeLocale, localeBase, localeParam, contentSlug } from '../../../i18n';
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
   const seriesList = await getCollection('series');
   const posts = await getCollection('posts', ({ data }) => !data.draft);
   return seriesList.map((series) => ({
-    params: { slug: series.id },
+    params: { lang: localeParam(series.data.lang), slug: contentSlug(series.id) },
     props: {
       series,
       posts: posts
-        .filter((post) => post.data.series?.id === series.id)
+        .filter((post) => post.data.lang === series.data.lang && post.data.series?.id === series.id)
         .sort((a, b) => (a.data.seriesOrder ?? 0) - (b.data.seriesOrder ?? 0))
     }
   }));
 }
 
 const { series, posts } = Astro.props;
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const statusLabels = { ongoing: '连载中', completed: '已完结', planned: '筹备中' };
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+const base = localeBase(lang);
+const statusLabels = t;
 ---
 
-<BaseLayout title={`${series.data.title} · eRrion的小屋`} description={series.data.description}>
+<BaseLayout title={`${series.data.title} · ${site.title}`} description={series.data.description}>
   <article class="series-detail" data-pagefind-body>
     <header class="series-cover">
-      <div class="series-cover-meta"><span>PHASE SPACE NOTES</span><span>VOLUME {String(series.data.volume).padStart(2, '0')}</span></div>
+      <div class="series-cover-meta"><span>{t.phaseNotes.toUpperCase()}</span><span>{t.volume.toUpperCase()} {String(series.data.volume).padStart(2, '0')}</span></div>
       <div class="series-cover-main">
         <div class="series-cover-copy">
           <span class="series-status">{statusLabels[series.data.status]}</span>
@@ -33,16 +36,16 @@ const statusLabels = { ongoing: '连载中', completed: '已完结', planned: '�
         </div>
         <div class="series-cover-symbol" aria-hidden="true">Φ<sup>{series.data.volume}</sup></div>
       </div>
-      <div class="series-cover-footer"><p>{series.data.description}</p><span>{posts.length} CHAPTERS</span></div>
+      <div class="series-cover-footer"><p>{series.data.description}</p><span>{t.chapterCount(posts.length)}</span></div>
     </header>
 
     <section class="series-toc-section">
-      <div class="series-toc-heading"><span class="eyebrow">CONTENTS</span><h2>目录</h2></div>
+      <div class="series-toc-heading"><span class="eyebrow">{t.contents.toUpperCase()}</span><h2>{t.contents}</h2></div>
       <ol class="series-chapters">
         {posts.map((post, index) => (
           <li>
-            <a href={`${base}/posts/${post.id}/`}>
-              <div class="chapter-number"><span>CHAPTER</span><strong>{String(post.data.seriesOrder ?? index + 1).padStart(2, '0')}</strong></div>
+            <a href={`${base}/posts/${contentSlug(post.id)}/`}>
+              <div class="chapter-number"><span>{t.chapter.toUpperCase()}</span><strong>{String(post.data.seriesOrder ?? index + 1).padStart(2, '0')}</strong></div>
               <div class="chapter-copy"><h3>{post.data.title}</h3><p>{post.data.description}</p></div>
               <time datetime={post.data.published.toISOString()}>{post.data.published.toISOString().slice(0, 10).replaceAll('-', '.')}</time>
               <b class="chapter-arrow">→</b>

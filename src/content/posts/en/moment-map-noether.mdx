@@ -1,0 +1,65 @@
+---
+lang: en
+title: Momentum Maps and Noether’s Theorem
+description: How symmetries generate conserved quantities on symplectic manifolds, and why Lie group actions provide the right framework.
+published: 2026-08-28
+tags: [geometry, mathematical-methods]
+series: en/geometric-mechanics
+seriesOrder: 3
+---
+
+import Theorem from '../../../components/math/Theorem.astro';
+import Proof from '../../../components/math/Proof.astro';
+
+Noether’s theorem is often stated as “continuous symmetries correspond to conserved quantities.” Symplectic geometry makes this statement precise: a momentum map connects the infinitesimal generators of a symmetry group to Hamiltonian functions.
+
+## 1. Lie Group Actions
+
+Let a Lie group $ G $ act on a symplectic manifold $ (M, \omega) $. An element $ \xi \in \mathfrak{g} $ of its Lie algebra induces the fundamental vector field
+
+$$
+ \xi_M(x)
+ = \left.\frac{\mathrm{d}}{\mathrm{d}t}\right|_{t = 0}
+ \exp(t\xi) \cdot x .
+$$
+
+If the group action preserves the symplectic form, then $ \mathcal{L}_{\xi_M}\omega = 0 $. Locally, $ \iota_{\xi_M}\omega $ is therefore a closed one-form.
+
+## 2. Momentum Maps
+
+A momentum map is a map $ J: M \to \mathfrak{g}^* $ such that, for every $ \xi \in \mathfrak{g} $, the function
+
+$$
+ J_\xi(x) = \langle J(x), \xi \rangle
+$$
+
+has $ \xi_M $ as its Hamiltonian vector field. In other words,
+
+$$
+ \iota_{\xi_M}\omega = \mathrm{d}J_\xi .
+$$
+
+<Theorem number="1" name="Noether’s theorem in symplectic form">
+If the Hamiltonian $ H $ is invariant under the action of $ G $, then, for every $ \xi \in \mathfrak{g} $, $ J_\xi $ is conserved along the Hamiltonian flow of $ H $.
+</Theorem>
+
+<Proof>
+The $ G $-invariance of $ H $ gives $ \xi_M[H] = 0 $. On the other hand,
+$$
+ \frac{\mathrm{d}}{\mathrm{d}t}J_\xi
+ = \{J_\xi, H\}
+ = \omega(\xi_M, X_H)
+ = \mathrm{d}H(\xi_M)
+ = 0 .
+$$
+</Proof>
+
+## 3. Rotational Symmetry
+
+The rotation group $ \mathrm{SO}(3) $ in three dimensions acts on a particle’s phase space, and its momentum map is the angular momentum
+
+$$
+ J(q, p) = q \times p .
+$$
+
+A central potential depends only on $ |q| $, so it is rotationally invariant and angular momentum is conserved. The familiar vector formula is thus a concrete coordinate expression of a general geometric mechanism.

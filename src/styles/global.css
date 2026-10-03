@@ -48,6 +48,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 .sidebar-search { display: flex; align-items: center; justify-content: space-between; margin: 0 16px 22px; padding: 8px 10px; border: 1px solid var(--rule); color: var(--ink-soft); font-size: 12px; }
 .sidebar-search > :last-child { font: 20px/1 var(--sans); }
 .sidebar-search:hover { border-color: var(--blue); color: var(--blue); }
+.language-switch { display: flex; gap: 4px; margin: -8px 16px 20px; padding: 3px; border: 1px solid var(--rule); }
+.language-switch a { flex: 1; padding: 7px 10px; text-align: center; color: var(--ink-soft); font-size: 12px; }
+.language-switch a:hover, .language-switch a[aria-current="page"] { color: var(--blue); background: var(--paper-deep); }
+html[lang="en"] .site-mark { font-size: 19px; white-space: normal; }
 .sidebar-menu { flex: 1; overflow-y: auto; padding: 0 16px 20px; }
 .sidebar-menu > summary { display: none; }
 .sidebar-group + .sidebar-group { margin-top: 28px; }
@@ -276,6 +280,7 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
   .mark-symbol { font-size: 32px; }
   .sidebar-search { align-self: center; margin: 0 16px 0 0; padding: 8px; }
   .sidebar-search > :first-child { display: none; }
+  .language-switch { grid-column: 1 / -1; margin: 0 16px 12px; }
   .sidebar-menu { grid-column: 1 / -1; padding: 0 16px; border-top: 1px solid var(--rule); overflow: visible; }
   .sidebar-menu > summary { display: flex; align-items: center; justify-content: space-between; padding: 12px 0; color: var(--ink-soft); font-size: 11px; cursor: pointer; list-style: none; }
   .sidebar-menu > summary::-webkit-details-marker { display: none; }

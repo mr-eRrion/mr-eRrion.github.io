@@ -1,0 +1,53 @@
+---
+lang: en
+title: The Hamilton–Jacobi Equation and Lagrangian Submanifolds
+description: View the action as a generating function and understand how families of classical trajectories become geometric objects in phase space.
+published: 2026-08-29
+tags: [geometry, mathematical-methods]
+series: en/geometric-mechanics
+seriesOrder: 2
+---
+
+import Definition from '../../../components/math/Definition.astro';
+
+In Hamiltonian mechanics, a trajectory is a curve in phase space. In Hamilton–Jacobi theory, we seek to describe an entire family of trajectories at once. The key is to find a function $ S(q, t) $ satisfying
+
+$$
+ \frac{\partial S}{\partial t}
+ + H\!\left(q, \frac{\partial S}{\partial q}, t\right)
+ = 0 .
+$$
+
+This equation turns the dynamical problem into a first-order nonlinear partial differential equation, but its deeper meaning comes from symplectic geometry.
+
+## 1. The Action as a Generating Function
+
+Let $ S(q, t) $ be the action evaluated along a classical trajectory. When the endpoint varies, the differential of the action is
+
+$$
+ \mathrm{d} S = p_i \, \mathrm{d} q^i - H \, \mathrm{d} t .
+$$
+
+Thus $ p_i = \partial S / \partial q^i $, while $ \partial S / \partial t = -H $. The Hamilton–Jacobi equation is precisely the compatibility condition for these two relations.
+
+## 2. Lagrangian Submanifolds
+
+<Definition number="1" name="Lagrangian submanifold">
+In a $ 2n $-dimensional symplectic manifold $ (M, \omega) $, an $ n $-dimensional submanifold $ L \subset M $ is called Lagrangian if $ \omega|_L = 0 $.
+</Definition>
+
+The graph of the differential of a function $ S(q) $,
+
+$$
+ L_S = \left\{\left(q, p\right) \in T^*Q
+ \;\middle|\;
+ p_i = \frac{\partial S}{\partial q^i}\right\},
+$$
+
+is a Lagrangian submanifold of $ T^*Q $. Solving the Hamilton–Jacobi equation can therefore be understood as finding Lagrangian submanifolds with the appropriate evolution under the Hamiltonian flow.
+
+## 3. From Trajectories to Families of Trajectories
+
+The usual Hamilton equations determine a single trajectory from initial data, whereas a complete integral $ S(q, \alpha, t) $ encodes a family of trajectories labeled by parameters $ \alpha $. Geometric language reinterprets “integrating the equations of motion” as “constructing an appropriate Lagrangian foliation.”
+
+This perspective also explains why Hamilton–Jacobi theory connects naturally to geometrical optics, the WKB approximation, and semiclassical quantum mechanics: all of them study the Lagrangian geometry defined by a phase function.

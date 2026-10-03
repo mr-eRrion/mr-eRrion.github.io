@@ -2,7 +2,7 @@
 
 ## 项目概览
 
-“eRrion 的小屋”是 eRrion 的中文个人静态博客，用于长期整理数学、物理以及二者交汇处的学习笔记与专题文章。站点强调从定义、假设和结构出发，保留推导与理解形成的过程，而不仅陈列结论。
+“eRrion 的小屋”是 eRrion 的中英双语个人静态博客，用于长期整理数学、物理以及二者交汇处的学习笔记与专题文章。站点强调从定义、假设和结构出发，保留推导与理解形成的过程，而不仅陈列结论。
 
 本文件是项目级长期记忆，记录站点定位、实现约束、内容模型、维护流程和验收标准。面向读者的简介与快速使用说明仍以 `README.md` 为准。
 
@@ -28,13 +28,14 @@
 - 输出模式为纯静态站点，不依赖服务端运行时或数据库。
 - 文章源文件位于 `src/content/posts/`，专栏元数据位于 `src/content/series/`。
 - 文章可以通过 `draft` 隐藏；`featured` 标记用于在首页置顶，首页最多展示 3 篇置顶文章；专栏归属使用 `series` 和正整数 `seriesOrder`。
-- 全站标题、简介、作者与标签中文名集中在 `src/config.ts`。
+- 中英文站点标题、简介、作者与标签显示名集中在 `src/config.ts`；UI 翻译和语言路径函数集中在 `src/i18n.ts`。
 - URL 和静态资源必须基于 Astro 的 `BASE_URL` 构造，以支持 GitHub Pages 子路径部署。
 - `dist/`、`.astro/` 和 `node_modules/` 是生成内容，不进入版本控制。
 
 ### 内容约定
 
-- 正文以中文为主；文章应明确对象、假设、符号约定和推导脉络。
+- 中文原文与英文译文分别维护；文章应明确对象、假设、符号约定和推导脉络，翻译保留公式和章节结构。
+- 中文内容默认 `lang: zh`，英文内容放在各 collection 的 `en/` 子目录并声明 `lang: en`；同名文件代表同一内容的两个语言版本。英文文章引用带 `en/` 前缀的英文专栏 ID。
 - 普通文章优先使用 Markdown；需要 Astro 组件时使用 MDX。
 - 数学公式使用 Markdown 数学语法，由 `remark-math` 与 `rehype-katex` 处理。
 - 定义、定理和证明分别复用 `src/components/math/` 中的现有组件。
@@ -68,6 +69,8 @@
 - 使用全局 CSS 维护视觉系统和响应式规则，暂不引入客户端 UI 框架。
 - 视觉参考 Delta 文档：纸色背景、细边框、衬线标题、红黑蓝顶端色带；桌面使用固定侧栏，窄屏使用可展开导航。首页保持“置顶 + 时间顺序文章列表”，最多展示 3 篇置顶，超出置顶上限的文章仍进入普通列表。主题支持浅色、深色和跟随系统，并在本地保存选择；文章目录在宽屏位于正文右侧，窄屏移至正文上方。
 - 搜索由 `npm run build` 在 Astro 构建结束后对 `dist/` 运行 Pagefind 生成。
+- 中文保留原路径，英文使用 `/en/` 前缀；页面模板统一放在 `src/pages/[...lang]/`，构建期按语言生成。语言切换优先进入对应页面，缺少译文时回到目标语言的对应列表，且不声明不存在的 SEO alternate。语言由 URL 决定，不通过浏览器偏好自动重定向。
+- 列表、专栏前后章与 RSS 按内容语言隔离；Pagefind 根据 HTML 的 `lang` 建立与选择独立索引。公共资源路径不带语言前缀，所有页面和资源继续兼容部署 base path。
 - 部署工作流从 `GITHUB_REPOSITORY` 推断 GitHub Pages 的站点 URL 与 base path，也允许用 `SITE_URL` 和 `BASE_PATH` 显式覆盖。
 
 ## 代码与内容结构
@@ -76,12 +79,16 @@
 .github/workflows/deploy.yml   GitHub Pages 构建与部署
 astro.config.mjs              Astro、MDX、数学处理、站点 URL 与 base path
 src/config.ts                 全站文案和标签显示名
+src/i18n.ts                   UI 翻译、语言与路径函数
 src/content.config.ts         文章与专栏内容 schema
 src/content/posts/            Markdown/MDX 文章正文
 src/content/series/           YAML 专栏元数据
+src/content/posts/en/         与中文同名的英文文章
+src/content/series/en/        英文专栏元数据
 src/components/math/          定义、定理、证明等 MDX 组件
 src/layouts/                  全站基础布局和文章布局
 src/pages/                    首页、列表、详情、归档、标签、搜索与 RSS 路由
+scripts/check-i18n.mjs        构建后的双语路由、链接与索引检查
 src/styles/global.css         全站视觉与响应式样式
 public/                       favicon、头像、Open Graph 图片等原样发布资源
 dist/                         生产构建结果（生成目录）
@@ -101,6 +108,7 @@ npm run dev
 ```sh
 npm run check
 npm run build
+npm run check:i18n
 ```
 
 需要检查生产构建时运行：
@@ -133,6 +141,7 @@ GitHub 仓库需在 Pages 设置中选择 GitHub Actions 作为发布来源。
 2. 新标签需要同时在 `src/config.ts` 的 `TAG_LABELS` 中补充中文显示名。
 3. 若文章属于专栏，引用现有专栏 ID，并设置唯一且连续的 `seriesOrder`。
 4. 运行 `npm run check` 和 `npm run build`，再检查文章页、所属列表、标签、专栏与搜索结果。
+5. 英文译文放在 `posts/en/` 下的同名文件，设置 `lang: en` 并引用英文专栏；按目录深度调整 MDX 组件导入。构建后运行 `npm run check:i18n` 核对中英文配对、链接、RSS 与搜索索引。
 
 ## 验证与验收标准
 
@@ -147,15 +156,16 @@ GitHub 仓库需在 Pages 设置中选择 GitHub Actions 作为发布来源。
 - 涉及部署路径或静态资源时，至少验证根路径与非空 base path 两种构建情形。
 - 涉及样式或布局时，检查桌面和窄屏视图；正文、公式、代码块和导航无明显溢出或遮挡。
 - 涉及 SEO 或订阅时，检查 canonical URL、Open Graph 图片、RSS 与 sitemap 中的绝对地址。
+- 双语改动需验证对应页面互切、两种语言的搜索结果与界面文案。子路径构建后使用 `npm run check:i18n -- /blog` 等相同前缀运行检查。
 
 ## 待决定事项
 
 - 文章级 Open Graph 图片尚未建立独立字段与生成流程。
-- 当前没有自动化断链、可访问性或浏览器端回归测试；内容和界面增长后可再评估是否引入。
+- 已有构建后的双语配对和站内断链检查；当前没有自动化可访问性或浏览器端回归测试，内容和界面增长后可再评估是否引入。
 - 尚未规定草稿预览、文章发布前审校清单和长期备份策略。
 
 ## 当前状态
 
 - 阶段：可运行的初始版本，处于内容扩充与站点细节完善期。
-- 已有能力：Markdown/MDX、KaTeX、数学环境组件、文章目录、专栏章节、标签、归档、RSS、Pagefind 搜索、sitemap、响应式布局和 GitHub Pages 自动部署。
-- 已有内容：6 篇文章、1 个连载专栏；其中包含一篇讨论 Codex Skills 与凝聚态物理科研工作流的 AI for Research 文章。
+- 已有能力：中英文切换、Markdown/MDX、KaTeX、数学环境组件、文章目录、专栏章节、标签、归档、分语言 RSS 与 Pagefind 搜索、sitemap、响应式布局和 GitHub Pages 自动部署。
+- 已有内容：6 篇文章与对应的 6 篇英文译文、1 个双语连载专栏；其中包含一篇讨论 Codex Skills 与凝聚态物理科研工作流的 AI for Research 文章。

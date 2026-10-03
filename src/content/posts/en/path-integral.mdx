@@ -1,0 +1,33 @@
+---
+lang: en
+title: The Classical Limit of the Path Integral
+description: How the stationary-phase approximation reorganizes quantum amplitudes around classical trajectories.
+published: 2026-08-18
+tags: [quantum, mathematical-methods]
+featured: true
+---
+
+The quantum propagator can formally be written as a sum over all paths:
+
+$$
+ K(q_f, t_f; q_i, t_i)
+ = \int \mathcal{D}q \, \exp\!\left(\frac{\mathrm{i}}{\hbar} S[q]\right).
+$$
+
+As $ \hbar \to 0 $, the phase oscillates rapidly, and contributions from neighboring paths largely cancel. The phase remains locally stationary only where the first variation of the action vanishes.
+
+## The Stationary-Phase Condition
+
+Write $ q = q_{\mathrm{cl}} + \eta $, with $ \eta = 0 $ at the endpoints. Expanding the action gives
+
+$$
+ S[q] = S[q_{\mathrm{cl}}]
+ + \delta S[q_{\mathrm{cl}}; \eta]
+ + \frac{1}{2} \delta^2 S[q_{\mathrm{cl}}; \eta] + \cdots .
+$$
+
+Classical trajectories are selected by $ \delta S = 0 $. The classical limit therefore does not mean “keeping only one path”; it arises from coherent addition of quantum amplitudes near stationary-phase configurations.
+
+## Semiclassical Structure
+
+Quadratic fluctuations determine the Van Vleck determinant and carry information about the stability of the classical flow into the propagator. The semiclassical approximation thus does more than remove quantum effects: it organizes them into a hierarchy of fluctuations around classical trajectories.

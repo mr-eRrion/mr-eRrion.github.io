@@ -1,0 +1,37 @@
+---
+import { i18n, routeLocale, localeBase, languagePaths, contentSlug } from '../../../i18n';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export const getStaticPaths = languagePaths;
+
+const lang = routeLocale(Astro.params.lang);
+const { t, site, tags: TAG_LABELS } = i18n(lang);
+const base = localeBase(lang);
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.lang === lang)).sort((a, b) => b.data.published.valueOf() - a.data.published.valueOf());
+---
+
+<BaseLayout title={`${t.posts} · ${site.title}`} description={t.postsDescription}>
+  <section class="listing-shell">
+    <header class="listing-header">
+      <span class="eyebrow">{t.posts.toUpperCase()}</span>
+      <h1>{t.posts}</h1>
+    </header>
+    <div class="post-list" data-pagefind-body>
+      {posts.map((post, index) => (
+        <article>
+          <div class="post-list-index">{String(index + 1).padStart(2, '0')}</div>
+          <div>
+            <div class="article-meta">
+              <time datetime={post.data.published.toISOString()}>{post.data.published.toISOString().slice(0, 10).replaceAll('-', '.')}</time>
+              <span>{post.data.tags.map((tag) => TAG_LABELS[tag] ?? tag).join(' · ')}</span>
+            </div>
+            <h2><a href={`${base}/posts/${contentSlug(post.id)}/`}>{post.data.title}</a></h2>
+            <p>{post.data.description}</p>
+          </div>
+          <a class="round-arrow" href={`${base}/posts/${contentSlug(post.id)}/`} aria-label={`${t.read}${post.data.title}`}>→</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

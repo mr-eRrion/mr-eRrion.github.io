@@ -1,0 +1,29 @@
+---
+import { i18n, routeLocale, localeBase, languagePaths } from '../../../i18n';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export const getStaticPaths = languagePaths;
+
+const lang = routeLocale(Astro.params.lang);
+const { t, site, tags: TAG_LABELS } = i18n(lang);
+const base = localeBase(lang);
+const posts = await getCollection('posts', ({ data }) => !data.draft && data.lang === lang);
+const tags = [...new Set(posts.flatMap((post) => post.data.tags))].map((tag) => ({ tag, count: posts.filter((post) => post.data.tags.includes(tag)).length }));
+---
+
+<BaseLayout title={`${t.topics} · ${site.title}`} description={t.topicsDescription}>
+  <section class="listing-shell compact-listing">
+    <header class="listing-header"><span class="eyebrow">{t.topics.toUpperCase()}</span><h1>{t.topics}</h1><p>{t.topicsIntro}</p></header>
+    <div class="tag-grid">
+      {tags.map(({ tag, count }, index) => (
+        <a href={`${base}/tags/${tag}/`}>
+          <span>{String(index + 1).padStart(2, '0')}</span>
+          <h2>{TAG_LABELS[tag] ?? tag}</h2>
+          <p>{t.postCount(count)}</p>
+          <b>→</b>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

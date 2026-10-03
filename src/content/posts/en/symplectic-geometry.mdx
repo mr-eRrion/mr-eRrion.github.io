@@ -1,0 +1,105 @@
+---
+lang: en
+title: 'Symplectic Geometry: The Natural Language of Classical Mechanics'
+description: Starting from Hamilton’s equations, understand why the symplectic form captures the structure of classical dynamics more directly than coordinates.
+published: 2026-08-30
+tags: [geometry, mathematical-methods]
+featured: true
+series: en/geometric-mechanics
+seriesOrder: 1
+---
+
+import Theorem from '../../../components/math/Theorem.astro';
+import Definition from '../../../components/math/Definition.astro';
+import Proof from '../../../components/math/Proof.astro';
+
+Classical mechanics often begins with a set of coordinates: generalized coordinates $ q^i $ and conjugate momenta $ p_i $. Yet the content of Hamilton’s equations does not depend on this choice. Coordinates are merely a local bookkeeping device; the underlying geometric object is the symplectic form on phase space.
+
+$$
+ \omega = \mathrm{d} q^i \wedge \mathrm{d} p_i .
+$$
+
+The aim of this note is to start from the familiar Hamilton equations and gradually recast their coordinate expressions in geometric language.
+
+## 1. Starting with Phase Space
+
+Let $ Q $ be the configuration space. The state of a classical system is determined by both position and momentum, so its natural phase space is the cotangent bundle $ T^*Q $. In local coordinates $ (q^i, p_i) $, the cotangent bundle carries the canonical one-form
+
+$$
+ \theta = p_i \, \mathrm{d} q^i ,
+$$
+
+whose exterior derivative gives the canonical symplectic form $ \omega = - \mathrm{d} \theta $. The sign convention is secondary; what matters is that $ \omega $ is both closed and nondegenerate.
+
+<Definition number="1" name="Symplectic manifold">
+A symplectic manifold is a pair $ (M, \omega) $, where $ M $ is an even-dimensional smooth manifold and $ \omega \in \Omega^2(M) $ satisfies $ \mathrm{d} \omega = 0 $. In addition, for every nonzero tangent vector $ v $, there exists a vector $ w $ such that $ \omega(v, w) \neq 0 $.
+</Definition>
+
+Nondegeneracy lets us turn a one-form into a unique vector field. This is how an energy function generates dynamics.
+
+## 2. Hamiltonian Vector Fields
+
+Given a smooth function $ H: M \to \mathbb{R} $, define its Hamiltonian vector field $ X_H $ by
+
+$$
+ \iota_{X_H} \omega = \mathrm{d} H .
+$$
+
+In canonical coordinates, write $ X_H = a^i \partial_{q^i} + b_i \partial_{p_i} $. Substituting into the equation above gives
+
+$$
+ a^i = \frac{\partial H}{\partial p_i}, \qquad
+ b_i = - \frac{\partial H}{\partial q^i} .
+$$
+
+An integral curve $ \gamma(t) $ satisfies $ \dot{\gamma} = X_H $, so these are precisely Hamilton’s equations. The key change is that the equations of motion are now understood as a vector field jointly determined by $ H $ and $ \omega $, rather than as two special coordinate formulas.
+
+### Energy Conservation Is Not an Extra Assumption
+
+Along the Hamiltonian flow, the rate of change of energy is
+
+$$
+ \frac{\mathrm{d}}{\mathrm{d}t} H(\gamma(t))
+ = \mathrm{d}H(X_H)
+ = \omega(X_H, X_H)
+ = 0 .
+$$
+
+The final step follows from the antisymmetry of a two-form. For a system with no explicit time dependence, energy conservation is therefore encoded directly in the symplectic structure.
+
+<Theorem number="2" name="Liouville’s theorem">
+Hamiltonian flow preserves the symplectic form: $ \mathcal{L}_{X_H} \omega = 0 $. It therefore also preserves the phase-space volume $ \omega^n / n! $.
+</Theorem>
+
+<Proof>
+By Cartan’s formula and $ \mathrm{d}\omega = 0 $,
+$$
+ \mathcal{L}_{X_H}\omega
+ = \mathrm{d}(\iota_{X_H}\omega) + \iota_{X_H}(\mathrm{d}\omega)
+ = \mathrm{d}^2 H
+ = 0 .
+$$
+Once the symplectic form is preserved, so are its wedge powers.
+</Proof>
+
+## 3. Poisson Brackets
+
+For two observables $ f $ and $ g $, define the Poisson bracket by
+
+$$
+ \{f, g\} = \omega(X_f, X_g) .
+$$
+
+It makes the space of functions on phase space into a Lie algebra. The evolution of an observable under the dynamics can be written as
+
+$$
+ \dot{f} = \{f, H\} .
+$$
+
+This form is especially useful because it already suggests the outline of quantization: Poisson brackets in classical theory will be replaced by commutators in quantum theory.
+
+## 4. Structure Before Coordinates
+
+The central idea of symplectic geometry is that coordinates help us calculate, while structure explains invariants. Canonical transformations, conserved quantities, Liouville’s theorem, and the quantization of classical systems should not be understood as accidental coordinate tricks. They are manifestations of the same symplectic structure in different problems.
+
+The next article starts from the action principle to explain how Lagrangian submanifolds place Hamilton–Jacobi theory within this geometric picture.

@@ -12,3 +12,18 @@ export const TAG_LABELS: Record<string, string> = {
   'statistical-physics': '统计物理',
   'mathematical-methods': '数学方法'
 };
+
+export const EN_SITE = {
+  title: "eRrion’s Corner",
+  description: 'A mysterious person who left everything here.',
+  author: SITE.author,
+  motto: 'Actions speak louder; diligence makes up for talent.'
+} as const;
+
+export const EN_TAG_LABELS: Record<string, string> = {
+  'ai-for-research': 'AI for Research',
+  geometry: 'Geometry & Topology',
+  quantum: 'Quantum Theory',
+  'statistical-physics': 'Statistical Physics',
+  'mathematical-methods': 'Mathematical Methods'
+};

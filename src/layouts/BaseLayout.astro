@@ -1,46 +1,77 @@
 ---
 import '../styles/global.css';
-import { SITE, TAG_LABELS } from '../config';
-import type { CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
+import { i18n, routeLocale, localeBase, assetBase, contentSlug, htmlLang, type Locale } from '../i18n';
 
 interface Props {
   title?: string;
   description?: string;
   article?: CollectionEntry<'posts'>;
+  lang?: Locale;
+  notFound?: boolean;
 }
 
+const lang = Astro.props.lang ?? routeLocale(Astro.params.lang);
+const { t, site: SITE, tags: TAG_LABELS } = i18n(lang);
 const {
   title = SITE.title,
   description = SITE.description,
   article
 } = Astro.props;
 
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const base = localeBase(lang);
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const socialImage = new URL(`${base}/og-v2.png`, Astro.site);
+const socialImage = new URL(`${assetBase}/og-v2.png`, Astro.site);
+const relativePath = Astro.url.pathname.slice(base.length) || '/';
+const otherLang = lang === 'zh' ? 'en' : 'zh';
+let translatedPath = relativePath;
+let hasTranslation = !Astro.props.notFound;
+if (article) {
+  hasTranslation = (await getCollection('posts', ({ data }) => !data.draft && data.lang === otherLang))
+    .some((post) => contentSlug(post.id) === contentSlug(article.id));
+  if (!hasTranslation) translatedPath = '/posts/';
+} else if (Astro.params.slug) {
+  hasTranslation = (await getCollection('series', ({ data }) => data.lang === otherLang))
+    .some((series) => contentSlug(series.id) === Astro.params.slug);
+  if (!hasTranslation) translatedPath = '/series/';
+} else if (Astro.params.tag) {
+  hasTranslation = (await getCollection('posts', ({ data }) => !data.draft && data.lang === otherLang))
+    .some((post) => post.data.tags.includes(Astro.params.tag!));
+  if (!hasTranslation) translatedPath = '/tags/';
+}
+if (Astro.props.notFound) translatedPath = '/';
+const alternateURL = new URL(`${localeBase(otherLang)}${translatedPath}`, Astro.site);
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 const isActive = (path: string) => path === '/'
   ? currentPath === (base || '/')
   : currentPath === `${base}${path}` || currentPath.startsWith(`${base}${path}/`);
 const navigation = [
-  { path: '/', label: '首页', number: '01' },
-  { path: '/posts', label: '全部文章', number: '02' },
-  { path: '/series', label: '专栏', number: '03' },
-  { path: '/archive', label: '归档', number: '04' },
-  { path: '/tags', label: '主题索引', number: '05' },
-  { path: '/about', label: '关于', number: '06' }
+  { path: '/', label: t.home, number: '01' },
+  { path: '/posts', label: t.allPosts, number: '02' },
+  { path: '/series', label: t.series, number: '03' },
+  { path: '/archive', label: t.archive, number: '04' },
+  { path: '/tags', label: t.topicIndex, number: '05' },
+  { path: '/about', label: t.about, number: '06' }
 ];
 ---
 
 <!doctype html>
-<html lang="zh-CN">
+<html lang={htmlLang(lang)}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalURL} />
-    <link rel="icon" type="image/png" href={`${base}/favicon.png`} />
+    {hasTranslation && <>
+      <link rel="alternate" hreflang={htmlLang(lang)} href={canonicalURL} />
+      <link rel="alternate" hreflang={htmlLang(otherLang)} href={alternateURL} />
+      <link rel="alternate" hreflang="x-default" href={lang === 'zh' ? canonicalURL : alternateURL} />
+    </>}
+    <link rel="alternate" type="application/rss+xml" title={`${SITE.title} RSS`} href={`${base}/rss.xml`} />
+    <link rel="icon" type="image/png" href={`${assetBase}/favicon.png`} />
+    <meta property="og:locale" content={lang === 'zh' ? 'zh_CN' : 'en_US'} />
+    {hasTranslation && <meta property="og:locale:alternate" content={lang === 'zh' ? 'en_US' : 'zh_CN'} />}
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -62,19 +93,23 @@ const navigation = [
     </script>
   </head>
   <body>
-    <a class="skip-link" href="#main-content">跳到正文</a>
+    <a class="skip-link" href="#main-content">{t.skip}</a>
     <div class="site-frame">
     <header class="site-sidebar">
-      <a class="site-mark" href={`${base}/`} aria-label="首页">
+      <a class="site-mark" href={`${base}/`} aria-label={t.home}>
         <span class="mark-symbol" aria-hidden="true">Φ</span>
-        <span>eRrion 的小屋</span>
+        <span>{SITE.title}</span>
       </a>
-      <a class="sidebar-search" href={`${base}/search/`} aria-label="搜索文章"><span>搜索文章</span><span aria-hidden="true">⌕</span></a>
+      <a class="sidebar-search" href={`${base}/search/`} aria-label={t.searchPosts}><span>{t.searchPosts}</span><span aria-hidden="true">⌕</span></a>
+      <nav class="language-switch" aria-label={t.language}>
+        <a href={lang === 'zh' ? Astro.url.pathname : alternateURL.pathname} lang="zh-CN" hreflang="zh-CN" aria-current={lang === 'zh' ? 'page' : undefined}>中文</a>
+        <a href={lang === 'en' ? Astro.url.pathname : alternateURL.pathname} lang="en" hreflang="en" aria-current={lang === 'en' ? 'page' : undefined}>English</a>
+      </nav>
       <details class="sidebar-menu" open>
-        <summary>浏览与主题 <span aria-hidden="true">＋</span></summary>
+        <summary>{t.browseTopics} <span aria-hidden="true">＋</span></summary>
         <div class="sidebar-group">
-          <p class="sidebar-label">浏览 <i>Explore</i></p>
-          <nav class="primary-nav" aria-label="主导航">
+          <p class="sidebar-label">{t.explore}</p>
+          <nav class="primary-nav" aria-label={t.mainNav}>
             {navigation.map(({ path, label, number }) => (
               <a href={`${base}${path === '/' ? '/' : `${path}/`}`} aria-current={isActive(path) ? 'page' : undefined}>
                 <span>{label}</span><small>{number}</small>
@@ -83,17 +118,17 @@ const navigation = [
           </nav>
         </div>
         <div class="sidebar-group">
-          <p class="sidebar-label">主题 <i>Topics</i></p>
-          <nav class="topic-nav" aria-label="主题导航">
+          <p class="sidebar-label">{t.topics}</p>
+          <nav class="topic-nav" aria-label={t.topicNav}>
             {Object.entries(TAG_LABELS).map(([tag, label]) => <a href={`${base}/tags/${tag}/`} aria-current={isActive(`/tags/${tag}`) ? 'page' : undefined}>{label}</a>)}
           </nav>
         </div>
-        <div class="sidebar-note"><span>文章 / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>RSS 订阅 ↗</a></div>
+        <div class="sidebar-note"><span>{t.posts} / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>{t.rss}</a></div>
       </details>
-      <div class="theme-switch" role="group" aria-label="外观主题">
-        <button type="button" data-theme-choice="light" aria-label="浅色主题" aria-pressed="false">☼ <span>浅色</span></button>
-        <button type="button" data-theme-choice="dark" aria-label="深色主题" aria-pressed="false">☾ <span>深色</span></button>
-        <button type="button" data-theme-choice="system" aria-label="跟随系统主题" aria-pressed="true">◐ <span>系统</span></button>
+      <div class="theme-switch" role="group" aria-label={t.appearance}>
+        <button type="button" data-theme-choice="light" aria-label={t.lightTheme} aria-pressed="false">☼ <span>{t.light}</span></button>
+        <button type="button" data-theme-choice="dark" aria-label={t.darkTheme} aria-pressed="false">☾ <span>{t.dark}</span></button>
+        <button type="button" data-theme-choice="system" aria-label={t.systemTheme} aria-pressed="true">◐ <span>{t.system}</span></button>
       </div>
     </header>
     <div class="site-content">

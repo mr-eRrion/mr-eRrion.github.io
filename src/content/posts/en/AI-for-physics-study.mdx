@@ -1,0 +1,334 @@
+---
+lang: en
+title: 'Turning Codex into a Condensed-Matter Research Workbench: One Workflow Connecting All Your Skills'
+description: Using stripe order in the two-dimensional Hubbard model as an example, connect the current Codex Skills into a condensed-matter research workflow, from choosing a question and reviewing literature to derivations, numerical experiments, paper delivery, and reusable procedures.
+published: 2026-08-31
+tags: [ai-for-research, statistical-physics]
+---
+
+Condensed-matter research rarely fails because of a single line of code. Problems more often arise between stages: the Hamiltonian in the literature differs from the implementation by a convention; finite-size data mix different convergence thresholds; a smooth plot comes without its selection rules; or a paper’s conclusion goes one step beyond the numerical evidence.
+
+Codex Skills are useful for managing these handoffs. A Skill turns a task’s inputs, steps, checks, output format, and stopping conditions into a reusable procedure. Multiple Skills form an effective AI for Research workflow only when they pass research artifacts to one another.
+
+This article follows one concrete question throughout:
+
+> Can the charge stripes observed in the two-dimensional doped Hubbard model survive in the thermodynamic limit, or do they arise from boundaries, finite size, or numerical error?
+
+We will move from a broad idea to a literature evidence table, falsifiable hypotheses, independent derivations, simulation code, raw data, finite-size scaling, a preliminary paper review, presentations, and a project-specific Skill. All 32 Skills in the environment described here appear in this workflow. A research project does not need to invoke all of them; some apply only when the data format, software interface, or deliverable calls for them.
+
+## A Skill Is a Workflow Module
+
+According to [OpenAI’s documentation](https://developers.openai.com/plugins/concepts/skills), a Skill is a folder containing instructions and resources. Its central file, `SKILL.md`, defines the task’s scope; supporting files may include references, scripts, templates, and examples. Codex first reads the name and description, then loads the full instructions when the task matches. Researchers can also request a Skill explicitly with `$skill-name`.
+
+Skills and tools have different responsibilities. A browser opens pages, PDF tools extract file contents, and plotting libraries generate figures. A Skill determines when to use them, how to check the results, and which artifacts must be retained. If a group requires every finite-size extrapolation to scan the minimum size and fitting window, that rule should live in a Skill rather than depend on a fresh reminder each time.
+
+This article follows the sequence below:
+
+```text
+Research boundaries
+  → Literature evidence map
+  → Falsifiable question
+  → Project contract
+  → Independent derivation
+  → Reproducible implementation
+  → Parameter scans and raw data
+  → Analysis, plotting, and cross-checks
+  → Adversarial review
+  → Paper, presentation, and companion website
+  → Project-specific Skill / Plugin
+```
+
+`research-notebook` records evidence and decisions throughout, while `research-project-status` checks at each gate whether the project is ready to advance. These two Skills run through the entire workflow.
+
+## Gate 0: Establish the Environment, Permissions, and Research Boundaries
+
+Before research begins, Codex needs to know what it may read, what it may modify, and which materials count as established project facts.
+
+`openai-docs` checks the current usage of Codex, Skills, Plugins, and the OpenAI API. Product behavior should be verified against official documentation, not guessed from old prompts or model memory. `plugin-management:plugin-management` checks existing plugins, permissions, dependencies, and connection status; `skill-installer` can install a missing general-purpose Skill from a trusted source. `research-project-init` then reads the repository’s code, README, scripts, and research notes to establish project context.
+
+This gate should produce four results:
+
+| Artifact | Contents |
+| --- | --- |
+| Research scope | Model, parameter ranges, target observables, and explicitly excluded questions |
+| Data boundaries | Readable and writable directories, and data that must not be uploaded or leave the local machine |
+| Tool inventory | Installed Skills, available software, connectors, and missing dependencies |
+| Project description | Background, assumptions, directory structure, run instructions, validation criteria, and owners |
+
+For the Hubbard example, the project description must at least fix the Hamiltonian convention:
+
+$$
+ H = - t \sum_{ \langle i, j \rangle, \sigma }
+ \left( c_{ i \sigma }^{ \dagger } c_{ j \sigma } + \mathrm{h.c.} \right)
+ + U \sum_i n_{ i \uparrow } n_{ i \downarrow }
+ - \mu \sum_i n_i .
+$$
+
+It must also specify the lattice geometry, boundary conditions, doping definition, and algorithm. If different scripts use both $ p = 1 - n $ and $ p = n - 1 $ for hole doping, the subsequent figures and text will be wrong.
+
+At the end of the gate, `research-project-status` performs its first read-only check: is there a runnable baseline, do the input data exist, and are the acceptance criteria concrete enough? If these conditions are missing, the workflow stops here.
+
+## Gate 1: Turn the Literature into an Evidence Map
+
+`research-topic-literature` handles topic searches and physical synthesis. It must retain equations, assumptions, parameter ranges, methodological limits, competing mechanisms, and sources. For stripe order, collecting abstracts that say “stripes observed” or “no stripes” is not enough. Each paper needs to be recorded using the same fields:
+
+| Field | Example |
+| --- | --- |
+| Model | Single-band Hubbard, $ U / t = 8 $ |
+| Geometry | $ L_x \times L_y $ cylinder with mixed open and periodic boundaries |
+| State point | Doping, temperature, or ground-state conditions |
+| Method | DMRG, AFQMC, tensor networks, or another method |
+| Main observables | $ N( \mathbf{q} ) $, real-space density, correlation length, pairing correlations |
+| Numerical controls | Bond dimension, truncation error, autocorrelation time, average sign |
+| Authors’ conclusion | The narrowest statement supported by the paper |
+| Our assessment | Compatible with our question, conflicting, or not comparable |
+
+`browser:control-in-app-browser` can open paper webpages, supplementary materials, and data repositories. `pdf:pdf` extracts and checks text, equations, and tables in PDFs. `science-skill:vision` reads phase diagrams, structure-factor heatmaps, spectral functions, and experimental setups. When material is available only in a local reference manager or desktop application, `computer-use:computer-use` can operate the interface. If the database provides an API, connector, or command-line tool, prefer that structured interface.
+
+`graphify` organizes papers, code documentation, and figure interpretations into a knowledge graph. Nodes can represent models, methods, parameter ranges, observables, and conclusions; edges record relations such as “uses,” “supports,” “conflicts with,” or “holds only in this range.” The graph helps expose results that cannot be compared directly. For example, a ground-state study on a width-4 cylinder and a finite-temperature study on a square lattice cannot be merged into one piece of evidence merely because both show charge peaks.
+
+The handoff from this stage consists of `literature/evidence-table`, source files, and the knowledge graph. Each conclusion must point to a paper page, figure number, or data link. `research-notebook` records only findings that change the research design, rather than copying entire literature summaries.
+
+## Gate 2: Recast the Dispute as a Falsifiable Question
+
+`research-problem-decomposer` takes the evidence map from the previous gate and produces competing hypotheses, decisive observables, controls, and a minimal discriminating calculation. For the stripe problem, we can begin with four hypotheses:
+
+| Hypothesis | Observable expectation | Most important control |
+| --- | --- | --- |
+| $ H_1 $: spontaneous stripe order survives in the thermodynamic limit | The structure-factor peak scales with volume, and the extrapolated order parameter remains nonzero | Multiple widths and aspect ratios |
+| $ H_2 $: open boundaries induce Friedel oscillations | The modulation amplitude decays away from the boundaries; its period or phase depends on them | Comparison of open and periodic boundaries |
+| $ H_3 $: a finite-temperature crossover | The correlation length grows without stable long-range order | Temperature scans and correlation-length ratios |
+| $ H_4 $: the numerical algorithm has not converged | The signal changes with bond dimension, step size, or sampling length | Multiple initial states and scans of error-control parameters |
+
+The Skill must also specify what result would refute each hypothesis. Recording only “evidence supporting $ H_1 $” encourages confirmation bias. Writing the conditions for counterexamples into the project description in advance lets Codex apply the same standards to positive and negative results.
+
+The minimum output of this gate is a one-page research contract:
+
+```text
+Question: Are charge stripes stable in the two-dimensional thermodynamic limit?
+Main observables: N(q), real-space C_c(r), correlation-length ratio,
+                  extrapolated order parameter.
+Competing explanations: Spontaneous order, boundaries, finite temperature,
+                        numerical nonconvergence.
+Required controls: Boundaries, sizes, aspect ratios, initial states,
+                   error thresholds.
+Advance when: At least two independent observables give compatible conclusions.
+```
+
+At this point, `referee-mode` can perform a brief preliminary review focused on missing competing explanations. The researcher confirms the research contract before implementation begins.
+
+## Gate 3: Put the Research Contract into the Repository
+
+`research-project-init` organizes the project around the research contract, keeping inputs, caches, derived data, and publication figures separate. A workable structure is:
+
+```text
+PROJECT.md                 Research question, assumptions, workflow, and acceptance criteria
+research.md                Evidence, interpretations, failures, and decisions
+literature/                Source lists, evidence tables, and knowledge graphs
+theory/                    Derivations, notation, and estimator definitions
+configs/                   Version-controlled parameter files
+src/                       Simulation and analysis code
+tests/                     Limits, symmetries, and regression tests
+data/raw/                  Raw outputs that are never overwritten
+data/derived/              Derived data with generation records
+figures/scripts/           Reproducible plotting programs
+figures/output/            Figures for papers and presentations
+manuscript/                Paper source files and response materials
+talks/                     Group meeting, conference, and defense materials
+```
+
+`research-notebook` works continuously from this point onward. It records the reasons for parameter choices, results that affect the interpretation, failed attempts, and sources. It does not log every command or overwrite old conclusions. When new evidence overturns an earlier plan, the log preserves the reason for the change.
+
+`research-project-status` checks progress at each gate. Whenever work resumes, it first answers five questions: what is the current research question, what evidence exists, which validations have passed, what is the largest uncertainty, and what is the smallest useful next action?
+
+When work can be divided safely, `awesome-agent:team-leader` defines subtask ownership and handoff conditions. For example, one agent can organize the DMRG literature, another check the structure-factor estimator, and a third review the tests. They must not edit the same file simultaneously or overwrite one another’s uncommitted work. Multiple agents increase parallel throughput; they do not constitute independent scientific verification. Key derivations still need the independent reconstruction in the next gate.
+
+## Gate 4: Independently Reconstruct the Theory and Estimators
+
+`audit-and-rederive` treats existing notes, model answers, and intermediate steps in papers as untrusted. It reconstructs the derivation from the conventions and target quantities, checking signs, dimensions, boundary terms, approximation conditions, and limits one by one.
+
+The charge structure factor for stripe order can be defined as
+
+$$
+ N( \mathbf{q} ) =
+ \frac{ 1 }{ N_s }
+ \sum_{ i, j }
+ e^{ \mathrm{i} \mathbf{q} \cdot ( \mathbf{r}_i - \mathbf{r}_j ) }
+ \left\langle
+ ( n_i - \bar n )( n_j - \bar n )
+ \right\rangle .
+$$
+
+An audit cannot stop because the formula looks familiar. It must ask:
+
+- Does $ N_s $ count all lattice sites, the sites in the measurement window, or only those in the cylinder’s central region?
+
+- Is an inhomogeneous density background subtracted first? With open boundaries, could a global $ \bar n $ fold Friedel oscillations into the peak?
+
+- Which allowed momenta enter the Fourier transform? Do longitudinal open boundaries require a sine basis or a window function?
+
+- Is the extrapolated quantity $ N( \mathbf{Q} ) / N_s $, its square root, or a long-distance plateau in real space?
+
+- Does error propagation include covariance between different $ r $ or $ \mathbf{q} $ points?
+
+The Skill should produce numbered derivations, a list of assumptions, unresolved questions, and identities that can become code tests. The noninteracting limit, particle-hole symmetry at half filling, total-density sum rules, and exact diagonalization on small systems can all provide benchmarks.
+
+`science-skill:paper-review-helper` can read key reference papers and check, paragraph by paragraph, whether we have reproduced the authors’ definitions. `science-skill:vision` helps identify normalization and axis ranges in figures, but the text, supplementary materials, or public code remain the authoritative sources.
+
+## Gate 5: Turn the Derivations into Verifiable Code
+
+The `codex` Skill is suited to calling Codex CLI for codebase analysis, refactoring, and automated editing. Its input should not be “write a DMRG program.” It should refer to the previous gate’s artifacts:
+
+```text
+$codex Implement the estimator defined in theory/charge_structure_factor.md
+in the existing analysis module. Preserve the current data format; add tests
+for the noninteracting limit, a small translationally invariant system,
+and an open-boundary window. Do not modify raw data.
+```
+
+`awesome-agent:team-leader` can split the work into nonconflicting parts:
+
+| Subtask | Input | Output | Acceptance criterion |
+| --- | --- | --- | --- |
+| Estimator implementation | Numbered derivation | `src/observables/` | Small-system tests pass |
+| Data schema | Parameter and provenance requirements | Schema and migration scripts | Old data can be parsed without modification |
+| Finite-size analysis | Discrimination criteria | `src/analysis/` | Synthetic data recover known exponents |
+| Regression tests | Baseline results | `tests/` | Numerical tolerances have a physical basis |
+
+`browser:control-in-app-browser` can consult official algorithm-library documentation and test a local web interface. `computer-use:computer-use` enters only when the task requires a local GUI application, such as an instrument export utility without a command-line interface. `spreadsheets:excel-live-control` handles only an open Excel workbook connected to Codex. Ordinary CSV, TSV, and standalone `.xlsx` files go to `spreadsheets:Spreadsheets`.
+
+The implementation stage has five minimum requirements:
+
+1. Put every run parameter into a configuration file, rather than leaving it only in shell history.
+2. Record the code version, random seed, environment, and time with raw outputs.
+3. Analysis scripts must not modify `data/raw/`.
+4. Unit tests check formulas, implementation tests check data flow, and regression tests check known physical limits.
+5. `research-notebook` records implementation choices that affect the interpretation of results.
+
+At the end of the gate, `research-project-status` checks whether the baseline can be reproduced from a clean environment. Failed tests or data of unknown provenance must not proceed to large parameter scans.
+
+## Gate 6: Run the Minimal Discriminating Experiment
+
+The researcher first runs the minimal discriminating calculation defined at Gate 2, then expands the parameter grid. The stripe example could start with two widths, two boundary conditions, two bond dimensions, and several initial states. If this small matrix already shows that the peak changes sharply with convergence parameters, a large size scan will only generate more unreliable data.
+
+`spreadsheets:Spreadsheets` checks schemas, units, missing values, and duplicate jobs in standalone data files. It can organize job tables, run records, and result summaries into a workbook. `spreadsheets:excel-live-control` updates status when the group uses an active Excel workbook to track computing resources, but raw scientific data remain in files that can be versioned or verified by checksums.
+
+`research-notebook` creates a record for every result that changes the interpretation:
+
+```text
+Evidence: A width L_y = 4 cylinder shows period-4 charge modulation at
+          bond dimension 8000. Increasing it to 16000 reduces the central
+          amplitude by 35%.
+Interpretation: This favors nonconvergence or boundary enhancement;
+                it is insufficient to extrapolate spontaneous order.
+Validation: The trend persists with a different initial state;
+            L_y = 6 is not yet complete.
+Next step: Compare the two widths at fixed truncation error,
+           rather than fixed bond dimension.
+Sources: Configuration, raw output, analysis script, figure, and code commit.
+```
+
+`research-project-status` summarizes completion and blockers. If data lack provenance, the status check should flag them for a rerun rather than let them quietly enter a publication figure.
+
+## Gate 7: Analyze, Visualize, and Cross-Check
+
+`academic-plotting` turns derived data into publication-ready Matplotlib figures, with consistent fonts, dimensions, colors, line styles, open markers, and error bars. It should also retain the generating scripts and parameters. The stripe problem needs at least four types of figures: real-space density, structure factors, convergence scans, and finite-size extrapolations.
+
+`visualize:visualize` is useful for interactive analysis tools. You can adjust the minimum system size, temperature window, or correction exponent and see how the fit changes. Interactive exploration helps identify fragile conclusions; the final parameters used in the paper must still be written back into fixed scripts and configurations.
+
+Finite-size scaling can start from
+
+$$
+ \frac{ \xi_L }{ L }
+ = F\!\left(
+ ( g - g_c ) L^{ 1 / \nu },
+ L^{ -\omega }
+ \right)
+$$
+
+Codex needs to scan the minimum size, fitting window, inclusion of correction terms, and treatment of data covariance. One attractive data collapse cannot replace a stability analysis.
+
+Here, `science-skill:vision` performs visual quality checks: do the axes agree with the text, are error bars visible, are colors distinguishable in grayscale, are panel labels duplicated, and do captions omit any normalization? `graphify` adds the chain “raw data → derived table → figure → paper claim” to the knowledge graph. Researchers can then ask which sizes, scripts, and literature definitions a particular claim depends on.
+
+`imagegen` is used only for blog covers, conceptual illustrations, and visuals that do not carry data. It must not generate or fill in spectral functions, micrographs, phase diagrams, error bars, or experimental data. A conceptual figure included in a paper or presentation must be clearly labeled as a schematic.
+
+This gate permits progress when figures can be rebuilt from raw data, selection and fitting rules are versioned, alternative analyses give compatible conclusions, and every claim in a figure can be traced back to data and derivations.
+
+## Gate 8: Challenge the Conclusions
+
+`referee-mode` attacks the entire argument. It looks for missing controls, alternative mechanisms, sample selection, finite-size bias, and wording that exceeds the evidence. For the statement “stripe order is stable in the thermodynamic limit,” it should check:
+
+- Whether the widths and aspect ratios justify a two-dimensional extrapolation.
+- Whether the two smallest systems dominate the conclusion.
+- Whether the period or phase follows the boundary pinning field.
+- Whether numerical errors are smaller than differences between sizes.
+- Whether the charge structure factor, real-space correlations, and correlation length give compatible conclusions.
+- Whether other competing orders alter the interpretation in the same parameter range.
+
+`science-skill:paper-review-helper` records issues following the paper’s structure, distinguishing fatal problems, additional controls, presentation issues, and citation problems. `audit-and-rederive` returns to disputed formulas for a second independent derivation. `research-topic-literature` adds sources for newly identified competing explanations without repeating the entire literature search.
+
+The researcher records the review in a claim ledger:
+
+| Claim | Supporting evidence | Opposing evidence | Missing controls | Wording currently justified |
+| --- | --- | --- | --- | --- |
+| Widths 4 and 6 show a peak at the same wavevector | Figure 3, Table S2 | The amplitude decreases as accuracy improves | Width 8 is unfinished | “Compatible short-range stripe correlations are observed” |
+| The thermodynamic-limit order parameter is nonzero | Current extrapolation | The fit depends on the minimum size | Larger widths and correction terms | Do not yet claim long-range order |
+
+`research-notebook` records why the conclusion was narrowed. Based on the claim ledger, `research-project-status` determines whether the project is ready for submission, needs further calculations, or can support only a methods report.
+
+## Gate 9: Writing, Documents, Presentations, and Public Delivery
+
+Once the evidence chain is stable, `science-skill:hardworking-paper-writer` revises the paper sentence by sentence with the author. It preserves the author’s terminology and argument order while working through the abstract, results, discussion, and limitations. `stop-slop:stop-slop` removes empty openings, mechanical parallel phrasing, unsupported emphasis, and formulaic endings. Neither can raise the evidence level recorded in the claim ledger.
+
+`documents:documents` creates or edits Word documents and renders them to check pagination, equations, captions, and cross-references. `pdf:pdf` checks font embedding, page cropping, image clarity, and text extraction in the final PDF. `presentations:Presentations` turns the claim ledger into a group-meeting or conference talk, giving each slide one argumentative task.
+
+`template-creator:template-creator` turns a validated response letter, group-meeting template, poster layout, or data report into a reusable template. It is useful for stable formats, not for fixing scientific conclusions that are still changing.
+
+If the project needs a companion website, `sites:sites-building` can create a parameter browser, interactive figures, reproduction instructions, and a data dictionary; `sites:sites-hosting` handles publishing and hosting. The website presents derived results and links to raw data, code versions, and licenses. It must not be the only data archive. `imagegen` can create cover visuals, while scientific data figures continue to come from analysis scripts.
+
+The handoff at this gate includes, at minimum, paper source files, the final PDF, a figure and table package, supplementary materials, a presentation, and an entry point for reproduction. Every public claim should have a corresponding entry in the claim ledger.
+
+## Gate 10: Turn Effective Procedures into Reusable Group Practice
+
+After the research is complete, `skill-creator` turns recurring steps into project-specific Skills. The stripe project might yield three separate procedures:
+
+- `check-dmrg-convergence`: read run metadata; compare truncation error, bond dimension, initial states, and sweep counts; decide whether the data can proceed or require a rerun.
+
+- `audit-finite-size-scaling`: scan the minimum size, fitting window, correction terms, and covariance treatment; generate a stability report.
+
+- `build-claim-ledger`: map the paper’s main claims to figures, data, derivations, sources, and missing controls.
+
+`plugin-creator` can package multiple Skills, reference templates, and tool dependencies into a personal Plugin. If the Plugin needs a literature library, cluster job system, or experimental database, connectors provide authorized data and controlled operations, while the Skill specifies call order and acceptance criteria. `plugin-management:plugin-management` checks permissions and dependencies, `skill-installer` installs reviewed Skills, and `openai-docs` verifies the current methods for building and distributing them.
+
+This stage needs versioning and tests. The researcher prepares direct requests that should trigger the Skill, equivalent indirect requests, incomplete inputs, requests that must not trigger it, and edge cases. If an inaccurate description causes false triggers, revise the trigger scope. If the Skill selects the right task but misses checks, revise the procedure itself.
+
+After this step, the next group member no longer needs to copy prompts from chat history. They can invoke a tested workflow and receive input checks, analysis results, and audit reports with the same structure.
+
+## Where the 32 Skills Fit in This Workflow
+
+The following checklist tracks coverage. Gate numbers indicate where each Skill first enters the main sequence; Skills used throughout recur at later stages.
+
+| Category | Skills | Role in the workflow |
+| --- | --- | --- |
+| Codex and extension management | `openai-docs`, `skill-installer`, `skill-creator`, `plugin-creator`, `plugin-management:plugin-management` | Verify product behavior; install, create, package, and manage research workflows (Gates 0 and 10) |
+| Research questions and project memory | `research-problem-decomposer`, `research-project-init`, `research-project-status`, `research-notebook` | Define falsifiable questions; maintain the project contract, status, and evidence log (Gates 0–10) |
+| Literature and knowledge organization | `research-topic-literature`, `graphify`, `pdf:pdf`, `science-skill:vision` | Build sourced evidence tables, extract papers, read figures, and construct knowledge graphs (Gates 1, 4, 7, and 8) |
+| Theory and scientific audits | `audit-and-rederive`, `referee-mode`, `science-skill:paper-review-helper` | Independently reconstruct derivations, challenge conclusions, and record structured review issues (Gates 2, 4, and 8) |
+| Coding and collaboration | `codex`, `awesome-agent:team-leader` | Modify and review code; divide parallel tasks with explicit ownership (Gates 3 and 5) |
+| External interfaces and data | `browser:control-in-app-browser`, `computer-use:computer-use`, `spreadsheets:Spreadsheets`, `spreadsheets:excel-live-control` | Consult webpages and local applications; organize standalone spreadsheets or operate connected Excel workbooks (Gates 1, 5, and 6) |
+| Analysis and visuals | `academic-plotting`, `visualize:visualize`, `imagegen` | Produce reproducible scientific figures, interactive exploration, and conceptual visuals without data (Gates 7 and 9) |
+| Papers and deliverables | `science-skill:hardworking-paper-writer`, `stop-slop:stop-slop`, `documents:documents`, `presentations:Presentations`, `template-creator:template-creator` | Revise sentence by sentence, remove formulaic prose, and create documents, presentations, and reusable templates (Gate 9) |
+| Websites and publishing | `sites:sites-building`, `sites:sites-hosting` | Build and publish companion websites, parameter browsers, and reproduction entry points (Gate 9) |
+
+## The Workflow Depends on Artifact Handoffs
+
+To connect these Skills into a complete research process, we must specify how they exchange trustworthy artifacts. Literature outputs must feed question decomposition; its criteria must enter project configuration; derivations must produce code tests; simulations must retain raw data and provenance; analysis figures must point back to scripts; review issues must update the claim ledger; only mature checking procedures should become Skills.
+
+Four rules are essential along this chain:
+
+1. Every claim points to data, a derivation, or a source.
+2. Every data transformation retains its inputs, scripts, parameters, and outputs.
+3. Every gate states its conditions for advancing and stopping.
+4. AI-generated explanations undergo independent derivation, alternative analysis, or human review.
+
+The researcher remains responsible for whether the model is reasonable, approximations are controlled, data distinguish competing mechanisms, and the paper’s claims are justified. Codex uses Skills to run checks, maintain records, and produce reviewable artifacts. With these responsibilities clear, AI can participate in the core of condensed-matter research, beyond writing code and polishing prose.

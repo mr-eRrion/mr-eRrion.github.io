@@ -5,6 +5,7 @@ import { z } from 'astro/zod';
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/posts' }),
   schema: z.object({
+    lang: z.enum(['zh', 'en']).default('zh'),
     title: z.string(),
     description: z.string(),
     published: z.coerce.date(),
@@ -20,6 +21,7 @@ const posts = defineCollection({
 const series = defineCollection({
   loader: glob({ pattern: '**/*.{yaml,yml}', base: './src/content/series' }),
   schema: z.object({
+    lang: z.enum(['zh', 'en']).default('zh'),
     title: z.string(),
     subtitle: z.string(),
     description: z.string(),

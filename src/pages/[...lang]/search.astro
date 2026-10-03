@@ -1,0 +1,21 @@
+---
+import { i18n, routeLocale, languagePaths } from '../../i18n';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+export const getStaticPaths = languagePaths;
+
+const { t, site } = i18n(routeLocale(Astro.params.lang));
+const pagefindBase = `${import.meta.env.BASE_URL.replace(/\/$/, '')}/`;
+---
+
+<BaseLayout title={`${t.search} · ${site.title}`} description={t.searchDescription}>
+  <section class="listing-shell compact-listing">
+    <header class="listing-header"><span class="eyebrow">{t.search.toUpperCase()}</span><h1>{t.search}</h1><p>{t.searchIntro}</p></header>
+    <div class="search-panel">
+      <pagefind-config base-url={pagefindBase}></pagefind-config>
+      <pagefind-input placeholder={t.searchPlaceholder}></pagefind-input>
+      <pagefind-results></pagefind-results>
+    </div>
+  </section>
+  <link rel="stylesheet" href={`${pagefindBase}pagefind/pagefind-component-ui.css`} />
+  <script is:inline type="module" src={`${pagefindBase}pagefind/pagefind-component-ui.js`}></script>
+</BaseLayout>

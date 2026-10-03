@@ -1,5 +1,10 @@
+---
+import { i18n, routeLocale } from '../../i18n';
+const { t } = i18n(routeLocale(Astro.params.lang));
+---
+
 <div class="proof">
-  <div class="proof-title">证明</div>
+  <div class="proof-title">{t.proof}</div>
   <slot />
-  <span class="qed" aria-label="证毕">□</span>
+  <span class="qed" aria-label={t.qed}>□</span>
 </div>

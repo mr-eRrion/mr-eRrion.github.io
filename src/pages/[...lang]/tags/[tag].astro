@@ -1,0 +1,35 @@
+---
+import { i18n, routeLocale, localeBase, locales, localeParam, contentSlug } from '../../../i18n';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+  return locales.flatMap((lang) => {
+    const posts = allPosts.filter((post) => post.data.lang === lang).sort((a, b) => b.data.published.valueOf() - a.data.published.valueOf());
+    const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
+    return tags.map((tag) => ({ params: { lang: localeParam(lang), tag }, props: { posts: posts.filter((post) => post.data.tags.includes(tag)) } }));
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+const lang = routeLocale(Astro.params.lang);
+const { t, site, tags: TAG_LABELS } = i18n(lang);
+const base = localeBase(lang);
+---
+
+<BaseLayout title={`${TAG_LABELS[tag!] ?? tag} · ${site.title}`}>
+  <section class="listing-shell compact-listing">
+    <header class="listing-header"><span class="eyebrow">{t.topics.toUpperCase()}</span><h1>{TAG_LABELS[tag!] ?? tag}</h1><p>{t.topicIntro(posts.length)}</p></header>
+    <div class="post-list">
+      {posts.map((post, index) => (
+        <article>
+          <div class="post-list-index">{String(index + 1).padStart(2, '0')}</div>
+          <div><div class="article-meta"><time>{post.data.published.toISOString().slice(0, 10)}</time></div><h2><a href={`${base}/posts/${contentSlug(post.id)}/`}>{post.data.title}</a></h2><p>{post.data.description}</p></div>
+          <a class="round-arrow" href={`${base}/posts/${contentSlug(post.id)}/`}>→</a>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

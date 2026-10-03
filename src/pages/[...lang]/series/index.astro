@@ -1,0 +1,40 @@
+---
+import { i18n, routeLocale, localeBase, languagePaths, contentSlug } from '../../../i18n';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export const getStaticPaths = languagePaths;
+
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+const base = localeBase(lang);
+const seriesList = (await getCollection('series', ({ data }) => data.lang === lang)).sort((a, b) => a.data.volume - b.data.volume);
+const posts = await getCollection('posts', ({ data }) => !data.draft && data.lang === lang);
+const statusLabels = t;
+---
+
+<BaseLayout title={`${t.series} · ${site.title}`} description={t.seriesDescription}>
+  <section class="listing-shell series-index" data-pagefind-body>
+    <header class="listing-header">
+      <span class="eyebrow">{t.seriesHeading.toUpperCase()}</span>
+      <h1>{t.series}</h1>
+    </header>
+    <div class="series-grid">
+      {seriesList.map((series) => {
+        const count = posts.filter((post) => post.data.series?.id === series.id).length;
+        return (
+          <a class="series-card" href={`${base}/series/${contentSlug(series.id)}/`}>
+            <div class="series-card-top"><span>{t.volume.toUpperCase()} {String(series.data.volume).padStart(2, '0')}</span><b>{statusLabels[series.data.status]}</b></div>
+            <div class="series-card-symbol">Φ<sup>{series.data.volume}</sup></div>
+            <div class="series-card-copy">
+              <small>{series.data.subtitle}</small>
+              <h2>{series.data.title}</h2>
+              <p>{series.data.description}</p>
+            </div>
+            <div class="series-card-footer"><span>{t.chapterCount(count)}</span><strong>{t.openSeries}</strong></div>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

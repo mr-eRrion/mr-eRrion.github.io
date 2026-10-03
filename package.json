@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "check": "astro check",
+    "check:i18n": "node scripts/check-i18n.mjs",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview"
   },

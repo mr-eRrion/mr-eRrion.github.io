@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { i18n, localeBase, type Locale } from '../i18n';
+interface Props { lang: Locale }
+const { lang } = Astro.props;
+const { t, site } = i18n(lang);
+---
+
+<BaseLayout lang={lang} title={`${t.notFound} · ${site.title}`} notFound>
+  <section class="not-found"><div class="error-symbol">∅</div><span>404 · {t.emptySet.toUpperCase()}</span><h1>{t.notFoundHeading}</h1><p>{t.notFoundIntro}</p><a class="button primary" href={`${localeBase(lang)}/`}>{t.backHome}</a></section>
+</BaseLayout>

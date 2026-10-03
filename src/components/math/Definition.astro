@@ -1,4 +1,6 @@
 ---
+import { i18n, routeLocale } from '../../i18n';
+const { t } = i18n(routeLocale(Astro.params.lang));
 interface Props {
   name?: string;
   number?: string;
@@ -9,7 +11,7 @@ const { name, number } = Astro.props;
 
 <aside class="math-environment definition">
   <div class="environment-title">
-    <strong>定义{number ? ` ${number}` : ''}</strong>{name && <span>（{name}）</span>}
+    <strong>{t.definition}{number ? ` ${number}` : ''}</strong>{name && <span>{Astro.params.lang === 'en' ? ` (${name})` : `（${name}）`}</span>}
   </div>
   <slot />
 </aside>

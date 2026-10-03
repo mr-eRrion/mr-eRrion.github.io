@@ -1,7 +1,7 @@
 ---
 import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
-import { TAG_LABELS } from '../config';
+import { i18n, localeBase, contentSlug, htmlLang } from '../i18n';
 
 interface Props {
   post: CollectionEntry<'posts'>;
@@ -9,12 +9,14 @@ interface Props {
 }
 
 const { post, headings } = Astro.props;
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const date = new Intl.DateTimeFormat('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' }).format(post.data.published);
+const lang = post.data.lang;
+const { t, site, tags: TAG_LABELS } = i18n(lang);
+const base = localeBase(lang);
+const date = new Intl.DateTimeFormat(htmlLang(lang), { year: 'numeric', month: 'long', day: 'numeric' }).format(post.data.published);
 const readingHeadings = headings.filter((heading) => heading.depth === 2 || heading.depth === 3);
 const series = post.data.series ? await getEntry(post.data.series) : undefined;
 const seriesPosts = post.data.series
-  ? (await getCollection('posts', ({ data }) => !data.draft && data.series?.id === post.data.series?.id))
+  ? (await getCollection('posts', ({ data }) => !data.draft && data.lang === lang && data.series?.id === post.data.series?.id))
       .sort((a, b) => (a.data.seriesOrder ?? 0) - (b.data.seriesOrder ?? 0))
   : [];
 const seriesIndex = seriesPosts.findIndex((item) => item.id === post.id);
@@ -22,17 +24,17 @@ const previousPost = seriesIndex > 0 ? seriesPosts[seriesIndex - 1] : undefined;
 const nextPost = seriesIndex >= 0 ? seriesPosts[seriesIndex + 1] : undefined;
 ---
 
-<BaseLayout title={`${post.data.title} · eRrion 的小屋`} description={post.data.description} article={post}>
+<BaseLayout title={`${post.data.title} · ${site.title}`} description={post.data.description} article={post} lang={lang}>
   <article class="post-shell">
     <header class="post-header">
-      <a class="back-link" href={`${base}/posts/`}>← 返回文章</a>
+      <a class="back-link" href={`${base}/posts/`}>{t.backPosts}</a>
       <div class="post-meta">
-        {series && <><a class="post-series-link" href={`${base}/series/${series.id}/`}>卷 {String(series.data.volume).padStart(2, '0')} · {series.data.title}</a><span aria-hidden="true">·</span></>}
+        {series && <><a class="post-series-link" href={`${base}/series/${contentSlug(series.id)}/`}>{t.volume} {String(series.data.volume).padStart(2, '0')} · {series.data.title}</a><span aria-hidden="true">·</span></>}
         <time datetime={post.data.published.toISOString()}>{date}</time>
         <span aria-hidden="true">·</span>
-        <span>约 {Math.max(4, Math.round((post.body?.length ?? 0) / 900))} 分钟阅读</span>
+        <span>{t.readingTime(Math.max(1, Math.ceil(lang === 'en' ? (post.body?.split(/\s+/).length ?? 0) / 220 : (post.body?.length ?? 0) / 900)))}</span>
       </div>
-      <h1>{post.data.title}</h1>
+      <h1 data-pagefind-meta="title">{post.data.title}</h1>
       <p>{post.data.description}</p>
       <div class="post-tags">
         {post.data.tags.map((tag) => <a href={`${base}/tags/${tag}/`}>{TAG_LABELS[tag] ?? tag}</a>)}
@@ -40,39 +42,39 @@ const nextPost = seriesIndex >= 0 ? seriesPosts[seriesIndex + 1] : undefined;
     </header>
 
     <div class="post-grid">
-      <aside class="toc" aria-label="文章目录">
-        <div class="toc-title">本页目录</div>
+      <aside class="toc" aria-label={t.toc}>
+        <div class="toc-title">{t.onThisPage}</div>
         {readingHeadings.length > 0 ? (
           <ol>
             {readingHeadings.map((heading) => (
               <li class:list={{ nested: heading.depth === 3 }}><a href={`#${heading.slug}`}>{heading.text}</a></li>
             ))}
           </ol>
-        ) : <p>本文暂无分节</p>}
+        ) : <p>{t.noSections}</p>}
       </aside>
       <div class="prose" data-pagefind-body>
         <slot />
       </div>
     </div>
     {series && (
-      <nav class="series-navigation" aria-label="专栏章节导航">
+      <nav class="series-navigation" aria-label={t.seriesNav}>
         <div class="series-progress">
           <div>
-            <span>所属专栏</span>
-            <a href={`${base}/series/${series.id}/`}>{series.data.title}</a>
+            <span>{t.partOf}</span>
+            <a href={`${base}/series/${contentSlug(series.id)}/`}>{series.data.title}</a>
           </div>
           <div class="chapter-progress">
-            <span>第 {post.data.seriesOrder} 章，共 {seriesPosts.length} 章</span>
+            <span>{t.chapterProgress(post.data.seriesOrder ?? seriesIndex + 1, seriesPosts.length)}</span>
             <div><i style={`width: ${((seriesIndex + 1) / seriesPosts.length) * 100}%`}></i></div>
           </div>
         </div>
         <div class="series-neighbours">
           {previousPost ? (
-            <a class="previous" href={`${base}/posts/${previousPost.id}/`}><span>← 上一章</span><strong>{previousPost.data.title}</strong></a>
+            <a class="previous" href={`${base}/posts/${contentSlug(previousPost.id)}/`}><span>{t.previous}</span><strong>{previousPost.data.title}</strong></a>
           ) : <div></div>}
           {nextPost ? (
-            <a class="next" href={`${base}/posts/${nextPost.id}/`}><span>下一章 →</span><strong>{nextPost.data.title}</strong></a>
-          ) : <a class="next" href={`${base}/series/${series.id}/`}><span>返回专栏 →</span><strong>查看完整目录</strong></a>}
+            <a class="next" href={`${base}/posts/${contentSlug(nextPost.id)}/`}><span>{t.next}</span><strong>{nextPost.data.title}</strong></a>
+          ) : <a class="next" href={`${base}/series/${contentSlug(series.id)}/`}><span>{t.backSeries}</span><strong>{t.fullContents}</strong></a>}
         </div>
       </nav>
     )}

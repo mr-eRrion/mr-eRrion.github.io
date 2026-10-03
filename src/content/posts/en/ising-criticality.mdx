@@ -1,0 +1,30 @@
+---
+lang: en
+title: What Does Scale Mean Near a Critical Point?
+description: From correlation length to universality, build geometric intuition for continuous phase transitions.
+published: 2026-08-05
+tags: [statistical-physics]
+featured: true
+---
+
+Near a continuous phase transition, the correlation length diverges as
+
+$$
+ \xi \sim |T - T_c|^{-\nu}
+$$
+
+The system thus loses a natural finite length scale. Similar fluctuation patterns appear across scales, from the lattice spacing to macroscopic distances.
+
+## Correlation Functions
+
+Away from the critical point, the connected correlation function typically decays exponentially:
+
+$$
+ G(r) \sim \frac{\exp(-r / \xi)}{r^{d - 2 + \eta}} .
+$$
+
+At $ T = T_c $, $ \xi \to \infty $: the exponential cutoff disappears, leaving a power law. This scale-free behavior makes the renormalization group a natural language for describing critical phenomena.
+
+## Where Universality Comes From
+
+Coarse graining forgets many microscopic details while retaining a few structural features, such as dimensionality, symmetry, and the range of interactions. Different materials can therefore flow to the same fixed point and share critical exponents.
