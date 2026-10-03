@@ -69,7 +69,7 @@ const navigation = [
         <span class="mark-symbol" aria-hidden="true">Φ</span>
         <span>eRrion 的小屋</span>
       </a>
-      <a class="sidebar-search" href={`${base}/search/`} aria-label="搜索札记"><span>搜索札记</span><span aria-hidden="true">⌕</span></a>
+      <a class="sidebar-search" href={`${base}/search/`} aria-label="搜索文章"><span>搜索文章</span><span aria-hidden="true">⌕</span></a>
       <details class="sidebar-menu" open>
         <summary>浏览与主题 <span aria-hidden="true">＋</span></summary>
         <div class="sidebar-group">
@@ -88,7 +88,7 @@ const navigation = [
             {Object.entries(TAG_LABELS).map(([tag, label]) => <a href={`${base}/tags/${tag}/`} aria-current={isActive(`/tags/${tag}`) ? 'page' : undefined}>{label}</a>)}
           </nav>
         </div>
-        <div class="sidebar-note"><span>札记 / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>RSS 订阅 ↗</a></div>
+        <div class="sidebar-note"><span>文章 / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>RSS 订阅 ↗</a></div>
       </details>
       <div class="theme-switch" role="group" aria-label="外观主题">
         <button type="button" data-theme-choice="light" aria-label="浅色主题" aria-pressed="false">☼ <span>浅色</span></button>
