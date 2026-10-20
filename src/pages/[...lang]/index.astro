@@ -49,7 +49,7 @@ const formatDate = (date: Date) => date.toISOString().slice(0, 10).replaceAll('-
     <section class="timeline-section" aria-labelledby="timeline-heading">
       <div class="home-section-heading">
         <h2 id="timeline-heading">{t.latest}</h2>
-        <a href={`${base}/archive/`}>{t.list} <span aria-hidden="true">→</span></a>
+        <a href={`${base}/posts/`}>{t.allPosts} <span aria-hidden="true">→</span></a>
       </div>
       <div class="home-timeline">
         {timelinePosts.map((post) => (

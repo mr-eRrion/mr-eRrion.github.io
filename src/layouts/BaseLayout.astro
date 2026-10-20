@@ -12,7 +12,7 @@ interface Props {
 }
 
 const lang = Astro.props.lang ?? routeLocale(Astro.params.lang);
-const { t, site: SITE, tags: TAG_LABELS } = i18n(lang);
+const { t, site: SITE } = i18n(lang);
 const {
   title = SITE.title,
   description = SITE.description,
@@ -49,9 +49,8 @@ const navigation = [
   { path: '/', label: t.home, number: '01' },
   { path: '/posts', label: t.allPosts, number: '02' },
   { path: '/series', label: t.series, number: '03' },
-  { path: '/archive', label: t.archive, number: '04' },
-  { path: '/tags', label: t.topicIndex, number: '05' },
-  { path: '/about', label: t.about, number: '06' }
+  { path: '/tags', label: t.topics, number: '04' },
+  { path: '/about', label: t.about, number: '05' }
 ];
 ---
 
@@ -106,7 +105,7 @@ const navigation = [
         <a href={lang === 'en' ? Astro.url.pathname : alternateURL.pathname} lang="en" hreflang="en" aria-current={lang === 'en' ? 'page' : undefined}>English</a>
       </nav>
       <details class="sidebar-menu" open>
-        <summary>{t.browseTopics} <span aria-hidden="true">＋</span></summary>
+        <summary>{t.browseSections} <span aria-hidden="true">＋</span></summary>
         <div class="sidebar-group">
           <p class="sidebar-label">{t.explore}</p>
           <nav class="primary-nav" aria-label={t.mainNav}>
@@ -118,10 +117,7 @@ const navigation = [
           </nav>
         </div>
         <div class="sidebar-group">
-          <p class="sidebar-label">{t.topics}</p>
-          <nav class="topic-nav" aria-label={t.topicNav}>
-            {Object.entries(TAG_LABELS).map(([tag, label]) => <a href={`${base}/tags/${tag}/`} aria-current={isActive(`/tags/${tag}`) ? 'page' : undefined}>{label}</a>)}
-          </nav>
+          <p class="sidebar-label">{t.otherSections}</p>
         </div>
         <div class="sidebar-note"><span>{t.posts} / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>{t.rss}</a></div>
       </details>

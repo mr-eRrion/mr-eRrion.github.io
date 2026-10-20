@@ -54,7 +54,7 @@
 
 - 新文章能否只通过内容文件和元数据加入站点，而无需修改页面逻辑？
 - 普通根路径和 GitHub Pages 仓库子路径下的页面、图片、RSS、搜索与站内链接是否都正确？
-- 草稿是否在列表页、详情页、专栏、标签、归档、RSS 和搜索索引中一致地不可见？
+- 草稿是否在列表页、详情页、专栏、标签、RSS 和搜索索引中一致地不可见？
 - 专栏引用、章节顺序与前后章导航是否一致？
 - 数学公式、代码块、定理环境和长文目录在桌面与窄屏下是否保持可读？
 - 元数据、canonical URL、Open Graph 信息、sitemap 和 RSS 是否与站点配置一致？
@@ -62,6 +62,8 @@
 主要观察对象包括构建结果、类型与内容检查、生成路由、内部链接、静态资源路径、搜索索引、RSS/sitemap、响应式布局和浏览器控制台错误。
 
 ## 实现策略与设计决策
+
+- 侧栏“浏览”保留首页、全部文章、专栏、主题、关于；主题分类统一从主题索引进入。下方“其他栏目”暂只保留标题，供后续扩展；不再生成归档页，时间顺序阅读由文章列表承担。
 
 - 使用 Astro Content Collections 和 `src/content.config.ts` 作为文章与专栏元数据的唯一 schema 来源。
 - 在构建期生成文章、专栏和标签动态路由；所有公开内容均由仓库内文件驱动。
@@ -87,7 +89,7 @@ src/content/posts/en/         与中文同名的英文文章
 src/content/series/en/        英文专栏元数据
 src/components/math/          定义、定理、证明等 MDX 组件
 src/layouts/                  全站基础布局和文章布局
-src/pages/                    首页、列表、详情、归档、标签、搜索与 RSS 路由
+src/pages/                    首页、列表、详情、标签、搜索与 RSS 路由
 scripts/check-i18n.mjs        构建后的双语路由、链接与索引检查
 src/styles/global.css         全站视觉与响应式样式
 public/                       favicon、头像、Open Graph 图片等原样发布资源
@@ -167,5 +169,5 @@ GitHub 仓库需在 Pages 设置中选择 GitHub Actions 作为发布来源。
 ## 当前状态
 
 - 阶段：可运行的初始版本，处于内容扩充与站点细节完善期。
-- 已有能力：中英文切换、Markdown/MDX、KaTeX、数学环境组件、文章目录、专栏章节、标签、归档、分语言 RSS 与 Pagefind 搜索、sitemap、响应式布局和 GitHub Pages 自动部署。
+- 已有能力：中英文切换、Markdown/MDX、KaTeX、数学环境组件、文章目录、专栏章节、标签、分语言 RSS 与 Pagefind 搜索、sitemap、响应式布局和 GitHub Pages 自动部署。
 - 已有内容：6 篇文章与对应的 6 篇英文译文、1 个双语连载专栏；其中包含一篇讨论 Codex Skills 与凝聚态物理科研工作流的 AI for Research 文章。
