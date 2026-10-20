@@ -5,12 +5,11 @@ export const getStaticPaths = languagePaths;
 const lang = routeLocale(Astro.params.lang);
 const { t, site } = i18n(lang);
 ---
-<BaseLayout title={`${t.games} · ${site.title}`} description={t.gamesIntro}>
+<BaseLayout title={`${t.games} · ${site.title}`} description={t.games}>
   <section class="listing-shell" data-pagefind-body>
     <header class="listing-header">
       <span class="eyebrow">{t.otherSections}</span>
       <h1>{t.games}</h1>
-      <p>{t.gamesIntro}</p>
     </header>
     <div class="tag-grid">
       <a href={`${localeBase(lang)}/games/bingo/`}>
@@ -24,6 +23,12 @@ const { t, site } = i18n(lang);
         <h2>Wordle</h2>
         <p>{lang === 'zh' ? '六次机会，挑战 4–7 字母英文单词。' : 'Six tries. Choose a 4–7 letter English word.'}</p>
         <p class="play">{lang === 'zh' ? '开始猜词 →' : 'Play Wordle →'}</p>
+      </a>
+      <a href={`${localeBase(lang)}/games/rhythm-letters/`}>
+        <span>03 / RHYTHM LETTERS</span>
+        <h2>{lang === 'zh' ? '音游开字母' : 'Rhythm Letter Reveal'}</h2>
+        <p>{lang === 'zh' ? '挑选音游曲库，逐字揭开隐藏的曲名。' : 'Choose rhythm games and reveal hidden song titles, one character at a time.'}</p>
+        <p class="play">{lang === 'zh' ? '开始猜曲 →' : 'Play →'}</p>
       </a>
     </div>
   </section>

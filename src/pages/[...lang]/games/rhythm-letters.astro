@@ -1,0 +1,222 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { i18n, routeLocale, languagePaths, localeBase } from '../../../i18n';
+export const getStaticPaths = languagePaths;
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+const zh = lang === 'zh';
+const title = zh ? '音游开字母' : 'Rhythm Letter Reveal';
+const description = zh ? '音游开字母游戏，支持曲名和曲名加署名两种模式。' : 'A rhythm song letter reveal game with title-only and title-and-credit modes.';
+---
+<BaseLayout title={`${title} · ${site.title}`} description={description}>
+  <section class="listing-shell" data-pagefind-body>
+    <header class="listing-header">
+      <a href={`${localeBase(lang)}/games/`}>← {t.games}</a>
+      <h1>{title}</h1>
+    </header>
+    <div id="rhythm" data-lang={lang} data-url={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/data/rhythm-playable.json`} data-pagefind-ignore>
+      <p class="rules">{zh ? '开字符，猜完整答案；不区分大小写，无署名只猜曲名。' : 'Reveal characters and guess the full answer. Case ignored; no credit means title only.'}</p>
+      <details open class="setup">
+        <summary>{zh ? '曲库与开局设置' : 'Libraries & round settings'}</summary>
+        <div class="tools">
+          <label for="mode">{zh ? '开字母模式' : 'Reveal mode'}</label>
+          <select id="mode" aria-describedby="mode-help">
+            <option value="title">{zh ? '只开曲名' : 'Title only'}</option>
+            <option value="credit" selected>{zh ? '曲名 - 署名' : 'Title - Credit'}</option>
+          </select>
+          <span id="mode-help">{zh ? '模式选择对下一局生效' : 'Applies to the next round'}</span>
+        </div>
+        <div class="tools"><button id="all" type="button" disabled>{zh ? '全选' : 'Select all'}</button><button id="none" type="button" disabled>{zh ? '清空选择' : 'Clear selection'}</button><span id="pool"></span></div>
+        <div id="libraries"></div>
+        <div class="tools">
+          <label for="count">{zh ? '曲目数' : 'Songs'}</label>
+          <input id="count" type="number" value="10" min="1" max="50" step="1" />
+          <button id="start" type="button" disabled>{zh ? '抽取新一局' : 'Draw new round'}</button>
+        </div>
+      </details>
+      <p id="status" role="status" aria-live="polite">{zh ? '正在加载曲库…' : 'Loading libraries…'}</p>
+      <button id="retry" type="button" hidden>{zh ? '重新加载' : 'Retry loading'}</button>
+      <section id="round" hidden aria-label={zh ? '本局游戏' : 'Current round'}>
+        <p id="round-mode"></p>
+        <div class="score"><span id="progress"></span><span id="opened-count"></span></div>
+        <ol id="songs"></ol>
+        <form id="reveal-form" class="tools">
+          <label for="character">{zh ? '开字符' : 'Reveal character'}</label>
+          <input id="character" autocomplete="off" placeholder={zh ? '字母、数字、汉字或符号' : 'Letter, number or symbol'} required />
+          <button type="submit">{zh ? '揭开' : 'Reveal'}</button>
+        </form>
+        <p class="opened"><span>{zh ? '已开字符：' : 'Revealed: '}</span><span id="opened">—</span></p>
+        <form id="guess-form" class="tools">
+          <label for="guess">{zh ? '猜完整答案' : 'Guess the full answer'}</label>
+          <input id="guess" autocomplete="off" placeholder={zh ? '曲名 - 署名' : 'Title - Credit'} required />
+          <button type="submit">{zh ? '提交答案' : 'Submit'}</button>
+        </form>
+        <div class="tools"><button id="finish" type="button">{zh ? '结束并揭晓' : 'End & reveal all'}</button><button id="copy" type="button">{zh ? '复制当前题面' : 'Copy board'}</button></div>
+      </section>
+    </div>
+    <noscript>{zh ? '请启用 JavaScript 后开始游戏。' : 'Enable JavaScript to play.'}</noscript>
+    <p class="source">{zh ? '曲名题库：' : 'Song library: '}<a href="https://falloxygen.github.io/">FallOxygen · 曲名游戏工具箱</a> · <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/data/rhythm-songs.txt`} download>{zh ? '下载曲名快照' : 'Download titles'}</a> · <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/data/rhythm-artists.json`} download>{zh ? '署名数据与来源' : 'Credits & sources'}</a><br />{zh ? '2026-10-20 快照。署名来自各游戏 Wiki 和公开数据库。游戏在浏览器本地运行，刷新会清空本局。' : 'Snapshot: 2026-10-20. Credits come from game wikis and public databases. Runs locally in your browser; reloading clears the round.'}</p>
+  </section>
+</BaseLayout>
+
+<script>
+  import games from '../../../data/rhythm-games.json';
+  import { normalize, answerKey, songText, songPool, pickSongs, type Song, type SongLibrary, type SongMode } from '../../../lib/rhythm-letters';
+  const root = document.querySelector<HTMLElement>('#rhythm')!;
+  const zh = root.dataset.lang === 'zh';
+  const el = <T extends HTMLElement = HTMLElement>(id: string) => root.querySelector<T>(`#${id}`)!;
+  const say = (cn: string, en: string) => { el('status').textContent = zh ? cn : en; };
+  let library: SongLibrary = {};
+  let songs: Song[] = [];
+  let solved = new Set<number>();
+  let opened = new Set<string>();
+  let ended = false;
+  let roundMode: SongMode = 'credit';
+  const selectedMode = (): SongMode => el<HTMLSelectElement>('mode').value === 'title' ? 'title' : 'credit';
+  const selection = () => [...root.querySelectorAll<HTMLInputElement>('[data-library]:checked')].map(input => input.value);
+  const pool = () => songPool(library, selection(), selectedMode());
+  function updatePool() {
+    el('pool').textContent = zh ? `${pool().length} 首可选曲目` : `${pool().length} available songs`;
+    root.querySelectorAll<HTMLInputElement>('[data-library]').forEach(input => {
+      input.nextElementSibling!.textContent = `${input.value} (${songPool(library, [input.value], selectedMode()).length})`;
+    });
+  }
+  function render() {
+    el('songs').replaceChildren(...songs.map((song, index) => {
+      const row = document.createElement('li');
+      const title = document.createElement('span');
+      title.className = 'song-title';
+      title.textContent = songText(song, ended || solved.has(index) ? undefined : opened);
+      row.append(title);
+      if (solved.has(index) || ended) {
+        const tag = document.createElement('small');
+        tag.textContent = solved.has(index) ? (zh ? '已猜中' : 'Solved') : (zh ? '未猜中' : 'Unsolved');
+        row.append(tag);
+      } else {
+        const mark = document.createElement('button');
+        mark.type = 'button';
+        mark.textContent = zh ? '标记猜中' : 'Mark solved';
+        mark.setAttribute('aria-label', zh ? `第 ${index + 1} 首标记猜中` : `Mark song ${index + 1} solved`);
+        mark.onclick = () => { solved.add(index); complete(); render(); };
+        row.append(mark);
+      }
+      return row;
+    }));
+    el('progress').textContent = zh ? `猜中 ${solved.size} / ${songs.length}` : `${solved.size} / ${songs.length} solved`;
+    el('opened-count').textContent = zh ? `已开 ${opened.size} 个字符` : `${opened.size} characters revealed`;
+    el('opened').textContent = [...opened].join(' · ') || '—';
+    root.querySelectorAll<HTMLInputElement | HTMLButtonElement>('#reveal-form input, #reveal-form button, #guess-form input, #guess-form button, #finish').forEach(input => input.disabled = ended);
+  }
+  function complete() {
+    if (solved.size === songs.length) { ended = true; say('全部猜中了！可以再开一局。', 'All solved! Draw another round.'); }
+  }
+  function reveal(value: string) {
+    if (ended || !songs.length) return;
+    const chars = Array.from(value.trim());
+    if (chars.length !== 1) { say('每次请输入一个字符。', 'Enter one character at a time.'); return; }
+    const char = normalize(chars[0]);
+    if (opened.has(char)) { say('这个字符已经开过了。', 'That character is already revealed.'); return; }
+    opened.add(char);
+    say(`已揭开「${chars[0]}」。`, `Revealed “${chars[0]}”.`);
+    render();
+    el<HTMLInputElement>('character').value = '';
+  }
+  el('start').onclick = () => {
+    const available = pool();
+    const count = Number(el<HTMLInputElement>('count').value);
+    if (!Number.isInteger(count) || count < 1 || count > 50 || count > available.length) {
+      say('请选择曲库，曲目数须为 1–50 且不超过可选曲目数。', 'Choose libraries and 1–50 songs, within the available pool.'); return;
+    }
+    if (songs.length && !ended && !window.confirm(zh ? '放弃当前局并重新抽曲？' : 'Discard this round and draw again?')) return;
+    songs = pickSongs(available, count); solved = new Set(); opened = new Set(); ended = false;
+    roundMode = selectedMode();
+    el('round-mode').textContent = roundMode === 'title' ? (zh ? '本局：只开曲名' : 'This round: Title only') : (zh ? '本局：曲名 - 署名' : 'This round: Title - Credit');
+    el<HTMLInputElement>('guess').placeholder = roundMode === 'title' ? (zh ? '完整曲名' : 'Full title') : (zh ? '曲名 - 署名' : 'Title - Credit');
+    el('round').hidden = false;
+    root.querySelector('details')!.open = false;
+    el<HTMLInputElement>('guess').value = '';
+    el<HTMLInputElement>('character').value = '';
+    say('新一局已开始，开一个字符试试。', 'Round started. Reveal a character to begin.');
+    render();
+  };
+  el('all').onclick = () => { root.querySelectorAll<HTMLInputElement>('[data-library]').forEach(input => input.checked = true); updatePool(); };
+  el('none').onclick = () => { root.querySelectorAll<HTMLInputElement>('[data-library]').forEach(input => input.checked = false); updatePool(); };
+  el('mode').onchange = updatePool;
+  el('reveal-form').onsubmit = event => { event.preventDefault(); reveal(el<HTMLInputElement>('character').value); };
+  el('guess-form').onsubmit = event => {
+    event.preventDefault();
+    if (ended) return;
+    const key = answerKey(el<HTMLInputElement>('guess').value);
+    const matches = songs.map((song, i) => answerKey(songText(song)) === key && !solved.has(i) ? i : -1).filter(i => i >= 0);
+    if (!matches.length) {
+      if (roundMode === 'title') say('没有匹配到尚未猜中的曲目，请检查完整曲名。', 'No unsolved answer matches. Check the full title.');
+      else say('没有匹配到尚未猜中的曲目，请检查完整的「曲名 - 署名」；无署名时只填曲名。', 'No unsolved answer matches. Check the full “Title - Credit”; use only the title for songs without a credit.');
+      return;
+    }
+    matches.forEach(i => solved.add(i));
+    el<HTMLInputElement>('guess').value = '';
+    say('猜中了！', 'Correct!'); complete(); render();
+  };
+  el('finish').onclick = () => {
+    if (!window.confirm(zh ? '结束本局并显示所有答案？' : 'End this round and reveal every answer?')) return;
+    ended = true; say('本局已结束。未猜中的曲目已揭晓。', 'Round ended. All remaining titles are revealed.'); render();
+  };
+  el('copy').onclick = async () => {
+    const text = songs.map((song, i) => `${i + 1}. ${songText(song, ended || solved.has(i) ? undefined : opened)}`).join('\n');
+    try { await navigator.clipboard.writeText(text); say('题面已复制。', 'Board copied.'); }
+    catch { say('复制失败，请允许浏览器访问剪贴板后重试。', 'Copy failed. Allow clipboard access and try again.'); }
+  };
+  async function load() {
+    el('retry').hidden = true;
+    try {
+      const response = await fetch(root.dataset.url!);
+      if (!response.ok) throw new Error('Library request failed');
+      const data = await response.json();
+      if (!data || Object.keys(data).length !== games.length || !games.every(game =>
+        Array.isArray(data[game]) && data[game].length && data[game].every((song: Song) =>
+          song && typeof song.title === 'string' && song.title.trim() &&
+          (song.artist === undefined || typeof song.artist === 'string' && song.artist.trim())),
+      )) throw new Error('Invalid library');
+      library = data;
+      el('libraries').replaceChildren(...Object.keys(library).map(name => {
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.type = 'checkbox'; input.value = name; input.dataset.library = '';
+        input.checked = name === 'Phigros'; input.onchange = updatePool;
+        label.append(input, document.createElement('span'));
+        return label;
+      }));
+      ['start', 'all', 'none'].forEach(id => el<HTMLButtonElement>(id).disabled = false);
+      updatePool(); say('曲库已就绪，选择范围后开始。', 'Libraries ready. Choose your selection and start.');
+    } catch { say('曲库加载失败，请重试。', 'Could not load libraries. Please retry.'); el('retry').hidden = false; }
+  }
+  el('retry').onclick = load;
+  load();
+</script>
+
+<style>
+  .rules, .source { color: var(--ink-soft); font-size: 13px; line-height: 1.9; }
+  .source { margin-top: 32px; } .source a { text-decoration: underline; }
+  .setup { border: 1px solid var(--rule); padding: 18px; }
+  summary { cursor: pointer; font-family: var(--serif); }
+  .tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 18px 0; }
+  button, input, select { border: 1px solid var(--rule); background: var(--paper); color: var(--ink); padding: 9px 12px; font: inherit; border-radius: 0; }
+  button { cursor: pointer; font-size: 13px; } button:hover:not(:disabled) { border-color: var(--blue); color: var(--blue); }
+  button:disabled { opacity: .4; cursor: default; } input:focus-visible, select:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
+  #start { background: var(--ink); color: var(--paper); } #count { width: 80px; }
+  #libraries { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 12px; max-height: 240px; overflow-y: auto; padding: 8px 0; }
+  #libraries :global(label) { display: flex; align-items: center; gap: 7px; font-size: 12px; }
+  #libraries :global(input) { accent-color: var(--blue); }
+  #pool, #status, #mode-help, #round-mode, .opened { font-size: 13px; color: var(--ink-soft); }
+  .score { display: flex; justify-content: space-between; gap: 16px; border-block: 1px solid var(--rule); padding: 16px 0; color: var(--blue); font: 14px var(--mono); }
+  #songs { padding-left: 32px; }
+  #songs :global(li) { padding: 14px 0 14px 4px; border-bottom: 1px solid var(--rule); }
+  #songs :global(.song-title) { font-family: var(--mono); font-size: 17px; white-space: pre-wrap; overflow-wrap: anywhere; }
+  #songs :global(button), #songs :global(small) { margin-left: 14px; font-size: 11px; color: var(--blue); }
+  #songs :global(button) { border: 1px solid var(--rule); background: var(--paper); padding: 6px 9px; cursor: pointer; }
+  #character, #guess { flex: 1; min-width: 140px; width: 100%; }
+  .opened { overflow-wrap: anywhere; }
+  @media (max-width: 600px) {
+    .setup { padding: 12px; } .tools label { width: 100%; }
+  }
+</style>

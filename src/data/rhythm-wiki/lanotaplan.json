@@ -1,0 +1,86 @@
+[
+  {
+    "line": 3,
+    "text": "|CENTER:200|CENTER:200|CENTER:200|CENTER:200|CENTER:200|c"
+  },
+  {
+    "line": 4,
+    "text": "|[[Scattered Echoes 1>調律計画楽曲一覧#Scattered_Echoes_1]]&br;散らばる残響1|[[PinocchioP Selection>調律計画楽曲一覧#PinocchioP]]&br;PinocchioP|[[Virtual Singer Selection>調律計画楽曲一覧#Virtual_Singer]]&br;バーチャルシンガー|BGCOLOR(lightgray):|BGCOLOR(lightgray):|"
+  },
+  {
+    "line": 14,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 15,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 16,
+    "text": "|[[Burn]]|Nces|3|6|12|14|2:17|148||"
+  },
+  {
+    "line": 17,
+    "text": "|[[Autism]]|Yan Dong Wei|3|6|10|13|3:54|125||"
+  },
+  {
+    "line": 18,
+    "text": "|[[IN]]|Zris feat. Katie|3|7|11|13+|2:10|133||"
+  },
+  {
+    "line": 19,
+    "text": "|[[Regain]]|Project G|5|9|13+|&color(Purple){15};|2:17|140||"
+  },
+  {
+    "line": 20,
+    "text": "|[[Poppy]]|Columba(Daily vs. Roon_kun)|6|10|13|&color(Purple){15+};|2:30|220||"
+  },
+  {
+    "line": 29,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 30,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 31,
+    "text": "|[[God-ish]]|PinocchioP|4|7|11|14|3:23|142||"
+  },
+  {
+    "line": 32,
+    "text": "|[[Anonymous M]]|PinocchioP|3|8|12|13+|2:39|140||"
+  },
+  {
+    "line": 33,
+    "text": "|[[Magical Girl and Chocolate]]|PinocchioP|4|8|13|&color(Purple){15};|3:07|150||"
+  },
+  {
+    "line": 40,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 41,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 42,
+    "text": "|[[Clockwork girl]](撥条少女時計)|Drop((告知では「Drop feat.葉月ゆら」だったが、正式実装時に「葉月ゆら」のクレジット表記が消された。理由は不明))|5|9|13|15|2:53|134||"
+  },
+  {
+    "line": 43,
+    "text": "|[[Dance Robot Dance]](ダンスロボットダンス)|NayutalieN(ナユタン星人)|3|7|12|13+|3:12|190||"
+  },
+  {
+    "line": 44,
+    "text": "|[[Getting Faster and Faster]](だんだん早くなる)|40mP|2|6|10|13|2:20|94-160||"
+  },
+  {
+    "line": 45,
+    "text": "|[[Seyana.]]|GYARI|2|6|12|14|2:06|144||"
+  },
+  {
+    "line": 46,
+    "text": "|[[Tetoris]](テトリス)|Hiiragi Magnetite(柊マグネタイト)|4|8|12|14|2:23|170||"
+  }
+]

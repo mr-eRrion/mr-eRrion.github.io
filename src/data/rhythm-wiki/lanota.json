@@ -1,0 +1,358 @@
+[
+  {
+    "line": 27,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 28,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 29,
+    "text": "|[[Dream goes on]]|Tiny Minim|1|3|6|10|2:22|174||"
+  },
+  {
+    "line": 30,
+    "text": "|[[Only the place where truth has engraved]]|KarasuyaSabou|2|4|7|11|3:08|90||"
+  },
+  {
+    "line": 31,
+    "text": "|[[Chronosis song]]|yanagi  &br;ft.Mika Kobayashi|3|5|8|12|2:39|192|初回は強制的にPurifyモード|"
+  },
+  {
+    "line": 42,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 43,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 44,
+    "text": "|[[vivid color]]|naoto|2|5|8|11|2:11|157||"
+  },
+  {
+    "line": 45,
+    "text": "|[[Ne m'oubliez pas]]|Triodust|3|7|9|12|2:21|118||"
+  },
+  {
+    "line": 46,
+    "text": "|[[ciel nocturne]]|emon(Tes.)|3|6|8|12|2:55|90||"
+  },
+  {
+    "line": 47,
+    "text": "|[[Night Yacht]]|Yukino|4|6|10|13|2:33|86-92||"
+  },
+  {
+    "line": 48,
+    "text": "|[[DARSANA]]|Massive New Krew|5|8|11|13+|2:08|200|%%ノタリウムを20個入手でプレイ可能%%|"
+  },
+  {
+    "line": 49,
+    "text": "|[[Prism]]|bermei.inazawa ft.Chata|3|6|10|13|2:25|109||"
+  },
+  {
+    "line": 50,
+    "text": "|[[Trauma]]|Hige DriVAN|4|7|11|14|2:52|175||"
+  },
+  {
+    "line": 51,
+    "text": "|[[Frey's Philosophy]]|Powerless|6|8|12|&color(Purple){15};|2:14|200|[[Trauma]]をPurifyモードでクリアで出現|"
+  },
+  {
+    "line": 60,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 61,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 62,
+    "text": "|[[Bokura no michi]]|makou feat. Tomomi Kobayashi|1|4|7|12|2:16|124||"
+  },
+  {
+    "line": 63,
+    "text": "|[[Eternal Love]]|Tatsh feat. Odayuuu|2|6|10|12|2:21|114||"
+  },
+  {
+    "line": 64,
+    "text": "|[[Matane]]|Moose|2|7|10|13|2:12|128||"
+  },
+  {
+    "line": 65,
+    "text": "|[[Reclaim]]|DJ OKAWARI|4|8|13|13|2:27|98||"
+  },
+  {
+    "line": 66,
+    "text": "|[[Journey]]|ARForest|5|9|12|14|2:20|100-200|上記4曲全てでチャレンジを1つ以上クリアするとプレイ可能|"
+  },
+  {
+    "line": 67,
+    "text": "|[[cyanine]]|jioyi|6|10|13|&color(Purple){15};|3:14|182|[[Journey]]をPurifyモードでクリアで出現|"
+  },
+  {
+    "line": 74,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 75,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 76,
+    "text": "|[[Apocalypse]]|Alice Schach and the Magic Orchestra|3|6|10|12|2:43|220||"
+  },
+  {
+    "line": 77,
+    "text": "|[[Song for Sprites]]|Sta|3|7|10|13+|2:35|140||"
+  },
+  {
+    "line": 78,
+    "text": "|[[Phoebus]]|Yooh|3|7|11|13+|2:26|176||"
+  },
+  {
+    "line": 79,
+    "text": "|[[Duelo]]|sweez / Meine Meinung|4|7|11|14+|2:33|160||"
+  },
+  {
+    "line": 80,
+    "text": "|[[Androgynos -1st Phase-]]|WAiKURO|5|8|12|14|2:15|192||"
+  },
+  {
+    "line": 81,
+    "text": "|[[Androgynos -2nd Phase-]]|WAiKURO|5|8|13+|14|2:52|192|[[Androgynos -1st Phase-]]をPurifyモードでクリアすると自動で選曲される|"
+  },
+  {
+    "line": 82,
+    "text": "|[[You are the Miserable]]|t+pazolite|6|9|13+|&color(Purple){15};|2:44|163|[[Androgynos -2nd Phase-]]をクリアで出現|"
+  },
+  {
+    "line": 91,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 92,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 93,
+    "text": "|[[Raise (Radio Edit)]]|Junko Iwao|4|7|11|14|2:45|130||"
+  },
+  {
+    "line": 94,
+    "text": "|[[Geranium]]|SIhanatsuka|5|8|11|13+|2:40|160||"
+  },
+  {
+    "line": 95,
+    "text": "|[[edge of the world]]|Shade|4|8|12|14+|2:31|178||"
+  },
+  {
+    "line": 96,
+    "text": "|[[NIENTE]]|NILADMIRARI&br;(ft. Machigerita)|3|6|10|13|2:04|160||"
+  },
+  {
+    "line": 97,
+    "text": "|[[Protoflicker]]|Silentroom|4|8|13+|&color(Purple){15+};|2:52|140||"
+  },
+  {
+    "line": 98,
+    "text": "|[[Stasis]]|Maozon|6|13|&color(Maroon){15};|''&color(Purple){16};''|2:35|180|[[Protoflicker]]をPurifyモードでクリアで出現|"
+  },
+  {
+    "line": 107,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 108,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 109,
+    "text": "|[[Yukianesa]]|tezuka|3|7|12|14|3:00|210||"
+  },
+  {
+    "line": 110,
+    "text": "|[[Lightning]]|AJURIKA|4|8|12|&color(Purple){15};|2:29|174||"
+  },
+  {
+    "line": 111,
+    "text": "|[[Rainmaker]]|Kamome sano|4|9|13|&color(Purple){15+};|2:23|180||"
+  },
+  {
+    "line": 112,
+    "text": "|[[TεμπεΣT]]|Zekk|5|9|13+|&color(Purple){15};|2:08|195||"
+  },
+  {
+    "line": 113,
+    "text": "|[[SolarOrbit -Connected with the Espabrother->SolarOrbit -Connected  with the Espabrother-]]|Apo11o\"FIXEDSTAR\" program &br; feat.Ritsuka|6|12|&color(Maroon){15};|''&color(Purple){16};''|2:42|220-260-192-110-440|上記4曲全てをPurifyモードでクリアで出現|"
+  },
+  {
+    "line": 121,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 122,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 123,
+    "text": "|[[monolith]]|Takenoko boy &br;feat. metyao|4|7|11|14|1:53|203||"
+  },
+  {
+    "line": 124,
+    "text": "|[[Tithonus]]|ginkiha(NIZI-RINGO)|3|7|12|14|2:19|185||"
+  },
+  {
+    "line": 125,
+    "text": "|[[Weg]]|yourmythos|2|6|10|13|3:30|188||"
+  },
+  {
+    "line": 126,
+    "text": "|[[Destiny]]|Rhythm universe|5|8|12|14|2:35|178||"
+  },
+  {
+    "line": 127,
+    "text": "|[[Horizon Blue]]|Nothing But Requiem&br;feat.Aikapin ＆ Chiyoko|5|9|13|&color(Purple){15};|2:45|200|初回は強制的にPurifyモード|"
+  },
+  {
+    "line": 128,
+    "text": "|[[Bloody Marquis]]|brz1128 vs. M-UE|5|9|13|&color(Purple){15};|2:16|220|[[Horizon Blue]]をクリアすると自動で選曲される|"
+  },
+  {
+    "line": 129,
+    "text": "|[[Wolves Standing Towards Enemies]]|Camellia(EDP)|6|13|&color(Maroon){15};|''&color(Purple){16};''|2:50|191|[[Bloody Marquis]]をクリアで出現|"
+  },
+  {
+    "line": 138,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 139,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 140,
+    "text": "|[[Inorganyx Prayer]]|Halv|4|8|11|13+|2:33|160||"
+  },
+  {
+    "line": 141,
+    "text": "|[[Living Will]]|Frums|3|7|12|14+|2:06|94-228||"
+  },
+  {
+    "line": 142,
+    "text": "|[[Nobo -outflowing heart-]]|Se-U-Ra|5|8|12|14|2:25|189||"
+  },
+  {
+    "line": 143,
+    "text": "|[[The Daybreak Will Never Come Again]]|seatrus|5|9|13+|&color(Purple){15+};|2:46|200|初回は強制的にPurifyモード|"
+  },
+  {
+    "line": 144,
+    "text": "|[[Astaroth]]|Team Grimoire|6|13|&color(Maroon){15};|''&color(Purple){16};''|2:39|210|[[The Daybreak Will Never Come Again]]をクリアで出現|"
+  },
+  {
+    "line": 156,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 157,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 158,
+    "text": "|[[KNEEL]]|U-ske &br;feat. Tsukino|3|8|11|14|2:15|170||"
+  },
+  {
+    "line": 159,
+    "text": "|[[Level Up]]|RiraN|4|9|11|14+|2:09|161||"
+  },
+  {
+    "line": 160,
+    "text": "|[[PANGRAMIST]]|Luze &br;& horoscope &br;with trapman &br;a.k.a. DETRO &br;VS LisicA|5|11|14|&color(purple){15+};|2:33|180-215||"
+  },
+  {
+    "line": 161,
+    "text": "|[[Potlatch]]|cybermiso|4|8|12|14+|2:08|110||"
+  },
+  {
+    "line": 162,
+    "text": "|[[Nemexis]]|Juggernaut.|5|11|14+|&color(purple){15+};|2:57|210||"
+  },
+  {
+    "line": 163,
+    "text": "|[[Drama Queen]]|memex|5|10|13|&color(purple){15};|2:49|200||"
+  },
+  {
+    "line": 164,
+    "text": "|[[Vengeance of the \"V\">Vengeance of the V]]|Laur|6|13|&color(Maroon){15};|&color(purple){''16''};|2:49|100-210||"
+  },
+  {
+    "line": 165,
+    "text": "|[[Immaculate]]|penoreri|&color(white,Teal){7};|&color(white,Green){13+};|&color(white,Maroon){15+};|&color(white,purple){16+};|3:14|200-204||"
+  },
+  {
+    "line": 178,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 179,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 180,
+    "text": "|[[Just a Fairy Tale]]|DJ'TEKINA//SOMETHING|1|5|8|11|2:42|129||"
+  },
+  {
+    "line": 181,
+    "text": "|[[The Lonely Wolf]]|3R2|3|4|6|12|2:21|164||"
+  },
+  {
+    "line": 182,
+    "text": "|[[Vortex]]|SIHanatsuka|5|6|10|13|2:23|160||"
+  },
+  {
+    "line": 183,
+    "text": "|[[Ryusa No Toba -Casino de Quicksand-]]|Machigerita|2|4|8|14+|2:00|221||"
+  },
+  {
+    "line": 184,
+    "text": "|[[Promised Heaven]]|void(Mournfinale) ft.Kalon.|2|3|7|12|2:13|148||"
+  },
+  {
+    "line": 185,
+    "text": "|[[Memoria]]|Otsukisamakokyokyoku|2|6|11|13+|2:31|83|ver.2.6で追加|"
+  },
+  {
+    "line": 189,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 190,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 191,
+    "text": "|[[The Journey to Eden]]|Kitkit Lu|1|4|9|12|3:10|180||"
+  },
+  {
+    "line": 192,
+    "text": "|[[Colorful Note]]|Hiroyuki Oshima &br;ft. Haruka Shimotsuki|3|6|10|13|3:13|145||"
+  },
+  {
+    "line": 193,
+    "text": "|[[Umioto]]|Junk feat. Yukacco|1|4|7|11|2:40|132||"
+  },
+  {
+    "line": 194,
+    "text": "|[[LSDJACK]]|P.C.B|3|9|13|&color(Purple){15};|2:47|135||"
+  },
+  {
+    "line": 195,
+    "text": "|[[Little Painter]]|Siruka & ARForest|5|8|12|13+|1:49|100||"
+  },
+  {
+    "line": 196,
+    "text": "|[[Nagi]]|Yukino with Ayato Shinozaki|3|6|11|14|2:27|130||"
+  }
+]

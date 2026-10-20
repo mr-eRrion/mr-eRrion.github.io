@@ -1,0 +1,497 @@
+{
+  "id": "milthm-fandom",
+  "game": "Milthm",
+  "url": "https://milthm.fandom.com/wiki/Songs",
+  "retrievedAt": "2026-10-20",
+  "creditType": "in-game-credit",
+  "rawSha256": "00d2883b427fc3a03b442e246d79c99500fae5b46527ae29c8546f226b8b2b52",
+  "retrieval": "Search-indexed song table; original rows retained",
+  "records": [
+    {
+      "title": "Welcome to Milthm",
+      "artist": "TsukiP",
+      "sourceId": "table-row-24",
+      "sourceRow": "Welcome to Milthm  | TsukiP  | 1  | -  | -"
+    },
+    {
+      "title": "夜風",
+      "artist": "Joulez",
+      "sourceId": "table-row-26",
+      "sourceRow": "夜風  | Joulez  | 3  | 7  | 10"
+    },
+    {
+      "title": "花月",
+      "artist": "Kirara Magic",
+      "sourceId": "table-row-27",
+      "sourceRow": "花月  | Kirara Magic  | 2  | 8  | 9"
+    },
+    {
+      "title": "Fantasia Sonata Sky Syndrome",
+      "artist": "PYKAMIA",
+      "sourceId": "table-row-29",
+      "sourceRow": "Fantasia Sonata Sky Syndrome  | PYKAMIA  | 2+  | 7  | 10+"
+    },
+    {
+      "title": "Fantasia Sonata Reflection",
+      "artist": "PYKAMIA",
+      "sourceId": "table-row-30",
+      "sourceRow": "Fantasia Sonata Reflection  | PYKAMIA  | 1  | -  | -"
+    },
+    {
+      "title": "Jump out?",
+      "artist": "B.R.I",
+      "sourceId": "table-row-37",
+      "sourceRow": "Jump out?  | B.R.I  | 2  | 7+  | 9+"
+    },
+    {
+      "title": "LOUDER!",
+      "artist": "K1N",
+      "sourceId": "table-row-38",
+      "sourceRow": "LOUDER!  | K1N  | 2  | 5+  | 9+"
+    },
+    {
+      "title": "Blueface",
+      "artist": "Gray Planet",
+      "sourceId": "table-row-39",
+      "sourceRow": "Blueface  | Gray Planet  | 4  | 8  | 10"
+    },
+    {
+      "title": "イコラト",
+      "artist": "TsukiP",
+      "sourceId": "table-row-40",
+      "sourceRow": "イコラト  | TsukiP  | 3  | 8+  | 11"
+    },
+    {
+      "title": "Jump out?",
+      "artist": "B.R.I",
+      "sourceId": "table-row-47",
+      "sourceRow": "Jump out?  | B.R.I  | 2  | 7+  | 9+  | -"
+    },
+    {
+      "title": "LOUDER!",
+      "artist": "K1N",
+      "sourceId": "table-row-48",
+      "sourceRow": "LOUDER!  | K1N  | 2  | 5+  | 9+  | -"
+    },
+    {
+      "title": "Blueface",
+      "artist": "Gray Planet",
+      "sourceId": "table-row-49",
+      "sourceRow": "Blueface  | Gray Planet  | 4  | 8  | 10  | -"
+    },
+    {
+      "title": "イコラト",
+      "artist": "TsukiP",
+      "sourceId": "table-row-50",
+      "sourceRow": "イコラト  | TsukiP  | 3  | 8+  | 11  | -"
+    },
+    {
+      "title": "雨女",
+      "artist": "TsukiP",
+      "sourceId": "table-row-51",
+      "sourceRow": "雨女  | TsukiP  | 3  | 6+  | 9+  | 10+"
+    },
+    {
+      "title": "命日",
+      "artist": "LeaF",
+      "sourceId": "table-row-52",
+      "sourceRow": "命日  | LeaF  | 3  | 8+  | 11  | 12+"
+    },
+    {
+      "title": "Aconsma",
+      "artist": "ILusMin",
+      "sourceId": "table-row-59",
+      "sourceRow": "Aconsma  | ILusMin  | 1  | 6  | 9"
+    },
+    {
+      "title": "OverRain",
+      "artist": "SharK",
+      "sourceId": "table-row-60",
+      "sourceRow": "OverRain  | SharK  | 2  | 7+  | 10"
+    },
+    {
+      "title": "Fragment of Memories",
+      "artist": "U-Ruri",
+      "sourceId": "table-row-61",
+      "sourceRow": "Fragment of Memories  | U-Ruri  | 2  | 8  | 11"
+    },
+    {
+      "title": "Aconsma",
+      "artist": "ILusMin",
+      "sourceId": "table-row-69",
+      "sourceRow": "Aconsma  | ILusMin  | 1  | 6  | 9  | -"
+    },
+    {
+      "title": "OverRain",
+      "artist": "SharK",
+      "sourceId": "table-row-70",
+      "sourceRow": "OverRain  | SharK  | 2  | 7+  | 10  | -"
+    },
+    {
+      "title": "Fragment of Memories",
+      "artist": "U-Ruri",
+      "sourceId": "table-row-71",
+      "sourceRow": "Fragment of Memories  | U-Ruri  | 2  | 8  | 11  | -"
+    },
+    {
+      "title": "HYPER MEMORIES",
+      "artist": "Wooden, Salty Salt",
+      "sourceId": "table-row-72",
+      "sourceRow": "HYPER MEMORIES  | Wooden, Salty Salt  | 3  | 8+  | 11+  | -"
+    },
+    {
+      "title": "Regnaissance",
+      "artist": "AiSS vs. Abit",
+      "sourceId": "table-row-73",
+      "sourceRow": "Regnaissance  | AiSS vs. Abit  | 4+  | 8+  | 11  | 12"
+    },
+    {
+      "title": "Contrasty Angeles",
+      "artist": "HLxQ.v.M",
+      "sourceId": "table-row-74",
+      "sourceRow": "Contrasty Angeles  | HLxQ.v.M  | 4  | 9  | 11+  | 12+"
+    },
+    {
+      "title": "Brightened Demonios",
+      "artist": "HLxQ.v.M",
+      "sourceId": "table-row-77",
+      "sourceRow": "Brightened Demonios  | HLxQ.v.M  | 4+  | 9  | 11+  | -"
+    },
+    {
+      "title": "Fantasia Sonata Arcadia",
+      "artist": "PYKAMIA",
+      "sourceId": "table-row-79",
+      "sourceRow": "Fantasia Sonata Arcadia  | PYKAMIA  | 2  | 6  | 10+  | -"
+    },
+    {
+      "title": "Vestige of Dreams",
+      "artist": "DRIVE.",
+      "sourceId": "table-row-85",
+      "sourceRow": "Vestige of Dreams  | DRIVE.  | 2+  | 6+  | 11+"
+    },
+    {
+      "title": "灯ノ桜蝶",
+      "artist": "Tanchiky",
+      "sourceId": "table-row-87",
+      "sourceRow": "灯ノ桜蝶  | Tanchiky  | 2  | 9+  | 12"
+    },
+    {
+      "title": "Sakuyahime",
+      "artist": "MYTK",
+      "sourceId": "table-row-88",
+      "sourceRow": "Sakuyahime  | MYTK  | 3+  | 9+  | 11+"
+    },
+    {
+      "title": "靈",
+      "artist": "MYTK",
+      "sourceId": "table-row-90",
+      "sourceRow": "靈  | MYTK  | 4+  | 9  | 12+"
+    },
+    {
+      "title": "BUCHiAGE Fireworks",
+      "artist": "Dragon_Klub",
+      "sourceId": "table-row-91",
+      "sourceRow": "BUCHiAGE Fireworks  | Dragon_Klub  | 2  | 7+  | 10+"
+    },
+    {
+      "title": "ニニ (feat. Qayo & mii)",
+      "artist": "テヅカ",
+      "sourceId": "table-row-92",
+      "sourceRow": "ニニ (feat. Qayo & mii)  | テヅカ  | 2  | 6+  | 11"
+    },
+    {
+      "title": "Deluge",
+      "artist": "SQRY01",
+      "sourceId": "table-row-100",
+      "sourceRow": "Deluge  | SQRY01  | 2  | 5  | 9"
+    },
+    {
+      "title": "Fluorescent Light",
+      "artist": "Wooden",
+      "sourceId": "table-row-101",
+      "sourceRow": "Fluorescent Light  | Wooden  | 2  | 6  | 9+"
+    },
+    {
+      "title": "Autumn Rain",
+      "artist": "Vantasy",
+      "sourceId": "table-row-102",
+      "sourceRow": "Autumn Rain  | Vantasy  | 3  | 6  | 10"
+    },
+    {
+      "title": "Pthahnil",
+      "artist": "AiSS",
+      "sourceId": "table-row-103",
+      "sourceRow": "Pthahnil  | AiSS  | 2  | 7  | 10+"
+    },
+    {
+      "title": "Polyridia",
+      "artist": "Rigel Wired",
+      "sourceId": "table-row-106",
+      "sourceRow": "Polyridia  | Rigel Wired  | 2  | 5+  | 9+"
+    },
+    {
+      "title": "Ephemeric World",
+      "artist": "t404:null",
+      "sourceId": "table-row-109",
+      "sourceRow": "Ephemeric World  | t404:null  | 2  | 6  | 12"
+    },
+    {
+      "title": "逆飛雨",
+      "artist": "Noir-D",
+      "sourceId": "table-row-112",
+      "sourceRow": "逆飛雨  | Noir-D  | 2  | 7+  | 11"
+    },
+    {
+      "title": "瑠璃色",
+      "artist": "sdklmr",
+      "sourceId": "table-row-113",
+      "sourceRow": "瑠璃色  | sdklmr  | 3+  | 9+  | 11+"
+    },
+    {
+      "title": "はんてん",
+      "artist": "ME_DD",
+      "sourceId": "table-row-129",
+      "sourceRow": "はんてん  | ME_DD  | 2  | 6  | 10"
+    },
+    {
+      "title": "Curse of 14",
+      "artist": "R-TOP",
+      "sourceId": "table-row-130",
+      "sourceRow": "Curse of 14  | R-TOP  | 3  | 7+  | 10"
+    },
+    {
+      "title": "Virtual S0da",
+      "artist": "Nerovix",
+      "sourceId": "table-row-131",
+      "sourceRow": "Virtual S0da  | Nerovix  | 3  | 6+  | 10+"
+    },
+    {
+      "title": "cybernetic blazar",
+      "artist": "ああああ",
+      "sourceId": "table-row-141",
+      "sourceRow": "cybernetic blazar  | ああああ  | 4  | 7+  | 10"
+    },
+    {
+      "title": "Elsorhg",
+      "artist": "Fl00t",
+      "sourceId": "table-row-142",
+      "sourceRow": "Elsorhg  | Fl00t  | 2  | 7+  | 10+"
+    },
+    {
+      "title": "Innocent white",
+      "artist": "影虎。",
+      "sourceId": "table-row-143",
+      "sourceRow": "Innocent white  | 影虎。  | 2  | 8  | 12"
+    },
+    {
+      "title": "Meltovt Necrosys",
+      "artist": "Halv",
+      "sourceId": "table-row-144",
+      "sourceRow": "Meltovt Necrosys  | Halv  | 2  | 7+  | 12"
+    },
+    {
+      "title": "Sundown",
+      "artist": "James Primate",
+      "sourceId": "table-row-152",
+      "sourceRow": "Sundown  | James Primate  | 1  | -  | -"
+    },
+    {
+      "title": "Bio-Engineering",
+      "artist": "James Primate & Lydia Esrig",
+      "sourceId": "table-row-153",
+      "sourceRow": "Bio-Engineering  | James Primate & Lydia Esrig  | 2  | 8  | 9+"
+    },
+    {
+      "title": "Threat - Sky Islands",
+      "artist": "James Primate",
+      "sourceId": "table-row-154",
+      "sourceRow": "Threat - Sky Islands  | James Primate  | 2  | 6+  | 10+"
+    },
+    {
+      "title": "Threat - Superstructure",
+      "artist": "James Primate",
+      "sourceId": "table-row-156",
+      "sourceRow": "Threat - Superstructure  | James Primate  | 2  | 5+  | 10"
+    },
+    {
+      "title": "White Lizard",
+      "artist": "Lydia Esrig",
+      "sourceId": "table-row-157",
+      "sourceRow": "White Lizard  | Lydia Esrig  | -  | 4  | -"
+    },
+    {
+      "title": "Threat - Waterfront Complex",
+      "artist": "James Primate, Lydia Esrig, Connor \"12LBS\" Skidmore",
+      "sourceId": "table-row-158",
+      "sourceRow": "Threat - Waterfront Complex  | James Primate, Lydia Esrig, Connor \"12LBS\" Skidmore  | 2  | 7+  | 10+"
+    },
+    {
+      "title": "Kayava",
+      "artist": "James Primate",
+      "sourceId": "table-row-159",
+      "sourceRow": "Kayava  | James Primate  | 3  | 5+  | 10"
+    },
+    {
+      "title": "Threat - Metropolis",
+      "artist": "Connor \"12LBS\" Skidmore",
+      "sourceId": "table-row-160",
+      "sourceRow": "Threat - Metropolis  | Connor \"12LBS\" Skidmore  | 2  | 6+  | 11+"
+    },
+    {
+      "title": "Sheer Ice Torrent",
+      "artist": "Connor \"12LBS\" Skidmore",
+      "sourceId": "table-row-162",
+      "sourceRow": "Sheer Ice Torrent  | Connor \"12LBS\" Skidmore  | 2  | 7+  | 11"
+    },
+    {
+      "title": "ネオン色のまち feat. Mai",
+      "artist": "Reo、ヒトリ (lyric: 霉霉杏)",
+      "sourceId": "table-row-170",
+      "sourceRow": "ネオン色のまち feat. Mai  | Reo、ヒトリ (lyric: 霉霉杏)  | 3+  | 8  | 9+  | -  | -"
+    },
+    {
+      "title": "INFP.mp3",
+      "artist": "TsukiP",
+      "sourceId": "table-row-171",
+      "sourceRow": "INFP.mp3  | TsukiP  | 2  | 5+  | 9  | -  | -"
+    },
+    {
+      "title": "Oniichan",
+      "artist": "MoryueCi",
+      "sourceId": "table-row-172",
+      "sourceRow": "Oniichan  | MoryueCi  | 3  | 8  | 9+  | -  | -"
+    },
+    {
+      "title": "Moving On",
+      "artist": "Nastram",
+      "sourceId": "table-row-173",
+      "sourceRow": "Moving On  | Nastram  | 2  | 6  | 10+  | -  | -"
+    },
+    {
+      "title": "WATER",
+      "artist": "A-39 & 沙包P",
+      "sourceId": "table-row-174",
+      "sourceRow": "WATER  | A-39 & 沙包P  | 3  | 7  | 10+  | -  | -"
+    },
+    {
+      "title": "Oiiaioooooiai",
+      "artist": "黑瘦的鱼头",
+      "sourceId": "table-row-175",
+      "sourceRow": "Oiiaioooooiai  | 黑瘦的鱼头  | -  | -  | -  | -  | 🐈"
+    },
+    {
+      "title": "Hikari",
+      "artist": "Kuroe",
+      "sourceId": "table-row-176",
+      "sourceRow": "Hikari  | Kuroe  | 3  | 7  | 10+  | -  | -"
+    },
+    {
+      "title": "Moonflutter",
+      "artist": "Reku Mochizuki",
+      "sourceId": "table-row-177",
+      "sourceRow": "Moonflutter  | Reku Mochizuki  | 3  | 7+  | 11  | 11+  | -"
+    },
+    {
+      "title": "Fly To Meteor (Milthm Edit)",
+      "artist": "ShooTinGStaR + xzadudu179 + MoryueCi + Cyberspace",
+      "sourceId": "table-row-178",
+      "sourceRow": "Fly To Meteor (Milthm Edit)  | ShooTinGStaR + xzadudu179 + MoryueCi + Cyberspace  | 3  | 6+  | 10+  | 11+  | -"
+    },
+    {
+      "title": "Agnostic",
+      "artist": "AiSS",
+      "sourceId": "table-row-180",
+      "sourceRow": "Agnostic  | AiSS  | 3  | 7  | 10  | -  | "
+    },
+    {
+      "title": "Dogbite",
+      "artist": "t+pazolite",
+      "sourceId": "table-row-181",
+      "sourceRow": "Dogbite  | t+pazolite  | 3  | 6+  | 10  | -  | 🐕"
+    },
+    {
+      "title": "Psyched Fevereiro",
+      "artist": "t+pazolite",
+      "sourceId": "table-row-182",
+      "sourceRow": "Psyched Fevereiro  | t+pazolite  | 3+  | 7  | 10  | -  | -"
+    },
+    {
+      "title": "Future Unbound (Game Edit)",
+      "artist": "Joulez",
+      "sourceId": "table-row-183",
+      "sourceRow": "Future Unbound (Game Edit)  | Joulez  | 3  | 7+  | 10+  | -  | -"
+    },
+    {
+      "title": "Algebra",
+      "artist": "Function Phantom",
+      "sourceId": "table-row-184",
+      "sourceRow": "Algebra  | Function Phantom  | 2  | 8  | 11  | -  | -"
+    },
+    {
+      "title": "Words",
+      "artist": "X3ll3n",
+      "sourceId": "table-row-185",
+      "sourceRow": "Words  | X3ll3n  | 2  | 6+  | 8  | -  | -"
+    },
+    {
+      "title": "slic.hertz #GdbG",
+      "artist": "Sobrem",
+      "sourceId": "table-row-190",
+      "sourceRow": "slic.hertz #GdbG  | Sobrem  | 3  | 7+  | 11  | -  | -"
+    },
+    {
+      "title": "Rainbow Flavor!",
+      "artist": "SuggestedCopy7 & 亚述",
+      "sourceId": "table-row-191",
+      "sourceRow": "Rainbow Flavor!  | SuggestedCopy7 & 亚述  | 1  | 7+  | 9+  | -  | -"
+    },
+    {
+      "title": "IN",
+      "artist": "Zris feat. Katie",
+      "sourceId": "table-row-192",
+      "sourceRow": "IN  | Zris feat. Katie  | 2  | 7+  | 11  | -  | -"
+    },
+    {
+      "title": "Algebra",
+      "artist": "Function Phantom",
+      "sourceId": "table-row-200",
+      "sourceRow": "Algebra  | Function Phantom  | 🔢"
+    },
+    {
+      "title": "Rainbow Flavor!",
+      "artist": "SuggestedCopy7 & 亚述",
+      "sourceId": "table-row-201",
+      "sourceRow": "Rainbow Flavor!  | SuggestedCopy7 & 亚述  | 🍬"
+    },
+    {
+      "title": "KAEDE",
+      "artist": "Ocelot",
+      "sourceId": "table-row-202",
+      "sourceRow": "KAEDE  | Ocelot  | 🍁"
+    },
+    {
+      "title": "妹",
+      "artist": "TRIAL",
+      "sourceId": "table-row-203",
+      "sourceRow": "妹  | TRIAL  | 👧"
+    },
+    {
+      "title": "Lots Of Spices",
+      "artist": "Hammer Switch",
+      "sourceId": "table-row-204",
+      "sourceRow": "Lots Of Spices  | Hammer Switch  | 🌶️"
+    },
+    {
+      "title": "Welcome to Milthm",
+      "artist": "TsukiP",
+      "sourceId": "table-row-209",
+      "sourceRow": "Welcome to Milthm  | TsukiP  | (￣_￣|||)"
+    },
+    {
+      "title": "slic.hertz #GdbG",
+      "artist": "Sobrem",
+      "sourceId": "table-row-211",
+      "sourceRow": "slic.hertz #GdbG  | Sobrem  | 🎷"
+    }
+  ]
+}

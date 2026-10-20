@@ -1,0 +1,778 @@
+[
+  {
+    "line": 3,
+    "text": "|CENTER:200|CENTER:200|CENTER:200|CENTER:200|CENTER:200|c"
+  },
+  {
+    "line": 4,
+    "text": "|[[A>エキスパンション楽曲一覧#E_ChA]]&br;リツモの部屋 －昼－|[[B>エキスパンション楽曲一覧#E_ChB]]&br;リツモの部屋 －夜－|[[C>エキスパンション楽曲一覧#E_ChC]]&br;フィシカの部屋 －作業中－|[[D>エキスパンション楽曲一覧#E_ChD]]&br;フィシカの部屋 －ティータイム－|[[E>エキスパンション楽曲一覧#E_ChE]]&br;Massive New Krew|"
+  },
+  {
+    "line": 5,
+    "text": "|[[F>エキスパンション楽曲一覧#E_ChF]]&br;ノタリウム管理局 －特殊標本室－|[[G>エキスパンション楽曲一覧#E_ChG]]&br;ヒゲドライVAN|[[H>エキスパンション楽曲一覧#E_ChH]]&br;「Arcaea」|[[I>エキスパンション楽曲一覧#E_ChI]]&br;「Groove Coaster」|[[J>エキスパンション楽曲一覧#E_ChJ]]&br;研究室「Allegro」|"
+  },
+  {
+    "line": 6,
+    "text": "|[[K>エキスパンション楽曲一覧#E_ChK]]&br;研究室「Presto」|[[L>エキスパンション楽曲一覧#E_ChL]]&br;3R2|[[M>エキスパンション楽曲一覧#E_ChM]]&br;記憶にしか残っていない都市|[[N>エキスパンション楽曲一覧#E_ChN]]&br;ARForest|[[O>エキスパンション楽曲一覧#E_ChO]]&br;月下のバンケット|"
+  },
+  {
+    "line": 7,
+    "text": "|[[P>エキスパンション楽曲一覧#E_ChP]]&br;「陽春白雪 Lyrica」|[[Q>エキスパンション楽曲一覧#E_ChQ]]&br;「OverRapid」|[[R>エキスパンション楽曲一覧#E_ChR]]&br;「WACCA」|[[S>エキスパンション楽曲一覧#E_ChS]]&br;Yukino|[[T>エキスパンション楽曲一覧#E_ChT]]&br;yourmythos|"
+  },
+  {
+    "line": 8,
+    "text": "|[[U>エキスパンション楽曲一覧#E_ChU]]&br;「Phigros」|[[V>エキスパンション楽曲一覧#E_ChV]]&br;「KALPA」|[[W>エキスパンション楽曲一覧#E_ChW]]&br;「Orzmic」|[[X>エキスパンション楽曲一覧#E_ChX]]&br;「Rotaeno」|[[Y>エキスパンション楽曲一覧#E_ChY]]&br;「Paradigm: Reboot」|"
+  },
+  {
+    "line": 9,
+    "text": "|[[Z>エキスパンション楽曲一覧#E_ChZ]]&br;「DEEMO Ⅱ」|BGCOLOR(lightgray):|BGCOLOR(lightgray):|BGCOLOR(lightgray):|BGCOLOR(lightgray):|"
+  },
+  {
+    "line": 19,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 20,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 21,
+    "text": "|[[Broken Marionette]]|QWertism|2|7|10|12|2:23|160||"
+  },
+  {
+    "line": 22,
+    "text": "|[[3rd Avenue]]|Sound Souler|3|7|11|13+|2:39|130||"
+  },
+  {
+    "line": 23,
+    "text": "|[[Hall of Mirrors]]|Sta|4|8|12|14|2:24|147|ver.1.3で追加|"
+  },
+  {
+    "line": 24,
+    "text": "|[[Tokyo Snorkel(feat. nicamoq)]]|Yunomi|2|6|10|13|2:49|160|ver.1.4で追加 [[STELLIGHTS:http://www.stellight.com/]]とのコラボ曲|"
+  },
+  {
+    "line": 25,
+    "text": "|[[Time To Rock]]|Ayato Sinozaki feat. Mako Niina|5|9|12|&color(Purple){15+};|2:42|210|~|"
+  },
+  {
+    "line": 26,
+    "text": "|[[Janus ~Ending to Begin~]]|sweez / Meine Meinung|4|9|11|13+|2:19|108|ver 1.6で追加|"
+  },
+  {
+    "line": 27,
+    "text": "|[[New World feat. Hitomi Takahashi]]|Heart's Cry|5|7|11|14+|2:24|175|ver 1.12で追加|"
+  },
+  {
+    "line": 28,
+    "text": "|[[Tenten]]|#Nekoko, Age 14 -1&br;feat.Miyako Line &br;& Gt. Keisuke Hattori|6|8|12|&color(Purple){15};|2:52|268|ver 1.14で追加|"
+  },
+  {
+    "line": 34,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 35,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 36,
+    "text": "|[[Unshakable]]|RiraN|5|9|12|14|1:54|150||"
+  },
+  {
+    "line": 37,
+    "text": "|[[Savage Hardcore]]|M-Project feat. Jonjo|4|7|12|14|1:46|175||"
+  },
+  {
+    "line": 38,
+    "text": "|[[Reignite]]|Lunatic Sounds|4|8|12|13+|1:56|181||"
+  },
+  {
+    "line": 39,
+    "text": "|[[Funky Life]]|Sound Souler|4|7|11|13+|2:20|130||"
+  },
+  {
+    "line": 40,
+    "text": "|[[ZENITHALIZE(Alternative Guiter Solo ver.)]]|void &br;feat. Gt. Eba|6|9|13|&color(Purple){15};|2:52|150||"
+  },
+  {
+    "line": 43,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 44,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 45,
+    "text": "|[[Shining Girl, Shyness Love]]|Yamajet feat. TEA|3|6|9|11|2:43|125||"
+  },
+  {
+    "line": 46,
+    "text": "|[[Returner]]|Ayatsugu_Otowa|3|6|9|13|2:51|140||"
+  },
+  {
+    "line": 47,
+    "text": "|[[May and December]]|DJ'TEKINA//SOMETHING&br;（feat.LUSCHKA）|3|6|9|12|2:15|140||"
+  },
+  {
+    "line": 48,
+    "text": "|[[MilK]]|Morimori Atsushi|3|7|10|13|2:05|150||"
+  },
+  {
+    "line": 49,
+    "text": "|[[Lonely departure]]|Chroma|5|9|12|&color(Purple){15};|2:52|175||"
+  },
+  {
+    "line": 53,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 54,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 55,
+    "text": "|[[Sakura Saku(feat. nicamoq)]]|Yunomi|3|7|11|14+|3:04|170||"
+  },
+  {
+    "line": 56,
+    "text": "|[[Glamorous Girl]]|Heart's Cry feat. Poppo|4|9|12|14|2:26|155||"
+  },
+  {
+    "line": 57,
+    "text": "|[[MINAZUKI]]|DYK|3|7|10|13|2:38|140||"
+  },
+  {
+    "line": 58,
+    "text": "|[[Hayabusa]]|Yamajet|5|8|12|14+|2:28|145||"
+  },
+  {
+    "line": 59,
+    "text": "|[[Specta]]|Junk|3|6|12|14+|2:18|179||"
+  },
+  {
+    "line": 60,
+    "text": "|[[Sein ft. kuroa* x Aramaki]]|1*(Apo11o program &br;vs. Otsukisamakokyokyoku)|5|9|13+|&color(Purple){15};|2:00|210|ver.2.1で追加|"
+  },
+  {
+    "line": 64,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 65,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 66,
+    "text": "|[[Ever Free]]|Massive New Krew|5|8|11|13+|2:17|150||"
+  },
+  {
+    "line": 67,
+    "text": "|[[Nayuta]]|Massive New Krew|4|7|13|14|2:19|146||"
+  },
+  {
+    "line": 68,
+    "text": "|[[Sol e Mar（Lanota Edit）>Sol e Mar]]|Massive New Krew|5|8|12|14|2:21|150||"
+  },
+  {
+    "line": 69,
+    "text": "|[[Oblivion of pecado]]|Massive New Krew &br;& USAO|2|5|8|12|2:08|150||"
+  },
+  {
+    "line": 70,
+    "text": "|[[Memento Mori]]|Massive New Krew|3|8|12|&color(Purple){15+};|2:03|220||"
+  },
+  {
+    "line": 73,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 74,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 75,
+    "text": "|[[Get Ready]]|GRILLED MEAT YOUNGMANS|4|8|12|13|2:23|142||"
+  },
+  {
+    "line": 76,
+    "text": "|[[Pusha Plucka!!]]|GNMD|4|9|13+|14+|2:31|126||"
+  },
+  {
+    "line": 77,
+    "text": "|[[Anesthesia]]|SIHanatsuka|4|7|10|14|2:55|140||"
+  },
+  {
+    "line": 78,
+    "text": "|[[Aihana (2017 Revived)]]|Junk|4|8|12|14|2:28|140||"
+  },
+  {
+    "line": 79,
+    "text": "|[[Beast in the Dream]]|Ayatsugu_Otowa|5|8|13|&color(Purple){15};|2:01|180||"
+  },
+  {
+    "line": 83,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 84,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 85,
+    "text": "|[[Remaining days]]|Hige DriVAN|4|7|10|14|1:59|195||"
+  },
+  {
+    "line": 86,
+    "text": "|[[Kiss me]]|Hige DriVAN|4|8|10|13|2:21|195||"
+  },
+  {
+    "line": 87,
+    "text": "|[[How is life?]]|Hige DriVAN|2|7|10|14+|2:08|122||"
+  },
+  {
+    "line": 88,
+    "text": "|[[Internet neurose]]|Hige DriVAN|3|8|12|14+|1:43|178||"
+  },
+  {
+    "line": 89,
+    "text": "|[[We like girls]]|Hige DriVAN|5|8|13+|&color(Purple){15+};|2:53|165||"
+  },
+  {
+    "line": 92,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 93,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 94,
+    "text": "|[[Romance Wars]]|U-ske(feat.lueur)|5|9|13+|14|2:06|187||"
+  },
+  {
+    "line": 95,
+    "text": "|[[Ignotus]]|ak+q|5|8|12|14|2:27|170||"
+  },
+  {
+    "line": 96,
+    "text": "|[[Quon]]|Feryquitous|5|9|13|&color(Purple){15+};|2:23|189||"
+  },
+  {
+    "line": 97,
+    "text": "|[[Lethaeus]]|silentroom|5|9|12|14+|2:27|155||"
+  },
+  {
+    "line": 98,
+    "text": "|[[Lumia]]|sky_delta|4|7|11|13+|2:02|180||"
+  },
+  {
+    "line": 103,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 104,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 105,
+    "text": "|[[Tobitate! DREAM PARTY]]|YUME&br;(CV. Nanami Takahashi)|4|8|12|13+|1:47|182||"
+  },
+  {
+    "line": 106,
+    "text": "|[[Scarlet Lance]]|MASAKI (ZUNTATA)|5|9|12|&color(Purple){15+};|2:07|185||"
+  },
+  {
+    "line": 107,
+    "text": "|[[FUJIN Rumble]]|COSIO (ZUNTATA)|6|11|14|&color(Purple){15+};|2:03|192||"
+  },
+  {
+    "line": 108,
+    "text": "|[[Black MInD]]|COSIO (ZUNTATA)|4|8|12|&color(Purple){15+};|2:11|192||"
+  },
+  {
+    "line": 109,
+    "text": "|[[Got more raves?]]|E.G.G.|6|9|14|&color(Purple){15+};|2:05|266||"
+  },
+  {
+    "line": 114,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 115,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 116,
+    "text": "|[[Sign Mellow]]|SID-sound|3|6|8|12|2:17|160||"
+  },
+  {
+    "line": 117,
+    "text": "|[[Misty Farewell]]|t+pazolite|4|8|11|14|2:31|134||"
+  },
+  {
+    "line": 118,
+    "text": "|[[Mints - Clubmix - 2017]]|Yamajet|4|7|11|13|2:44|128||"
+  },
+  {
+    "line": 119,
+    "text": "|[[The Promised Land]]|RiraN ft.core mc|5|9|12|14+|2:02|150||"
+  },
+  {
+    "line": 120,
+    "text": "|[[PYONTA]]|DJ'TEKINA//SOMETHING|5|9|13|&color(Purple){15};|2:58|160||"
+  },
+  {
+    "line": 125,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 126,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 127,
+    "text": "|[[MariannE (Lanota Edit)]]|Yooh|4|9|13+|&color(Purple){15};|2:45|191||"
+  },
+  {
+    "line": 128,
+    "text": "|[[Fortuna]]|Powerless|4|8|13|&color(Purple){15+};|2:53|175||"
+  },
+  {
+    "line": 129,
+    "text": "|[[Science-kun]]|Keisuke Hattori|3|8|12|14+|2:58|178||"
+  },
+  {
+    "line": 130,
+    "text": "|[[Clock Atelier]]|ARForest|5|8|12|13+|2:26|195||"
+  },
+  {
+    "line": 131,
+    "text": "|[[Aishiteirunante kantanni iuyouna lovesong ga kiraidatta]]|KarasuyaSabou|5|9|12|13+|2:27|174||"
+  },
+  {
+    "line": 135,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 136,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 137,
+    "text": "|[[Let the Music Play]]|3R2|5|8|11|12|2:38|103||"
+  },
+  {
+    "line": 138,
+    "text": "|[[Pulsation]]|3R2|4|7|10|12|2:00|135||"
+  },
+  {
+    "line": 139,
+    "text": "|[[Tears of Gaia]]|3R2|4|8|12|13+|2:34|140||"
+  },
+  {
+    "line": 140,
+    "text": "|[[Unforgiven Souls]]|3R2|5|7|13|14+|2:19|168||"
+  },
+  {
+    "line": 141,
+    "text": "|[[Lively Festival]]|3R2|6|10|13+|&color(Purple){15+};|2:25|170||"
+  },
+  {
+    "line": 146,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 147,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 148,
+    "text": "|[[Misunderstanding]]|naoto|4|8|12|13+|2:22|88||"
+  },
+  {
+    "line": 149,
+    "text": "|[[Far Away]]|Maozon|5|9|12|14|2:11|180||"
+  },
+  {
+    "line": 150,
+    "text": "|[[Miracle Sugite Yabai]]|Hige Driver&br;(feat. Shully)|4|9|13|14+|1:44|145||"
+  },
+  {
+    "line": 151,
+    "text": "|[[bristle grass]]|plus alpha feat.Cho|5|9|12|14|2:18|120||"
+  },
+  {
+    "line": 152,
+    "text": "|[[Tommy Gun]]|Hazel-D|6|10|13|&color(Purple){15};|2:23|174||"
+  },
+  {
+    "line": 156,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 157,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 158,
+    "text": "|[[Birds of Plague]]|ARForest|6|10|13|14+|2:41|200||"
+  },
+  {
+    "line": 159,
+    "text": "|[[shattered]]|ARForest|5|9|12|14|2:20|175||"
+  },
+  {
+    "line": 160,
+    "text": "|[[Show Your Style]]|ARForest|4|8|12|13+|2:20|128||"
+  },
+  {
+    "line": 161,
+    "text": "|[[VR in Virtual World]]|ARForest|4|8|11|14+|2:11|150||"
+  },
+  {
+    "line": 162,
+    "text": "|[[Final Resonance]]|ARForest|5|9|13|&color(Purple){15};|2:25|195||"
+  },
+  {
+    "line": 168,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 169,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 170,
+    "text": "|[[Chocolate Adventure feat.Nanahira>Chocolate Adventure]]|Neko Hacker|5|9|12|14+|2:39|170||"
+  },
+  {
+    "line": 171,
+    "text": "|[[ZIGOKUNOGOUKADEYAKINIKUTAIKAI]]|SAKAMIRITO|6|10|13|&color(Purple){15};|2:25|222||"
+  },
+  {
+    "line": 172,
+    "text": "|[[Vegetarian of revenge>Vegetarion of revenge]]|GRILLED MEAT YOUNGMANS|3|7|12|14|1:57|190||"
+  },
+  {
+    "line": 173,
+    "text": "|[[The Fatal Fantasia]]|Alice Schach and the Magic Orchestra|2|7|11|13+|2:35|125-130||"
+  },
+  {
+    "line": 174,
+    "text": "|[[Refill]]|ZANIO &br;& Ryu Kawamura|4|8|11|13+|2:28|128||"
+  },
+  {
+    "line": 177,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 178,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 179,
+    "text": "|[[Tea With Mr. Cui]]|Liu Ya-Jing|2|6|10|12|2:42|125||"
+  },
+  {
+    "line": 180,
+    "text": "|[[Mulan]]|Siri Simran Kaur|2|6|11|13|1:53|100||"
+  },
+  {
+    "line": 181,
+    "text": "|[[Remembering Madam Gongsun]]|SQSX Studio|5|8|13|14+|3:13|192||"
+  },
+  {
+    "line": 182,
+    "text": "|[[The Peony]]|The GateS|6|11|13|&color(Purple){15};|2:55|130||"
+  },
+  {
+    "line": 183,
+    "text": "|[[Farewell]]|The Generator|3|6|11|14|1:55|142||"
+  },
+  {
+    "line": 187,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 188,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 189,
+    "text": "|[[Euphoric World]]|Rabbit House|4|9|13|14|2:19|172||"
+  },
+  {
+    "line": 190,
+    "text": "|[[RAINBOW HARDCORE]]|:Poin7less|4|7|11|14|2:28|177||"
+  },
+  {
+    "line": 191,
+    "text": "|[[Surface (w/ KIKYO MONDAI)]]|Zekk|2|5|12|13+|2:06|176||"
+  },
+  {
+    "line": 192,
+    "text": "|[[PaleScreen]]|WyvernP (Feat.Madol)|4|9|13|&color(Purple){15};|2:25|173||"
+  },
+  {
+    "line": 193,
+    "text": "|[[Hate The Most]]|RiraN|3|8|12|14+|2:06|180||"
+  },
+  {
+    "line": 194,
+    "text": "|[[Broken Stars]]|Sound Souler|5|9|13|&color(Purple){15};|2:29|190||"
+  },
+  {
+    "line": 198,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 199,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 200,
+    "text": "|[[Let you DIVE!]]|HARDCORE TANO*C&br;Elizabeth(Saori Onihsi)|3|7|11|13+|2:01|185||"
+  },
+  {
+    "line": 201,
+    "text": "|[[Knight Rider]]|USAO|3|8|12|14+|2:08|200||"
+  },
+  {
+    "line": 202,
+    "text": "|[[ADAM]]|P*Light|5|7|12|14|2:00|200||"
+  },
+  {
+    "line": 203,
+    "text": "|[[LETHAL;WEAPON]]|NOMA&br;Apo11o program&br; ft. Yuyoyuppe|4|8|12|14+|2:17|160||"
+  },
+  {
+    "line": 204,
+    "text": "|[[ANGEL HALO]]|REDALiCE &br;&cosMo@Bousou-P|6|11|14|&color(Purple){15+};|2:19|203||"
+  },
+  {
+    "line": 208,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 209,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 210,
+    "text": "|[[Icebreaker]]|Yukino|4|8|12|13+|2:44|120||"
+  },
+  {
+    "line": 211,
+    "text": "|[[Yeti Escape]]|Yukino|6|9|13+|&color(Purple){15};|2:24|180||"
+  },
+  {
+    "line": 212,
+    "text": "|[[The Contemporary Genesis]]|Yukino|4|8|12|14+|1:52|150||"
+  },
+  {
+    "line": 213,
+    "text": "|[[Paranoia Sonatina]]|Spiegel&br;vs Yukino|6|11|13+|&color(Purple){15+};|2:34|165||"
+  },
+  {
+    "line": 214,
+    "text": "|[[Impromptu AD2021＃1-Y]]|Yukino|3|7|12|14|2:44|140||"
+  },
+  {
+    "line": 220,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 221,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 222,
+    "text": "|[[sankayou]]|yourmythos|2|6|9|13|2:17|170-192||"
+  },
+  {
+    "line": 223,
+    "text": "|[[anata]]|yourmythos|4|9|11|14|2:01|180||"
+  },
+  {
+    "line": 224,
+    "text": "|[[&#201;pine rouge]]|yourmythos|4|7|11|14|2:24|165||"
+  },
+  {
+    "line": 225,
+    "text": "|[[Route1]]|yourmythos|6|10|13|14+|2:52|200||"
+  },
+  {
+    "line": 226,
+    "text": "|[[fukanzen na shiawase]]|yourmythos|3|7|10|12|3:03|132||"
+  },
+  {
+    "line": 229,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 230,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 231,
+    "text": "|[[Leave All Behind]]|rider|4|8|12|14|2:07|150||"
+  },
+  {
+    "line": 232,
+    "text": "|[[Clock Paradox]]|WyvernP|3|7|11|13|2:30|140||"
+  },
+  {
+    "line": 233,
+    "text": "|[[Concvssion]]|Halv|4|7|13|14+|2:32|190||"
+  },
+  {
+    "line": 234,
+    "text": "|[[Rrhar'il]]|Team Grimoire|6|11|14|&color(Purple){15+};|2:12|190||"
+  },
+  {
+    "line": 235,
+    "text": "|[[Igallta]]|Se-U-Ra|5|8|12|&color(Purple){15};|2:02|230||"
+  },
+  {
+    "line": 239,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 240,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 241,
+    "text": "|[[Psychometry]]|HyuN|4|6|11|14|2:13|144||"
+  },
+  {
+    "line": 242,
+    "text": "|[[Flutter Echo]]|Cansol|5|9|13|14+|2:43|126||"
+  },
+  {
+    "line": 243,
+    "text": "|[[fallin' fallin' (prod. INFX, Ella Jung, Limpid)]]|kradness|2|7|12|14|2:09|126||"
+  },
+  {
+    "line": 244,
+    "text": "|[[Binary Wonderland]]|7mai|5|9|13|&color(Purple){15};|2:09|190||"
+  },
+  {
+    "line": 245,
+    "text": "|[[Eschatology]]|Tatsh & Scarlette|6|11|14|&color(Purple){15+};|2:31|200||"
+  },
+  {
+    "line": 249,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 250,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 251,
+    "text": "|[[White Knight]]|Pica|4|8|12|14|2:12|160||"
+  },
+  {
+    "line": 252,
+    "text": "|[[Among Wolves]]|Iris|5|9|12|14+|2:31|170||"
+  },
+  {
+    "line": 253,
+    "text": "|[[Orphe]]|Avans|3|6|11|13+|2:06|145||"
+  },
+  {
+    "line": 254,
+    "text": "|[[Avys]]|Se-U-ra|5|9|13|&color(purple){15};|2:16|182||"
+  },
+  {
+    "line": 255,
+    "text": "|[[Le Porteur d'Ombre]]|Kurokoutei &br;feat. AKA |6|10|14|&color(purple){15+};|2:29|220||"
+  },
+  {
+    "line": 259,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 260,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 261,
+    "text": "|[[The Promised Land>The Promised Land_Iris]]|Iris&br;feat. LynH|3|7|11|13+|2:27|140||"
+  },
+  {
+    "line": 262,
+    "text": "|[[Secret Illumination]]|Yooh|3|7|12|14+|2:33|160||"
+  },
+  {
+    "line": 263,
+    "text": "|[[Spinel]]|penoreri|4|8|12|14|2:21|182||"
+  },
+  {
+    "line": 264,
+    "text": "|[[amethyst]]|Kaneko Chiharu|5|9|13|&color(Purple){15};|2:45|170||"
+  },
+  {
+    "line": 265,
+    "text": "|[[GALACTIC WARZONE]]|Akira Complex|6|9|13|&color(Purple){15+};|2:16|174||"
+  },
+  {
+    "line": 269,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 270,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 271,
+    "text": "|[[Gray: MachineGang>Gray：MachineGang]]|adaptor|3|6|11|13|2:24|128||"
+  },
+  {
+    "line": 272,
+    "text": "|[[Turning POINT]]|Junk|4|7|11|14|2:15|133||"
+  },
+  {
+    "line": 273,
+    "text": "|[[Summer Memories]]|Yesod|5|8|12|&color(Purple){15};|2:23|198||"
+  },
+  {
+    "line": 274,
+    "text": "|[[Yokyuumi]]| Knighthood |4|9|13+|&color(Purple){15};|2:41|210||"
+  },
+  {
+    "line": 275,
+    "text": "|[[Vehicle Zero]]|seatrus|6|10|13+|&color(Purple){15+};|2:21|240||"
+  },
+  {
+    "line": 281,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 282,
+    "text": "|~Title|~Composer|~&color(Teal){Whisper};|~&color(Green){Acoustic};|~&color(Maroon){Ultra};|~&color(Purple){Master};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 283,
+    "text": "|[[AMEMOYOU]]|punipunidenki&br;arr. penoreri|3|7|12|13+|2:32|110||"
+  },
+  {
+    "line": 284,
+    "text": "|[[Fairy's Crown]]|Powerless|5|8|12|&color(Purple){15};|2:56|160||"
+  },
+  {
+    "line": 285,
+    "text": "|[[Recreant of the Everlasting]]|Elliot Hsu|4|7|11|14|2:22|175||"
+  },
+  {
+    "line": 286,
+    "text": "|[[Antikythera]]|technoplanet|6|10|14|&color(Purple){15+};|2:50|220||"
+  },
+  {
+    "line": 287,
+    "text": "|[[Reverie]]|satella|1|4|8|12|2:45|120||"
+  }
+]

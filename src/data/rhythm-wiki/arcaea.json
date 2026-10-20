@@ -1,0 +1,2710 @@
+[
+  {
+    "line": 17,
+    "text": "|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|CENTER:48|c"
+  },
+  {
+    "line": 18,
+    "text": "|[[A>#aaa]]|[[B>#bbb]]|[[C>#ccc]]|[[D>#ddd]]|[[E>#eee]]|[[F>#fff]]|[[G>#ggg]]|[[H>#hhh]]|[[I>#iii]]|[[J>#jjj]]|[[K>#kkk]]|[[L>#lll]]|[[M>#mmm]]|"
+  },
+  {
+    "line": 19,
+    "text": "|[[N>#nnn]]|[[O>#ooo]]|[[P>#ppp]]|[[Q>#qqq]]|[[R>#rrr]]|[[S>#sss]]|[[T>#ttt]]|[[U>#uuu]]|[[V>#vvv]]|[[W>#www]]|[[X>#xxx]]|[[Y>#yyy]]|[[Z>#zzz]]|"
+  },
+  {
+    "line": 20,
+    "text": "|CENTER:104|CENTER:104|CENTER:104|CENTER:104|CENTER:104|CENTER:104|c"
+  },
+  {
+    "line": 21,
+    "text": "|[[あ ～ お>#ao]]|[[か ～ こ>#kako]]|[[さ ～ そ>#saso]]|[[た ～ と>#tato]]|[[な ～ の>#nano]]|[[は ～ ほ>#haho]]|"
+  },
+  {
+    "line": 22,
+    "text": "|[[ま ～ も>#mamo]]|[[や ～ よ>#yayo]]|[[ら ～ ろ>#raro]]|わ ～ ん|[[数字・記号>#number]]|[[ギリシャ文字>#greek]]|"
+  },
+  {
+    "line": 30,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 31,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 32,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 33,
+    "text": "|[[Abstruse Dilemma]]|BGCOLOR(lightskyblue):|Ashrount vs. 打打だいず|Lasting Eden|4.7.0&br;(23/08/18)|5|8+|''11''|||"
+  },
+  {
+    "line": 34,
+    "text": "|[[Acheron]]|BGCOLOR(Indigo):|KARUT|Memory Archive|6.8.2&br;(25/09/04)|3|7|9+|||"
+  },
+  {
+    "line": 35,
+    "text": "|[[Acid God]]|BGCOLOR(Indigo):|Yuta Imai|Memory Archive|6.16.0&br;(26/07/31)|4|7+|9+|10+||"
+  },
+  {
+    "line": 36,
+    "text": "|[[Aegleseeker]]|BGCOLOR(lightskyblue):|Silentroom vs Frums|Esoteric Order|3.6.0&br;(21/05/11)|5|9|''11''|||"
+  },
+  {
+    "line": 37,
+    "text": "|[[Aether Crest: Astral>Aether Crest： Astral]]|BGCOLOR(skyblue):|&size(10){void (Mournfinale) × 水野健治};|CHUNITHM&br;&size(10){(Collaboration Ch.4)};|6.2.6&br;(25/02/26)|6|8+|10|''11''||"
+  },
+  {
+    "line": 38,
+    "text": "|[[Ai Drew]]|BGCOLOR(Indigo):|Feryquitous|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.2)};|4.1.0&br;(22/10/04)|3|6|9+|||"
+  },
+  {
+    "line": 39,
+    "text": "|[[AI[UE]OON>AI_UE_OON]]|BGCOLOR(lightskyblue):|MYUKKE.|Sunset Radiance|2.3.0&br;(19/08/22)|3|6|9|||"
+  },
+  {
+    "line": 40,
+    "text": "|[[Aleph-0]]|BGCOLOR(indigo):|LeaF|Extend Archive 2&br;&size(10){Chronicles};|5.4.0&br;(24/03/08)|5|8+|10|||"
+  },
+  {
+    "line": 41,
+    "text": "|[[Alexandrite]]|BGCOLOR(indigo):|WAiKURO|Memory Archive|1.7.5&br;(18/09/17)|4|7|10|||"
+  },
+  {
+    "line": 42,
+    "text": "|[[Alice &#224; la mode>Alice a la mode]]|BGCOLOR(lightskyblue):|Masanori Akita|Ephemeral Page|3.3.0&br;(20/12/03)|2|6|9|||"
+  },
+  {
+    "line": 43,
+    "text": "|[[Alice's Suitcase]]|BGCOLOR(lightskyblue):|Endorfin.|Ephemeral Page|3.3.0&br;(20/12/03)|3|6|9|||"
+  },
+  {
+    "line": 44,
+    "text": "|[[Altair (feat. *spiLa*)]]|BGCOLOR(lightskyblue):|kamome sano & you|Arcaea|4.0.0&br;(22/07/07)|2|6|8|||"
+  },
+  {
+    "line": 45,
+    "text": "|[[Altale]]|BGCOLOR(lightskyblue):|Sakuzyo|Memory Archive|3.0.0&br;(20/05/27)|2|5|9+||10|"
+  },
+  {
+    "line": 46,
+    "text": "|[[ALTER EGO]]|BGCOLOR(indigo):|Yuta Imai vs Qlarabelle|Absolute Nihil|5.9.0&br;(24/07/30)|6|9|10|''11''||"
+  },
+  {
+    "line": 47,
+    "text": "|[[AlterAle]]|BGCOLOR(lightskyblue):|Arik Kau Delay&br;(アラ&かゆき&でり)|Esoteric Order&br;&size(10){(Light of Salvation)};|3.7.0&br;(21/07/21)|3|6|9+|||"
+  },
+  {
+    "line": 48,
+    "text": "|[[AlterGate]]|BGCOLOR(indigo):|&size(10){MisoilePunch♪ ~タケノコ添え~};|Extant Anima&br;&size(10){(Ch.Experientia)};|6.8.0&br;(25/08/21)|5|8+|10+|||"
+  },
+  {
+    "line": 49,
+    "text": "|[[Altersist]]|BGCOLOR(lightskyblue):|Void (Mournfinale)|Memory Archive|6.14.10&br;(26/05/28)|2|6|8|9+||"
+  },
+  {
+    "line": 50,
+    "text": "|&size(10){[[AMAZING MIGHTYYYY!!!!]]};|BGCOLOR(indigo):|WAiKURO|maimai|3.4.1&br;(21/01/08)|4|7+|10+|||"
+  },
+  {
+    "line": 51,
+    "text": "|[[amygdata]]|BGCOLOR(indigo):|nitro|Memory Archive|2.6.0&br;(20/03/25)|4|7|9+|||"
+  },
+  {
+    "line": 52,
+    "text": "|[[And Revive The Melody]]|BGCOLOR(indigo):|黒魔|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.3)};|6.0.0&br;(24/11/21)|5|8|10+|||"
+  },
+  {
+    "line": 53,
+    "text": "|[[ANDORXOR]]|BGCOLOR(indigo):|Sobrem|Liminal Eclipse|6.9.0&br;(25/10/02)|4|7+|9+|10+||"
+  },
+  {
+    "line": 54,
+    "text": "|[[Angel's Boundary]]|BGCOLOR(lightskyblue):|MEMODEMO|Memory Archive|6.10.0&br;(25/10/30)|5|8|10|||"
+  },
+  {
+    "line": 55,
+    "text": "|[[Antagonism]]|BGCOLOR(indigo):|Yooh vs. siromaru|Black Fate|3.0.0&br;(20/05/27)|4|7+|9+|||"
+  },
+  {
+    "line": 56,
+    "text": "|[[Antithese]]|BGCOLOR(indigo):|Blacklolita|Absolute Reason|2.0.0&br;(19/03/21)|2|5|8+||9|"
+  },
+  {
+    "line": 57,
+    "text": "|[[An&#246;kumene>Anokumene]]|BGCOLOR(indigo):|Jun Kuroda|Arcaea|1.0.10&br;(17/04/12)|2|6|9||9+|"
+  },
+  {
+    "line": 58,
+    "text": "|[[Arcahv]]|BGCOLOR(lightskyblue):|Feryquitous|Black Fate|3.0.0&br;(20/05/27)|4|7+|9+|||"
+  },
+  {
+    "line": 59,
+    "text": "|[[Arcana Eden]]|BGCOLOR(indigo):|&size(10){Team Grimoire vs Sakuzyo vs Laur};|Final Verdict|4.0.0&br;(22/07/07)|5|8+|10||''11''|"
+  },
+  {
+    "line": 60,
+    "text": "|[[Arghena]]|BGCOLOR(indigo):|Feryquitous vs Laur|Lasting Eden&br;&size(10){(Lasting Eden Ch.2)};|5.0.0&br;(23/09/27)|7|9|''11''|||"
+  },
+  {
+    "line": 61,
+    "text": "|[[Ascent]]|BGCOLOR(lightskyblue):|TANUKI|Binary Enfold&br;&size(10){(Shared Time)};|3.9.0&br;(21/11/11)|3|6|9+|||"
+  },
+  {
+    "line": 62,
+    "text": "|[[Ashen 6oundary]]|BGCOLOR(indigo):|YUKIYANAGI|Absolute Nihil|5.9.0&br;(24/07/30)|4|7+|9+|||"
+  },
+  {
+    "line": 63,
+    "text": "|[[Astra walkthrough]]|BGCOLOR(indigo):|paraoka|Extend Archive 2&br;&size(10){Chronicles};|4.2.0&br;(23/01/26)|4|7+|9+|||"
+  },
+  {
+    "line": 64,
+    "text": "|[[Astral Quantization]]|BGCOLOR(gray):|Dj Grimoire|Lucent Historia|6.0.0&br;(24/11/21)|5|8|10|||"
+  },
+  {
+    "line": 65,
+    "text": "|[[Astral tale]]|BGCOLOR(indigo):|Noah|Memory Archive|1.8.1&br;(18/11/08)|4|7|9|||"
+  },
+  {
+    "line": 66,
+    "text": "|[[astral.exe]]|BGCOLOR(lightskyblue):|Synzak & Laxeno57|Extend Archive 3&br;&size(10){Illusions};|6.0.0&br;(24/11/21)|3|6|9|||"
+  },
+  {
+    "line": 67,
+    "text": "|[[AttraqtiA]]|BGCOLOR(lightskyblue):|かめりあ|Memory Archive|3.5.0&br;(21/01/21)|4|8|10|||"
+  },
+  {
+    "line": 68,
+    "text": "|[[Aurgelmir]]|BGCOLOR(indigo):|&size(10){溝口ゆうま feat. 大瀬良あい};|Memory Archive|1.1.0&br;(21/06/22)|4|8|10|||"
+  },
+  {
+    "line": 69,
+    "text": "|[[Auxesia]]|BGCOLOR(lightskyblue):|ginkiha|Memory Archive|1.1.4&br;(17/08/10)|3|6|9|||"
+  },
+  {
+    "line": 70,
+    "text": "|[[Avant Raze]]|BGCOLOR(indigo):|Sampling Masters MEGA|Memory Archive|2.4.7&br;(19/12/09)|3|6|9|||"
+  },
+  {
+    "line": 71,
+    "text": "|[[Awaken In Ruins]]|BGCOLOR(indigo):|Supa7onyz|Extend Archive 3&br;&size(10){Illusions};|5.5.0&br;(24/03/25)|3|7|9+|||"
+  },
+  {
+    "line": 72,
+    "text": "|[[Axium Crisis]]|BGCOLOR(indigo):|ak+q|Vicious Labyrinth|1.5.0&br;(17/11/03)|5|8|10|||"
+  },
+  {
+    "line": 73,
+    "text": "|[[Axium Divergence>Axium Crisis]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};譜面限定楽曲};|BGCOLOR(indigo):|ak+q (lowiro)|Vicious Labyrinth|6.13.0&br;(26/03/09)|||||''11''|"
+  },
+  {
+    "line": 79,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 80,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 81,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 82,
+    "text": "|[[B.B.K.K.B.K.K.]]|BGCOLOR(indigo):|nora2r|Memory Archive|5.0.0&br;(23/09/27)|4|7|9+|||"
+  },
+  {
+    "line": 83,
+    "text": "|[[Babaroque]]|BGCOLOR(lightskyblue):|cYsmix|Arcaea|1.0.5&br;(17/03/09)|3|6|8|||"
+  },
+  {
+    "line": 84,
+    "text": "|[[Back to Basics]]|BGCOLOR(indigo):|m1dy|Memory Archive|5.7.0&br;(24/05/30)|5|8+|10|||"
+  },
+  {
+    "line": 85,
+    "text": "|[[BADTEK]]|BGCOLOR(indigo):|EBIMAYO|Memory Archive|3.1.0&br;(20/08/21)|4|7|9+|||"
+  },
+  {
+    "line": 86,
+    "text": "|[[BATTLE NO.1]]|BGCOLOR(indigo):|TANO*C Sound Team|Memory Archive|2.4.9&br;(20/01/15)|3|6|9+|||"
+  },
+  {
+    "line": 87,
+    "text": "|[[Be There]]|BGCOLOR(lightskyblue):|PSYQUI|Memory Archive|1.6.4&br;(18/06/01)|4|7|9||10|"
+  },
+  {
+    "line": 88,
+    "text": "|[[Beautiful Dreamer]]|BGCOLOR(lightskyblue):|M-Project|Memory Archive|5.7.0&br;(24/05/30)|4|7+|9+|||"
+  },
+  {
+    "line": 89,
+    "text": "|[[Beside You]]|BGCOLOR(lightskyblue):|江口孝宏|Ephemeral Page&br;&size(10){(The Journey Onwards)};|3.3.1&br;(20/12/09)|2|6|8+|||"
+  },
+  {
+    "line": 90,
+    "text": "|[[Black Lotus]]|BGCOLOR(indigo):|wa.|Extend Archive 1&br;&size(10){Visions};|3.0.0&br;(20/05/27)|3|6|9+|||"
+  },
+  {
+    "line": 91,
+    "text": "|[[Black MInD]]|BGCOLOR(indigo):|COSIO|Groove Coaster&br;&size(10){(Collaboration Ch.2)};|5.8.0&br;(24/06/27)|5|8|10+|||"
+  },
+  {
+    "line": 92,
+    "text": "|[[Black Mirror on the Wall]]|BGCOLOR(indigo):|暁Records|Extend Archive 3&br;&size(10){Illusions};|6.3.2&br;(25/03/27)|3|6|8|9+||"
+  },
+  {
+    "line": 93,
+    "text": "|[[Black Territory]]|BGCOLOR(indigo):|DJ Myosuke|Absolute Reason|2.0.0&br;(19/03/21)|3|7|9+|||"
+  },
+  {
+    "line": 94,
+    "text": "|[[Blaster]]|BGCOLOR(indigo):|Massive New Krew|Arcaea|1.5.7&br;(18/03/09)|4|7|9|||"
+  },
+  {
+    "line": 95,
+    "text": "|[[BlazinG AIR]]|BGCOLOR(lightskyblue):|kanone|CHUNITHM&br;&size(10){(Collaboration Ch.4)};|6.1.0&br;(24/12/19)|3|6|8+|10||"
+  },
+  {
+    "line": 96,
+    "text": "|[[Blocked Library]]|BGCOLOR(indigo):|影虎。|Divided Heart|3.10.0&br;(21/12/09)|3|6|9|||"
+  },
+  {
+    "line": 97,
+    "text": "|[[Blossoms]]|BGCOLOR(lightskyblue):|T2Kazuya|Ambivalent Vision|1.1.4&br;(17/08/10)|1|4|7|||"
+  },
+  {
+    "line": 98,
+    "text": "|[[BLRINK]]|BGCOLOR(indigo):|Sta|Adverse Prelude|2.5.3&br;(20/03/09)|3|7+|9+|||"
+  },
+  {
+    "line": 99,
+    "text": "|[[blue comet]]|BGCOLOR(lightskyblue):|ああああ|Extend Archive 1&br;&size(10){Visions};|3.8.2&br;(21/08/24)|3|5|8|||"
+  },
+  {
+    "line": 100,
+    "text": "|[[Blue Rose]]|BGCOLOR(lightskyblue):|Cosmograph|Divided Heart|3.10.0&br;(21/12/09)|2|6|9|||"
+  },
+  {
+    "line": 101,
+    "text": "|[[BlythE]]|BGCOLOR(indigo):|M2U|DJMAX&br;&size(10){(Collaboration Ch.2)};|6.6.0&br;(25/06/26)|3|7|9|10||"
+  },
+  {
+    "line": 102,
+    "text": "|[[Bookmaker (2D Version)]]|BGCOLOR(indigo):|Kobaryo|Arcaea|1.7.0&br;(18/07/16)|4|6|8||10|"
+  },
+  {
+    "line": 103,
+    "text": "|[[Brand new world]]|BGCOLOR(lightskyblue):|U-ske|Arcaea|1.0.11&br;(17/05/11)|2|4|7+|||"
+  },
+  {
+    "line": 104,
+    "text": "|[[Breach of Faith]]|BGCOLOR(gray):|Supire feat.eili|Lucent Historia|6.0.0&br;(24/11/21)|5|8|10||10+|"
+  },
+  {
+    "line": 105,
+    "text": "|[[BREaK! BREaK! BREaK!]]|BGCOLOR(indigo):|HiTECH NINJA vs Cranky|maimai&br;&size(10){(Collaboration Ch.3)};|6.2.0&br;(25/01/23)|3|6|8+|10||"
+  },
+  {
+    "line": 106,
+    "text": "|[[BUCHiGiRE Berserker]]|BGCOLOR(indigo):|REDALiCE vs MASAKI|Memory Archive|3.2.0&br;(20/09/16)|5|8|10+|||"
+  },
+  {
+    "line": 107,
+    "text": "|[[Bullet Waiting for Me&br;(James Landino remix)>Bullet Waiting for Me (James Landino remix)]]|BGCOLOR(lightskyblue):|Nikki Simmons|Cytus II|4.5.0&br;(23/06/28)|2|4|8|||"
+  },
+  {
+    "line": 114,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 115,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 116,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 117,
+    "text": "|[[Call My Name feat. Yukacco]]|BGCOLOR(lightskyblue):|Mameyudoufu|Memory Archive|1.6.6&br;(18/06/22)|3|6|8+|||"
+  },
+  {
+    "line": 118,
+    "text": "|[[Callima Karma]]|BGCOLOR(white):|t+pazolite vs Feryquitous|Final Verdict&br;&size(10){(Silent Answer)};|4.0.255&br;(22/07/13)|3|7|9+|||"
+  },
+  {
+    "line": 119,
+    "text": "|[[Capella]]|BGCOLOR(lightskyblue):|ARForest|Memory Archive|4.1.6&br;(22/12/22)|4|7+|10|||"
+  },
+  {
+    "line": 120,
+    "text": "|[[carmine:scythe>carmine_scythe]]|BGCOLOR(indigo):|かゆき|Memory Archive|1.6.2&br;(18/04/29)|4|7+|9|||"
+  },
+  {
+    "line": 121,
+    "text": "|[[CHAIN2NITE]]|BGCOLOR(indigo):|asuzora feat. cyber milk ちゃん|MEGAREX|6.12.0&br;(26/01/29)|4|6|8|9+||"
+  },
+  {
+    "line": 122,
+    "text": "|[[CHAOS]]|BGCOLOR(indigo):|&#198;sir|Cytus II|4.5.0&br;(23/06/28)|5|7|10+|||"
+  },
+  {
+    "line": 123,
+    "text": "|[[CHAOSBLAST]]|BGCOLOR(indigo):|QURELESS + 柚子花|Extant Anima&br;&size(10){(Ch.Experientia)};|6.8.0&br;(25/08/21)|4|7+|9|10||"
+  },
+  {
+    "line": 124,
+    "text": "|[[Chelsea]]|BGCOLOR(lightskyblue):|7mai|Sunset Radiance|2.3.0&br;(19/08/22)|3|6|8+|||"
+  },
+  {
+    "line": 125,
+    "text": "|[[Chromafill]]|BGCOLOR(lightskyblue):|ていぬ|Memory Archive|5.6.0&br;(24/04/26)|4|7|10|||"
+  },
+  {
+    "line": 126,
+    "text": "|[[Chronicle]]|BGCOLOR(lightskyblue):|Lime|Extend Archive 2&br;&size(10){Chronicles};|4.2.0&br;(23/01/26)|5|8+|10|||"
+  },
+  {
+    "line": 127,
+    "text": "|[[chronologia]]|BGCOLOR(lightskyblue):|Lowiro Sound Team&br;(ak+q x nitro)|Memory Archive|6.16.0&br;(26/07/31)|4|7+|9+|10+||"
+  },
+  {
+    "line": 128,
+    "text": "|[[Chronostasis]]|BGCOLOR(indigo):|黒皇帝|Arcaea|1.1.0&br;(17/06/02)|3|7|8+|||"
+  },
+  {
+    "line": 129,
+    "text": "|[[Climax]]|BGCOLOR(indigo):|USAO|CHUNITHM&br;&size(10){(Collaboration Ch.2)};|3.5.0&br;(21/01/21)|4|7+|10|||"
+  },
+  {
+    "line": 130,
+    "text": "|[[Coastal Highway]]|BGCOLOR(lightskyblue):|Glitch Droids|Esoteric Order&br;&size(10){(Pale Tapestry)};|3.6.0&br;(21/05/11)|3|6|9|||"
+  },
+  {
+    "line": 131,
+    "text": "|[[cocoro*cosmetic]]|BGCOLOR(lightskyblue):|KOTONOHOUSE|Memory Archive|4.1.4&br;(22/11/10)|3|7|9|||"
+  },
+  {
+    "line": 132,
+    "text": "|[[Code: Oblivion>Code： Oblivion]]|BGCOLOR(indigo):|Kobaryo × Gram|Arcaea Next Stage|6.10.8&br;(25/11/22)|5|8|9+|10+||"
+  },
+  {
+    "line": 133,
+    "text": "|[[conflict]]|BGCOLOR(indigo):|siromaru + cranky|Vicious Labyrinth|1.5.0&br;(17/11/03)|4|7|10|||"
+  },
+  {
+    "line": 134,
+    "text": "|[[corps-sans-organes]]|BGCOLOR(indigo):|cybermiso|Ambivalent Vision|2.6.0&br;(20/03/25)|4|7+|10|||"
+  },
+  {
+    "line": 135,
+    "text": "|[[Corruption]]|BGCOLOR(indigo):|3R2|Absolute Reason|2.0.0&br;(19/03/21)|3|6|9+|||"
+  },
+  {
+    "line": 136,
+    "text": "|[[Cosmica]]|BGCOLOR(indigo):|Nhato|Binary Enfold&br;&size(10){(Shared Time)};|3.9.0&br;(21/11/11)|2|5|8+|||"
+  },
+  {
+    "line": 137,
+    "text": "|[[Cosmogyral]]|BGCOLOR(lightskyblue):|Darren + Altermis|World Extend 4&br;&size(10){Emanation};|6.14.10&br;(26/05/28)|2|5|8|9+||"
+  },
+  {
+    "line": 138,
+    "text": "|[[Crimson Quartz]]|BGCOLOR(indigo):|DiGiTAL WiNG with 空音|Memory Archive|5.10.6&br;(24/10/24)|3|6|8+|9+||"
+  },
+  {
+    "line": 139,
+    "text": "|[[Crimson Throne]]|BGCOLOR(indigo):|Dimier√Lisb|Memory Archive|4.3.0&br;(23/03/02)|4|8|10|||"
+  },
+  {
+    "line": 140,
+    "text": "|[[CROSS†OVER]]|BGCOLOR(indigo):|HyuN feat. LyuU|Extend Archive 1&br;&size(10){Visions};|3.2.1&br;(20/10/07)|4|6|9|||"
+  },
+  {
+    "line": 141,
+    "text": "|[[CROSS†SOUL]]|BGCOLOR(indigo):|HyuN feat. Syepias|Memory Archive|1.1.0&br;(17/06/02)|4|7|9|||"
+  },
+  {
+    "line": 142,
+    "text": "|[[cry of viyella]]|BGCOLOR(indigo):|Laur|Eternal Core|1.0.5&br;(17/03/09)|3|6|8+|||"
+  },
+  {
+    "line": 143,
+    "text": "|[[Cryogenic]]|BGCOLOR(indigo):|Camellia ft. Petra Gurin|Memory Archive|6.13.0&br;(26/03/09)|5|7|9|10||"
+  },
+  {
+    "line": 144,
+    "text": "|[[Crystal Gravity]]|BGCOLOR(indigo):|Tanchiky vs. siromaru|Esoteric Order|3.6.0&br;(21/05/11)|3|6|9|||"
+  },
+  {
+    "line": 145,
+    "text": "|[[Cyaegha]]|BGCOLOR(indigo):|USAO|Absolute Reason|2.0.0&br;(19/03/21)|5|8|10+|||"
+  },
+  {
+    "line": 146,
+    "text": "|[[cyanine]]|BGCOLOR(indigo):|jioyi|Lanota|1.5.5&br;(18/02/01)|4|7+|10|||"
+  },
+  {
+    "line": 147,
+    "text": "|[[Cybernecia Catharsis]]|BGCOLOR(indigo):|Tanchiky|Arcaea|1.6.4&br;(18/06/01)|4|7|9||9+|"
+  },
+  {
+    "line": 148,
+    "text": "|[[CYCLES]]|BGCOLOR(lightskyblue):|Masayoshi Minoshima&br;feat. 綾倉盟|maimai&br;&size(10){(Collaboration Ch.2)};|4.3.0&br;(23/03/02)|2|5|8+|||"
+  },
+  {
+    "line": 149,
+    "text": "|[[c.s.q.n.]]|BGCOLOR(indigo):|Aoi|Memory Archive|6.14.10&br;(26/05/28)|4|7|9|10||"
+  },
+  {
+    "line": 156,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 157,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 158,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 159,
+    "text": "|[[DA'AT&br;-The First Seeker of Souls->DA'AT -The First Seeker of Souls-]]|BGCOLOR(indigo):|水野健治 VS 大国奏音|CHUNITHM&br;&size(10){(Collaboration Ch.4)};|6.1.0&br;(24/12/19)|5|8|10+|||"
+  },
+  {
+    "line": 160,
+    "text": "|[[Dandelion]]|BGCOLOR(lightskyblue):|Farhan|Arcaea|1.0.9&br;(17/03/20)|2|6|8|||"
+  },
+  {
+    "line": 161,
+    "text": "|[[Dantalion]]|BGCOLOR(indigo):|Team Grimoire|Black Fate|3.0.0&br;(20/05/27)|5|8|10+|||"
+  },
+  {
+    "line": 162,
+    "text": "|[[DataErr0r]]|BGCOLOR(indigo):|Cosmograph|Memory Archive|1.1.0&br;(17/06/02)|3|7|9|||"
+  },
+  {
+    "line": 163,
+    "text": "|[[Dazzle hop]]|BGCOLOR(indigo):|Sampling Masters MEGA|O.N.G.E.K.I.|3.4.0&br;(20/12/17)|3|6|9+|||"
+  },
+  {
+    "line": 164,
+    "text": "|[[DDD]]|BGCOLOR(lightskyblue):|はがね|Arcaea|3.12.4&br;(22/03/23)|2|6|8|||"
+  },
+  {
+    "line": 165,
+    "text": "|[[Defection]]|BGCOLOR(lightskyblue):|TeddyLoid feat. DELTA|Final Verdict|4.0.0&br;(22/07/07)|3|6|9+|||"
+  },
+  {
+    "line": 166,
+    "text": "|[[Dematerialized]]|BGCOLOR(indigo):|In Love With A Ghost|Arcaea|6.7.0&br;(25/07/24)|1|4|7|8||"
+  },
+  {
+    "line": 167,
+    "text": "|[[Dement ~after legend~]]|BGCOLOR(indigo):|Cosmograph|Arcaea|1.0.9&br;(17/03/20)|3|6|7+||9+|"
+  },
+  {
+    "line": 168,
+    "text": "|[[Desertrealm]]|BGCOLOR(indigo):|Masahiro \"Godspeed\" Aoki|Memory Archive|6.13.0&br;(26/03/09)|4|8|10|||"
+  },
+  {
+    "line": 169,
+    "text": "|[[Designant.]]|BGCOLOR(gray):|Designant|Lucent Historia|6.0.0&br;(24/11/21)|7|9|10+||''11+''|"
+  },
+  {
+    "line": 170,
+    "text": "|[[Devillic Sphere]]|BGCOLOR(indigo):|3R2|Cytus II|4.5.0&br;(23/06/28)|4|7+|9+|||"
+  },
+  {
+    "line": 171,
+    "text": "|[[Dies irae]]|BGCOLOR(indigo):|お月さま交響曲|Memory Archive|5.10.6&br;(24/10/24)|4|7|9|10||"
+  },
+  {
+    "line": 172,
+    "text": "|[[Diode]]|BGCOLOR(lightskyblue):|Kolaa|Arcaea|2.4.0&br;(19/10/08)|2|5|8|||"
+  },
+  {
+    "line": 173,
+    "text": "|[[disintegration]]|BGCOLOR(lightskyblue):|ひゅ～ぶ|Extend Archive 3&br;&size(10){Illusions};|6.8.0&br;(25/08/21)|4|6|8|9+||"
+  },
+  {
+    "line": 174,
+    "text": "|[[Distorted Fate]]|BGCOLOR(indigo):|Sakuzyo|Memory Archive|5.6.0&br;(24/04/26)|4|7+|9|10+||"
+  },
+  {
+    "line": 175,
+    "text": "|[[Don't Die]]|BGCOLOR(indigo):|Paul Bazooka|Memory Archive|6.5.0&br;(25/05/22)|3|7|9|10||"
+  },
+  {
+    "line": 176,
+    "text": "|[[Don't Fight The Music]]|BGCOLOR(indigo):|黒魔|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.3)};|6.0.0&br;(24/11/21)|4|7+|9|10+||"
+  },
+  {
+    "line": 177,
+    "text": "|[[Dot to Dot feat. shully]]|BGCOLOR(lightskyblue):|Mameyudoufu|Memory Archive|2.0.3&br;(19/05/02)|3|6|8|||"
+  },
+  {
+    "line": 178,
+    "text": "|[[Dreadnought]]|BGCOLOR(indigo):|Mastermind (xi + nora2r)|Memory Archive|2.2.0&br;(19/07/18)|4|7|9+|||"
+  },
+  {
+    "line": 179,
+    "text": "|[[Dream goes on]]|BGCOLOR(lightskyblue):|Tiny Minim|Lanota|1.5.5&br;(18/02/01)|1|5|7+|||"
+  },
+  {
+    "line": 180,
+    "text": "|[[Dreamin' Attraction!!]]|BGCOLOR(lightskyblue):|翡乃イスカ|Arcaea|1.5.0&br;(17/11/03)|4|7|9|||"
+  },
+  {
+    "line": 181,
+    "text": "|[[DRG]]|BGCOLOR(lightskyblue):|onoken|Cytus II&br;&size(10){(Collaboration Ch.2)};|4.6.0&br;(23/07/19)|3|7|9|||"
+  },
+  {
+    "line": 182,
+    "text": "|[[dropdead]]|BGCOLOR(indigo):|Frums|Memory Archive|1.7.2&br;(18/08/13)|1|9|8+|||"
+  },
+  {
+    "line": 183,
+    "text": "|[[Dual Dependency]]|BGCOLOR(lightskyblue):|seatrus|Extant Anima|6.7.0&br;(25/07/24)|4|7+|9|10||"
+  },
+  {
+    "line": 184,
+    "text": "|[[Dual Doom Deathmatch]]|BGCOLOR(indigo):|Kobaryo vs HyuN|Rotaeno|5.10.0&br;(24/08/29)|3|6|8+|10||"
+  },
+  {
+    "line": 185,
+    "text": "|[[Dull Blade]]|BGCOLOR(indigo):|stuv|Memory Archive|6.4.0&br;(25/04/24)|4|8|10|||"
+  },
+  {
+    "line": 186,
+    "text": "|[[DX超性能フルメタル少女]]&br;&size(10){DX Choseinou Full Metal Shojo};|BGCOLOR(lightskyblue):|IOSYS TRAX&br;(uno with.ちよこ)|Groove Coaster|1.9.0&br;(19/01/09)|3|6|9+|||"
+  },
+  {
+    "line": 187,
+    "text": "|[[Dynitik&#243;s]]|BGCOLOR(indigo):|Prower|Extend Archive 2&br;&size(10){Chronicles};|5.0.0&br;(23/09/27)|4|7|9|||"
+  },
+  {
+    "line": 188,
+    "text": "|[[D&#233;sive]]|BGCOLOR(lightskyblue):|MisomyL|Memory Archive|5.6.0&br;(24/04/26)|5|8|9+|10+||"
+  },
+  {
+    "line": 195,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 196,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 197,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 198,
+    "text": "|[[Eccentric Tale]]|BGCOLOR(indigo):|Yamajet|Ephemeral Page|3.3.0&br;(20/12/03)|2|5|8||9+|"
+  },
+  {
+    "line": 199,
+    "text": "|[[eden]]|BGCOLOR(indigo):|\"漆黒\"の堕天使《Gram》&br;†Versus†&br;\"聖刻\"の熾天使《Gram》|WACCA&br;&size(10){(Collaboration Ch.2)};|5.2.0&br;(23/11/30)|4|8|10|||"
+  },
+  {
+    "line": 200,
+    "text": "|[[Ego Eimi]]|BGCOLOR(indigo):|BlackY feat. Risa Yuzuki|Lasting Eden&br;&size(10){(Lasting Eden Ch.2)};|5.0.0&br;(23/09/27)|5|8|10|||"
+  },
+  {
+    "line": 201,
+    "text": "|[[Einherjar Joker]]|BGCOLOR(indigo):|DJ Genki vs Gram|Memory Archive|2.5.0&br;(20/01/21)|4|7|9+||10+|"
+  },
+  {
+    "line": 202,
+    "text": "|[[Empire of Winter]]|BGCOLOR(lightskyblue):|Street|Memory Archive|1.8.3&br;(18/12/22)|3|6|9|||"
+  },
+  {
+    "line": 203,
+    "text": "|[[enchanted love]]|BGCOLOR(lightskyblue):|linear ring|Extend Archive 1&br;&size(10){Visions};|3.5.1&br;(21/02/11)|2|4|8|||"
+  },
+  {
+    "line": 204,
+    "text": "|[[End of The Moonlight]]|BGCOLOR(indigo):|Forte Escape|DJMAX|6.5.0&br;(25/05/22)|3|5|9|||"
+  },
+  {
+    "line": 205,
+    "text": "|&size(10){[[ENERGY SYNERGY MATRIX]]};|BGCOLOR(indigo):|Tanchiky|Extend Archive 1&br;&size(10){Visions};|3.8.4&br;(21/09/08)|3|7|9||10|"
+  },
+  {
+    "line": 206,
+    "text": "|[[epitaxy]]|BGCOLOR(lightskyblue):|Camellia|Extend Archive 3&br;&size(10){Illusions};|5.10.0&br;(24/08/29)|3|6|8|9||"
+  },
+  {
+    "line": 207,
+    "text": "|[[Equilibrium]]|BGCOLOR(lightskyblue):|Maozon|Black Fate|3.0.0&br;(20/05/27)|3|6|9|||"
+  },
+  {
+    "line": 208,
+    "text": "|[[Essence of Twilight]]|BGCOLOR(indigo):|ak+q|Eternal Core|1.0.5&br;(17/03/09)|4|7|9|||"
+  },
+  {
+    "line": 209,
+    "text": "|[[Eternity Break]]|BGCOLOR(indigo):|Puru|Memory Archive|6.8.4&br;(25/09/24)|3|7|9|10||"
+  },
+  {
+    "line": 210,
+    "text": "|[[Ether Strike]]|BGCOLOR(lightskyblue):|Akira Complex|Luminous Sky|1.7.0&br;(18/07/16)|5|8|10|||"
+  },
+  {
+    "line": 211,
+    "text": "|[[Evoltex (poppi'n mix)]]|BGCOLOR(lightskyblue):|Arch vs n3pu|Dynamix|1.1.2&br;(17/06/23)|2|7|8+|||"
+  },
+  {
+    "line": 218,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 219,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 220,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 221,
+    "text": "|[[Factorder]]|BGCOLOR(indigo):|瀬名 feat. 梨雛|Extant Anima&br;&size(10){(Ch.Experientia)};|6.8.0&br;(25/08/21)|2|6|8|9||"
+  },
+  {
+    "line": 222,
+    "text": "|[[Faint Light (Arcaea Edit)]]|BGCOLOR(lightskyblue):|Taishi|Extend Archive 1&br;&size(10){Visions};|3.0.3&br;(20/07/08)|3|6|9|||"
+  },
+  {
+    "line": 223,
+    "text": "|[[Fairytale]]|BGCOLOR(lightskyblue):|chitose|Arcaea|1.0.5&br;(17/03/09)|1|3|7||9|"
+  },
+  {
+    "line": 224,
+    "text": "|[[Fallensquare]]|BGCOLOR(indigo):|Silentroom|Memory Archive|1.7.2&br;(18/08/13)|3|7|9+|||"
+  },
+  {
+    "line": 225,
+    "text": "|[[FANTA5Y]]|BGCOLOR(lightskyblue):|&size(10){Moon Jelly & YUKIYANAGI};|Extend Archive 2&br;&size(10){Chronicles};|5.1.0&br;(23/10/26)|3|7|9|||"
+  },
+  {
+    "line": 226,
+    "text": "|[[Far Away Light]]|BGCOLOR(lightskyblue):|technoplanet&br;feat. はるの&黒沢ダイスケ|Esoteric Order|3.6.0&br;(21/05/11)|4|7+|9+|||"
+  },
+  {
+    "line": 227,
+    "text": "|[[Feels So Right feat. Renko]]|BGCOLOR(lightskyblue):|Mysteka|Memory Archive|3.0.3&br;(20/07/08)|3|6|9|||"
+  },
+  {
+    "line": 228,
+    "text": "|[[Felis]]|BGCOLOR(lightskyblue):|M2U|Ephemeral Page|3.3.0&br;(20/12/03)|4|7|10|||"
+  },
+  {
+    "line": 229,
+    "text": "|[[felys final remix]]|BGCOLOR(indigo):|onoken|Extend Archive 2&br;&size(10){Chronicles};|5.2.2&br;(23/12/21)|3|6|9|||"
+  },
+  {
+    "line": 230,
+    "text": "|[[Filament]]|BGCOLOR(lightskyblue):|Puru|Memory Archive|2.4.5&br;(19/11/18)|4|7+|9+|||"
+  },
+  {
+    "line": 231,
+    "text": "|[[Final Step!]]|BGCOLOR(indigo):|Lime|Muse Dash|3.11.0&br;(21/12/24)|3|6|9|||"
+  },
+  {
+    "line": 232,
+    "text": "|[[First Snow]]|BGCOLOR(lightskyblue):|黒魔|Divided Heart|3.10.0&br;(21/12/09)|2|4|7+|||"
+  },
+  {
+    "line": 233,
+    "text": "|[[Flashback]]|BGCOLOR(lightskyblue):|ARForest|Crimson Solace|1.0.11&br;(17/05/11)|2|5|8+|||"
+  },
+  {
+    "line": 234,
+    "text": "|[[flexidefine]]|BGCOLOR(indigo):|Lamanya|World Extend 4&br;&size(10){Emanation};|6.14.10&br;(26/05/28)|2|6|9+|||"
+  },
+  {
+    "line": 235,
+    "text": "|[[Floating World]]|BGCOLOR(lightskyblue):|baker feat. botan|Memory Archive|5.6.0&br;(24/04/26)|3|7|9|||"
+  },
+  {
+    "line": 236,
+    "text": "|[[FLUFFY FLASH]]|BGCOLOR(lightskyblue):|Kobaryo|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.2)};|4.1.0&br;(22/10/04)|3|6|9+|||"
+  },
+  {
+    "line": 237,
+    "text": "|[[Fracture Ray]]|BGCOLOR(lightskyblue):|Sakuzyo|Luminous Sky|1.7.0&br;(18/07/16)|6|9|''11''|||"
+  },
+  {
+    "line": 238,
+    "text": "|[[Free Myself]]|BGCOLOR(lightskyblue):|lapix feat. mami|Memory Archive|4.1.4&br;(22/11/10)|4|7|10|||"
+  },
+  {
+    "line": 239,
+    "text": "|[[FREEF4LL]]|BGCOLOR(indigo):|YUKIYANAGI|Arcaea|2.4.0&br;(19/10/08)|4|7|8||9+|"
+  },
+  {
+    "line": 246,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 247,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 248,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 249,
+    "text": "|[[G e n g a o z o]]|BGCOLOR(indigo):|-45|Extend Archive 1&br;&size(10){Visions};|3.8.6&br;(21/09/29)|4|8|10|||"
+  },
+  {
+    "line": 250,
+    "text": "|[[Galactic Love]]|BGCOLOR(lightskyblue):|La pri&#232;re|Memory Archive|4.4.6&br;(23/05/25)|3|6|9|||"
+  },
+  {
+    "line": 251,
+    "text": "|[[Galaxy Friends]]|BGCOLOR(indigo):|Kobaryo|Memory Archive|3.2.1&br;(20/10/07)|3|6|9+|||"
+  },
+  {
+    "line": 252,
+    "text": "|[[Garakuta Doll Play]]|BGCOLOR(indigo):|t+pazolite|CHUNITHM|2.1.0&br;(19/05/23)|4|6|10|||"
+  },
+  {
+    "line": 253,
+    "text": "|[[Gekka (Short Version)]]|BGCOLOR(lightskyblue):|Nhato|Extend Archive 1&br;&size(10){Visions};|3.0.0&br;(20/05/27)|4|6|8|||"
+  },
+  {
+    "line": 254,
+    "text": "|[[Genesis]]|BGCOLOR(indigo):|Iris|Ambivalent Vision|1.1.4&br;(17/08/10)|2|5|8|||"
+  },
+  {
+    "line": 255,
+    "text": "|[[Genesis>Genesis〖CHUNITHM〗]]|BGCOLOR(indigo):|Morrigan feat.Lily|CHUNITHM&br;&size(10){(Collaboration Ch.3)};|4.4.0&br;(23/03/23)|4|7|9+|||"
+  },
+  {
+    "line": 256,
+    "text": "|[[GENOCIDER]]|BGCOLOR(indigo):|DJ Myosuke|WACCA|3.8.0&br;(21/08/10)|4|8+|10+|||"
+  },
+  {
+    "line": 257,
+    "text": "|[[GIMME DA BLOOD]]|BGCOLOR(indigo):|C-Show|Memory Archive|3.5.2&br;(21/03/09)|3|7|10|||"
+  },
+  {
+    "line": 258,
+    "text": "|[[GIMMICK]]|BGCOLOR(indigo):|Ms.Sill|Extend Archive 2&br;&size(10){Chronicles};|4.4.4&br;(23/04/27)|2|6|9|||"
+  },
+  {
+    "line": 259,
+    "text": "|[[Give Me a Nightmare]]|BGCOLOR(indigo):|&size(10){アリスシャッハと魔法の楽団};|Extend Archive 1&br;&size(10){Visions};|3.0.0&br;(20/05/27)|3|5|8+|||"
+  },
+  {
+    "line": 260,
+    "text": "|[[GLORY：ROAD]]|BGCOLOR(lightskyblue):|uma vs. モリモリあつし|Crimson Solace|2.4.0&br;(19/10/08)|4|7|10|||"
+  },
+  {
+    "line": 261,
+    "text": "|[[Glow]]|BGCOLOR(indigo):|SPACELECTRO|Extend Archive 1&br;&size(10){Visions};|3.5.0&br;(21/01/21)|4|7|9|||"
+  },
+  {
+    "line": 262,
+    "text": "|[[goldenslaughterer]]|BGCOLOR(indigo):|zts|Memory Archive|3.8.6&br;(21/09/29)|4|6|9+|||"
+  },
+  {
+    "line": 263,
+    "text": "|[[Good bye, Merry-Go-Round.]]|BGCOLOR(Indigo):|Yooh|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.2)};|4.1.0&br;(22/10/04)|4|7|10|||"
+  },
+  {
+    "line": 264,
+    "text": "|[[GOODRAGE]]|BGCOLOR(lightskyblue):|EBIMAYO|Memory Archive|6.13.0&br;(26/03/09)|4|7+|9|10||"
+  },
+  {
+    "line": 265,
+    "text": "|[[GOODTEK (Arcaea Edit)]]|BGCOLOR(lightskyblue):|EBIMAYO|Arcaea|1.0.5&br;(17/03/09)|4|6|9||9+|"
+  },
+  {
+    "line": 266,
+    "text": "|[[Got hive of Ra]]|BGCOLOR(lightskyblue):|E.G.G.|Groove Coaster|3.2.0&br;(20/09/16)|3|6|9+|||"
+  },
+  {
+    "line": 267,
+    "text": "|[[Grandspell]]|BGCOLOR(indigo):|Hylen|Memory Archive|6.11.0&br;(25/11/27)|4|8|10|||"
+  },
+  {
+    "line": 268,
+    "text": "|[[Grievous Lady]]|BGCOLOR(indigo):|Team Grimoire vs Laur|Vicious Labyrinth|1.5.0&br;(17/11/03)|6|9|''11''|||"
+  },
+  {
+    "line": 269,
+    "text": "|[[Grimheart]]|BGCOLOR(lightskyblue):|Puru|Arcaea|2.0.0&br;(19/03/21)|2|5|8+|||"
+  },
+  {
+    "line": 276,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 277,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 278,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 279,
+    "text": "|[[Hailstone]]|BGCOLOR(lightskyblue):|Kazki Misora|Extend Archive 3&br;&size(10){Illusions};|5.10.4&br;(24/09/26)|3|7|9+|||"
+  },
+  {
+    "line": 280,
+    "text": "|[[Halcyon]]|BGCOLOR(lightskyblue):|xi|Luminous Sky|1.7.0&br;(18/07/16)|5|8|10|||"
+  },
+  {
+    "line": 281,
+    "text": "|[[Hall of Mirrors]]|BGCOLOR(indigo):|Sta|Tone Sphere|1.8.0&br;(18/10/07)|3|5|8|||"
+  },
+  {
+    "line": 282,
+    "text": "|[[Head BONK ache]]|BGCOLOR(indigo):|saaa ft. MC iwata Bros.|Memory Archive|3.12.4&br;(22/03/23)|4|7|9|||"
+  },
+  {
+    "line": 283,
+    "text": "|[[Heart Jackin']]|BGCOLOR(lightskyblue):|Yu_Asahina|Ephemeral Page&br;&size(10){(The Journey Onwards)};|3.3.1&br;(20/12/09)|3|5|9+|||"
+  },
+  {
+    "line": 284,
+    "text": "|[[Heavenly caress]]|BGCOLOR(lightskyblue):|Noah|Memory Archive|2.4.3&br;(19/10/26)|3|7|9+||10+|"
+  },
+  {
+    "line": 285,
+    "text": "|[[Heavensdoor]]|BGCOLOR(indigo):|LeaF|Adverse Prelude|2.2.0&br;(19/07/18)|4|7|9+||10+|"
+  },
+  {
+    "line": 286,
+    "text": "|[[HELLOHELL]]|BGCOLOR(indigo):|暁Records|Extend Archive 3&br;&size(10){Illusions};|5.5.0&br;(24/03/25)|2|5|7|9||"
+  },
+  {
+    "line": 287,
+    "text": "|[[HIVEMIND]]|BGCOLOR(indigo):|かたぎり|Extend Archive 1&br;&size(10){Visions};|3.7.0&br;(21/07/21)|4|8|10|||"
+  },
+  {
+    "line": 288,
+    "text": "|[[HIVEMIND INTERLINKED]]&br;&color(#ffffff,#292929){AF譜面限定楽曲};|BGCOLOR(indigo):|かたぎり|-|5.5.6&br;(24/04/01)|||?|||"
+  },
+  {
+    "line": 289,
+    "text": "|[[HYPER VISION]]|BGCOLOR(indigo):|VOLTA|Memory Archive|5.8.0&br;(24/06/27)|4|7|9+|||"
+  },
+  {
+    "line": 290,
+    "text": "|[[Hypnotize]]|BGCOLOR(indigo):|rejection|Absolute Nihil|5.9.0&br;(24/07/30)|3|7|8+|9+||"
+  },
+  {
+    "line": 297,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 298,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 299,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 300,
+    "text": "|[[I want You]]|BGCOLOR(lightskyblue):|Lin-G|DJMAX&br;&size(10){(Collaboration Ch.2)};|6.6.0&br;(25/06/26)|3|5|8|9||"
+  },
+  {
+    "line": 301,
+    "text": "|[[I've heard it said]]|BGCOLOR(lightskyblue):|Combatplayer|Eternal Core|1.0.5&br;(17/03/09)|3|6|8|||"
+  },
+  {
+    "line": 302,
+    "text": "|[[Iconoclast]]|BGCOLOR(indigo):|Yamajet|Vicious Labyrinth|1.5.0&br;(17/11/03)|4|7|9|||"
+  },
+  {
+    "line": 303,
+    "text": "|[[Ignition]]|BGCOLOR(lightskyblue):|パソコン音楽クラブ|CHUNITHM&br;&size(10){(Collaboration Ch.4)};|6.1.0&br;(24/12/19)|3|6|9+|||"
+  },
+  {
+    "line": 304,
+    "text": "|[[Ignotus]]|BGCOLOR(indigo):|ak+q|Arcaea|1.1.3&br;(17/07/18)|3|6|9|||"
+  },
+  {
+    "line": 305,
+    "text": "|[[Ignotus Afterburn]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};・AF譜面限定楽曲};|BGCOLOR(indigo):|Arcaea Sound Team|Arcaea|1.6.1&br;(18/04/01)|||?||9+|"
+  },
+  {
+    "line": 306,
+    "text": "|[[IMPACT]]|BGCOLOR(lightskyblue):|USAO feat. 光吉猛修|CHUNITHM&br;&size(10){(Collaboration Ch.3)};|4.4.0&br;(23/03/23)|3|7+|9||10|"
+  },
+  {
+    "line": 307,
+    "text": "|[[In Vain]]|BGCOLOR(indigo):|ryhki|Absolute Nihil|5.9.0&br;(24/07/30)|3|6|9|||"
+  },
+  {
+    "line": 308,
+    "text": "|[[INCARNATOR&#8320;&#8320;]]|BGCOLOR(indigo):|Silentroom × N&#178;|Arcaea Next Stage|6.10.8&br;(25/11/22)|3|6|8+|10||"
+  },
+  {
+    "line": 309,
+    "text": "|[[incomplete the one]]|BGCOLOR(indigo):|Halv feat.Kuroa*|Extant Anima&br;&size(10){(Ch.Experientia)};|6.8.0&br;(25/08/21)|3|7|8+|9+||"
+  },
+  {
+    "line": 310,
+    "text": "|[[INFINITE DIMENSION]]|BGCOLOR(lightskyblue):|DJ Noriken × P*Light|Arcaea Next Stage|6.10.8&br;(25/11/22)|2|6|8|10||"
+  },
+  {
+    "line": 311,
+    "text": "|[[Infinite Strife,]]|BGCOLOR(indigo):|BlackYooh vs. siromaru|Final Verdict|4.0.0&br;(22/07/07)|4|7|9+||10+|"
+  },
+  {
+    "line": 312,
+    "text": "|[[Infinity Heaven]]|BGCOLOR(lightskyblue):|HyuN|Arcaea|1.0.10&br;(17/04/12)|1|5|7+||9|"
+  },
+  {
+    "line": 313,
+    "text": "|[[init()]]|BGCOLOR(indigo):|kamome sano|Memory Archive|3.11.2&br;(22/01/20)|4|7|9+|||"
+  },
+  {
+    "line": 314,
+    "text": "|[[inkar-usi]]|BGCOLOR(lightskyblue):|DIA|Arcaea|1.6.6&br;(18/06/22)|2|4|7+||9|"
+  },
+  {
+    "line": 315,
+    "text": "|[[Innocence]]|BGCOLOR(lightskyblue):|Powerless feat. Sennzai|Memory Archive|5.4.0&br;(24/03/08)|3|6|8|9+||"
+  },
+  {
+    "line": 316,
+    "text": "|[[INTERNET OVERDOSE]]|BGCOLOR(lightskyblue):|Aiobahn feat. KOTOKO|Memory Archive|3.12.0&br;(22/02/17)|3|6|8|||"
+  },
+  {
+    "line": 317,
+    "text": "|[[INTERNET YAMERO]]|BGCOLOR(indigo):|Aiobahn feat. KOTOKO|Memory Archive|4.5.0&br;(23/06/28)|4|7+|10|||"
+  },
+  {
+    "line": 318,
+    "text": "|[[Inverted World]]|BGCOLOR(lightskyblue):|ARForest|Rotaeno|5.10.0&br;(24/08/29)|3|7|9|10+||"
+  },
+  {
+    "line": 319,
+    "text": "|[[IONOSTREAM]]|BGCOLOR(indigo):|Tatsh|Memory Archive|5.4.0&br;(24/03/08)|3|6|8+|9+||"
+  },
+  {
+    "line": 320,
+    "text": "|[[IZANA]]|BGCOLOR(lightskyblue):|t+pazolite vs P*Light|Memory Archive|2.5.0&br;(20/01/21)|5|8|10|||"
+  },
+  {
+    "line": 327,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 328,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 329,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 330,
+    "text": "|[[Jingle]]|BGCOLOR(lightskyblue):|DJ Noriken|Arcaea|5.4.0&br;(24/03/08)|2|5|7+|9||"
+  },
+  {
+    "line": 331,
+    "text": "|[[Journey]]|BGCOLOR(lightskyblue):|ARForest|Lanota|1.5.5&br;(18/02/01)|3|6|9|||"
+  },
+  {
+    "line": 332,
+    "text": "|[[Judgement]]|BGCOLOR(indigo):|Tatsunoshin|Absolute Nihil|5.9.0&br;(24/07/30)|5|8|10|||"
+  },
+  {
+    "line": 333,
+    "text": "|[[Jump]]|BGCOLOR(lightskyblue):|Rasmus Faber|Ephemeral Page|3.3.0&br;(20/12/03)|4|6|9|||"
+  },
+  {
+    "line": 340,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 341,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 342,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 343,
+    "text": "|[[Kissing Lucifer]]|BGCOLOR(indigo):|ETIA.|Memory Archive|3.12.0&br;(22/02/17)|4|7+|10|||"
+  },
+  {
+    "line": 350,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 351,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 352,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 353,
+    "text": "|[[La'qryma of the Wasteland]]|BGCOLOR(indigo):|DJ Noriken|Memory Archive|2.5.0&br;(20/01/21)|3|6|9||10|"
+  },
+  {
+    "line": 354,
+    "text": "|[[Ladymade Star]]|BGCOLOR(lightskyblue):|ESTi|DJMAX|6.5.0&br;(25/05/22)|2|6|8|9||"
+  },
+  {
+    "line": 355,
+    "text": "|[[Lament Rain]]|BGCOLOR(gray):|Ashrount vs. 打打だいず|Lucent Historia|6.0.0&br;(24/11/21)|6|8+|10||''11''|"
+  },
+  {
+    "line": 356,
+    "text": "|[[LAMIA]]|BGCOLOR(Indigo):|BlackY|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.2)};|4.1.0&br;(22/10/04)|5|8|''11''|||"
+  },
+  {
+    "line": 357,
+    "text": "|[[Lapis]]|BGCOLOR(lightskyblue):|SHIKI|Extend Archive 1&br;&size(10){Visions};|3.2.2&br;(20/10/30)|2|6|9|||"
+  },
+  {
+    "line": 358,
+    "text": "|[[Last]]|BGCOLOR(white):|onoken|Final Verdict&br;&size(10){(Silent Answer)};|4.0.255&br;(22/07/13)|4|7|9|||"
+  },
+  {
+    "line": 359,
+    "text": "|[[Last &#124; Eternity>Last]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};譜面限定楽曲};|BGCOLOR(white):|onoken|Final Verdict&br;&size(10){(Silent Answer)};|4.0.255&br;(22/07/13)|||||9+|"
+  },
+  {
+    "line": 360,
+    "text": "|[[Last &#124; Moment>Last]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};譜面限定楽曲};|BGCOLOR(white):|onoken|Final Verdict&br;&size(10){(Silent Answer)};|4.0.255&br;(22/07/13)|||||9|"
+  },
+  {
+    "line": 361,
+    "text": "|[[Last Celebration]]|BGCOLOR(indigo):|Laur vs CK|CHUNITHM&br;&size(10){(Collaboration Ch.2)};|3.5.0&br;(21/01/21)|3|6|10|||"
+  },
+  {
+    "line": 362,
+    "text": "|[[lastendconductor]]|BGCOLOR(indigo):|zts|Memory Archive|3.8.6&br;(21/09/29)|3|7|9||10|"
+  },
+  {
+    "line": 363,
+    "text": "|[[Lazy Addiction]]|BGCOLOR(lightskyblue):|sky_delta|O.N.G.E.K.I.|3.4.0&br;(20/12/17)|2|6|9|||"
+  },
+  {
+    "line": 364,
+    "text": "|[[Leave All Behind]]|BGCOLOR(indigo):|rider|Extend Archive 3&br;&size(10){Illusions};|5.6.0&br;(24/04/26)|2|5|9|||"
+  },
+  {
+    "line": 365,
+    "text": "|[[Let you DIVE! (nitro rmx)]]|BGCOLOR(lightskyblue):|nitro (lowiro)|WACCA|3.8.0&br;(21/08/10)|3|6|9|||"
+  },
+  {
+    "line": 366,
+    "text": "|[[Let's Rock (Arcaea mix)]]|BGCOLOR(indigo):|ikaruga_nex vs FALCHiON|Extend Archive 2&br;&size(10){Chronicles};|4.3.0&br;(23/03/02)|3|7|9+|||"
+  },
+  {
+    "line": 367,
+    "text": "|[[Lethaeus]]|BGCOLOR(indigo):|Silentroom|Ambivalent Vision|1.1.4&br;(17/08/10)|3|6|9+|||"
+  },
+  {
+    "line": 368,
+    "text": "|[[Lethal Voltage]]|BGCOLOR(indigo):|Siqlo|Extend Archive 3&br;&size(10){Illusions};|5.5.0&br;(24/03/25)|4|7+|10|||"
+  },
+  {
+    "line": 369,
+    "text": "|[[Liar]]|BGCOLOR(indigo):|zts|DJMAX&br;&size(10){(Collaboration Ch.2)};|6.6.0&br;(25/06/26)|4|7+|10|||"
+  },
+  {
+    "line": 370,
+    "text": "|[[Libertas]]|BGCOLOR(lightskyblue):|Zekk|Memory Archive|1.9.2&br;(19/02/11)|3|5|9||10|"
+  },
+  {
+    "line": 371,
+    "text": "|[[Life is PIANO]]|BGCOLOR(lightskyblue):|Junk|Extend Archive 1&br;&size(10){Visions};|3.5.4&br;(21/04/09)|3|6|9|||"
+  },
+  {
+    "line": 372,
+    "text": "|[[LiftOff]]|BGCOLOR(indigo):|MAYA AKAI|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.3)};|6.0.0&br;(24/11/21)|3|6|8|9+||"
+  },
+  {
+    "line": 373,
+    "text": "|[[Lightning Screw]]|BGCOLOR(lightskyblue):|HiTECH NINJA|Divided Heart|3.10.0&br;(21/12/09)|4|7+|10|||"
+  },
+  {
+    "line": 374,
+    "text": "|[[Lights of Muse]]|BGCOLOR(lightskyblue):|Ayatsugu_Otowa|Muse Dash|3.11.0&br;(21/12/24)|2|6|8+|||"
+  },
+  {
+    "line": 375,
+    "text": "|[[Lilly]]|BGCOLOR(lightskyblue):|Juggernaut.|Extant Anima|6.7.0&br;(25/07/24)|5|8|9+|10+||"
+  },
+  {
+    "line": 376,
+    "text": "|[[Linear Accelerator]]|BGCOLOR(lightskyblue):|THE SHAFT|Tone Sphere|1.8.0&br;(18/10/07)|2|6|9+|||"
+  },
+  {
+    "line": 377,
+    "text": "|[[Live Fast Die Young]]|BGCOLOR(lightskyblue):|anubasu-anubasu|Binary Enfold&br;&size(10){(Shared Time)};|3.9.0&br;(21/11/11)|4|8|10|||"
+  },
+  {
+    "line": 378,
+    "text": "|[[Live Faster Die Younger]]&br;&color(#ffffff,#292929){AF譜面限定楽曲};|BGCOLOR(indigo):|Dustvoxx|-|6.3.3&br;(25/04/01)|||?|||"
+  },
+  {
+    "line": 379,
+    "text": "|[[LIVHT MY W&#8203;Δ&#8203;Y]]|BGCOLOR(indigo):|かめりあ feat. STΔRLIVHT|Memory Archive|5.2.2&br;(23/12/21)|4|7|9+|||"
+  },
+  {
+    "line": 380,
+    "text": "|[[Logos]]|BGCOLOR(indigo):|polysha feat. 高城みよ|Lasting Eden&br;&size(10){(Lasting Eden Ch.2)};|5.0.0&br;(23/09/27)|4|7+|10|||"
+  },
+  {
+    "line": 381,
+    "text": "|[[Lost Civilization]]|BGCOLOR(indigo):|Laur vs CK|Arcaea|1.0.5&br;(17/03/09)|4|7|9||9+|"
+  },
+  {
+    "line": 382,
+    "text": "|[[Lost Desire]]|BGCOLOR(indigo):|Powerless feat. Sennzai|Black Fate|3.0.0&br;(20/05/27)|4|7+|9+|||"
+  },
+  {
+    "line": 383,
+    "text": "|[[Lost Emotion feat. nomico]]|BGCOLOR(lightskyblue):|Masayoshi Minoshima(ALR)|Extend Archive 2&br;&size(10){Chronicles};|4.4.4&br;(23/04/27)|3|7|9|||"
+  },
+  {
+    "line": 384,
+    "text": "|[[Lost in the Abyss]]|BGCOLOR(indigo):|FELT|Memory Acrhive|4.4.6&br;(23/05/25)|3|6|9+|||"
+  },
+  {
+    "line": 385,
+    "text": "|[[Loveless Dress]]|BGCOLOR(white):|かねこちはる|Final Verdict&br;&size(10){(Silent Answer)};|4.0.255&br;(22/07/13)|3|6|9+|||"
+  },
+  {
+    "line": 386,
+    "text": "|[[Lucid Traveler]]|BGCOLOR(indigo):|Akira Complex vs 3R2|Cytus II|4.5.0&br;(23/06/28)|4|8+|10|||"
+  },
+  {
+    "line": 387,
+    "text": "|[[Lucifer]]|BGCOLOR(indigo):|chitose|Arcaea|1.0.5&br;(17/03/09)|3|5|8|||"
+  },
+  {
+    "line": 388,
+    "text": "|[[Lumia]]|BGCOLOR(lightskyblue):|sky_delta|Eternal Core|1.0.5&br;(17/03/09)|2|5|8||9|"
+  },
+  {
+    "line": 389,
+    "text": "|[[Luna Rossa]]|BGCOLOR(indigo):|r0y|Memory Archive|5.3.0&br;(23/01/25)|3|6|9+|||"
+  },
+  {
+    "line": 390,
+    "text": "|[[L&#246;schen]]|BGCOLOR(indigo):|BlackY feat. Risa Yuzuki|Esoteric Order|3.6.0&br;(21/05/11)|3|7|10|||"
+  },
+  {
+    "line": 397,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 398,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 399,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 400,
+    "text": "|[[Macrocosmic Modulation]]|BGCOLOR(lightskyblue):|JAKAZiD|Memory Archive|3.12.0&br;(22/02/17)|4|7+|9+|||"
+  },
+  {
+    "line": 401,
+    "text": "|[[Magnolia]]|BGCOLOR(lightskyblue):|M2U Vocal by Guriri|Cytus II&br;&size(10){(Collaboration Ch.2)};|4.6.0&br;(23/07/19)|4|7+|10|||"
+  },
+  {
+    "line": 402,
+    "text": "|[[MAHOROBA]]|BGCOLOR(lightskyblue):|Zekk|Memory Archive|3.0.6&br;(20/08/07)|3|6|9|||"
+  },
+  {
+    "line": 403,
+    "text": "|[[Malicious Mischance]]|BGCOLOR(indigo):|s-don|Memory Archive|3.1.2&br;(20/09/04)|4|7+|10|||"
+  },
+  {
+    "line": 404,
+    "text": "|[[Manic Jeer]]|BGCOLOR(indigo):|ルゼ|Memory Archive|4.3.0&br;(23/03/02)|4|7+|10|||"
+  },
+  {
+    "line": 405,
+    "text": "|&size(10){[[MANTIS&br;(Arcaea Ultra-Bloodrush VIP)>MANTIS (Arcaea Ultra-Bloodrush VIP)]]};|BGCOLOR(indigo):|Akira Complex feat. kiraku|Extend Archive 2&br;&size(10){Chronicles};|4.2.0&br;(23/01/26)|3|7|9|||"
+  },
+  {
+    "line": 406,
+    "text": "|[[MARENYX]]|BGCOLOR(indigo):|BlackY × Aoi|Arcaea Next Stage|6.10.8&br;(25/11/22)|4|7+|9|10+||"
+  },
+  {
+    "line": 407,
+    "text": "|[[Masquerade Legion]]|BGCOLOR(indigo):|Srav3R & DJ Noriken|Memory Archive|5.4.0&br;(24/03/08)|3|6|10|||"
+  },
+  {
+    "line": 408,
+    "text": "|[[MAXRAGE]]|BGCOLOR(indigo):|EBIMAYO|maimai&br;&size(10){(Collaboration Ch.2)};|4.3.0&br;(23/03/02)|3|6|9+|||"
+  },
+  {
+    "line": 409,
+    "text": "|[[Mazy Metroplex]]|BGCOLOR(lightskyblue):|aran|WACCA|3.8.0&br;(21/08/10)|3|7+|9+|||"
+  },
+  {
+    "line": 410,
+    "text": "|[[Medusa]]|BGCOLOR(indigo):|HiTECH NINJA|Muse Dash|3.11.0&br;(21/12/24)|4|7|10|||"
+  },
+  {
+    "line": 411,
+    "text": "|[[MEGALOVANIA]]|BGCOLOR(Indigo):|Toby Fox|UNDERTALE|6.3.0&br;(25/03/09)|4|7|9|10||"
+  },
+  {
+    "line": 412,
+    "text": "|[[MEGALOVANIA&br;(Camellia Remix)>MEGALOVANIA (Camellia Remix)]]|BGCOLOR(Indigo):|Camellia|Memory Archive|6.3.0&br;(25/03/09)|5|8|9+|10+||"
+  },
+  {
+    "line": 413,
+    "text": "|[[Memory Forest]]|BGCOLOR(lightskyblue):|ETIA.|Binary Enfold|1.6.0&br;(18/03/23)|3|6|9+|||"
+  },
+  {
+    "line": 414,
+    "text": "|[[memoryfactory.lzh]]|BGCOLOR(lightskyblue):|Frums|Eternal Core|1.0.5&br;(17/03/09)|2|5|8+|||"
+  },
+  {
+    "line": 415,
+    "text": "|[[MERLIN]]|BGCOLOR(lightskyblue):|REDALiCE|Groove Coaster|1.9.0&br;(19/01/09)|3|5|8+||9|"
+  },
+  {
+    "line": 416,
+    "text": "|[[Meta-Mysteria]]|BGCOLOR(lightskyblue):|DJ Noriken|WACCA&br;&size(10){(Collaboration Ch.2)};|5.2.0&br;(23/11/30)|5|7+|10+|||"
+  },
+  {
+    "line": 417,
+    "text": "|[[Metallic Punisher]]|BGCOLOR(indigo):|INNOCENT NOIZE|Memory Archive|1.5.6&br;(18/02/16)|3|7|10|||"
+  },
+  {
+    "line": 418,
+    "text": "|[[Miles]]|BGCOLOR(lightskyblue):|Electronic Boutique|Memory Archive|6.6.0&br;(25/06/26)|3|6|8|9+||"
+  },
+  {
+    "line": 419,
+    "text": "|[[MIRINAE]]|BGCOLOR(lightskyblue):|TAK × Zekk|Memory Archive|5.5.0&br;(24/03/25)|4|8|10|||"
+  },
+  {
+    "line": 420,
+    "text": "|[[MIRROR - kamome sano remix]]|BGCOLOR(lightskyblue):|kamome sano|World Extend 4&br;&size(10){Emanations};|6.14.0&br;(26/04/30)|4|7|9+|||"
+  },
+  {
+    "line": 421,
+    "text": "|[[Mirzam]]|BGCOLOR(indigo):|Aoi vs. siqlo|Memory Archive|2.3.2&br;(19/09/05)|4|7|9+|||"
+  },
+  {
+    "line": 422,
+    "text": "|[[Mistempered Malignance]]&br;&color(#ffffff,#292929){AF譜面限定楽曲};|BGCOLOR(indigo):|s-don vs. nitro (lowiro)|-|3.12.6&br;(22/04/01)|||?|||"
+  },
+  {
+    "line": 423,
+    "text": "|[[mod]]|BGCOLOR(lightskyblue):|kalsoer|World Extend 4&br;&size(10){Emanations};|6.10.0&br;(25/10/30)|3|6|9|||"
+  },
+  {
+    "line": 424,
+    "text": "|[[Modelista]]|BGCOLOR(lightskyblue):|HiTECH NINJA|Memory Archive|1.1.6&br;(17/09/25)|3|7|9+|||"
+  },
+  {
+    "line": 425,
+    "text": "|[[Monochrome Princess]]|BGCOLOR(indigo):|polysha|Arcaea|2.4.3&br;(19/10/26)|4|7+|9+|||"
+  },
+  {
+    "line": 426,
+    "text": "|[[Moonheart]]|BGCOLOR(lightskyblue):|翡乃イスカ|Ambivalent Vision|1.1.4&br;(17/08/10)|2|5|8||9+|"
+  },
+  {
+    "line": 427,
+    "text": "|[[Moonlight of Sand Castle]]|BGCOLOR(lightskyblue):|旅人E|Dynamix|1.1.2&br;(17/06/23)|1|5|7+|||"
+  },
+  {
+    "line": 428,
+    "text": "|[[MORNINGLOOM]]|BGCOLOR(lightskyblue):|saaa|Extend Archive 3&br;&size(10){Illusions};|5.5.0&br;(24/03/25)|3|6|8+|9+||"
+  },
+  {
+    "line": 429,
+    "text": "|[[MVURBD]]|BGCOLOR(indigo):|ETIA.|Rotaeno|5.10.0&br;(24/08/29)|4|7+|10|||"
+  },
+  {
+    "line": 430,
+    "text": "|[[My life is mine alone!]]|BGCOLOR(lightskyblue):|Mylta feat. ねんね|MEGAREX|6.12.0&br;(26/01/29)|2|5|8+|10||"
+  },
+  {
+    "line": 437,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 438,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 439,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 440,
+    "text": "|[[Nameless Passion]]|BGCOLOR(indigo):|天束 feat.Sennzai|Lasting Eden&br;&size(10){(Shifting Veil)};|5.1.0&br;(23/10/26)|3|7|9+|||"
+  },
+  {
+    "line": 441,
+    "text": "|[[NEO WINGS]]|BGCOLOR(indigo):|SOUND HOLIC&br;feat. Nana Takahashi|Memory Archive|3.12.0&br;(22/02/17)|4|7|10|||"
+  },
+  {
+    "line": 442,
+    "text": "|[[New York Back Raise]]|BGCOLOR(indigo):|saaa + kei_iwata&br;+ stuv + わかどり|Memory Archive|4.4.4&br;(23/04/27)|4|7|9+|||"
+  },
+  {
+    "line": 443,
+    "text": "|[[next to you]]|BGCOLOR(lightskyblue):|uma feat. 橘花音|Binary Enfold|1.6.0&br;(18/03/23)|4|7|8+||9|"
+  },
+  {
+    "line": 444,
+    "text": "|[[Nhelv]]|BGCOLOR(indigo):|Silentroom|Arcaea|1.7.2&br;(18/08/13)|3|6|9+||10+|"
+  },
+  {
+    "line": 445,
+    "text": "|[[Nightmare]]|BGCOLOR(indigo):|M2U|DJMAX|6.5.0&br;(25/05/22)|4|7|9+|10+||"
+  },
+  {
+    "line": 446,
+    "text": "|[[Nirv lucE]]|BGCOLOR(lightskyblue):|しーけー|Crimson Solace|1.0.11&br;(17/05/11)|2|7|10|||"
+  },
+  {
+    "line": 447,
+    "text": "|[[No Way Back]]|BGCOLOR(lightskyblue):|Nhato|Liminal Eclipse|6.9.0&br;(25/10/02)|4|7|8+|10||"
+  },
+  {
+    "line": 448,
+    "text": "|[[NULCTRL]]|BGCOLOR(indigo):|Silentroom|Arcaea|3.12.0&br;(22/02/17)|3|7|9|||"
+  },
+  {
+    "line": 449,
+    "text": "|[[NULL APOPHENIA]]|BGCOLOR(indigo):|N&#178;|Memory Archive|4.2.0&br;(23/01/26)|4|8+|10+|||"
+  },
+  {
+    "line": 450,
+    "text": "|[[n&#941;ο κ&#972;smo]]|BGCOLOR(indigo):|ak+q × Street|Divided Heart|3.10.0&br;(21/12/09)|4|7+|9+|||"
+  },
+  {
+    "line": 457,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 458,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 459,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 460,
+    "text": "|[[Oblivia]]|BGCOLOR(lightskyblue):|Saiph|Arcaea|2.6.0&br;(20/03/25)|3|5|8||9+|"
+  },
+  {
+    "line": 461,
+    "text": "|[[OBLIVION]]|BGCOLOR(indigo):|ESTi|DJMAX|6.5.0&br;(25/05/22)|4|7|9|10||"
+  },
+  {
+    "line": 462,
+    "text": "|[[Old School Salvage]]|BGCOLOR(indigo):|DJ SHARPNEL|Extend Archive 3&br;&size(10){Illusions};|5.7.0&br;(24/05/30)|4|7+|9+|||"
+  },
+  {
+    "line": 463,
+    "text": "|[[OMAKENO Stroke]]|BGCOLOR(indigo):|t+pazolite|Groove Coaster|1.9.0&br;(19/01/09)|3|6|9||10|"
+  },
+  {
+    "line": 464,
+    "text": "|[[On And On!! feat. Jenga]]|BGCOLOR(lightskyblue):|ETIA.|Extend Archive 2&br;&size(10){Chronicles};|5.2.2&br;(23/12/21)|3|7|9|||"
+  },
+  {
+    "line": 465,
+    "text": "|[[One Last Drive]]|BGCOLOR(lightskyblue):|REDSHiFT|Arcaea|1.5.0&br;(17/11/03)|2|5|8|||"
+  },
+  {
+    "line": 466,
+    "text": "|[[One Step Closer]]|BGCOLOR(lightskyblue):|Mameyudoufu × 藍月なくる|MEGAREX|6.12.0&br;(26/01/29)|3|7|9|||"
+  },
+  {
+    "line": 467,
+    "text": "|[[Oracle]]|BGCOLOR(indigo):|TQ☆|Dynamix|1.1.2&br;(17/06/23)|3|5|9|||"
+  },
+  {
+    "line": 468,
+    "text": "|[[Oshama Scramble!]]|BGCOLOR(lightskyblue):|t+pazolite|maimai|3.4.1&br;(21/01/08)|3|6|10|||"
+  },
+  {
+    "line": 469,
+    "text": "|&size(10){[[ouroboros -twin stroke of the end-]]};|BGCOLOR(indigo):|Cranky VS MASAKI|Groove Coaster|1.9.0&br;(19/01/09)|4|7|10+|||"
+  },
+  {
+    "line": 470,
+    "text": "|[[Ouvert&#252;re]]|BGCOLOR(indigo):|USAO & DJ Genki&br;feat. ルーン(CV:河瀬茉希)|WACCA&br;&size(10){(Collaboration Ch.2)};|5.2.0&br;(23/11/30)|2|7|9+|||"
+  },
+  {
+    "line": 471,
+    "text": "|[[overdead.]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};・AF譜面限定楽曲};|BGCOLOR(indigo):|fn|Memory Archive|3.5.3&br;(21/04/01)|||?||10|"
+  },
+  {
+    "line": 472,
+    "text": "|[[Overwhelm]]|BGCOLOR(lightskyblue):|xi|Esoteric Order&br;&size(10){(Pale Tapestry)};|3.6.0&br;(21/05/11)|5|8|10|||"
+  },
+  {
+    "line": 479,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 480,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 481,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 482,
+    "text": "|[[Paper Witch]]|BGCOLOR(lightskyblue):|Yu-dachi|Esoteric Order|3.6.0&br;(21/05/11)|2|5|8+|||"
+  },
+  {
+    "line": 483,
+    "text": "|[[Paradise]]|BGCOLOR(lightskyblue):|Sound Souler|Crimson Solace|1.0.11&br;(17/05/11)|1|4|7+|||"
+  },
+  {
+    "line": 484,
+    "text": "|[[Paradox Palette]]|BGCOLOR(lightskyblue):|Aethoro|World Extend 4&br;&size(10){Emanations};|6.10.0&br;(25/10/30)|4|7|8+|9+||"
+  },
+  {
+    "line": 485,
+    "text": "|[[Paranoid Arc]]|BGCOLOR(indigo):|t+pazolite|Memory Archive|6.11.2&br;(25/12/24)|4|7+|9||10|"
+  },
+  {
+    "line": 486,
+    "text": "|[[Particle]]|BGCOLOR(indigo):|Lime / Kankitsu|World Extend 4&br;&size(10){Emanations};|6.10.0&br;(25/10/30)|3|6|9|9+||"
+  },
+  {
+    "line": 487,
+    "text": "|[[Party Vinyl]]|BGCOLOR(lightskyblue):|モリモリあつし|Crimson Solace|1.0.11&br;(17/05/11)|4|7+|9||10|"
+  },
+  {
+    "line": 488,
+    "text": "|[[Pentiment]]|BGCOLOR(indigo):|Nothing But Requiem&br;with Museo|Final Verdict|4.0.0&br;(22/07/07)|7|8|10||''11''|"
+  },
+  {
+    "line": 489,
+    "text": "|[[Phantasia]]|BGCOLOR(lightskyblue):|Yunosuke|Memory Archive|1.8.2&br;(18/11/29)|4|5|9|||"
+  },
+  {
+    "line": 490,
+    "text": "|[[PRAGMATISM]]|BGCOLOR(lightskyblue):|Laur|Eternal Core|1.0.5&br;(17/03/09)|4|8|10|||"
+  },
+  {
+    "line": 491,
+    "text": "|[[PRAGMATISM&br;-RESURRECTION->PRAGMATISM]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};譜面限定楽曲};|BGCOLOR(lightskyblue):|Laur|Eternal Core|3.10.0&br;(21/12/09)|||||''11''|"
+  },
+  {
+    "line": 492,
+    "text": "|[[Primeval Texture]]|BGCOLOR(lightskyblue):|くるぶっこちゃん|Lasting Eden&br;&size(10){(Lasting Eden Ch.2)};|5.0.0&br;(23/09/27)|3|7|9|||"
+  },
+  {
+    "line": 493,
+    "text": "|[[PRIMITIVE LIGHTS]]|BGCOLOR(lightskyblue):|TAG|Memory Archive|4.3.2&br;(23/03/09)|5|8+|10+|||"
+  },
+  {
+    "line": 494,
+    "text": "|[[Prism]]|BGCOLOR(lightskyblue):|bermei.inazawa ft. Chata|Lanota&br;&size(10){(Collaboration Ch.2)};|3.12.8&br;(22/04/28)|2|5|8|||"
+  },
+  {
+    "line": 495,
+    "text": "|[[Protoflicker]]|BGCOLOR(indigo):|Silentroom|Lanota&br;&size(10){(Collaboration Ch.2)};|3.12.8&br;(22/04/28)|3|7|9+|||"
+  },
+  {
+    "line": 496,
+    "text": "|[[PUPA]]|BGCOLOR(indigo):|モリモリあつし|Memory Archive|4.0.0&br;(22/07/07)|4|7+|10|||"
+  },
+  {
+    "line": 497,
+    "text": "|[[Purgatorium]]|BGCOLOR(indigo):|お月さま交響曲|Arcaea|1.7.5&br;(18/09/17)|2|6|8||9|"
+  },
+  {
+    "line": 498,
+    "text": "|[[Purple Verse]]|BGCOLOR(indigo):|Hommarju|Extend Archive 1&br;&size(10){Visions};|3.3.0&br;(20/12/03)|4|7|9||10|"
+  },
+  {
+    "line": 499,
+    "text": "|>|>|>|>|>|>|>|>|>|BGCOLOR(firebrick):~&color(white){''ver.5.10.4にて削除 ▼''};|"
+  },
+  {
+    "line": 500,
+    "text": "|[[Particle Arts]]|BGCOLOR(indigo):|Virtual Self|%%Adverse Prelude%%&br;&color(red){''Removed''};|2.2.0&br;(19/07/18)|3|6|8+|||"
+  },
+  {
+    "line": 507,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 508,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 509,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 510,
+    "text": "|[[Qovat]]|BGCOLOR(indigo):|owl＊tree|Memory Archive|5.4.0&br;(24/03/08)|4|8|10|||"
+  },
+  {
+    "line": 511,
+    "text": "|[[qualia -ideaesthesia-]]|BGCOLOR(indigo):|nitro|Arcaea|1.0.5&br;(17/03/09)|4|7|9||9+|"
+  },
+  {
+    "line": 512,
+    "text": "|[[Quon]]|BGCOLOR(lightskyblue):|Feryquitous|Lanota|1.5.5&br;(18/02/01)|4|6|9|||"
+  },
+  {
+    "line": 513,
+    "text": "|[[Quon>Quon〖WACCA〗]]|BGCOLOR(indigo):|DJ Noriken|WACCA|3.8.0&br;(21/08/10)|2|6|8+||10|"
+  },
+  {
+    "line": 520,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 521,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 522,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 523,
+    "text": "|[[Rabbit In The Black Room]]|BGCOLOR(indigo):|Rabbit House|Arcaea|1.1.6&br;(17/09/25)|2|5|8|||"
+  },
+  {
+    "line": 524,
+    "text": "|[[Rain of Conflict in a&br;Radiant Abyss>Rain of Conflict in a Radiant Abyss]]|BGCOLOR(indigo):|ak+q|Memory Archive|5.10.2&br;(24/09/12)|5|7+|9|10||"
+  },
+  {
+    "line": 525,
+    "text": "|[[Rays of Remnant]]|BGCOLOR(gray):|May × Felysrator|Lucent Historia|6.0.0&br;(24/11/21)|4|7|9+||10|"
+  },
+  {
+    "line": 526,
+    "text": "|[[REconstruction]]|BGCOLOR(lightskyblue):|Ryazan|Dynamix|1.1.2&br;(17/06/23)|2|6|8|||"
+  },
+  {
+    "line": 527,
+    "text": "|[[Red and Blue]]|BGCOLOR(indigo):|Silentroom|Arcaea|1.5.0&br;(17/11/03)|4|7+|9|||"
+  },
+  {
+    "line": 528,
+    "text": "|[[Red and Blue and Green]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};・AF譜面限定楽曲};|BGCOLOR(indigo):|fn(ArcaeaSoundTeam)|Arcaea|2.0.2&br;(19/04/01)|||?||10|"
+  },
+  {
+    "line": 529,
+    "text": "|[[Redolent Shape]]|BGCOLOR(indigo):|Sanaas|Memory Archive|3.8.8&br;(21/10/21)|4|7|10|||"
+  },
+  {
+    "line": 530,
+    "text": "|[[Reinvent]]|BGCOLOR(lightskyblue):|Sound Souler|Arcaea|1.5.3&br;(17/12/21)|2|6|8|||"
+  },
+  {
+    "line": 531,
+    "text": "|[[Relentless]]|BGCOLOR(indigo):|Akira Complex|Eternal Core|1.0.5&br;(17/03/09)|4|6|8|||"
+  },
+  {
+    "line": 532,
+    "text": "|&size(10){[[Remind the Souls (Short Version)]]};|BGCOLOR(lightskyblue):|Nhato|Arcaea|5.0.0&br;(23/09/27)|3|7|9|||"
+  },
+  {
+    "line": 533,
+    "text": "|[[Renegade]]|BGCOLOR(gray):|sky_delta|Lucent Historia|6.0.0&br;(24/11/21)|4|7+|9||10|"
+  },
+  {
+    "line": 534,
+    "text": "|[[ReviXy]]|BGCOLOR(indigo):|ikaruga_nex|Arcaea|2.0.0&br;(19/03/21)|3|7|9|||"
+  },
+  {
+    "line": 535,
+    "text": "|[[RGB]]|BGCOLOR(lightskyblue):|&size(10){MEMODEMO X AQUASINE};|Extend Archive 2&br;&size(10){Chronicles};|4.7.0&br;(23/08/18)|4|7+|9+|||"
+  },
+  {
+    "line": 536,
+    "text": "|[[Ringed Genesis]]|BGCOLOR(lightskyblue):|Edelritter|Adverse Prelude|2.2.0&br;(19/07/18)|5|8|10+|||"
+  },
+  {
+    "line": 537,
+    "text": "|[[Riot in the System]]|BGCOLOR(indigo):|Laur & Massive New Krew&br;feat. 社築|World Extend 4&br;&size(10){Emanations};|6.14.0&br;(26/04/30)|4|7|9|10||"
+  },
+  {
+    "line": 538,
+    "text": "|[[Rise]]|BGCOLOR(lightskyblue):|Combatplayer|Arcaea|1.0.5&br;(17/03/09)|2|4|7+|||"
+  },
+  {
+    "line": 539,
+    "text": "|[[Rise of the World]]|BGCOLOR(lightskyblue):|cosMo@暴走P|Lasting Eden|4.7.0&br;(23/08/18)|4|8|10|||"
+  },
+  {
+    "line": 540,
+    "text": "|[[ROST PAGE GENE]]|BGCOLOR(lightskyblue):|MYUKKE.|Extend Archive 3&br;&size(10){Illusions};|6.9.0&br;(25/10/02)|5|8|10|||"
+  },
+  {
+    "line": 541,
+    "text": "|[[Rugie]]|BGCOLOR(indigo):|Feryquitous feat.Sennzai|Arcaea|1.8.1&br;(18/11/08)|3|6|9|||"
+  },
+  {
+    "line": 548,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 549,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 550,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 551,
+    "text": "|[[SACRIFICE feat. ayame]]|BGCOLOR(indigo):|Masayoshi Minoshima(ALR)|Memory Archive|4.7.0&br;(23/08/18)|3|7|9+|||"
+  },
+  {
+    "line": 552,
+    "text": "|[[Saint or Sinner]]|BGCOLOR(indigo):|crayvxn|Adverse Prelude|5.10.4&br;(24/09/26)|3|6|8+||10|"
+  },
+  {
+    "line": 553,
+    "text": "|[[Sakura Fubuki]]|BGCOLOR(lightskyblue):|Street|Arcaea|3.12.0&br;(22/02/17)|3|6|9|||"
+  },
+  {
+    "line": 554,
+    "text": "|[[san skia]]|BGCOLOR(lightskyblue):|ユアミトス|Arcaea|3.12.10&br;(22/05/25)|3|6|8|||"
+  },
+  {
+    "line": 555,
+    "text": "|[[SATISFACTION]]|BGCOLOR(indigo):|&size(10){P*Light & DJ Noriken feat. KMNZ};|Arcaea|6.6.0&br;(25/06/26)|3|6|8|9||"
+  },
+  {
+    "line": 556,
+    "text": "|[[Sayonara Hatsukoi]]|BGCOLOR(lightskyblue):|REDSHiFT|Arcaea|1.0.5&br;(17/03/09)|1|4|7|8||"
+  },
+  {
+    "line": 557,
+    "text": "|[[Scarlet Cage]]|BGCOLOR(indigo):|Daisuke Kurosawa|Memory Archive|3.0.3&br;(20/07/08)|4|7|9+|||"
+  },
+  {
+    "line": 558,
+    "text": "|[[Scarlet Lance]]|BGCOLOR(lightskyblue):|MASAKI (ZUNTATA)|Groove Coaster|1.9.6&br;(19/01/09)|4|7|10|||"
+  },
+  {
+    "line": 559,
+    "text": "|[[Seclusion]]|BGCOLOR(indigo):|Laur feat. Sennzai|Esoteric Order|3.7.0&br;(21/07/21)|4|7|10|||"
+  },
+  {
+    "line": 560,
+    "text": "|[[See the Lights!]]|BGCOLOR(lightskyblue):|polysha feat. しろさきあや|Extant Anima|6.7.0&br;(25/07/24)|3|6|8|9||"
+  },
+  {
+    "line": 561,
+    "text": "|[[Senkyou]]|BGCOLOR(lightskyblue):|MYTK|Arcaea|2.4.5&br;(19/11/18)|3|5|8+|||"
+  },
+  {
+    "line": 562,
+    "text": "|[[Shades of Light&br;in a Transcendent Realm>Shades of Light in a Transcendent Realm]]|BGCOLOR(lightskyblue):|ak+q|Arcaea|1.0.5&br;(17/03/09)|3|6|8||9|"
+  },
+  {
+    "line": 563,
+    "text": "|[[Sheriruth]]|BGCOLOR(indigo):|Team Grimoire|Eternal Core|1.0.5&br;(17/03/09)|5|7|10|||"
+  },
+  {
+    "line": 564,
+    "text": "|[[Sheriruth (Laur Remix)]]|BGCOLOR(indigo):|Laur|Memory Archive|3.8.0&br;(21/08/10)|4|7+|10|||"
+  },
+  {
+    "line": 565,
+    "text": "|[[shrink]]|BGCOLOR(lightskyblue):|Shohei Tsuchiya(ZUNTATA)|Memory Archive|5.9.0&br;(24/07/30)|3|7|9+|||"
+  },
+  {
+    "line": 566,
+    "text": "|[[Sign of \"10.5km\">Sign of ''10.5km'']]|BGCOLOR(lightskyblue):|渡部恭久|Groove Coaster&br;&size(10){(Collaboration Ch.2)};|5.8.0&br;(24/06/27)|3|6|9|||"
+  },
+  {
+    "line": 567,
+    "text": "|[[Signal]]|BGCOLOR(indigo):|rejection feat. Such|MEGAREX|6.12.0&br;(26/01/29)|4|7+|9+|10+||"
+  },
+  {
+    "line": 568,
+    "text": "|[[Silent Rush]]|BGCOLOR(indigo):|Soleily|Binary Enfold|1.6.0&br;(18/03/23)|2|5|8|||"
+  },
+  {
+    "line": 569,
+    "text": "|[[Singularity]]|BGCOLOR(indigo):|ETIA.|Binary Enfold|1.6.0&br;(18/03/23)|4|7+|10|||"
+  },
+  {
+    "line": 570,
+    "text": "|[[Singularity VVVIP]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};・AF譜面限定楽曲};|BGCOLOR(indigo):|Arcaea Sound Team&br;against. ETIA.|Binary Enfold|2.6.1&br;(20/04/01)|||?||10|"
+  },
+  {
+    "line": 571,
+    "text": "|[[Small Cloud Sugar Candy]]|BGCOLOR(lightskyblue):|テヅカ × Aoi feat.桃雛なの|Esoteric Order&br;&size(10){(Light of Salvation)};|3.7.0&br;(21/07/21)|3|6|9||10|"
+  },
+  {
+    "line": 572,
+    "text": "|[[Snow White]]|BGCOLOR(lightskyblue):|Puru|Arcaea|1.0.5&br;(17/03/09)|2|5|8||9+|"
+  },
+  {
+    "line": 573,
+    "text": "|[[Someday]]|BGCOLOR(lightskyblue):|NieN|Extend Archive 3&br;&size(10){Illusions};|6.6.0&br;(25/06/26)|3|6|9|||"
+  },
+  {
+    "line": 574,
+    "text": "|[[SOUNDWiTCH]]|BGCOLOR(indigo):|HATE|Vicious Labyrinth|1.5.0&br;(17/11/03)|3|6|9+|||"
+  },
+  {
+    "line": 575,
+    "text": "|[[Specta]]|BGCOLOR(lightskyblue):|Junk|Lanota|1.5.5&br;(18/02/01)|3|6|9|||"
+  },
+  {
+    "line": 576,
+    "text": "|[[Spirit of the Dauntless]]|BGCOLOR(indigo):|KO3 & Relect|Memory Archive|5.10.6&br;(24/10/24)|4|7+|10|||"
+  },
+  {
+    "line": 577,
+    "text": "|&size(10){[[STAGER (ALL STAGE CLEAR)]]};|BGCOLOR(lightskyblue):|Ras|Tone Sphere|1.8.0&br;(18/10/07)|3|6|9|||"
+  },
+  {
+    "line": 578,
+    "text": "|[[STARGATE EXTREME]]|BGCOLOR(indigo):|KARUT|Memory Archive|5.8.0&br;(24/06/27)|4|6|9|9+||"
+  },
+  {
+    "line": 579,
+    "text": "|[[Stasis]]|BGCOLOR(lightskyblue):|Maozon|Lanota&br;&size(10){(Collaboration Ch.2)};|3.12.8&br;(22/04/28)|4|7|10+|||"
+  },
+  {
+    "line": 580,
+    "text": "|[[Straight into the lights]]|BGCOLOR(indigo):|Cosmograph|maimai&br;&size(10){(Collaboration Ch.3)}; |6.2.0&br;(25/01/23)|4|7|9|10||"
+  },
+  {
+    "line": 581,
+    "text": "|[[Stratoliner]]|BGCOLOR(indigo):|C-show|WACCA&br;&size(10){(Collaboration Ch.2)};|5.2.0&br;(23/11/30)|3|6|9|||"
+  },
+  {
+    "line": 582,
+    "text": "|[[Strongholds]]|BGCOLOR(indigo):|Yooh|Binary Enfold|1.6.0&br;(18/03/23)|2|5|9|||"
+  },
+  {
+    "line": 583,
+    "text": "|[[Sulfur]]|BGCOLOR(lightskyblue):|ぺのれり|Luminous Sky|1.7.0&br;(18/07/16)|4|6|9+|||"
+  },
+  {
+    "line": 584,
+    "text": "|[[Suomi]]|BGCOLOR(lightskyblue):|Aire|Arcaea|1.7.0&br;(18/07/16)|2|5|7+|8+||"
+  },
+  {
+    "line": 585,
+    "text": "|[[SUPER AMBULANCE]]|BGCOLOR(lightskyblue):|AJURIKA|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.3)};|6.0.0&br;(24/11/21)|4|7|10|||"
+  },
+  {
+    "line": 586,
+    "text": "|[[SUPERNOVA]]|BGCOLOR(indigo):|BACO|Arcaea|2.0.3&br;(19/05/02)|3|6|9+|||"
+  },
+  {
+    "line": 587,
+    "text": "|[[Surrender]]|BGCOLOR(lightskyblue):|void|Memory Archive|1.5.2&br;(17/11/24)|3|6|8+|||"
+  },
+  {
+    "line": 588,
+    "text": "|[[Swan Song]]|BGCOLOR(gray):|void (Mournfinale)|Lucent Historia|6.0.0&br;(24/11/21)|3|7|9+|||"
+  },
+  {
+    "line": 589,
+    "text": "|[[Synthesis.]]|BGCOLOR(indigo):|tn-shi|Memory Archive|6.16.0&br;(26/07/31)|4|8|9+|10||"
+  },
+  {
+    "line": 590,
+    "text": "|[[Syriana]]|BGCOLOR(indigo):|BEXTER|DJMAX&br;&size(10){(Collaboration Ch.2)};|6.6.0&br;(25/06/26)|4|7|9+|||"
+  },
+  {
+    "line": 591,
+    "text": "|[[Syro]]|BGCOLOR(lightskyblue):|Mitomoro|Arcaea|1.5.3&br;(17/12/21)|3|6|9|||"
+  },
+  {
+    "line": 592,
+    "text": "|[[sy&#363;ten]]|BGCOLOR(lightskyblue):|&size(10){Apo11o\"COLLAPSAR\"program&br;ft. 大瀬良あい};|Cytus II&br;&size(10){(Collaboration Ch.2)};|4.6.0&br;(23/07/19)|2|5|8|||"
+  },
+  {
+    "line": 599,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 600,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 601,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 602,
+    "text": "|[[taboo tears you up 2017]]|BGCOLOR(indigo):|REDALiCE|World Extend 4&br;&size(10){Emanations};|6.11.0&br;(25/11/27)|3|6|8|9+||"
+  },
+  {
+    "line": 603,
+    "text": "|[[Technicolour]]|BGCOLOR(lightskyblue):|Maozon|Lasting Eden&br;&size(10){(Lasting Eden Ch.2)};|5.0.0&br;(23/09/27)|3|7|9+|||"
+  },
+  {
+    "line": 604,
+    "text": "|[[Tempestissimo]]|BGCOLOR(indigo):|t+pazolite|Black Fate|3.0.0&br;(20/05/27)|7|9|10+||''11''|"
+  },
+  {
+    "line": 605,
+    "text": "|[[TEmPTaTiON]]|BGCOLOR(lightskyblue):|かねこちはる|maimai&br;&size(10){(Collaboration Ch.2)};|4.3.0&br;(23/03/02)|5|8|10+|||"
+  },
+  {
+    "line": 606,
+    "text": "|[[TeraVolt]]|BGCOLOR(indigo):|Katali|Lasting Eden&br;&size(10){(Shifting Veil)};|5.1.0&br;(23/10/26)|5|8+|10+|||"
+  },
+  {
+    "line": 607,
+    "text": "|[[Teriqma]]|BGCOLOR(indigo):|owl＊tree|Memory Archive|3.0.5&br;(20/07/16)|3|6|9||9+|"
+  },
+  {
+    "line": 608,
+    "text": "|[[Testify]]|BGCOLOR(white):|&size(10){void (Mournfinale) feat. 星熊南巫};|Final Verdict|4.0.0&br;(22/07/07)|7+|9|10+||''12''|"
+  },
+  {
+    "line": 609,
+    "text": "|[[The Formula]]|BGCOLOR(lightskyblue):|Junk|Arcaea|5.3.0&br;(24/01/25)|3|6|9|||"
+  },
+  {
+    "line": 610,
+    "text": "|[[The Message]]|BGCOLOR(lightskyblue):|Jun Kuroda|Luminous Sky|1.7.0&br;(18/07/16)|3|6|9+|||"
+  },
+  {
+    "line": 611,
+    "text": "|[[The Survivor (Game Edit)]]|BGCOLOR(indigo):|Taishi|Memory Archive|4.4.4&br;(23/04/27)|3|6|9+|||"
+  },
+  {
+    "line": 612,
+    "text": "|[[THE ULTIMACY]]|BGCOLOR(indigo):|aran vs Massive New Krew|Memory Archive|3.6.4&br;(21/06/30)|3|7|9+|||"
+  },
+  {
+    "line": 613,
+    "text": "|[[Third Sun]]|BGCOLOR(indigo):|Ash Astral|Memory Archive|5.10.6&br;(24/10/24)|3|7|9|10||"
+  },
+  {
+    "line": 614,
+    "text": "|[[Tic! Tac! Toe!]]|BGCOLOR(lightskyblue):|TAK x Corbin|Memory Archive|6.5.0&br;(25/05/22)|3|7|8+|9+||"
+  },
+  {
+    "line": 615,
+    "text": "|[[Tie me down gently]]|BGCOLOR(indigo):|&size(10){溝口ゆうま feat. 大瀬良あい};|Sunset Radiance|2.3.0&br;(19/08/22)|3|5|8|||"
+  },
+  {
+    "line": 616,
+    "text": "|[[Tiferet]]|BGCOLOR(indigo):|xi + Sta|Tone Sphere|1.8.0&br;(18/10/07)|4|7+|10|||"
+  },
+  {
+    "line": 617,
+    "text": "|[[To the Milky Way]]|BGCOLOR(lightskyblue):|黒魔|Memory Acrhive|4.4.6&br;(23/05/25)|5|8+|10|||"
+  },
+  {
+    "line": 618,
+    "text": "|[[Transient Space]]|BGCOLOR(indigo):|sleepless, Gardens, aspect|Lasting Eden&br;&size(10){(Shifting Veil)};|5.1.0&br;(23/10/26)|2|7|9|||"
+  },
+  {
+    "line": 619,
+    "text": "|[[Trap Crow]]|BGCOLOR(indigo):|Puru|Arcaea|4.0.0&br;(22/07/07)|4|7+|9+|||"
+  },
+  {
+    "line": 620,
+    "text": "|[[TRPNO]]|BGCOLOR(lightskyblue):|Nauts|Extend Archive 3&br;&size(10){Illusions};|6.3.2&br;(25/03/27)|4|7+|10|||"
+  },
+  {
+    "line": 621,
+    "text": "|[[Trrricksters!!]]|BGCOLOR(indigo):|s-don vs. 翡乃イスカ|CHUNITHM&br;&size(10){(Collaboration Ch.3)};|4.4.0&br;(23/03/23)|4|7|10|||"
+  },
+  {
+    "line": 622,
+    "text": "|[[Turbocharger]]|BGCOLOR(lightskyblue):|A/I|Extend Archive 1&br;&size(10){Visions};|3.6.2&br;(21/06/10)|2|6|9|||"
+  },
+  {
+    "line": 623,
+    "text": "|>|>|>|>|>|>|>|>|>|~ |"
+  },
+  {
+    "line": 624,
+    "text": "|[[Tutorial]]|BGCOLOR(lightskyblue):|ak+q|-|1.0.5&br;(17/03/09)|1|4||||"
+  },
+  {
+    "line": 632,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 633,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 634,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 635,
+    "text": "|[[U.A.D]]|BGCOLOR(lightskyblue):|HAYAKO|DJMAX|6.5.0&br;(25/05/22)|3|6|8+|9+||"
+  },
+  {
+    "line": 636,
+    "text": "|[[Ultimate taste]]|BGCOLOR(lightskyblue):|ぱらどっと|Extend Archive 2&br;&size(10){Chronicles};|4.6.0&br;(23/07/19)|3|6|9+|||"
+  },
+  {
+    "line": 637,
+    "text": "|[[ultradiaxon-N3]]|BGCOLOR(indigo):|nitro (lowiro)|Memory Archive|5.5.8&br;(24/04/02)|4|8|10|||"
+  },
+  {
+    "line": 638,
+    "text": "|[[undefined]]|BGCOLOR(indigo):|planless & 乃花こより|World Extend 4&br;&size(10){Emanations};|6.11.2&br;(25/12/24)|3|6|9|||"
+  },
+  {
+    "line": 639,
+    "text": "|[[Undying Macula]]|BGCOLOR(indigo):|Ashrount|Liminal Eclipse|6.9.0&br;(25/10/02)|5|8+|10|''11''||"
+  },
+  {
+    "line": 640,
+    "text": "|[[UNKNOWN LEVELS]]|BGCOLOR(indigo):|Yuta Imai|Lasting Eden|4.7.0&br;(23/08/18)|4|8|10|||"
+  },
+  {
+    "line": 641,
+    "text": "|[[UNUSED LEVELS]]&br;&color(#ffffff,#292929){AF譜面限定楽曲};|BGCOLOR(indigo):|ぱらどっと|-|6.13.10&br;(26/04/01)|||?|||"
+  },
+  {
+    "line": 642,
+    "text": "|[[Used to be]]|BGCOLOR(lightskyblue):|KIVΛ|Cytus II|4.5.0&br;(23/06/28)|4|6|9|||"
+  },
+  {
+    "line": 649,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 650,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 651,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 652,
+    "text": "|[[Vainspire]]|BGCOLOR(indigo):|satella|Liminal Eclipse|6.9.0&br;(25/10/02)|3|7|8|9+||"
+  },
+  {
+    "line": 653,
+    "text": "|[[Valhalla:0>Valhalla_0]]|BGCOLOR(indigo):|Juggernaut.|Sunset Radiance|2.3.0&br;(19/08/22)|4|7|10|||"
+  },
+  {
+    "line": 654,
+    "text": "|[[Vallista]]|BGCOLOR(lightskyblue):|Sakuzyo|World Extend 4&br;&size(10){Emanations};|6.13.0&br;(26/03/09)|4|7+|9+|||"
+  },
+  {
+    "line": 655,
+    "text": "|[[Vandalism]]|BGCOLOR(indigo):|Ashrount|Extend Archive 1&br;&size(10){Visions};|3.6.0&br;(21/05/11)|3|7|9+|||"
+  },
+  {
+    "line": 656,
+    "text": "|[[VECTOЯ]]|BGCOLOR(indigo):|WHITEFISTS|Arcaea|2.0.3&br;(19/05/02)|3|7|9|||"
+  },
+  {
+    "line": 657,
+    "text": "|[[Vexaria]]|BGCOLOR(lightskyblue):|ak+q|Arcaea|1.0.5&br;(17/03/09)|2|5|7||9|"
+  },
+  {
+    "line": 658,
+    "text": "|[[Vicious Heroism]]|BGCOLOR(indigo):|Kobaryo|Absolute Reason|2.0.0&br;(19/03/21)|4|7|10|||"
+  },
+  {
+    "line": 659,
+    "text": "|[[Vicious [ANTi] Heroism>Vicious Heroism]]&br;&color(#ffffff,#292929){&color(red){''Beyond''};譜面限定楽曲};|BGCOLOR(indigo):|Kobaryo|Absolute Reason|5.3.0&br;(24/01/25)|||||''11''|"
+  },
+  {
+    "line": 660,
+    "text": "|[[Vindication]]|BGCOLOR(lightskyblue):|Laur|Adverse Prelude|2.2.0&br;(19/07/18)|4|6|9|||"
+  },
+  {
+    "line": 661,
+    "text": "|[[Viola Illyria]]|BGCOLOR(lightskyblue):|Kolaa|Liminal Eclipse|6.9.0&br;(25/10/02)|2|6|9|||"
+  },
+  {
+    "line": 662,
+    "text": "|[[ViRTUS]]|BGCOLOR(lightskyblue):|Hiro|maimai&br;&size(10){(Collaboration Ch.3)}; |6.2.0&br;(25/01/23)|5|8|9+|10+||"
+  },
+  {
+    "line": 663,
+    "text": "|[[Vivid Theory]]|BGCOLOR(lightskyblue):|ak+q|Extend Archive 1&br;&size(10){Visions};|3.0.0&br;(20/05/27)|2|5|8+|||"
+  },
+  {
+    "line": 664,
+    "text": "|[[Viyella's Tears]]|BGCOLOR(indigo):|Laur|O.N.G.E.K.I.|3.4.0&br;(20/12/17)|4|7+|10|||"
+  },
+  {
+    "line": 665,
+    "text": "|[[vsキミ戦争]]&br;&size(10){(Romance Wars)};|BGCOLOR(lightskyblue):|U-ske (feat. lueur)|Ambivalent Vision|1.1.4&br;(17/08/10)|1|4|7+|||"
+  },
+  {
+    "line": 666,
+    "text": "|[[Vulc&#257;nus]] |BGCOLOR(lightskyblue):|Team Grimoire vs Aoi|Rotaeno|5.10.0&br;(24/08/29)|5|8|10+|||"
+  },
+  {
+    "line": 673,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 674,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 675,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 676,
+    "text": "|[[WAIT FOR DAWN]]|BGCOLOR(lightskyblue):|U-ske feat. 棗いつき|Lasting Eden|4.7.0&br;(23/08/18)|2|7+|8+|||"
+  },
+  {
+    "line": 677,
+    "text": "|[[Waltz for Lorelei]]|BGCOLOR(lightskyblue):|Sobrem & 庭師|Rotaeno|5.10.0&br;(24/08/29)|2|5|8+|9+||"
+  },
+  {
+    "line": 678,
+    "text": "|[[We're All Gonna Die]]|BGCOLOR(indigo):|Paul Bazooka|DJMAX&br;&size(10){(Collaboration Ch.2)};|6.6.0&br;(25/06/26)|5|8|10|10+||"
+  },
+  {
+    "line": 679,
+    "text": "|[[Welcome, Queen of Fiction.]]|BGCOLOR(indigo):|打打だいず|Extant Anima&br;&size(10){(Ch.Experientia)};|6.8.0&br;(25/08/21)|5|8|10|10+||"
+  },
+  {
+    "line": 680,
+    "text": "|[[Wish Upon a Snow]]|BGCOLOR(lightskyblue):|打打だいず|Memory Archive|5.2.0&br;(23/11/30)|4|7|10|||"
+  },
+  {
+    "line": 681,
+    "text": "|[[with U]]|BGCOLOR(lightskyblue):|&size(10){t+pazolite & Massive New Krew&br;feat.リリィ(CV:青木志貴)};|WACCA|3.8.0&br;(21/08/10)|2|6|9|||"
+  },
+  {
+    "line": 682,
+    "text": "|[[Won't Back Down]]|BGCOLOR(indigo):|Pure 100% / KASA|Extend Archive 3&br;&size(10){Illusions};|6.5.0&br;(25/05/22)|3|6|9+|||"
+  },
+  {
+    "line": 683,
+    "text": "|&size(10){[[World Fragments III(radio edit)]]};|BGCOLOR(lightskyblue):|xi|Extend Archive 2&br;&size(10){Chronicles};|4.2.0&br;(23/01/26)|3|7|9+|||"
+  },
+  {
+    "line": 684,
+    "text": "|[[World Vanquisher]]|BGCOLOR(lightskyblue):|void (Mournfinale)|CHUNITHM|2.1.0&br;(19/05/23)|2|5|10+|||"
+  },
+  {
+    "line": 685,
+    "text": "|[[world.execute(me);]]|BGCOLOR(lightskyblue):|Mili|Arcaea|2.5.2&br;(20/02/21)|3|5|8|||"
+  },
+  {
+    "line": 692,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 693,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 694,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 695,
+    "text": "|[[Xanatos]]|BGCOLOR(indigo):|Tatsh|Memory Archive|3.2.3&br;(20/11/19)|4|7|10|||"
+  },
+  {
+    "line": 696,
+    "text": "|[[Xeraphinite]]|BGCOLOR(lightskyblue):|BlackY|Memory Archive|3.2.2&br;(20/10/30)|3|7|9+|||"
+  },
+  {
+    "line": 697,
+    "text": "|[[Xterfusion]]|BGCOLOR(indigo):|REDALiCE × t+pazolite|Memory Archive|6.10.0&br;(25/10/30)|4|8|9+|10+||"
+  },
+  {
+    "line": 698,
+    "text": "|[[XTREME]]|BGCOLOR(indigo):|USAO|WACCA&br;&size(10){(Collaboration Ch.2)};|5.2.0&br;(23/11/30)|4|7+|10|||"
+  },
+  {
+    "line": 699,
+    "text": "|[[Xxium and Purple haze]]|BGCOLOR(indigo):|D.watt|World Extend 4&br;&size(10){Emanations};|6.10.0&br;(25/10/30)|2|7+|9+|10||"
+  },
+  {
+    "line": 706,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 707,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 708,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 709,
+    "text": "|[[Your voice so... feat. Such]]|BGCOLOR(lightskyblue):|PSYQUI|Memory Archive|1.1.0&br;(17/06/02)|3|6|9|||"
+  },
+  {
+    "line": 716,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 717,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 718,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 719,
+    "text": "|[[zephyrlasting]]|BGCOLOR(indigo):|s-don × nitro (lowiro)|Arcaea Next Stage|6.10.8&br;(25/11/22)|3|7|9|10||"
+  },
+  {
+    "line": 726,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 727,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 728,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 729,
+    "text": "|[[愛して愛して愛して]]&br;&size(10){Love me, Love me, Love me,};|BGCOLOR(indigo):|きくお|Virtual Singers|6.15.0&br;(26/06/25)|3|7|8+|10||"
+  },
+  {
+    "line": 730,
+    "text": "|[[朱月ノ姫]]&br;&size(10){Scarlet Lunar Empress};|BGCOLOR(lightskyblue):|&size(10){technoplanet feat. 夕月ティア};|Extant Anima|6.7.0&br;(25/07/24)|3|7|9+|||"
+  },
+  {
+    "line": 731,
+    "text": "|[[秋の陽炎]]&br;&size(10){Haze of Autumn};|BGCOLOR(lightskyblue):|karatoPαnchii feat. はるの|Muse Dash|3.11.0&br;(21/12/24)|3|7|9+|||"
+  },
+  {
+    "line": 732,
+    "text": "|[[アズゴア]]&br;&size(10){ASGORE};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE&br;&size(10){(Collaboration Ch.2)};|6.14.0&br;(26/04/30)|4|7|8+|10||"
+  },
+  {
+    "line": 733,
+    "text": "|[[雨神楽]]&br;&size(10){Amekagura};|BGCOLOR(lightskyblue):|荒谷サトル|Extend Archive 2&br;&size(10){Chronicles};|5.0.0&br;(23/09/27)|4|7|9+|||"
+  },
+  {
+    "line": 734,
+    "text": "|[[アリス・リデルに捧ぐ]]&br;&size(10){To: Alice Liddell};|BGCOLOR(indigo):|モリモリあつし|Ephemeral Page&br;&size(10){(The Journey Onwards)};|3.3.1&br;(20/12/09)|4|7|10|||"
+  },
+  {
+    "line": 735,
+    "text": "|[[アローンアンドローン]]&br;&size(10){Alone & Lorn};|BGCOLOR(lightskyblue):|Ponchi♪ feat.はぁち|Extend Archive 2&br;&size(10){Chronicles};|5.2.0&br;(23/11/30)|3|6|9|||"
+  },
+  {
+    "line": 736,
+    "text": "|[[怒槌]]&br;&size(10){Ikazuchi};|BGCOLOR(indigo):|光吉猛修|CHUNITHM|2.1.0&br;(19/05/23)|3|7|10|||"
+  },
+  {
+    "line": 737,
+    "text": "|[[彩る夏の恋花火]]&br;&size(10){Summer Fireworks of Love};|BGCOLOR(lightskyblue):|karatoPαnchii feat. はるの|Memory Archive|3.9.0&br;(21/11/11)|3|6|9+|||"
+  },
+  {
+    "line": 738,
+    "text": "|[[［筏］は云う。&br;幾ら漂流すれど不撓の心&br;さえ有れば軈て行到ると。>［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。]]&br;&size(10){The 'Raft' taught me: &br;your heart will always find a way.};|BGCOLOR(indigo):|庭師|Memory Archive|6.11.8&br;(26/01/07)|4|7|9|10||"
+  },
+  {
+    "line": 739,
+    "text": "|[[羽化する亜球体]]&br;&size(10){Subsphere in Eclosion};|BGCOLOR(lightskyblue):|窓辺リカ|Memory Archive|6.11.6&br;(25/12/31)|5|8|9|10||"
+  },
+  {
+    "line": 740,
+    "text": "|&size(10){[[エピクロスの虹はもう見えない]]&br;Hidden Rainbows of Epicurus};|BGCOLOR(lightskyblue):|SYNC.ART'S feat.Misato|Arcaea|5.7.0&br;(24/05/30)|2|5|7|8+||"
+  },
+  {
+    "line": 741,
+    "text": "|[[おまじない]]&br;&size(10){OMAJINAI};|BGCOLOR(lightskyblue):|Tsubusare BOZZ × Madoka*|World Extend 4&br;&size(10){Emanations};|6.12.0&br;(26/01/29)|2|7|9|||"
+  },
+  {
+    "line": 742,
+    "text": "|[[オーバーライド]]&br;&size(10){Override};|BGCOLOR(lightskyblue):|吉田夜世|Virtual Singers|6.15.0&br;(26/06/25)|4|7|9|10||"
+  },
+  {
+    "line": 749,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 750,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 751,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 752,
+    "text": "|[[神奈川電脳暗渠]]&br;&size(10){Kanagawa Cyber Culvert};|BGCOLOR(lightskyblue):|南ゆに|Arcaea|1.1.0&br;(17/06/02)|1|5|9||9+|"
+  },
+  {
+    "line": 753,
+    "text": "|[[彼方の夢へと]]&br;&size(10){To the Furthest Dream};|BGCOLOR(white):|ii/night feat. 綺良雪|Memory Archive|4.7.2&br;(23/09/14)|4|8|9+|||"
+  },
+  {
+    "line": 754,
+    "text": "|[[神っぽいな]]&br;&size(10){God-ish};|BGCOLOR(indigo):|ピノキオピー|Virtual Singers|6.15.0&br;(26/06/25)|3|7|8+|10||"
+  },
+  {
+    "line": 755,
+    "text": "|[[華麗なる死闘]]&br;&size(10){Death by Glamour};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE|6.3.0&br;(25/03/09)|2|5|7+|9||"
+  },
+  {
+    "line": 756,
+    "text": "|&size(10){[[感情の摩天楼 ～Arr.Demetori]]&br;Kanjou no matenrou&br;～Arr.Demetori};|BGCOLOR(indigo):|Demetori|Extend Archive 2&br;&size(10){Chronicles};|4.7.2&br;(23/09/14)|3|6|9+|||"
+  },
+  {
+    "line": 757,
+    "text": "|[[患部で止まってすぐ溶ける&br;～ 狂気の優曇華院>患部で止まってすぐ溶ける　～ 狂気の優曇華院]]&br;&size(10){Kanbu de Tomatte Sugu Tokeru};|BGCOLOR(lightskyblue):|&size(10){ARM + 夕野ヨシミ (IOSYS)&br;feat. miko};|Memory Archive|5.2.2&br;(23/12/21)|4|7|10|||"
+  },
+  {
+    "line": 758,
+    "text": "|[[キャラメルポップコーン&br;たべたいよ～>キャラメルポップコーンたべたいよ～]]&br;&size(10){Gimme Caramel Popcorn!};|BGCOLOR(lightskyblue):|&size(10){ヤミナベレコーズ feat. 繭糸};|Arcaea|6.12.10&br;(26/02/19)|2|5|8|9||"
+  },
+  {
+    "line": 759,
+    "text": "|[[九番目の迷路]]&br;&size(10){Maze No.9};|BGCOLOR(lightskyblue):|&size(10){アリスシャッハと魔法の楽団};|Luminous Sky|1.7.0&br;(18/07/16)|3|3|8+|||"
+  },
+  {
+    "line": 760,
+    "text": "|[[狂言綺語]]&br;&size(10){False Embellishment};|BGCOLOR(indigo):|影虎。& ikaruga_nex|Extend Archive 1&br;&size(10){Visions};|3.7.0&br;(21/07/21)|3|6|9||9+|"
+  },
+  {
+    "line": 761,
+    "text": "|[[狂恋ROMANCE]]&br;&size(10){KYOREN ROMANCE};|BGCOLOR(indigo):|REDALiCE vs DJ Myosuke&br;feat. DELUTAYA|Memory Archive|5.4.0&br;(24/03/08)|4|7+|10+|||"
+  },
+  {
+    "line": 762,
+    "text": "|[[蜘蛛の糸]]&br;&size(10){Spider's Thread};|BGCOLOR(indigo):|きくお×cosMo@暴走P&br;feat.影縫英|CHUNITHM&br;&size(10){(Collaboration Ch.3)};|4.4.0&br;(23/03/23)|4|7+|10+|||"
+  },
+  {
+    "line": 763,
+    "text": "|[[クロートーと星の観測者]]&br;&size(10){Clotho and the stargazer};|BGCOLOR(lightskyblue):|しーけー|Arcaea|1.1.2&br;(17/06/23)|2|5|7+|8+||"
+  },
+  {
+    "line": 764,
+    "text": "|[[幻想のサテライト]]&br;&size(10){Gensou no Satellite};|BGCOLOR(indigo):|豚乙女|Memory Archive|5.10.4&br;(24/09/26)|2|6|8+|10||"
+  },
+  {
+    "line": 765,
+    "text": "|[[業 -善なる神と&br;この世の悪について->業 -善なる神とこの世の悪について-]]&br;&size(10){Misdeed -la bont&#233; de Dieu et&br;l'origine du mal-};|BGCOLOR(lightskyblue):|光吉猛修 VS 穴山大輔|CHUNITHM&br;&size(10){(Collaboration Ch.2)};|3.5.0&br;(21/01/21)|5|8|10+|||"
+  },
+  {
+    "line": 766,
+    "text": "|[[光速神授説&br;- Divine Light of Myriad ->光速神授説 - Divine Light of Myriad -]]&br;&size(10){Divine Light of Myriad};|BGCOLOR(lightskyblue):|yoho|Esoteric Order&br;&size(10){(Light of Salvation)};|3.7.0&br;(21/07/21)|4|7+|10+|||"
+  },
+  {
+    "line": 767,
+    "text": "|[[虚空の夢]]&br;&size(10){Solitary Dream};|BGCOLOR(lightskyblue):|ak+q feat. Sennzai|Eternal Core|1.9.3&br;(19/03/09)|4|7|8+|||"
+  },
+  {
+    "line": 768,
+    "text": "|[[心]]&br;&size(10){Heart}; |BGCOLOR(lightskyblue):|削除 (Violin : Katali)|O.N.G.E.K.I.&br;&size(10){(Collaboration Ch.2)};|4.1.0&br;(22/10/04)|1|5|9|||"
+  },
+  {
+    "line": 769,
+    "text": "|[[心の痛み]]&br;&size(10){Heartache};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE|6.3.0&br;(25/03/09)|1|4|7|8+||"
+  },
+  {
+    "line": 770,
+    "text": "|[[コスモポップファンクラブ]]&br;&size(10){Cosmo Pop Funclub};|BGCOLOR(lightskyblue):|ナユタン星人|CHUNITHM&br;&size(10){(Collaboration Ch.3)};|4.4.0&br;(23/03/23)|2|6|8+|||"
+  },
+  {
+    "line": 771,
+    "text": "|[[これでホントにサヨナラ]]&br;&size(10){Last Goodbye};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE|6.3.0&br;(25/03/09)|2|6|8|9+||"
+  },
+  {
+    "line": 778,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 779,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 780,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 781,
+    "text": "|[[最強STRONGER]]&br;&size(10){SAIKYO STRONGER};|BGCOLOR(indigo):|REDALiCE vs USAO|Memory Archive|2.5.0&br;(20/01/21)|5|9|''11''|||"
+  },
+  {
+    "line": 782,
+    "text": "|[[最高の悪夢]]&br;&size(10){Your Best Nightmare};|BGCOLOR(indigo):|Toby Fox|UNDERTALE|6.3.0&br;(25/03/09)|3|6|8+||10|"
+  },
+  {
+    "line": 783,
+    "text": "|[[ザラメノキワミ]]&br;&size(10){Sucromania};|BGCOLOR(indigo):|STEAKA|Memory Archive|6.15.0&br;(26/06/25)|3|6|9|10||"
+  },
+  {
+    "line": 784,
+    "text": "|[[四月の雨]]&br;&size(10){April showers};|BGCOLOR(lightskyblue):|cubesato|maimai|3.4.1&br;(21/01/08)|2|5|8|||"
+  },
+  {
+    "line": 785,
+    "text": "|[[森奥虚跡]]&br;&size(10){The Forgotten Forest Haven};|BGCOLOR(lightskyblue):|ShiBa|World Extend 4&br;&size(10){Emanations};|6.12.10&br;(26/02/19)|3|6|9+|||"
+  },
+  {
+    "line": 786,
+    "text": "|[[進捗どうですか?]]&br;&size(10){Shinchoku Doudesuka?};|BGCOLOR(lightskyblue):|sumijun feat. ななひら|Memory Archive|6.3.2&br;(25/03/27)|3|7|8+|9+||"
+  },
+  {
+    "line": 787,
+    "text": "|[[スパイダーダンス]]&br;&size(10){Spider Dance};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE&br;&size(10){(Collaboration Ch.2)};|6.14.0&br;(26/04/30)|2|5|7+|9||"
+  },
+  {
+    "line": 788,
+    "text": "|[[正義の槍]]&br;&size(10){Spear of Justice};|BGCOLOR(lightskyblue):|Toby Fox|UNDERTALE&br;&size(10){(Collaboration Ch.2)};|6.14.0&br;(26/04/30)|3|6|8|9+||"
+  },
+  {
+    "line": 795,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 796,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 797,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 798,
+    "text": "|[[だいあるのーと]]&br;&size(10){Dialnote};|BGCOLOR(lightskyblue):|七草くりむ|Arcaea|4.1.6&br;(22/12/22)|3|6|8+|||"
+  },
+  {
+    "line": 799,
+    "text": "|[[竹]]&br;&size(10){Bamboo};|BGCOLOR(lightskyblue):|立秋 feat. ちょこ|Extend Archive 1&br;&size(10){Visions};|3.5.1&br;(21/02/11)|3|6|10|||"
+  },
+  {
+    "line": 800,
+    "text": "|[[多次元宇宙融合論]]&br;&size(10){Extradimensional Cosmic&br;Phenomenon};|BGCOLOR(indigo):|TAKIO feat. つぐ|Extant Anima|6.7.0&br;(25/07/24)|6|8+|10|''11''||"
+  },
+  {
+    "line": 801,
+    "text": "|[[黄昏の協奏曲]]&br;&size(10){Twilight Concerto};|BGCOLOR(indigo):|Scarlette|Memory Archive|5.7.0&br;(24/05/30)|4|7+|9|10||"
+  },
+  {
+    "line": 802,
+    "text": "|[[堕楽の園]]&br;&size(10){Illegal Paradise};|BGCOLOR(indigo):|gmtn. (witch's slave)|Arcaea|1.7.0&br;(18/07/16)|2|7|9|||"
+  },
+  {
+    "line": 803,
+    "text": "|[[月に叢雲華に風]]&br;&size(10){Tsuki ni Murakumo, Hana ni Kaze};|BGCOLOR(indigo):|幽閉サテライト|Extend Archive 2&br;&size(10){Chronicles};|4.2.0&br;(23/01/26)|3|6|8+|||"
+  },
+  {
+    "line": 804,
+    "text": "|[[テレパシ]]&br;&size(10){Telepathy};|BGCOLOR(lightskyblue):|DECO*27|Virtual Singers|6.15.0&br;(26/06/25)|4|7+|9|10||"
+  },
+  {
+    "line": 805,
+    "text": "|&size(10){[[ディストーション・ニンゲン]]&br;Distortion Human};|BGCOLOR(indigo):|DJ Myosuke & KAJI|Extend Archive 3&br;&size(10){Illusions};|5.9.0&br;(24/07/30)|3|6|9+|||"
+  },
+  {
+    "line": 812,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 813,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 814,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 815,
+    "text": "|[[ネコノテ・カリタガール]]&br;&size(10){Dancin' on A Cat's Paw};|BGCOLOR(lightskyblue):|Ino(chronoize)|Arcaea|3.12.8&br;(22/04/28)|3|6|9|||"
+  },
+  {
+    "line": 822,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 823,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 824,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 825,
+    "text": "|[[始マリノ詩]]&br;&size(10){Wake in Hour};|BGCOLOR(lightskyblue):|有村京悟 feat. July|World Extend 4&br;&size(10){Emanations};|6.10.0&br;(25/10/30)|2|5|7|8+||"
+  },
+  {
+    "line": 826,
+    "text": "|&size(10){[[ハルトピア ~Utopia of Spring~]]&br;Harutopia ~Utopia of Spring~};|BGCOLOR(lightskyblue):|A-zu-ra|Arcaea|1.1.4&br;(17/08/10)|1|4|8|||"
+  },
+  {
+    "line": 827,
+    "text": "|[[緋色月下、狂咲ノ絶&br;(nayuta 2017 ver.)>緋色月下、狂咲ノ絶 (nayuta 2017 ver.)]]&br;&size(10){Hiiro Gekka, Kyoushou no Zetsu&br;(nayuta 2017 ver.)};|BGCOLOR(indigo):|&size(10){nayuta x 黒鳥(EastNewSound)};|Memory Archive|4.3.0&br;(23/03/02)|3|6|10|||"
+  },
+  {
+    "line": 828,
+    "text": "|[[光]]&br;&size(10){Hikari};|BGCOLOR(indigo):|THB|Tone Sphere|1.8.0&br;(18/10/07)|2|6|8|||"
+  },
+  {
+    "line": 829,
+    "text": "|[[ピコPico*&br;とらんすれーしょんっ！>ピコPico*とらんすれーしょんっ！]]&br;&size(10){PICO-Pico-Translation!};|BGCOLOR(indigo):|&size(10){t+pazolite,ななひら,Cranky,Pico*};|Memory Archive|3.12.8&br;(22/04/28)|2|6|9|||"
+  },
+  {
+    "line": 830,
+    "text": "|[[緋纏いの宵]]&br;&size(10){Evening in Scarlet};|BGCOLOR(indigo):|Freezer feat. 妃苺|Memory Archive|3.8.2&br;(18/08/24)|4|7|9|||"
+  },
+  {
+    "line": 831,
+    "text": "|&size(10){[[白道、多希望羊と信じありく。]]&br;LunarOrbit&br;-believe in the Espebranch road-};|BGCOLOR(indigo):|&size(10){Apo11o program ft. 大瀬良あい};|Arcaea|1.7.4&br;(18/08/31)|3|6|9|||"
+  },
+  {
+    "line": 832,
+    "text": "|&size(10){[[ヒュブリスの頂に聳えるのは]]&br;Hybris (The one who shattered)};|BGCOLOR(indigo):|qfeileadh feat.のあ|Extend Archive 2&br;&size(10){Chronicles};|4.4.6&br;(23/5/25)|4|7+|9+|||"
+  },
+  {
+    "line": 833,
+    "text": "|[[不浄な白い鳥]]&br;&size(10){Impure Bird};|BGCOLOR(lightskyblue):|MIssionary|Memory Archive|1.1.3&br;(17/07/18)|2|5|9|||"
+  },
+  {
+    "line": 834,
+    "text": "|&size(10){[[フライブルクとエンドロウル]]&br;Flyburg and Endroll};|BGCOLOR(lightskyblue):|&size(10){アリスシャッハと魔法の楽団};|Crimson Solace|1.0.11&br;(17/05/11)|3|6|9|||"
+  },
+  {
+    "line": 835,
+    "text": "|[[プラシイボ&#9829;バトラー]]&br;&size(10){Placebo&#9829;Battler};|BGCOLOR(skyblue):|OSTER project|Memory Archive|6.3.0&br;(25/03/09)|5|8|10|||"
+  },
+  {
+    "line": 836,
+    "text": "|[[フレテミタイ]]&br;&size(10){FURETE-MITAI};|BGCOLOR(lightskyblue):|みきとP|Extend Archive 3&br;&size(10){Illusions};|5.10.4&br;(24/09/26)|2|6|8|9||"
+  },
+  {
+    "line": 837,
+    "text": "|[[プレヤ]]&br;&size(10){Prayer};|BGCOLOR(lightskyblue):|&size(10){qfeileadh&レゾナンスもえこ};|Extend Archive 3&br;&size(10){Illusions};|5.10.6&br;(24/10/24)|2|5|8|9||"
+  },
+  {
+    "line": 838,
+    "text": "|[[ベースラインやってる？w]]&br;&size(10){Can I Friend You On Bassbook?&br;Lol};|BGCOLOR(lightskyblue):|かめりあ feat. ななひら|Memory Archive|3.5.4&br;(21/04/09)|3|6|9|||"
+  },
+  {
+    "line": 839,
+    "text": "|[[蛍火の雪]]&br;&size(10){Hotarubi no Yuki};|BGCOLOR(lightskyblue):|Endorfin.|Sunset Radiance|5.2.6&br;(24/1/12)|3|7|9+|||"
+  },
+  {
+    "line": 846,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 847,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 848,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 849,
+    "text": "|[[魔王]]&br;&size(10){World Ender};|BGCOLOR(lightskyblue):|sasakure.UK × TJ.hangneil|Final Verdict|4.0.0&br;(22/07/07)|4|7+|10||''11''|"
+  },
+  {
+    "line": 850,
+    "text": "|[[迷える音色は恋の唄]]&br;&size(10){A Wandering Melody of Love};|BGCOLOR(lightskyblue):|&size(10){からとPαnchii少年 feat. はるの};|Sunset Radiance|2.3.0&br;(19/08/22)|3|7|9|||"
+  },
+  {
+    "line": 851,
+    "text": "|[[無機質世界に彩を]]&br;&size(10){Redraw the Colorless World};|BGCOLOR(lightskyblue):|MisomyL|Arcaea|4.0.0&br;(22/07/07)|4|6|9|||"
+  },
+  {
+    "line": 852,
+    "text": "|[[無法地点]]&br;&size(10){Lawless Point};|BGCOLOR(Indigo):|La pri&#232;re|Extend Archive 2&br;&size(10){Chronicles};|4.4.6&br;(23/05/25)|3|6|9|||"
+  },
+  {
+    "line": 853,
+    "text": "|[[メルティーラプソディー]]&br;&size(10){Melty Rhapsody};|BGCOLOR(lightskyblue):|lapix feat. PANXI|MEGAREX|6.12.0&br;(26/01/29)|3|7|9|10||"
+  },
+  {
+    "line": 860,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 861,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 862,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 863,
+    "text": "|&size(10){[[妖艶魔女 -trappola bewitching-]]&br;trappola bewitching};|BGCOLOR(indigo):|gmtn.|Vicious Labyrinth|1.5.0&br;(17/11/03)|3|6|9+||10|"
+  },
+  {
+    "line": 864,
+    "text": "|[[夜桜吹雪]]&br;&size(10){Yosakura Fubuki};|BGCOLOR(lightskyblue):|A.SAKA|Memory Archive|1.5.2&br;(17/11/24)|4|7|9|||"
+  },
+  {
+    "line": 865,
+    "text": "|[[ヨミビトシラズ]]&br;&size(10){yomibito_shirazu};|BGCOLOR(lightskyblue):|Limon&#232;ne&br;(サノカモメ+月島春果)|maimai&br;&size(10){(Collaboration Ch.3)}; |6.2.0&br;(25/1/23)|4|8|9+|||"
+  },
+  {
+    "line": 872,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 873,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 874,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 875,
+    "text": "|[[ラヴィ]]&br;&size(10){Lavie};|BGCOLOR(indigo):|すりぃ|Virtual Singers|6.15.0&br;(26/06/25)|3|6|8+|9+||"
+  },
+  {
+    "line": 876,
+    "text": "|[[レイヴンズ・プライド]]&br;&size(10){Raven's Pride};|BGCOLOR(indigo):|&size(10){みーに feat. はらもりよしな};|Lasting Eden|4.7.0&br;(23/08/18)|3|7|9|||"
+  },
+  {
+    "line": 877,
+    "text": "|[[烈華RESONANCE]]&br;&size(10){REKKA RESONANCE};|BGCOLOR(lightskyblue):|REDALiCE vs Kobaryo|Memory Archive|3.6.4&br;(21/06/30)|5|8+|10+|||"
+  },
+  {
+    "line": 884,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 885,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 886,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 887,
+    "text": "|[[&#863;&#861;&#862;Ⅱ&#769;&#789;>Ⅱ]]|BGCOLOR(indigo):|Cytus|Cytus II&br;&size(10){(Collaboration Ch.2)};|4.6.0&br;(23/07/19)|5|8+|10+|||"
+  },
+  {
+    "line": 888,
+    "text": "|[[#1f1e33>_1f1e33]]|BGCOLOR(indigo):|かめりあ(EDP)|Black Fate|3.0.0&br;(20/05/27)|5|9|''11''|||"
+  },
+  {
+    "line": 889,
+    "text": "|[[+1(UNKNOWN)-NUMBER]]|BGCOLOR(indigo):|&size(10){MEMODEMO × AQUASINE&br;^ (hackerling)};|Memory Archive|6.12.10&br;(26/02/19)|4|7|9+|||"
+  },
+  {
+    "line": 890,
+    "text": "|[[0xe0e1ccull]]&br;&color(#ffffff,#292929){AF譜面限定楽曲};|BGCOLOR(indigo):|f→n|-|4.4.2&br;(23/04/01)|||?|||"
+  },
+  {
+    "line": 891,
+    "text": "|[[10pt8ion]]|BGCOLOR(indigo):|Lite Show Magic|Groove Coaster&br;&size(10){(Collaboration Ch.2)};|5.8.0&br;(24/06/27)|4|7+|9+|10||"
+  },
+  {
+    "line": 892,
+    "text": "|[[1F√]]|BGCOLOR(lightskyblue):|WHITEFISTS|Extend Archive 1&br;&size(10){Visions};|3.0.0&br;(20/05/27)|2|6|8|||"
+  },
+  {
+    "line": 893,
+    "text": "|[[3rd Avenue]]|BGCOLOR(indigo):|Sound Souler|World Extend 4&br;&size(10){Emanations};|6.13.0&br;(26/03/09)|3|8|9|||"
+  },
+  {
+    "line": 894,
+    "text": "|[[7thSense]]|BGCOLOR(indigo):|削除|maimai|3.4.1&br;(21/01/08)|3|7+|9+|||"
+  },
+  {
+    "line": 895,
+    "text": "|[[8-EM]]|BGCOLOR(indigo):|Sampling Masters AYA|CHUNITHM&br;&size(10){(Collaboration Ch.4)};|6.1.0&br;(24/12/19)|4|7+|9|10||"
+  },
+  {
+    "line": 896,
+    "text": "|[[99 Glooms]]|BGCOLOR(indigo):|Sta|Cytus II&br;&size(10){(Collaboration Ch.2)};|4.6.0&br;(23/07/19)|4|7+|10|||"
+  },
+  {
+    "line": 897,
+    "text": "|[[[X]>［X］]]|BGCOLOR(indigo):|Blacklolita|maimai&br;&size(10){(Collaboration Ch.2)};|4.3.0&br;(23/03/02)|4|7+|10|||"
+  },
+  {
+    "line": 898,
+    "text": "|[[~_+]]|BGCOLOR(lightskyblue):|&size(10){AQUASINE ~ MEMODEMO&br;+ METAROOM};|World Extend 4&br;&size(10){Emanations};|6.11.2&br;(25/12/24)|4|8|9+|||"
+  },
+  {
+    "line": 899,
+    "text": "|[[〇、]]|BGCOLOR(lightskyblue):|Kolaa & 熊子|Extend Archive 3&br;&size(10){Illusions};|5.5.0&br;(24/03/25)|2|6|9|||"
+  },
+  {
+    "line": 907,
+    "text": "|>|~Song|~Composer|~Pack|~Update&br;Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 908,
+    "text": "|~|~|~|~|~|BGCOLOR(Deepskyblue):~PST|BGCOLOR(Mediumseagreen):~PRS|BGCOLOR(Mediumvioletred):~FTR|BGCOLOR(Slateblue):~ETR|BGCOLOR(Firebrick):~BYD|h"
+  },
+  {
+    "line": 909,
+    "text": "|LEFT:160|1|LEFT:160|CENTER:110|CENTER:70|CENTER:COLOR(aqua):35|CENTER:COLOR(lime):35|CENTER:COLOR(fuchsia):35|CENTER:COLOR(mediumpurple):35|CENTER:COLOR(red):35|c"
+  },
+  {
+    "line": 910,
+    "text": "|[[&#196;vril -Flicka i krans-]]|BGCOLOR(lightskyblue):|Rig&#235;l Theatre|Arcaea|3.12.0&br;(22/02/17)|3|6|8|||"
+  },
+  {
+    "line": 911,
+    "text": "|[[ΛZΛLEΛ]]|BGCOLOR(lightskyblue):|ak+q × onoken|Arcaea Next Stage|6.10.8&br;(25/11/22)|4|7|9|10||"
+  },
+  {
+    "line": 912,
+    "text": "|[[ΟΔΥΣΣΕΙΑ]]|BGCOLOR(indigo):|Sober Bear|Esoteric Order&br;&size(10){(Pale Tapestry)};|3.6.0&br;(21/05/11)|4|7+|9|||"
+  },
+  {
+    "line": 913,
+    "text": "|[[αterlβus]]|BGCOLOR(indigo):|Aoi|Dynamix|1.1.2&br;(17/06/23)|4|7|10|||"
+  },
+  {
+    "line": 914,
+    "text": "|[[γuarδina]]|BGCOLOR(lightskyblue):|Aoi|Memory Archive|1.6.2&br;(18/04/29)|4|8|10|||"
+  },
+  {
+    "line": 915,
+    "text": "|[[μ]]|BGCOLOR(lightskyblue):|Frums|Memory Archive|3.12.10&br;(22/05/25)|3|7|9+|||"
+  },
+  {
+    "line": 916,
+    "text": "|[[τ (tau)]]|BGCOLOR(lightskyblue):|Wooden|Extend Archive 3&br;&size(10){Illusions};|6.4.0&br;(25/04/24)|4|7+|9+|||"
+  },
+  {
+    "line": 917,
+    "text": "|[[ω4]]|BGCOLOR(lightskyblue):|&size(10){穴山大輔 VS 光吉猛修 VS Kai};|O.N.G.E.K.I.|3.4.0&br;(20/12/17)|3|7+|10+|||"
+  }
+]

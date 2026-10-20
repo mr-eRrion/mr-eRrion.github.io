@@ -1,0 +1,323 @@
+{
+  "id": "bof-88",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=88",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "aea99cd1d6fd078f6a13f72039ec61502617be14223261130e46d80f24deca96",
+  "partialSnapshot": true,
+  "records": [
+    {
+      "title": "CLOCKTOWER",
+      "artist": "Chitose",
+      "sourceId": "88-25",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=88"
+    },
+    {
+      "title": "白山比咩神",
+      "artist": "DWMω",
+      "sourceId": "88-18",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=18&event=88"
+    },
+    {
+      "title": "ENTANGLEMENT",
+      "artist": "ABE3",
+      "sourceId": "88-9",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=88"
+    },
+    {
+      "title": "The lost",
+      "artist": "碧",
+      "sourceId": "88-26",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=88"
+    },
+    {
+      "title": "時計物語",
+      "artist": "daisan",
+      "sourceId": "88-28",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=28&event=88"
+    },
+    {
+      "title": "aura",
+      "artist": "daisan feat. 天城あくる",
+      "sourceId": "88-10",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=10&event=88"
+    },
+    {
+      "title": "RAPID STRIKE",
+      "artist": "NIKITA",
+      "sourceId": "88-27",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=88"
+    },
+    {
+      "title": "DESPERATE",
+      "artist": "NIKITA",
+      "sourceId": "88-34",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=88"
+    },
+    {
+      "title": "Life",
+      "artist": "Ferrum / MetaGalaxy",
+      "sourceId": "88-48",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=88"
+    },
+    {
+      "title": "多重極展開",
+      "artist": "Rocky",
+      "sourceId": "88-62",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=62&event=88"
+    },
+    {
+      "title": "Snowland",
+      "artist": "Ujico*",
+      "sourceId": "88-117",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=117&event=88"
+    },
+    {
+      "title": "Glamor Glamorous",
+      "artist": "taqumi",
+      "sourceId": "88-180",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=180&event=88"
+    },
+    {
+      "title": "You'll be my Star",
+      "artist": "DG-P vs. taqumi feat. めらみぽっぷ",
+      "sourceId": "88-105",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=88"
+    },
+    {
+      "title": "Dance revolution",
+      "artist": "DG-P",
+      "sourceId": "88-107",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=88"
+    },
+    {
+      "title": "YATA",
+      "artist": "kireji",
+      "sourceId": "88-2",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=88"
+    },
+    {
+      "title": "KUSANAGI",
+      "artist": "kei_iwata",
+      "sourceId": "88-364",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=364&event=88"
+    },
+    {
+      "title": "fin",
+      "artist": "azu",
+      "sourceId": "88-188",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=88"
+    },
+    {
+      "title": "Another",
+      "artist": "polycube",
+      "sourceId": "88-259",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=88"
+    },
+    {
+      "title": "GAGAJAZQUE",
+      "artist": "葵",
+      "sourceId": "88-141",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=88"
+    },
+    {
+      "title": "Machine Movement",
+      "artist": "M-kani",
+      "sourceId": "88-71",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=88"
+    },
+    {
+      "title": "fragile crystal",
+      "artist": "Arch/movie: Reku",
+      "sourceId": "88-120",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=120&event=88"
+    },
+    {
+      "title": "Beat Cannon (KHTP Remix)",
+      "artist": "eFeL remixed by KHTP",
+      "sourceId": "88-197",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=88"
+    },
+    {
+      "title": "GIN TONIC FLAVOR",
+      "artist": "q/stol",
+      "sourceId": "88-203",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=203&event=88"
+    },
+    {
+      "title": "愛と煩悩と輪廻と常識の極彩世界",
+      "artist": "sound piercer feat.Ritsu",
+      "sourceId": "88-204",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=88"
+    },
+    {
+      "title": "ベストフレンド",
+      "artist": "chihiro feat.Salita(渋谷凛)",
+      "sourceId": "88-227",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=227&event=88"
+    },
+    {
+      "title": "Ptolemaic",
+      "artist": "polycube",
+      "sourceId": "88-97",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=97&event=88"
+    },
+    {
+      "title": "7 colors*",
+      "artist": "Ym1024 feat. lamie*",
+      "sourceId": "88-390",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=390&event=88"
+    },
+    {
+      "title": "albino",
+      "artist": "くるぶっこちゃん",
+      "sourceId": "88-296",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=88"
+    },
+    {
+      "title": "Like a Sunflower",
+      "artist": "ひかげ feat. えみゅう。",
+      "sourceId": "88-277",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=277&event=88"
+    },
+    {
+      "title": "運命論",
+      "artist": "ルゼ ☆ えみゅう。 ☆ 石王マサト",
+      "sourceId": "88-205",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=205&event=88"
+    },
+    {
+      "title": "B.B.K.K.B.K.K.",
+      "artist": "nora2r",
+      "sourceId": "88-152",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88"
+    },
+    {
+      "title": "Crafty trick",
+      "artist": "のあちゃん",
+      "sourceId": "88-348",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=348&event=88"
+    },
+    {
+      "title": "from the legacy world",
+      "artist": "spine",
+      "sourceId": "88-369",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=369&event=88"
+    },
+    {
+      "title": "deskwork",
+      "artist": "ルゼ",
+      "sourceId": "88-170",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=170&event=88"
+    },
+    {
+      "title": "Highleg Mermaid",
+      "artist": "MUSIC:xenothium / BGA:篠乃ちよ(MUSIC:片桐早苗 / BGA:輿水幸子)",
+      "sourceId": "88-354",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=88"
+    },
+    {
+      "title": "ダークサンバランド",
+      "artist": "ダークサンバマスター佐藤-SATOH-（Lime)",
+      "sourceId": "88-417",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=88"
+    },
+    {
+      "title": "XΣNΦ",
+      "artist": "ひつじとおじさん",
+      "sourceId": "88-234",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=234&event=88"
+    },
+    {
+      "title": "Neural Network",
+      "artist": "Yu^ta w. Satoguchi Yu",
+      "sourceId": "88-318",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=318&event=88"
+    },
+    {
+      "title": "Caelumize",
+      "artist": "void",
+      "sourceId": "88-389",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=88"
+    },
+    {
+      "title": "The Formula",
+      "artist": "Junk",
+      "sourceId": "88-351",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=88"
+    },
+    {
+      "title": "PASERI",
+      "artist": "Nankumo / Riutaso",
+      "sourceId": "88-295",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=295&event=88"
+    },
+    {
+      "title": "Simple Sample",
+      "artist": "unican from A-Little Lab.",
+      "sourceId": "88-430",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=88"
+    },
+    {
+      "title": "BAYSIDE AREA",
+      "artist": "Richard Roe(Otto Mustermann)",
+      "sourceId": "88-427",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=427&event=88"
+    },
+    {
+      "title": "スターゲイザー [Galaxy Night]",
+      "artist": "SHiNKA feat. negiyan",
+      "sourceId": "88-263",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=263&event=88"
+    },
+    {
+      "title": "先天性エゴサ依存症候群",
+      "artist": "ねこみりん feat.みゆ",
+      "sourceId": "88-335",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=88"
+    },
+    {
+      "title": "ダイナモと白昼夢",
+      "artist": "kju8+zen / Scarfaith / DOT96",
+      "sourceId": "88-436",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=436&event=88"
+    },
+    {
+      "title": "千年女王の幻燈",
+      "artist": "微熱 / Qybele / MONOLITH / cybermiso",
+      "sourceId": "88-451",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=451&event=88"
+    },
+    {
+      "title": "コケシネコ・タイフーン",
+      "artist": "Ino",
+      "sourceId": "88-421",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=421&event=88"
+    },
+    {
+      "title": "事象の地平",
+      "artist": "wa.",
+      "sourceId": "88-320",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=88"
+    },
+    {
+      "title": "doll miraceti",
+      "artist": "pemhem",
+      "sourceId": "88-420",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=420&event=88"
+    },
+    {
+      "title": "Phunk Drunk Love Life",
+      "artist": "awi",
+      "sourceId": "88-307",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=307&event=88"
+    },
+    {
+      "title": "自強號",
+      "artist": "itaojirou",
+      "sourceId": "88-395",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=88"
+    }
+  ]
+}

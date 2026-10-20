@@ -1,0 +1,473 @@
+{
+  "id": "bof-116",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=116",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "df5d90fb5a3100b7659f09887f48547c69edb69e66fbf9014b57bedfa803e455",
+  "partialSnapshot": true,
+  "records": [
+    {
+      "title": "Garuda Garuda",
+      "artist": "ume(mov:ume/illustration:しらそ)",
+      "sourceId": "116-3",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=116"
+    },
+    {
+      "title": "Strahlzwerg",
+      "artist": "MALVA.(mov:5argon)",
+      "sourceId": "116-7",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=116"
+    },
+    {
+      "title": "VISTA",
+      "artist": "tanacoro(mov:5argon)",
+      "sourceId": "116-21",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=116"
+    },
+    {
+      "title": "Luna Express 2032",
+      "artist": "Sakamiya feat.小宮真央(mov:わっふゑ illust:hrchem)",
+      "sourceId": "116-16",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=116"
+    },
+    {
+      "title": "Berry Go!!",
+      "artist": "Freezer feat. 妃苺",
+      "sourceId": "116-23",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=23&event=116"
+    },
+    {
+      "title": "Reinvent",
+      "artist": "Sound Souler(mov:Tagtraume)",
+      "sourceId": "116-40",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=116"
+    },
+    {
+      "title": "DEEP CRIMSON CANDLE",
+      "artist": "鈎兎(KagiUsagi)",
+      "sourceId": "116-44",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=116"
+    },
+    {
+      "title": "XIII Charlotte",
+      "artist": "m108(mov:メツヤ/flap)",
+      "sourceId": "116-9",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=116"
+    },
+    {
+      "title": "Arioso Killer",
+      "artist": "MALVA.(Venstant)(mov:nanairo illust:flap)",
+      "sourceId": "116-25",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=116"
+    },
+    {
+      "title": "Käfig",
+      "artist": "Chicala Lpis(mov:K.MONO (Illust:戀))",
+      "sourceId": "116-2",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=116"
+    },
+    {
+      "title": "Comatose State",
+      "artist": "Spire(mov:罪のすけ)",
+      "sourceId": "116-86",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=116"
+    },
+    {
+      "title": "The SkyScrapers",
+      "artist": "litmus*(mov:まも)",
+      "sourceId": "116-53",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=116"
+    },
+    {
+      "title": "Dizzolve",
+      "artist": "みくにゃん と りーなチャン(Ester)(mov:mi)",
+      "sourceId": "116-56",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=56&event=116"
+    },
+    {
+      "title": "dreaming",
+      "artist": "LeCiel feat. 蔡花零(mov:sowol&Bustge)",
+      "sourceId": "116-45",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=116"
+    },
+    {
+      "title": "ADDicTiON4500000",
+      "artist": "-45 / Is-m",
+      "sourceId": "116-121",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=121&event=116"
+    },
+    {
+      "title": "尊師 ～The Guru～",
+      "artist": "rider(mov:1B)",
+      "sourceId": "116-63",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=116"
+    },
+    {
+      "title": "I-SSV",
+      "artist": "Lemi.(mov:иоиo)",
+      "sourceId": "116-48",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=116"
+    },
+    {
+      "title": "Don't Make Me One",
+      "artist": "Kyuzo Sameura feat. a-m(mov:荒巻＆早明浦キュウゾウ)",
+      "sourceId": "116-30",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=116"
+    },
+    {
+      "title": "Blackest Luxury Car",
+      "artist": "Chicala Lpis",
+      "sourceId": "116-110",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=116"
+    },
+    {
+      "title": "Rear end Collision!!",
+      "artist": "MALVA.",
+      "sourceId": "116-253",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=116"
+    },
+    {
+      "title": "Virtual Faith",
+      "artist": "Quree",
+      "sourceId": "116-137",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=116"
+    },
+    {
+      "title": "Cosmobreak",
+      "artist": "Plum vs Calixer / Plum vs calixer(mov:miyota)",
+      "sourceId": "116-145",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=116"
+    },
+    {
+      "title": "Schicksal",
+      "artist": "Haruba(mov:Kurorak)",
+      "sourceId": "116-198",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=116"
+    },
+    {
+      "title": "Excelsia",
+      "artist": "ak+q(mov:Khronetic)",
+      "sourceId": "116-200",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=116"
+    },
+    {
+      "title": "YInMn Blue",
+      "artist": "siqlo(mov:出前)",
+      "sourceId": "116-220",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=116"
+    },
+    {
+      "title": "Lilith ambivalence lovers",
+      "artist": "ikaruga_nex(mov:vol-t)",
+      "sourceId": "116-278",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=116"
+    },
+    {
+      "title": "Luminescence",
+      "artist": "黒皇帝 & qune(mov:6XeNoN9)",
+      "sourceId": "116-261",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=116"
+    },
+    {
+      "title": "Entropic Orbital",
+      "artist": "Gil",
+      "sourceId": "116-358",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=358&event=116"
+    },
+    {
+      "title": "Lyrith -迷宮リリス-",
+      "artist": "ユメミド / LeaF(mov:テンソル / 遥壱朗)",
+      "sourceId": "116-218",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=116"
+    },
+    {
+      "title": "disperagioia",
+      "artist": "witch's slave(mov:HaltquinZ♠♥♣♦ vs. REI-K)",
+      "sourceId": "116-366",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=366&event=116"
+    },
+    {
+      "title": "JACK ROSE",
+      "artist": "ゆんゆん(mov:タイトルロゴ:ttv / BGA:くわぎう)",
+      "sourceId": "116-230",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=116"
+    },
+    {
+      "title": "Fly Once Again",
+      "artist": "SCTL(mov:HyuN)",
+      "sourceId": "116-332",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=116"
+    },
+    {
+      "title": "Take The Long Way Home",
+      "artist": "RiraN ft. core mc(mov:Irelriser)",
+      "sourceId": "116-281",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=116"
+    },
+    {
+      "title": "Missing",
+      "artist": "KarK",
+      "sourceId": "116-181",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=116"
+    },
+    {
+      "title": "theyaremanycolors",
+      "artist": "Frums",
+      "sourceId": "116-257",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=257&event=116"
+    },
+    {
+      "title": "DESPERATE DEATHPARADE",
+      "artist": "69 de 74(mov:morph)",
+      "sourceId": "116-154",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=154&event=116"
+    },
+    {
+      "title": "シグナルほっぴんぐ！",
+      "artist": "クワガタ(mov:柴犬きせつ et al.)",
+      "sourceId": "116-190",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=190&event=116"
+    },
+    {
+      "title": "Brokenscape",
+      "artist": "Kanata.S",
+      "sourceId": "116-37",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=37&event=116"
+    },
+    {
+      "title": "Wicked Thor",
+      "artist": "DustySubwoofer",
+      "sourceId": "116-206",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=116"
+    },
+    {
+      "title": "Ultimate Dream",
+      "artist": "Star* + Cryo-Myosotis",
+      "sourceId": "116-262",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=116"
+    },
+    {
+      "title": "In your dream (Edit Ver.)",
+      "artist": "SOUNDZ3",
+      "sourceId": "116-321",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=321&event=116"
+    },
+    {
+      "title": "Scene Scrambling",
+      "artist": "Star*",
+      "sourceId": "116-375",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=116"
+    },
+    {
+      "title": "白菊 -shiragiku-",
+      "artist": "立秋(立秋)(mov:サイグーレプナイコ)",
+      "sourceId": "116-268",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=116"
+    },
+    {
+      "title": "One Way Street",
+      "artist": "siqlo(mov:Karekitsune)",
+      "sourceId": "116-222",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=116"
+    },
+    {
+      "title": "MAKE IT FUNKY NOW",
+      "artist": "DOT96",
+      "sourceId": "116-294",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=116"
+    },
+    {
+      "title": "physalis",
+      "artist": "atmbzk(mov:Y.A.B.tutidama)",
+      "sourceId": "116-197",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=116"
+    },
+    {
+      "title": "魔法少女になるしかねぇ",
+      "artist": "ねこみりん feat.小宮真央(mov:むらしん)",
+      "sourceId": "116-430",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=430&event=116"
+    },
+    {
+      "title": "Deadly Shot",
+      "artist": "tetorimino(mov:サム)",
+      "sourceId": "116-162",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=162&event=116"
+    },
+    {
+      "title": "8bit Adventurer",
+      "artist": "Lime(mov:Frantzz)",
+      "sourceId": "116-444",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=444&event=116"
+    },
+    {
+      "title": "in the Darkness",
+      "artist": "Yu^ta feat. みずにんじん",
+      "sourceId": "116-456",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=456&event=116"
+    },
+    {
+      "title": "ReLieX",
+      "artist": "Aureus(mov:Zris)",
+      "sourceId": "116-306",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=306&event=116"
+    },
+    {
+      "title": "DuanGA",
+      "artist": "NceS(mov:Zris)",
+      "sourceId": "116-419",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=419&event=116"
+    },
+    {
+      "title": "recall",
+      "artist": "fluffy(mov:fish)",
+      "sourceId": "116-344",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=344&event=116"
+    },
+    {
+      "title": "Widow's kiss",
+      "artist": "Widowmaker(mov:Max)",
+      "sourceId": "116-369",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=369&event=116"
+    },
+    {
+      "title": "Finixe",
+      "artist": "Silentroom(mov:iimo)",
+      "sourceId": "116-349",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=116"
+    },
+    {
+      "title": "Implexrough",
+      "artist": "Silentroom / mommy(mov:Nate)",
+      "sourceId": "116-365",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=365&event=116"
+    },
+    {
+      "title": "Nhelv",
+      "artist": "Silentroom(mov:駿)",
+      "sourceId": "116-386",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=386&event=116"
+    },
+    {
+      "title": "GAMEBOY",
+      "artist": "Silentroom(mov:駿)",
+      "sourceId": "116-389",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=389&event=116"
+    },
+    {
+      "title": "Ultra Happy Miracle Bazoooooka!!",
+      "artist": "翡翠茶漬け(mov:幸健兎)",
+      "sourceId": "116-334",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=334&event=116"
+    },
+    {
+      "title": "Ninja Territory",
+      "artist": "Yu^ta(mov:アド)",
+      "sourceId": "116-362",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=116"
+    },
+    {
+      "title": "GLITCH SWITCH",
+      "artist": "Silentroom / 出前(GRASSEZ / Threader )",
+      "sourceId": "116-373",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=116"
+    },
+    {
+      "title": "ouroVoros",
+      "artist": "Team Grimoire(Negentropy)(mov:Λögeln)",
+      "sourceId": "116-383",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=116"
+    },
+    {
+      "title": "fly*high*five",
+      "artist": "Ino(chronoize) × みずたま(mov:朧烏)",
+      "sourceId": "116-471",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=471&event=116"
+    },
+    {
+      "title": "Dove",
+      "artist": "Sound piercer & Puru feat.Emma J.(mov:Sound piercer)",
+      "sourceId": "116-435",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=435&event=116"
+    },
+    {
+      "title": "Dandelion's Daydream",
+      "artist": "VeetaCrush(mov:Yowyon, Illustrator: Crity)",
+      "sourceId": "116-418",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=418&event=116"
+    },
+    {
+      "title": "Coastline Fantasy",
+      "artist": "Polymath9",
+      "sourceId": "116-423",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=116"
+    },
+    {
+      "title": "Lu*nya*cy Act 2017",
+      "artist": "かたぎり(mov:kofji)",
+      "sourceId": "116-379",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=379&event=116"
+    },
+    {
+      "title": "或る表現者の男",
+      "artist": "eicateve × 千頭和直輝 × かゆき × まきのせな × q/stol × なの太 × おう未 × むらしん",
+      "sourceId": "116-452",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=452&event=116"
+    },
+    {
+      "title": "Break Through The Barrier",
+      "artist": "lixound(mov:Xquid)",
+      "sourceId": "116-440",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=440&event=116"
+    },
+    {
+      "title": "Acquire",
+      "artist": "ryhki(mov:からめる)",
+      "sourceId": "116-468",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=468&event=116"
+    },
+    {
+      "title": "KAWAII FREESOZAI EXPLOSION",
+      "artist": "kireji",
+      "sourceId": "116-335",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=335&event=116"
+    },
+    {
+      "title": "隣町の蜃気楼",
+      "artist": "mossari feat.TEA(mov:すとレ)",
+      "sourceId": "116-433",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=433&event=116"
+    },
+    {
+      "title": "Crazy Sweetie Glitter Candy Color",
+      "artist": "polysha feat. Sennzai(mov:かーる)",
+      "sourceId": "116-473",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=473&event=116"
+    },
+    {
+      "title": "Primatrix",
+      "artist": "バンバンアカウント作成太郎(mov:ふにふにハムスター揉み衛門)",
+      "sourceId": "116-195",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=195&event=116"
+    },
+    {
+      "title": "Emptiness",
+      "artist": "Maverick(Xect.) / Xect.(mov:SeibaR)",
+      "sourceId": "116-397",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=397&event=116"
+    },
+    {
+      "title": "F℟IEND",
+      "artist": "M. Farhan Abdulaziz(D_AAN)(mov:vin & Putrihzn)",
+      "sourceId": "116-463",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=463&event=116"
+    },
+    {
+      "title": "無人区-Vacuum Track#ADD8E6-",
+      "artist": "NoKANY",
+      "sourceId": "116-491",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=491&event=116"
+    }
+  ]
+}

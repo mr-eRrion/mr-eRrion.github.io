@@ -1,0 +1,2478 @@
+[
+  {
+    "line": 18,
+    "text": "|CENTER:30|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:50|c"
+  },
+  {
+    "line": 19,
+    "text": "|~解禁|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 20,
+    "text": "|~|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 21,
+    "text": "|-|[[After Rain]]|HyuN & MIIM|1.0.3&br;(2022/05/30)|2|4|8|10+|-|"
+  },
+  {
+    "line": 22,
+    "text": "|-|[[Infinity Heaven]]|HyuN|1.0.3&br;(2022/05/30)|2|4|8|11|-|"
+  },
+  {
+    "line": 23,
+    "text": "|-|[[Sakura rain]]|Nanatsukaze|2.12.1&br;(2025/08/07)|1|4|9|12|-|"
+  },
+  {
+    "line": 24,
+    "text": "|-|[[Reverie]]|Soba|1.0.3&br;(2022/05/30)|2|6|8|11+|-|"
+  },
+  {
+    "line": 25,
+    "text": "|&color(darkorange){''1''};|[[A Time for Everything]]|Iris|1.0.3&br;(2022/05/30)|2|4|7|11|-|"
+  },
+  {
+    "line": 26,
+    "text": "|&color(darkorange){''1''};|[[LostPuppet>Lost Puppet]]|rmk|1.0.3&br;(2022/05/30)|3|6|8|10+|-|"
+  },
+  {
+    "line": 27,
+    "text": "|&color(darkorange){''1''};|[[&#49900;&#51109;&#48337;]]|HyuN feat. HUBOG|1.0.3&br;(2022/05/30)|1|3|8|9|-|"
+  },
+  {
+    "line": 28,
+    "text": "|&color(darkorange){''1''};|[[Last Paradise]]|HyuN feat. Serentium|1.0.3&br;(2022/05/30)|2|4|9|11|-|"
+  },
+  {
+    "line": 29,
+    "text": "|&color(darkorange){''1''};|[[A Clock]]|kurobe studio|1.0.3&br;(2022/05/30)|2|3|7|11|-|"
+  },
+  {
+    "line": 30,
+    "text": "|&color(darkorange){''1''};|[[Beautiful Days]]|HyuN feat. Ryeorae|2.0.0&br;(2024/05/30)|3|5|8|11+|-|"
+  },
+  {
+    "line": 31,
+    "text": "|&color(darkorange){''1''};|[[Snow Magic]]|Nota|1.0.3&br;(2022/05/30)|2|4|8|11|-|"
+  },
+  {
+    "line": 32,
+    "text": "|&color(darkorange){''1''};|[[K.Moe (VIP)]]|ZxNX|1.0.3&br;(2022/05/30)|2|4|11|11|-|"
+  },
+  {
+    "line": 33,
+    "text": "|&color(blue){''6''};|[[Journey with You]]|Iris|1.9.0&br;(2023/05/30)|3|6|8|11+|-|"
+  },
+  {
+    "line": 34,
+    "text": "|&color(blue){''10''};|[[ストレイソウル・アラウンド]]|みーに|1.8.0&br;(2023/04/07)|4|6|9|12|-|"
+  },
+  {
+    "line": 35,
+    "text": "|&color(blue){''15''};|[[Let you DIVE!]]|HARDCORE TANO*C & エリザベス（CV:大西沙織）|1.4.0&br;(2022/10/19)|3|6|11|11+|-|"
+  },
+  {
+    "line": 36,
+    "text": "|&color(blue){''20''};|[[BATTLE NO.1]]|TANO*C Sound Team|1.7.0&br;(2023/2/28)|3|7|9|13+|-|"
+  },
+  {
+    "line": 37,
+    "text": "|&color(darkorange){''2''};|[[Make Up Your World feat. キョンシーのCiちゃん＆らっぷびと]]|t+pazolite & Srav3R|1.15.0&br;(2024/03/07)|3|6|9|11|-|"
+  },
+  {
+    "line": 38,
+    "text": "|&color(darkorange){''2''};|[[Lullaby For an Android]]|Sad Keyboard Guy feat. AKA|2.0.0&br;(2024/05/30)|2|4|7|11+|-|"
+  },
+  {
+    "line": 39,
+    "text": "|&color(darkorange){''2''};|[[Is This REAL?]]|SOTUI & NIKITA|1.5.0&br;(2022/11/25)|3|6|9|11+|-|"
+  },
+  {
+    "line": 40,
+    "text": "|&color(darkorange){''2''};|[[無彩色のディストピア]]|HyuN feat. ウォルピスカーター|1.0.3&br;(2022/05/30)|2|5|9|11|-|"
+  },
+  {
+    "line": 41,
+    "text": "|&color(darkorange){''2''};|[[Ice Festival]]|Nota|1.5.1&br;(2022/12/23)|3|5|8|11|-|"
+  },
+  {
+    "line": 42,
+    "text": "|&color(darkorange){''2''};|[[Aurora]]|Kirara Magic feat. Shion|1.0.3&br;(2022/05/30)|1|2|8|11|-|"
+  },
+  {
+    "line": 43,
+    "text": "|&color(darkorange){''2''};|[[I Can't Wait]]|d0tc0mmie|2.23.0&br;(2026/05/30)|2|5|8|12+|-|"
+  },
+  {
+    "line": 44,
+    "text": "|&color(blue){''30''};|[[白菊 -shiragiku-]]|立秋|2.5.1&br;(2025/01/02)|2|5|8|13|-|"
+  },
+  {
+    "line": 45,
+    "text": "|&color(blue){''40''};|[[Rush E]]|Sheet Music Boss|1.9.0&br;(2023/05/30)|4|7|8|13+|-|"
+  },
+  {
+    "line": 46,
+    "text": "|&color(darkorange){''3''};|[[終焉から命を救う]]|Mlssionary|1.0.3&br;(2022/05/30)|2|6|10+|11+|-|"
+  },
+  {
+    "line": 47,
+    "text": "|&color(darkorange){''3''};|[[Converge]]|SOTUI x Hundotte|1.1.2&br;(2022/07/27)|2|4|9|11|-|"
+  },
+  {
+    "line": 48,
+    "text": "|&color(darkorange){''3''};|[[Witches' Party]]|Kirara Magic feat. Shiroroll|1.0.3&br;(2022/05/30)|3|5|9|11|-|"
+  },
+  {
+    "line": 49,
+    "text": "|&color(darkorange){''3''};|[[Chrysanthemum]]|7mai|1.0.3&br;(2022/05/30)|3|4|10|12|-|"
+  },
+  {
+    "line": 50,
+    "text": "|&color(darkorange){''3''};|[[Blastrick]]|K4Y5|1.8.0&br;(2023/04/07)|2|7|8|12+|-|"
+  },
+  {
+    "line": 51,
+    "text": "|&color(darkorange){''3''};|[[いざ、参ります]]|U-ske feat. 棗いつき|2.14.1&br;(2025/10/03)|3|5|9|12+|-|"
+  },
+  {
+    "line": 52,
+    "text": "|&color(blue){''50''};|[[Koki Chant]]|Glacier|2.14.1&br;(2025/10/03)|3|6|9|13|-|"
+  },
+  {
+    "line": 53,
+    "text": "|&color(darkorange){''4''};|[[Anthem]]|Silaver & SOTUI|1.0.3&br;(2022/05/30)|2|4|10+|11|-|"
+  },
+  {
+    "line": 54,
+    "text": "|&color(darkorange){''4''};|[[別れの序曲]]|HyuN feat. Sennzai|1.3.0&br;(2022/09/09)|2|3|5|10|-|"
+  },
+  {
+    "line": 55,
+    "text": "|&color(darkorange){''4''};|[[Pure White：Tale of Serissa]]|Sosop|1.0.3&br;(2022/05/30)|2|4|8|11+|-|"
+  },
+  {
+    "line": 56,
+    "text": "|&color(darkorange){''4''};|[[Awaken In Ruins]]|Supa7onyz|2.3.0&br;(2024/10/01)|2|5|9|12|-|"
+  },
+  {
+    "line": 57,
+    "text": "|&color(darkorange){''4''};|[[Sword of Convallaria]]|崎元 仁|2.10.0&br;(2025/05/30)|2|5|7|11|-|"
+  },
+  {
+    "line": 58,
+    "text": "|&color(darkorange){''5''};|[[The Formula]]|Junk|1.8.2&br;(2023/05/03)|2|5|9|12|-|"
+  },
+  {
+    "line": 59,
+    "text": "|&color(darkorange){''5''};|[[Bouquet colore]]|Nego_tiator|1.0.3&br;(2022/05/30)|3|7|10|12|-|"
+  },
+  {
+    "line": 60,
+    "text": "|&color(darkorange){''5''};|[[Provision]]|connexio|1.14.1&br;(2024/02/08)|3|6|7|11+|-|"
+  },
+  {
+    "line": 61,
+    "text": "|&color(darkorange){''5''};|[[Apocalypse]]|Alice schach and the Magic Orchestra|1.16.0&br;(2024/04/18)|2|4|8|11|-|"
+  },
+  {
+    "line": 62,
+    "text": "|&color(darkorange){''5''};|[[Shattered Sky After Rain]]|Lorph & Elexia|2.4.0&br;(2024/10/31)|1|4|8|12+|-|"
+  },
+  {
+    "line": 63,
+    "text": "|&color(darkorange){''5''};|[[CONVALLARiA]]|GARNiDELiA|2.7.0&br;(2025/02/27)|1|4|8|12|-|"
+  },
+  {
+    "line": 64,
+    "text": "|&color(darkorange){''5''};|[[Mirror]]|peak divide & Rachel Lake|2.13.0&br;(2025/08/25)|2|5|9|12+|-|"
+  },
+  {
+    "line": 65,
+    "text": "|&color(darkorange){''6''};|[[Cosmogyral]]|Altermis & Darren|2.4.0&br;(2024/10/31)|3|7|9|13|-|"
+  },
+  {
+    "line": 66,
+    "text": "|&color(darkorange){''6''};|[[Cynthia]]|nm-y & 7mai|2.0.0&br;(2024/05/30)|2|5|9|13|-|"
+  },
+  {
+    "line": 67,
+    "text": "|&color(darkorange){''6''};|[[In a Diabolic Manner]]|Nagiha|1.0.3&br;(2022/05/30)|4|8|11+|13|-|"
+  },
+  {
+    "line": 68,
+    "text": "|&color(darkorange){''7''};|[[Pure Ruby]]|SHIKI|2.23.0&br;(2026/05/30)|3|6|9|12|13+|"
+  },
+  {
+    "line": 69,
+    "text": "|-|[[Cryogenic]] ((ゲーム内ではイベント曲の下に位置する))|Camellia ft. Petra Gurin|2.27.0&br;(2026/09/17)|3|6|9|13|-|"
+  },
+  {
+    "line": 70,
+    "text": "|>|>|>|>|>|>|>|>|BGCOLOR(purple):COLOR(#FFFFFF){ ''イベント曲 [31曲] ▼''}&aname(EventSong){};|"
+  },
+  {
+    "line": 71,
+    "text": "|&color(deepskyblue){◆};|[[fallin' fallin' (prod. INFX, Ella Jung, Limpid)]]|kradness|1.10.0&br;(2023/07/05)|3|7|9|12|-|"
+  },
+  {
+    "line": 72,
+    "text": "|&color(deepskyblue){◆};|[[Azure Sky]]|NeLiME|1.11.0&br;(2023/08/30)|2|4|7|12|-|"
+  },
+  {
+    "line": 73,
+    "text": "|&color(deepskyblue){◆};|[[Nyarlathotep's Dreamland]]|Raimukun|1.12.0&br;(2023/10/19)|3|7|11|13+|-|"
+  },
+  {
+    "line": 74,
+    "text": "|&color(deepskyblue){◆};|[[NO ONE YES MAN]]|MYUKKE.|1.13.0&br;(2023/12/05)|2|5|9|11+|-|"
+  },
+  {
+    "line": 75,
+    "text": "|&color(deepskyblue){◆};|[[reveL]]|Yu_Asahina as Orange Vox+ ft.AKA|1.14.0&br;(2024/01/17)|2|4|9|12+|-|"
+  },
+  {
+    "line": 76,
+    "text": "|&color(deepskyblue){◆};|[[Break Through Myself feat. Risa Yuzuki]]|DJ Myosuke & Laur|1.15.0&br;(2024/03/07)|3|5|8|13|-|"
+  },
+  {
+    "line": 77,
+    "text": "|&color(deepskyblue){◆};|[[Yukianesa]]|tezuka|1.16.0&br;(2024/04/18)|3|6|11+|12+|-|"
+  },
+  {
+    "line": 78,
+    "text": "|&color(deepskyblue){◆};|[[Waltz for Lorelei]]|Sobrem & 庭師|2.0.0&br;(2024/05/30)|3|7|9|13|-|"
+  },
+  {
+    "line": 79,
+    "text": "|&color(deepskyblue){◆};|[[天Q.]]|天々まる（prod.Ponchi♪）|2.1.0&br;(2024/07/18)|4|7|9|13|-|"
+  },
+  {
+    "line": 80,
+    "text": "|&color(deepskyblue){◆};|[[corps-sans-organes]]|cybermiso|2.2.0&br;(2024/08/29)|4|8|12|14|-|"
+  },
+  {
+    "line": 81,
+    "text": "|&color(deepskyblue){◆};|[[Turning POINT]]|Junk|2.3.0&br;(2024/10/01)|3|6|10|13|-|"
+  },
+  {
+    "line": 82,
+    "text": "|&color(deepskyblue){◆};|[[One Way Street]]|siqlo|2.4.0&br;(2024/10/31)|2|4|9|12+|-|"
+  },
+  {
+    "line": 83,
+    "text": "|&color(deepskyblue){◆};|[[Flashdance]]|litmus*|2.5.0&br;(2024/12/05)|1|4|8|12+|-|"
+  },
+  {
+    "line": 84,
+    "text": "|&color(deepskyblue){◆};|[[Love Splash]]|INuya|2.6.0&br;(2025/01/27)|3|6|9|12|-|"
+  },
+  {
+    "line": 85,
+    "text": "|&color(deepskyblue){◆};|[[アトロポスと最果の探究者]]|しーけー|2.7.0&br;(2025/02/27)|3|5|9|13|-|"
+  },
+  {
+    "line": 86,
+    "text": "|&color(deepskyblue){◆};|[[Laboratory-018]]|Riya|2.8.0&br;(2025/03/27)|2|5|9|12|-|"
+  },
+  {
+    "line": 87,
+    "text": "|&color(deepskyblue){◆};|[[Rocket Lanterns]]|Farhan|2.9.0&br;(2025/04/24)|3|5|8|12|-|"
+  },
+  {
+    "line": 88,
+    "text": "|&color(deepskyblue){◆};|[[HARMONIC EVASION 101]]|MEMODEMO × AQUASINE&br;^ Moon Jelly|2.10.0&br;(2025/05/30)|3|7|10|12+|-|"
+  },
+  {
+    "line": 89,
+    "text": "|&color(deepskyblue){◆};|[[Moonlight Fragrance]]|H△G|2.11.0&br;(2025/06/23)|2|4|7|11+|-|"
+  },
+  {
+    "line": 90,
+    "text": "|&color(deepskyblue){◆};|[[Smile-mileS]]|onoken|2.12.0&br;(2025/07/17)|4|6|9|12+|-|"
+  },
+  {
+    "line": 91,
+    "text": "|&color(deepskyblue){◆};|[[Slide Down]]|Saltless|2.13.0&br;(2025/08/25)|3|6|9|12|-|"
+  },
+  {
+    "line": 92,
+    "text": "|&color(deepskyblue){◆};|[[Orison]]|Iris feat. Jacelyn Yeo|2.14.0&br;(2025/09/19)|2|6|9|13|-|"
+  },
+  {
+    "line": 93,
+    "text": "|&color(deepskyblue){◆};|[[Secret Illumination (seatrus's \"The AURA\" Remix)>Secret Illumination (seatrus's The AURA Remix)]]|Yooh Remixed by seatrus|2.14.3&br;(2025/10/23)|4|8|11|13+|-|"
+  },
+  {
+    "line": 94,
+    "text": "|&color(deepskyblue){◆};|[[VERTEXION]]|Kinetix|2.15.0&br;(2025/11/13)|2|5|9|13|-|"
+  },
+  {
+    "line": 95,
+    "text": "|&color(deepskyblue){◆};|[[伊天珀凌]]|南愁Nanchou|2.16.0&br;(2025/12/05)|2|5|8|12+|-|"
+  },
+  {
+    "line": 96,
+    "text": "|&color(deepskyblue){◆};|[[Party Before Hibernation]]|黒魔(Chroma)|2.17.0&br;(2025/12/25)|3|6|11|13|-|"
+  },
+  {
+    "line": 97,
+    "text": "|&color(deepskyblue){◆};|[[Ginevra]]|MYUKKE.|2.18.0&br;(2026/01/22)|3|6|9|12|-|"
+  },
+  {
+    "line": 98,
+    "text": "|-|[[Chunlian]]|utzbo|2.19.0&br;(2026/02/12)|3|6|9|13+|-|"
+  },
+  {
+    "line": 99,
+    "text": "|-|[[献花]]|瀬名水紀|2.20.0&br;(2026/03/19)|1|5|8|12+|-|"
+  },
+  {
+    "line": 100,
+    "text": "|-|[[Breaking Dawn feat. 棗いつき]]|Getty & Kobaryo|2.21.0&br;(2026/04/16)|2|5|9|13|-|"
+  },
+  {
+    "line": 101,
+    "text": "|-|[[許されたくない (VOLTA Remix)]]|memex|2.22.0&br;(2026/05/14)|4|6|10|13|-|"
+  },
+  {
+    "line": 107,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 108,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 109,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 110,
+    "text": "|[[Aqua Theme]]|HyuN & MIIM|2.1.1&br;(2024/08/08)|3|6|9|10+|"
+  },
+  {
+    "line": 111,
+    "text": "|[[huggy wuggy]]|ZxNX|1.0.3&br;(2022/05/30)|3|5|10+|11+|"
+  },
+  {
+    "line": 112,
+    "text": "|[[Re-waked from Abyss]]|HeavenEGHD|1.0.3&br;(2022/05/30)|3|6|11|11+|"
+  },
+  {
+    "line": 113,
+    "text": "|[[The Promised Land]]|Iris feat. LynH|1.0.3&br;(2022/05/30)|2|4|9|11+|"
+  },
+  {
+    "line": 114,
+    "text": "|[[Aqua Stars]]|Sound Souler|1.0.3&br;(2022/05/30)|4|7|11+|12+|"
+  },
+  {
+    "line": 115,
+    "text": "|[[Inverted World]]|ARForest|1.0.3&br;(2022/05/30)|4|8|11|13+|"
+  },
+  {
+    "line": 120,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 121,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 122,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 123,
+    "text": "|[[Secret Illumination]]|Yooh|1.6.1&br;(2023/01/16)|3|7|11|12+|"
+  },
+  {
+    "line": 124,
+    "text": "|[[Manifold Hypothesis]]|cybermiso feat. tigerlily|1.6.1&br;(2023/01/16)|4|7|10|13|"
+  },
+  {
+    "line": 125,
+    "text": "|[[Aorist Hallucination]]|FallN Leav|1.6.1&br;(2023/01/16)|2|5|7|11|"
+  },
+  {
+    "line": 126,
+    "text": "|[[Alive]]|eicateve|1.6.1&br;(2023/01/16)|2|7|9|13|"
+  },
+  {
+    "line": 127,
+    "text": "|[[Our Message]]|What’s Your Price|1.6.1&br;(2023/01/16)|2|5|9|13+|"
+  },
+  {
+    "line": 128,
+    "text": "|[[GALACTIC WARZONE]]|Akira Complex|1.6.1&br;(2023/01/16)|4|8|11+|14|"
+  },
+  {
+    "line": 133,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 134,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 135,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 136,
+    "text": "|[[Alfheim's Faith]]|影虎。|2.0.0&br;(2024/05/30)|4|7|11|12+|13|"
+  },
+  {
+    "line": 137,
+    "text": "|[[Arbitration]]|Jun Kuroda|2.0.0&br;(2024/05/30)|4|6|9|12+|-|"
+  },
+  {
+    "line": 138,
+    "text": "|[[Heaven's Cage]]|ETIA.|2.0.0&br;(2024/05/30)|3|7|11|13|13+|"
+  },
+  {
+    "line": 139,
+    "text": "|[[咲く星々]]|ユアミトス|2.0.0&br;(2024/05/30)|2|5|9|11+|13|"
+  },
+  {
+    "line": 140,
+    "text": "|[[シークレット・プラネット]]|みーに feat. みちとせ|2.0.0&br;(2024/05/30)|2|5|9|12|-|"
+  },
+  {
+    "line": 141,
+    "text": "|[[epitaxy]]|Camellia|2.0.0&br;(2024/05/30)|4|7|11|13+|-|"
+  },
+  {
+    "line": 142,
+    "text": "|[[Triad of Dryad]]|MYUKKE.|2.0.0&br;(2024/05/30)|4|8|11|14|-|"
+  },
+  {
+    "line": 143,
+    "text": "|[[翠杜]]|隣の庭は青い(庭師+Aoi)|2.0.0&br;(2024/05/30)|5|10+|12+|14|-|"
+  },
+  {
+    "line": 149,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 150,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 151,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 152,
+    "text": "|[[Snapdragon]]|NeLiME|1.8.0&br;(2023/04/07)|2|5|8|11+|"
+  },
+  {
+    "line": 153,
+    "text": "|[[9876734123]]|Silentroom|1.8.0&br;(2023/04/07)|3|7|11|13|"
+  },
+  {
+    "line": 154,
+    "text": "|[[Brave My Soul]]|uma feat. ましろ|1.8.0&br;(2023/04/07)|3|6|8|12+|"
+  },
+  {
+    "line": 155,
+    "text": "|[[Awaking Beat -From the next generation-]]|nmk feat.橘花音|1.8.0&br;(2023/04/07)|2|6|10|13+|"
+  },
+  {
+    "line": 156,
+    "text": "|[[Cosmic Starter]]|TAG feat. HyuN|1.8.0&br;(2023/04/07)|2|6|8|12|"
+  },
+  {
+    "line": 157,
+    "text": "|[[On And On!!]]|ETIA. feat. Jenga|1.8.0&br;(2023/04/07)|3|7|10|13|"
+  },
+  {
+    "line": 162,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 163,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 164,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 165,
+    "text": "|[[星降る夜と一輪の花]]|seatrus|1.11.0&br;(2023/08/30)|2|5|9|12|"
+  },
+  {
+    "line": 166,
+    "text": "|[[Eternal calm]]|長沼浩太(パパ頑張りました)|1.11.0&br;(2023/08/30)|1|5|7|11|"
+  },
+  {
+    "line": 167,
+    "text": "|[[MAGENTA POTION]]|EmoCosine|1.11.0&br;(2023/08/30)|3|5|10|13|"
+  },
+  {
+    "line": 168,
+    "text": "|[[Sense]]|BilliumMoto × Silentroom|1.11.0&br;(2023/08/30)|1|4|8|13|"
+  },
+  {
+    "line": 169,
+    "text": "|[[Looking for Stella]]|Junk|1.11.0&br;(2023/08/30)|2|4|8|12|"
+  },
+  {
+    "line": 170,
+    "text": "|[[Fate of Aria]]|HyuN feat.花たん|1.11.0&br;(2023/08/30)|3|7|9|13|"
+  },
+  {
+    "line": 175,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 176,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 177,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 178,
+    "text": "|[[Starlight Traveler]]|ああああ + 打打だいず|2.6.0&br;(2025/01/27)|3|7|11+|13+|-|"
+  },
+  {
+    "line": 179,
+    "text": "|[[Innocence Keeper]]|Cansol|2.6.0&br;(2025/01/27)|3|6|11|13+|-|"
+  },
+  {
+    "line": 180,
+    "text": "|[[enter -MAGICAL CODE-]]|Raphiiel|2.6.0&br;(2025/01/27)|2|5|8|13+|-|"
+  },
+  {
+    "line": 181,
+    "text": "|[[Toys' Nightlife Area]]|ShiBa|2.6.0&br;(2025/01/27)|3|6|9|12+|-|"
+  },
+  {
+    "line": 182,
+    "text": "|[[Uchronia]]|7mai|2.6.0&br;(2025/01/27)|4|7|11|13|13+|"
+  },
+  {
+    "line": 183,
+    "text": "|[[Quadruplicity]]|LucaProject vs NeLiME|2.6.0&br;(2025/01/27)|5|7|12|14|-|"
+  },
+  {
+    "line": 184,
+    "text": "|[[悔_]]|EssBee|2.16.0&br;(2025/12/05)|4|8|11+|14|-|"
+  },
+  {
+    "line": 189,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 190,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 191,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 192,
+    "text": "|[[add+venturers!]]|otoshi.b|2.10.0&br;(2025/05/30)|3|6|9|12|-|"
+  },
+  {
+    "line": 193,
+    "text": "|[[Call My Number]]|Zexnum|2.10.0&br;(2025/05/30)|2|5|8|13|-|"
+  },
+  {
+    "line": 194,
+    "text": "|[[ALL☆NIGHTER！]]|Turbo ft. Moon Jelly|2.10.0&br;(2025/05/30)|3|6|9|12+|13+|"
+  },
+  {
+    "line": 195,
+    "text": "|[[NINJA-ish]]|U-ske feat. ななひら|2.10.0&br;(2025/05/30)|3|5|7|11|13|"
+  },
+  {
+    "line": 196,
+    "text": "|[[Starstream Sky Dash]]|Violet Delta|2.10.0&br;(2025/05/30)|3|5|9|13|-|"
+  },
+  {
+    "line": 197,
+    "text": "|[[way home]]|Mono.|2.10.0&br;(2025/05/30)|3|5|11+|13+|14|"
+  },
+  {
+    "line": 202,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 203,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 204,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 205,
+    "text": "|[[Summer Time Memory]]|kanemiko|2.13.0&br;(2025/08/25)|3|5|8|11+|13|"
+  },
+  {
+    "line": 206,
+    "text": "|[[&#32516;色症候]]|ariiol|2.13.0&br;(2025/08/25)|3|5|9|12|13|"
+  },
+  {
+    "line": 207,
+    "text": "|[[Windsurfer]]|ro&#601;r|2.13.0&br;(2025/08/25)|3|5|8|12+|13+|"
+  },
+  {
+    "line": 208,
+    "text": "|[[Rainy Day]]|ag feat. 倉先|2.13.0&br;(2025/08/25)|2|5|8|12|-|"
+  },
+  {
+    "line": 209,
+    "text": "|[[Beat Rise]]|Makou|2.13.0&br;(2025/08/25)|2|6|9|12+|-|"
+  },
+  {
+    "line": 210,
+    "text": "|[[めんどくさいモード]]|Ponchi♪|2.13.0&br;(2025/08/25)|4|8|11|13|14|"
+  },
+  {
+    "line": 215,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 216,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 217,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 218,
+    "text": "|[[Cosmic Voyage]]|ItsMeFisher|2.16.0&br;(2025/12/05)|2|5|9|13|-|"
+  },
+  {
+    "line": 219,
+    "text": "|[[Dispersion]]|Dxsbond|2.16.0&br;(2025/12/05)|3|6|12|13|-|"
+  },
+  {
+    "line": 220,
+    "text": "|[[ミルキーウェイを辿って]]|kuro|2.16.0&br;(2025/12/05)|4|7|9|12+|13|"
+  },
+  {
+    "line": 221,
+    "text": "|[[六天照來]]|Se-U-Ra|2.16.0&br;(2025/12/05)|3|7|9|12+|13+|"
+  },
+  {
+    "line": 222,
+    "text": "|[[INN3RFLAME]]|seatrus|2.16.0&br;(2025/12/05)|3|5|11|13+|-|"
+  },
+  {
+    "line": 223,
+    "text": "|[[ephemeralization]]|ぴれんどらー|2.16.0&br;(2025/12/05)|4|9|12|13+|14|"
+  },
+  {
+    "line": 228,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 229,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 230,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 231,
+    "text": "|[[-ish]]|natsume & alpha|2.20.0&br;(2026/03/19)|3|6|9|13|"
+  },
+  {
+    "line": 232,
+    "text": "|[[遊錘]]|Mylta feat. 菊植|2.20.0&br;(2026/03/19)|4|7|12|13+|"
+  },
+  {
+    "line": 233,
+    "text": "|[[明晰夢にて]]|DJ Raisei|2.20.0&br;(2026/03/19)|2|5|8|13|"
+  },
+  {
+    "line": 234,
+    "text": "|[[Forward Motion]]|Glacier|2.20.0&br;(2026/03/19)|3|6|10+|13|"
+  },
+  {
+    "line": 235,
+    "text": "|[[Weaver & Wanderer>Weaver ＆ Wanderer]]|黒魔(Chroma)|2.20.0&br;(2026/03/19)|3|6|11+|14|"
+  },
+  {
+    "line": 236,
+    "text": "|[[[C]ENti:mentAL>Centimental]]|SUJI feat. ITSU|2.20.0&br;(2026/03/19)|2|5|8|12+|"
+  },
+  {
+    "line": 241,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 242,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 243,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 244,
+    "text": "|[[OLDSCHOOL TENTACLES]]|Raimukun|2.23.0&br;(2026/05/30)|3|6|11+|13+|"
+  },
+  {
+    "line": 245,
+    "text": "|[[Within the Horizon]]|Jamphibious|2.23.0&br;(2026/05/30)|3|6|8|12|"
+  },
+  {
+    "line": 246,
+    "text": "|[[Silver Linings]]|Sada 2Futureanthem|2.23.0&br;(2026/05/30)|4|7|9|12|"
+  },
+  {
+    "line": 247,
+    "text": "|[[Heart’s Station]]|PSYQUO & Skye Senfort|2.23.0&br;(2026/05/30)|2|5|11|13|"
+  },
+  {
+    "line": 248,
+    "text": "|[[SEQ_UNLEASH: Knockout!>SEQ_UNLEASH Knockout!]]|Mizukira|2.23.0&br;(2026/05/30)|4|8|10|13+|"
+  },
+  {
+    "line": 249,
+    "text": "|[[Piper Hyper Caravan]]|Sampling Masters MEGA|2.23.0&br;(2026/05/30)|4|7|11|14|"
+  },
+  {
+    "line": 255,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 256,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 257,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 258,
+    "text": "|[[with U]]|t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)|1.4.0&br;(2022/10/19)|2|6|9|12+|"
+  },
+  {
+    "line": 259,
+    "text": "|[[Ouvert&#252;re]]|USAO & DJ Genki feat. ルーン(CV:河瀬茉希)|1.4.0&br;(2022/10/19)|4|7|11|13+|"
+  },
+  {
+    "line": 260,
+    "text": "|[[Silentphobia]]|t+pazolite VS 削除|1.4.0&br;(2022/10/19)|3|7|11|13+|"
+  },
+  {
+    "line": 261,
+    "text": "|[[DUAL BREAKER XX]]|Srav3R vs Getty|1.4.0&br;(2022/10/19)|3|7|11|13|"
+  },
+  {
+    "line": 262,
+    "text": "|[[Quon]]|DJ Noriken|1.4.0&br;(2022/10/19)|3|8|11|13+|"
+  },
+  {
+    "line": 263,
+    "text": "|[[Invisible Frenzy]]|Kobaryo|1.4.0&br;(2022/10/19)|3|8|11+|13+|"
+  },
+  {
+    "line": 268,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 269,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 270,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 271,
+    "text": "|[[REV&#920;CATE]]|kuro|1.10.0&br;(2023/07/05)|2|7|11|12|"
+  },
+  {
+    "line": 272,
+    "text": "|[[Don't Never Around]]|HAMA|1.10.0&br;(2023/07/05)|3|5|9|11+|"
+  },
+  {
+    "line": 273,
+    "text": "|[[&#274;vocator]]|Evin a'k|1.10.0&br;(2023/07/05)|2|5|8|13|"
+  },
+  {
+    "line": 274,
+    "text": "|[[Eschatology]]|Tatsh & Scarlette|1.10.0&br;(2023/07/05)|3|6|11|13+|"
+  },
+  {
+    "line": 275,
+    "text": "|[[My Heaven (Magical Mix) feat. kuripurin]]|Scarlette X Juggernaut.|1.10.0&br;(2023/07/05)|2|5|9|12+|"
+  },
+  {
+    "line": 276,
+    "text": "|[[Avataar ~Reincarnation of Kalpa~]]|Scarlette a.k.a. CrYmson|1.10.0&br;(2023/07/05)|3|7|9|13+|"
+  },
+  {
+    "line": 281,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 282,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 283,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 284,
+    "text": "|[[Break Over]]|K-forest|1.13.0&br;(2023/12/05)|3|5|9|11|"
+  },
+  {
+    "line": 285,
+    "text": "|[[Feast&#36828;&#19996;之宴]]|茶&#40483;拾&#36144;律|1.13.0&br;(2023/12/05)|3|5|8|13|"
+  },
+  {
+    "line": 286,
+    "text": "|[[Distorted Fate]]|Sakuzyo|1.13.0&br;(2023/12/05)|2|6|11|13+|"
+  },
+  {
+    "line": 287,
+    "text": "|[[Rrhar'il]]|Team Grimoire|1.13.0&br;(2023/12/05)|4|6|11+|13+|"
+  },
+  {
+    "line": 288,
+    "text": "|[[Igallta]]|Se-U-Ra|1.13.0&br;(2023/12/05)|3|6|11|14|"
+  },
+  {
+    "line": 293,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 294,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 295,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 296,
+    "text": "|[[You & DIE>You ＆ DIE]]|USAO|1.7.0&br;(2023/02/28)|3|4|10+|11+|"
+  },
+  {
+    "line": 297,
+    "text": "|[[Shooting☆Stars]]|DJ Genki|1.7.0&br;(2023/02/28)|3|6|11|13|"
+  },
+  {
+    "line": 298,
+    "text": "|[[HiGHER]]|REDALiCE|1.7.0&br;(2023/02/28)|3|6|10|12|"
+  },
+  {
+    "line": 299,
+    "text": "|[[Maholova]]|aran|1.7.0&br;(2023/02/28)|2|6|8|12|"
+  },
+  {
+    "line": 300,
+    "text": "|[[Recollection]]|Kobaryo|1.7.0&br;(2023/02/28)|3|7|11|13+|"
+  },
+  {
+    "line": 301,
+    "text": "|[[Lun&#224;tixxx Gear]]|Laur vs HyuN|1.7.0&br;(2023/02/28)|4|7|11|14|"
+  },
+  {
+    "line": 306,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 307,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 308,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 309,
+    "text": "|[[Strange Bar]]|Laur|1.15.0&br;(2024/03/07)|2|5|9|13|"
+  },
+  {
+    "line": 310,
+    "text": "|[[UN1TE feat.YUC'e]]|Massive New Krew|1.15.0&br;(2024/03/07)|2|6|8|12|"
+  },
+  {
+    "line": 311,
+    "text": "|[[Becouse of You]]|Srav3R & USAO|1.15.0&br;(2024/03/07)|3|6|9|12+|"
+  },
+  {
+    "line": 312,
+    "text": "|[[Luminosity (Don't you worry)]]|DJ Noriken|1.15.0&br;(2024/03/07)|3|6|9|12+|"
+  },
+  {
+    "line": 313,
+    "text": "|[[Dual Doom Deathmatch]]|Kobaryo vs HyuN|1.15.0&br;(2024/03/07)|4|7|11+|13+|"
+  },
+  {
+    "line": 314,
+    "text": "|[[Flashback Flicker]]|t+pazolite|1.15.0&br;(2024/03/07)|3|6|11|14|"
+  },
+  {
+    "line": 319,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 320,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 321,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 322,
+    "text": "|[[Song for Sprites]]|Sta|1.16.0&br;(2024/04/18)|3|6|8|11+|"
+  },
+  {
+    "line": 323,
+    "text": "|[[cyanine]]|jioyi|1.16.0&br;(2024/04/18)|3|5|9|13+|"
+  },
+  {
+    "line": 324,
+    "text": "|[[Androgynos]]|WAiKURO|1.16.0&br;(2024/04/18)|2|6|9|13|"
+  },
+  {
+    "line": 325,
+    "text": "|[[Lonely departure]]|Chroma|1.16.0&br;(2024/04/18)|2|5|12|13+|"
+  },
+  {
+    "line": 326,
+    "text": "|[[Stasis]]|Maozon|1.16.0&br;(2024/04/18)|2|6|10+|13+|"
+  },
+  {
+    "line": 327,
+    "text": "|[[Frey's Philosophy]]|Powerless|1.16.0&br;(2024/04/18)|3|6|12|14|"
+  },
+  {
+    "line": 335,
+    "text": "|CENTER:30|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 336,
+    "text": "|~解禁|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 337,
+    "text": "|~|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 338,
+    "text": "|-|[[今天不是明天]]|PIKASONIC feat.&#20848;音Reine|1.14.1&br;(2024/02/08)|3|6|8|10|"
+  },
+  {
+    "line": 339,
+    "text": "|&color(darkorange){''1''};|[[又一遍的歌]]|TSAR feat.永&#38607;塔菲|2.5.1&br;(2025/01/02)|2|4|6|11|"
+  },
+  {
+    "line": 340,
+    "text": "|&color(darkorange){''1''};|[[&#29233;上想象的&#20320;]]|KOTONOHOUSE feat.穆小&#27872;|1.14.1&br;(2024/02/08)|3|6|8|11+|"
+  },
+  {
+    "line": 341,
+    "text": "|&color(darkorange){''2''};|[[SONIC SURGE]]|TSAR feat. aran|2.1.0&br;(2024/07/18)|3|5|9|12+|"
+  },
+  {
+    "line": 342,
+    "text": "|&color(darkorange){''2''};|[[甜&#28073;之梦]]|YUC'e feat.早稲&#21501;|2.5.1&br;(2025/01/02)|2|5|8|12+|"
+  },
+  {
+    "line": 343,
+    "text": "|&color(darkorange){''3''};|[[&#24694;修女 - 永火熔&#38136;>悪修女 - 永火熔&#38136;]]|&#31163;子SYNTHETIC &br;feat.黒澤ノアNOIR|2.6.0&br;(2025/01/27)|2|5|8|12|"
+  },
+  {
+    "line": 344,
+    "text": "|&color(darkorange){''4''};|[[IGNITE]]|USAO & Massive New Krew|2.21.0&br;(2026/04/16)|2|6|9|13|"
+  },
+  {
+    "line": 350,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 351,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 352,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 353,
+    "text": "|[[Ego Eimi]]|BlackY feat. Risa Yuzuki|2.2.0&br;(2024/08/29)|2|6|10|12+|"
+  },
+  {
+    "line": 354,
+    "text": "|[[光速神授説 - Divine Light of Myriad -]]|yoho|2.2.0&br;(2024/08/29)|3|5|8|13|"
+  },
+  {
+    "line": 355,
+    "text": "|[[Antagonism]]|Yooh vs. siromaru|2.2.0&br;(2024/08/29)|2|4|8|12+|"
+  },
+  {
+    "line": 356,
+    "text": "|[[Abstruse Dilemma]]|Ashrount vs. 打打だいず|2.2.0&br;(2024/08/29)|3|7|12|14|"
+  },
+  {
+    "line": 357,
+    "text": "|[[Vulc&#257;nus]]|Team Grimoire vs Aoi|2.2.0&br;(2024/08/29)|4|8|12|14|"
+  },
+  {
+    "line": 362,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 363,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 364,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 365,
+    "text": "|[[静寂に憂う]]|Reku mochizuki feat. せやかて硝酸太郎|2.3.0&br;(2024/10/01)|2|5|8|11+|"
+  },
+  {
+    "line": 366,
+    "text": "|[[Veil of Summer]]|Maozon|2.3.0&br;(2024/10/01)|3|6|9|12|"
+  },
+  {
+    "line": 367,
+    "text": "|[[Inner Norm]]|Zris|2.3.0&br;(2024/10/01)|4|6|9|13|"
+  },
+  {
+    "line": 368,
+    "text": "|[[Echoes of the Forest]]|DJ Noriken|2.3.0&br;(2024/10/01)|3|6|9|13+|"
+  },
+  {
+    "line": 369,
+    "text": "|[[Kakuriyo]]|polysha|2.3.0&br;(2024/10/01)|2|7|11|13+|"
+  },
+  {
+    "line": 370,
+    "text": "|[[Cybernetic Vampire]]|void (Mournfinale)|2.3.0&br;(2024/10/01)|4|7|11+|14|"
+  },
+  {
+    "line": 375,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 376,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 377,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 378,
+    "text": "|[[Clock Paradox]]|WyvernP|2.6.0&br;(2025/01/27)|3|5|8|11+|"
+  },
+  {
+    "line": 379,
+    "text": "|[[LINK x LIN#S]]|Halv|2.6.0&br;(2025/01/27)|2|4|8|12+|"
+  },
+  {
+    "line": 380,
+    "text": "|[[BRAVE：ROAD]]|uma vs. モリモリあつし|2.6.0&br;(2025/01/27)|4|8|12+|13+|"
+  },
+  {
+    "line": 385,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 386,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 387,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 388,
+    "text": "|[[ほしぞらトラベル]]|奏音|2.9.0&br;(2025/04/24)|3|6|9|12+|-|"
+  },
+  {
+    "line": 389,
+    "text": "|[[^/7(Ll?[_(L+#<>+&l^(o)>Nyarlathotep]]|Hyphen|2.9.0&br;(2025/04/24)|3|6|9|13|-|"
+  },
+  {
+    "line": 390,
+    "text": "|[[Rain]]|くるぶっこちゃん|2.9.0&br;(2025/04/24)|2|6|9|13|-|"
+  },
+  {
+    "line": 391,
+    "text": "|[[The Endless for Traveler]]|Se-U-Ra|2.9.0&br;(2025/04/24)|5|7|11|13+|13+|"
+  },
+  {
+    "line": 392,
+    "text": "|[[Emulisy]]|Hidra-Xjeil|2.9.0&br;(2025/04/24)|3|7|11+|14|-|"
+  },
+  {
+    "line": 397,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 398,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 399,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 400,
+    "text": "|[[雨に祈りを]]|onoken&br;feat. 木下珠子|2.11.0&br;(2025/06/23)|2|5|8|11+|"
+  },
+  {
+    "line": 401,
+    "text": "|[[Blue ixia]]|effe|2.11.0&br;(2025/06/23)|2|5|8|12+|"
+  },
+  {
+    "line": 402,
+    "text": "|[[Kokoro Odoro]]|Tomggg&br;(feat. m/lue. )|2.11.0&br;(2025/06/23)|3|6|9|13|"
+  },
+  {
+    "line": 403,
+    "text": "|[[Indelible Yore]]|Taishi|2.11.0&br;(2025/06/23)|3|7|11|13+|"
+  },
+  {
+    "line": 404,
+    "text": "|[[Antikythera]]|technoplanet|2.11.0&br;(2025/06/23)|4|8|12|14|"
+  },
+  {
+    "line": 409,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 410,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 411,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 412,
+    "text": "|[[Cthugha]]|USAO|2.12.0&br;(2025/07/17)|2|6|10+|12+|"
+  },
+  {
+    "line": 413,
+    "text": "|[[つよつよナースブロウちゃん！]]|コバヤシユウヤ(IOSYS)|2.12.0&br;(2025/07/17)|3|6|9|12+|"
+  },
+  {
+    "line": 414,
+    "text": "|[[天&#28789;&#28789;地&#28789;&#28789;]]|iKz feat.小可学妹|2.12.0&br;(2025/07/17)|2|7|9|13|"
+  },
+  {
+    "line": 415,
+    "text": "|[[Heartache]]|technoplanet&br;feat. Risa Yuzuki|2.12.0&br;(2025/07/17)|3|7|11|13+|"
+  },
+  {
+    "line": 416,
+    "text": "|[[ЯUBY:LINTe>ЯUBYLINTe]]|orangentle|2.12.0&br;(2025/07/17)|4|8|12|14|"
+  },
+  {
+    "line": 421,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 422,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 423,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 424,
+    "text": "|[[Crossroads of the Brave]]|Miyolophone vs Iris ft. Grace|2.12.1&br;(2025/08/07)|3|6|9|13|"
+  },
+  {
+    "line": 425,
+    "text": "|[[True]]|Synthion ft. STΔRLIVHT&#9824;&#9829;|2.12.1&br;(2025/08/07)|2|4|9|12+|"
+  },
+  {
+    "line": 426,
+    "text": "|[[May]]|ida|2.12.1&br;(2025/08/07)|2|6|11+|13+|"
+  },
+  {
+    "line": 431,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 432,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 433,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 434,
+    "text": "|[[ENERGY SYNERGY MATRIX]]|Tanchiky|2.12.1&br;(2025/08/07)|3|5|8|13|"
+  },
+  {
+    "line": 435,
+    "text": "|[[ULTRA SYNERGY MATRIX]]|Tanchiky|2.12.1&br;(2025/08/07)|4|8|11+|13|"
+  },
+  {
+    "line": 436,
+    "text": "|[[QUATTUORUX]]|打打だいず Vs. Tanchiky Vs. からめる|2.12.1&br;(2025/08/07)|2|6|11|13+|"
+  },
+  {
+    "line": 441,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 442,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 443,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 444,
+    "text": "|[[βinαrΨ]]|Ring|2.14.0&br;(2025/09/19)|4|5|9|13|14|"
+  },
+  {
+    "line": 445,
+    "text": "|[[Cristalisia]]|onoken|2.14.0&br;(2025/09/19)|2|5|9|11+|13|"
+  },
+  {
+    "line": 446,
+    "text": "|[[Hydra]]|James Landino X Akira Complex|2.14.0&br;(2025/09/19)|3|6|11+|13+|-|"
+  },
+  {
+    "line": 447,
+    "text": "|[[漂流]]|THE SxPLAY & KIVΛ|2.14.0&br;(2025/09/19)|2|6|9|13|-|"
+  },
+  {
+    "line": 448,
+    "text": "|[[Incyde]]|YbeLL|2.14.0&br;(2025/09/19)|3|7|12|14|-|"
+  },
+  {
+    "line": 453,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 454,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 455,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 456,
+    "text": "|[[Re：birth]]|ああああ|2.14.3&br;(2025/10/23)|3|6|9|13+|"
+  },
+  {
+    "line": 457,
+    "text": "|[[Red Bullet feat.はらもりよしな]]|TAKIO|2.14.3&br;(2025/10/23)|4|7|11|13+|"
+  },
+  {
+    "line": 458,
+    "text": "|[[Flutter Echo]]|Cansol|2.14.3&br;(2025/10/23)|3|6|9|13|"
+  },
+  {
+    "line": 463,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 464,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 465,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 466,
+    "text": "|[[名無しの宣教師]]|MIssionary|2.15.0&br;(2025/11/13)|2|6|8|12+|"
+  },
+  {
+    "line": 467,
+    "text": "|[[Go Escape]]|mmry|2.15.0&br;(2025/11/13)|2|4|8|13|"
+  },
+  {
+    "line": 468,
+    "text": "|[[Fire Of Heart]]|果茶|2.15.0&br;(2025/11/13)|3|6|12|13|"
+  },
+  {
+    "line": 469,
+    "text": "|[[Slide Into Light]]|ValeraP|2.15.0&br;(2025/11/13)|4|7|9|13+|"
+  },
+  {
+    "line": 470,
+    "text": "|[[STARGAZΞR]]|celtix|2.15.0&br;(2025/11/13)|4|8|12|14|"
+  },
+  {
+    "line": 475,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 476,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 477,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 478,
+    "text": "|[[Aria]]|Nanatsukaze|2.19.0&br;(2026/02/12)|3|6|9|13|"
+  },
+  {
+    "line": 479,
+    "text": "|[[紅煙]]|Pica vs. MutecoiN|2.19.0&br;(2026/02/12)|2|6|8|13|"
+  },
+  {
+    "line": 480,
+    "text": "|[[Far side of the moon]]|Kamii|2.19.0&br;(2026/02/12)|2|5|9|13|"
+  },
+  {
+    "line": 481,
+    "text": "|[[fusion velocity]]|MetaHumanBoi|2.19.0&br;(2026/02/12)|4|7|9|13|"
+  },
+  {
+    "line": 482,
+    "text": "|[[モノクロ・モノトリアムズ]]|N prod. WhiteSakata|2.19.0&br;(2026/02/12)|3|6|9|13+|"
+  },
+  {
+    "line": 483,
+    "text": "|[[灯紅酒緑オーバーナイト]]|天束 × Notrum × P0cket feat. はらもりよしな|2.19.0&br;(2026/02/12)|3|7|11+|14|"
+  },
+  {
+    "line": 488,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 489,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 490,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 491,
+    "text": "|[[YUBIKIRI-GENMAN -special edit-]]|Mili|2.22.0&br;(2026/05/14)|2|5|8|11+|-|"
+  },
+  {
+    "line": 492,
+    "text": "|[[A Turtle's Heart]]|Mili|2.22.0&br;(2026/05/14)|3|6|8|11+|-|"
+  },
+  {
+    "line": 493,
+    "text": "|[[world.execute(me);>world.execute(me)]]|Mili|2.22.0&br;(2026/05/14)|3|5|8|12+|13|"
+  },
+  {
+    "line": 494,
+    "text": "|[[Space Colony]]|Mili|2.22.0&br;(2026/05/14)|3|6|11|12+|13+|"
+  },
+  {
+    "line": 495,
+    "text": "|[[RTRT]]|Mili|2.22.0&br;(2026/05/14)|2|4|8|13|-|"
+  },
+  {
+    "line": 496,
+    "text": "|[[Imagined Flight]]|Mili|2.22.0&br;(2026/05/14)|3|7|12|14|-|"
+  },
+  {
+    "line": 501,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 502,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 503,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 504,
+    "text": "|[[Stratoliner]]|C-Show|2.24.0&br;(2026/06/25)|2|6|10+|12+|-|"
+  },
+  {
+    "line": 505,
+    "text": "|[[Chariot]]|USAO|2.24.0&br;(2026/06/25)|2|5|9|12+|13|"
+  },
+  {
+    "line": 506,
+    "text": "|[[フリーフォール]]|Zekk|2.24.0&br;(2026/06/25)|2|5|8|12+|-|"
+  },
+  {
+    "line": 507,
+    "text": "|[[ADAM]]|P*Light|2.24.0&br;(2026/06/25)|3|6|10+|13+|-|"
+  },
+  {
+    "line": 508,
+    "text": "|[[SUPER REACTOR]]|Kobaryo feat.HiTNEX-X|2.24.0&br;(2026/06/25)|3|6|11|13+|-|"
+  },
+  {
+    "line": 509,
+    "text": "|[[天使光輪]]|REDALiCE & cosMo＠暴走P|2.24.0&br;(2026/06/25)|3|7|12+|14|-|"
+  },
+  {
+    "line": 514,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 515,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 516,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 517,
+    "text": "|[[Beat Opera op.1]]|bermei.inazawa|2.26.0&br;(2026/08/21)|4|7|10+|12+|-|"
+  },
+  {
+    "line": 518,
+    "text": "|[[FFT]]|cybermiso|2.26.0&br;(2026/08/21)|2|5|10+|13|13|"
+  },
+  {
+    "line": 519,
+    "text": "|[[渦状銀河のシンフォニエッタ]]|山本真央樹|2.26.0&br;(2026/08/21)|3|7|9|12+|13+|"
+  },
+  {
+    "line": 520,
+    "text": "|[[Straight into the lights]]|Cosmograph|2.26.0&br;(2026/08/21)|4|7|11|13|14|"
+  },
+  {
+    "line": 526,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 527,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 528,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 529,
+    "text": "|[[My Story! feat.柚子花]]|KOTONOHOUSE|1.3.0&br;(2022/09/09)|3|7|10|12+|"
+  },
+  {
+    "line": 530,
+    "text": "|[[Sweet Dreams feat. 利香 (short ver.)>Sweet Dreams(short ver.)]]|Neko Hacker|1.3.0&br;(2022/09/09)|2|5|8|11|"
+  },
+  {
+    "line": 531,
+    "text": "|[[インドア系ならトラックメイカー]]|Yunomi & nicamoq|1.3.0&br;(2022/09/09)|2|7|10+|12|"
+  },
+  {
+    "line": 532,
+    "text": "|[[Autumn Breeze]]|MYOYA|1.3.0&br;(2022/09/09)|3|5|6|10+|"
+  },
+  {
+    "line": 533,
+    "text": "|[[Memories of the Past feat.メトロミュー]]|Mameyudoufu|1.3.0&br;(2022/09/09)|2|5|10|12|"
+  },
+  {
+    "line": 534,
+    "text": "|[[Cross†Genocide]]|HyuN feat. 蔡花零|1.3.0&br;(2022/09/09)|3|8|11|12+|"
+  },
+  {
+    "line": 540,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 541,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 542,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 543,
+    "text": "|[[ジャンキーナイトタウンオーケストラ]]|すりぃ|1.9.0&br;(2023/05/30)|2|6|9|13|"
+  },
+  {
+    "line": 544,
+    "text": "|[[ラグトレイン]]|稲葉曇|1.9.0&br;(2023/05/30)|2|5|8|11+|"
+  },
+  {
+    "line": 545,
+    "text": "|[[アイロニ]]|すこっぷ|1.9.0&br;(2023/05/30)|3|5|7|11|"
+  },
+  {
+    "line": 546,
+    "text": "|[[Machine Gun]]|KIRA|1.9.0&br;(2023/05/30)|3|5|8|12+|"
+  },
+  {
+    "line": 547,
+    "text": "|[[1/100のアイ>1／100のアイ]]|すりぃ|1.9.0&br;(2023/05/30)|3|5|8|11|"
+  },
+  {
+    "line": 548,
+    "text": "|[[Edge of bravery]]|みーに|1.9.0&br;(2023/05/30)|4|7|11|13|"
+  },
+  {
+    "line": 554,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 555,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 556,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 557,
+    "text": "|[[ねぇねぇねぇ。]]|PinocchioP|2.0.0&br;(2024/05/30)|3|6|9|12|"
+  },
+  {
+    "line": 558,
+    "text": "|[[神っぽいな]]|PinocchioP|2.0.0&br;(2024/05/30)|3|5|9|13|"
+  },
+  {
+    "line": 559,
+    "text": "|[[ノンブレス・オブリージュ]]|PinocchioP|2.0.0&br;(2024/05/30)|2|4|8|12+|"
+  },
+  {
+    "line": 565,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 566,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 567,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 568,
+    "text": "|[[アンドロイドガール]]|DECO*27|2.0.0&br;(2024/05/30)|2|5|9|13|"
+  },
+  {
+    "line": 569,
+    "text": "|[[ヴァンパイア]]|DECO*27|2.0.0&br;(2024/05/30)|2|6|8|11|"
+  },
+  {
+    "line": 570,
+    "text": "|[[乙女解剖]]|DECO*27|2.0.0&br;(2024/05/30)|2|6|9|12+|"
+  },
+  {
+    "line": 575,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 576,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 577,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 578,
+    "text": "|[[トリコロール・ステップ]]|あおぎり高校 & USAGI Production|2.1.0&br;(2024/07/18)|3|5|8|11|"
+  },
+  {
+    "line": 579,
+    "text": "|[[天使であれたら]]|白百合リリィ & USAGI Production|2.1.0&br;(2024/07/18)|2|5|8|12|"
+  },
+  {
+    "line": 580,
+    "text": "|[[devil&#191;la6ue]]|天々まる（prod. U-ske）|2.1.0&br;(2024/07/18)|2|5|8|12+|"
+  },
+  {
+    "line": 581,
+    "text": "|[[Chantして!!!!!]]|名取さな. &西郷・R・いろり（CV.名取さな）& USAGI Production|2.1.0&br;(2024/07/18)|3|6|9|12|"
+  },
+  {
+    "line": 582,
+    "text": "|[[魔法少女引退宣言（仮）feat.星宮とと]]|Kijibato|2.1.0&br;(2024/07/18)|3|6|8|12+|"
+  },
+  {
+    "line": 583,
+    "text": "|[[席替えやったー！]]|立秋 feat. ててんまる|2.1.0&br;(2024/07/18)|3|7|9|13+|"
+  },
+  {
+    "line": 590,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 591,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 592,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 593,
+    "text": "|BGCOLOR(beige):200|BGCOLOR(beige):200|BGCOLOR(beige):CENTER:80|BGCOLOR(beige):COLOR(#32cd32):CENTER:30|BGCOLOR(beige):COLOR(#0099ff):CENTER:30|BGCOLOR(beige):COLOR(#ff6600):CENTER:30|BGCOLOR(beige):COLOR(#9400d3):CENTER:30|BGCOLOR(beige):COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 594,
+    "text": "|[[WILDCARD]]|KIRA|2.10.0&br;(2025/05/30)|2|6|8|11|13|"
+  },
+  {
+    "line": 595,
+    "text": "|[[モニタリング]]|DECO*27|2.10.0&br;(2025/05/30)|3|7|11|13|-|"
+  },
+  {
+    "line": 596,
+    "text": "|[[六兆年と一夜物語]]|kemu|2.10.0&br;(2025/05/30)|3|6|10+|13|14|"
+  },
+  {
+    "line": 602,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 603,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 604,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 605,
+    "text": "|[[Brain Crusher]]|Yasuha|1.0.3&br;(2022/05/30)|1|4|11|13|"
+  },
+  {
+    "line": 606,
+    "text": "|[[Velocity]]|Soba|1.0.3&br;(2022/05/30)|2|3|8|10+|"
+  },
+  {
+    "line": 607,
+    "text": "|[[Invader]]|SLT|1.0.3&br;(2022/05/30)|2|5|9|12|"
+  },
+  {
+    "line": 608,
+    "text": "|[[Sterelogue]]|VeetaCrush|1.0.3&br;(2022/05/30)|2|4|10|11+|"
+  },
+  {
+    "line": 609,
+    "text": "|[[Commotion]]|SLT|1.0.3&br;(2022/05/30)|4|7|10|11|"
+  },
+  {
+    "line": 610,
+    "text": "|[[Bystander Knife]]|Ref.Isep|1.0.3&br;(2022/05/30)|3|4|9|11|"
+  },
+  {
+    "line": 615,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 616,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 617,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 618,
+    "text": "|[[Cross†Soul]]|HyuN feat. Syepias|1.0.3&br;(2022/05/30)|2|5|9|12|"
+  },
+  {
+    "line": 619,
+    "text": "|[[Estaminet]]|rmk|1.0.3&br;(2022/05/30)|2|5|10|11+|"
+  },
+  {
+    "line": 620,
+    "text": "|[[EF4123]]|RedMuffleR|1.0.3&br;(2022/05/30)|2|4|10|12+|"
+  },
+  {
+    "line": 621,
+    "text": "|[[Another Me(Rotaeno Edit)]]|Neutral Moon|1.0.3&br;(2022/05/30)|2|5|9|12|"
+  },
+  {
+    "line": 622,
+    "text": "|[[ニニ -邇々->二二 -邇々-]]|テヅカ x Qayo|1.0.3&br;(2022/05/30)|2|4|9|12+|"
+  },
+  {
+    "line": 623,
+    "text": "|[[Re：prosperit&#225;s]]|Nagiha|1.0.3&br;(2022/05/30)|3|5|10|12|"
+  },
+  {
+    "line": 628,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 629,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 630,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 631,
+    "text": "|[[c.s.q.n.]]|Aoi|1.1.0&br;(2022/07/04)|2|6|10|12+|"
+  },
+  {
+    "line": 632,
+    "text": "|[[Memory Of Sunrise]]|nora2r|1.1.0&br;(2022/07/04)|4|6|10+|12+|"
+  },
+  {
+    "line": 633,
+    "text": "|[[Light Into Scheelite]]|MYUKKE.|1.1.0&br;(2022/07/04)|4|7|9|13|"
+  },
+  {
+    "line": 634,
+    "text": "|[[Gecko]]|RedMuffleR|1.1.0&br;(2022/07/04)|2|6|8|12+|"
+  },
+  {
+    "line": 635,
+    "text": "|[[IN]]|Zris feat. Katie|1.1.0&br;(2022/07/04)|3|6|9|12|"
+  },
+  {
+    "line": 640,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 641,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 642,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 643,
+    "text": "|[[Life is PIANO]]|Junk|1.2.0&br;(2022/08/11)|2|5|11|12+|"
+  },
+  {
+    "line": 644,
+    "text": "|[[R.I.P.]]|eicateve|1.2.0&br;(2022/08/11)|3|7|9|13|"
+  },
+  {
+    "line": 645,
+    "text": "|[[Star Cape]]|打打だいず|1.2.0&br;(2022/08/11)|2|5|8|11+|"
+  },
+  {
+    "line": 646,
+    "text": "|[[Alice in a xxxxxxxx]]|Nagiha|1.2.0&br;(2022/08/11)|4|8|11|13|"
+  },
+  {
+    "line": 647,
+    "text": "|[[Disorder]]|HyuN|1.2.0&br;(2022/08/11)|3|6|11+|13|"
+  },
+  {
+    "line": 652,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 653,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 654,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 655,
+    "text": "|[[GRAND-i-FLORA]]|DRIVE.|1.5.0&br;(2022/11/25)|4|5|10|11+|"
+  },
+  {
+    "line": 656,
+    "text": "|[[Lost In Farside]]|Sephid|1.5.0&br;(2022/11/25)|3|6|10|13+|"
+  },
+  {
+    "line": 657,
+    "text": "|[[Meltdown]]|432pro & l'avenir proche|1.5.0&br;(2022/11/25)|3|7|10|12|"
+  },
+  {
+    "line": 658,
+    "text": "|[[Quaoar]]|かめりあ(Camellia)|1.5.0&br;(2022/11/25)|3|7|11|13|"
+  },
+  {
+    "line": 659,
+    "text": "|[[amethyst]]|かねこちはる|1.5.0&br;(2022/11/25)|2|5|10+|13+|"
+  },
+  {
+    "line": 664,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 665,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 666,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 667,
+    "text": "|[[幻影]]|Pica|1.6.1&br;(2023/01/16)|3|5|9|11|"
+  },
+  {
+    "line": 668,
+    "text": "|[[Dear my mamories.]]|kuro|1.6.1&br;(2023/01/16)|3|7|10|12+|"
+  },
+  {
+    "line": 669,
+    "text": "|[[life flashes before weeb eyes]]|BilliumMoto|1.6.1&br;(2023/01/16)|3|5|9|12+|"
+  },
+  {
+    "line": 670,
+    "text": "|[[Fly Again]]|Fujiyori|1.6.1&br;(2023/01/16)|2|7|9|12|"
+  },
+  {
+    "line": 671,
+    "text": "|[[Spinel]]|ぺのれり(penoreri)|1.6.1&br;(2023/01/16)|2|4|10|12+|"
+  },
+  {
+    "line": 672,
+    "text": "|[[Calorific Refract>Clalorific Refract]]|Tatsh|1.6.1&br;(2023/01/16)|3|6|12|13|"
+  },
+  {
+    "line": 673,
+    "text": "|[[εxceζ]]|Aoi|1.6.1&br;(2023/01/16)|4|8|11|13|"
+  },
+  {
+    "line": 678,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 679,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 680,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 681,
+    "text": "|[[NightTheater]]|わかどり|1.12.0&br;(2023/10/19)|3|5|7|12+|"
+  },
+  {
+    "line": 682,
+    "text": "|[[Giselle]]|Sobrem a.k.a. Widowmaker|1.12.0&br;(2023/10/19)|3|5|11|13|"
+  },
+  {
+    "line": 683,
+    "text": "|[[分かってるけど]]|HyuN feat. LyuU|1.12.0&br;(2023/10/19)|2|5|7|12+|"
+  },
+  {
+    "line": 684,
+    "text": "|[[スプーキィダンスパーティ]]|seatrus|1.12.0&br;(2023/10/19)|3|6|11|13+|"
+  },
+  {
+    "line": 685,
+    "text": "|[[Marble Joker]]|pan|1.12.0&br;(2023/10/19)|4|7|11|13|"
+  },
+  {
+    "line": 686,
+    "text": "|[[Phantago]]|Nagiha|1.12.0&br;(2023/10/19)|3|7|11|14|"
+  },
+  {
+    "line": 691,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 692,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 693,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 694,
+    "text": "|[[Wish Upon Vivid Stars]]|Reku Mochizuki|1.14.0&br;(2024/01/17)|2|4|8|11|"
+  },
+  {
+    "line": 695,
+    "text": "|[[Vesta]]|Saiph|1.14.0&br;(2024/01/17)|2|6|9|12+|"
+  },
+  {
+    "line": 696,
+    "text": "|[[conflict]]|siromaru＋cranky|1.14.0&br;(2024/01/17)|2|6|9|13|"
+  },
+  {
+    "line": 697,
+    "text": "|[[YInMn Blue]]|siqlo|1.14.0&br;(2024/01/17)|3|5|9|13|"
+  },
+  {
+    "line": 698,
+    "text": "|[[CO5M1C R4ILR0AD]]|kanone|1.14.0&br;(2024/01/17)|2|6|10|13|"
+  },
+  {
+    "line": 699,
+    "text": "|[[MVURBD]]|ETIA.|1.14.0&br;(2024/01/17)|5|7|11|14|"
+  },
+  {
+    "line": 704,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 705,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 706,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 707,
+    "text": "|[[HYPERSYNTHETIC]]|Akira Complex|2.4.0&br;(2024/10/31)|2|5|8|11|"
+  },
+  {
+    "line": 708,
+    "text": "|[[Blackhole]]|litmus*|2.4.0&br;(2024/10/31)|2|5|8|12+|"
+  },
+  {
+    "line": 709,
+    "text": "|[[Hold Your Fire (Radio Edit)]]|Yooh|2.4.0&br;(2024/10/31)|2|5|8|13|"
+  },
+  {
+    "line": 710,
+    "text": "|[[Infection]]|ARForest|2.4.0&br;(2024/10/31)|3|5|8|12+|"
+  },
+  {
+    "line": 711,
+    "text": "|[[Feeling Blue]]|RiraN|2.4.0&br;(2024/10/31)|4|6|9|13+|"
+  },
+  {
+    "line": 712,
+    "text": "|[[Deus Judicium]]|黒皇帝 vs MIssionary|2.4.0&br;(2024/10/31)|3|7|12+|14|"
+  },
+  {
+    "line": 717,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 718,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 719,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 720,
+    "text": "|[[Unshakable]]|RiraN|2.5.0&br;(2024/12/05)|2|5|9|12|"
+  },
+  {
+    "line": 721,
+    "text": "|[[EOS]]|ginkiha|2.5.0&br;(2024/12/05)|3|5|8|12+|"
+  },
+  {
+    "line": 722,
+    "text": "|[[Chronomia]]|Lime|2.5.0&br;(2024/12/05)|3|7|10|13|"
+  },
+  {
+    "line": 723,
+    "text": "|[[How To Make 音ゲ～曲！]]|F Rabbeat ft. マスタード|2.5.0&br;(2024/12/05)|4|7|11+|13|"
+  },
+  {
+    "line": 724,
+    "text": "|[[Destr0yer]]|Sakuzyo feat. Nikki Simmons|2.5.0&br;(2024/12/05)|2|4|8|13+|"
+  },
+  {
+    "line": 725,
+    "text": "|[[Re：End of a Dream]]|uma vs. モリモリあつし|2.5.0&br;(2024/12/05)|3|6|12+|14|"
+  },
+  {
+    "line": 730,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 731,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 732,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 733,
+    "text": "|[[A City in Serenity]]|Elliot Hsu|2.7.0&br;(2025/02/27)|2|5|9|12|"
+  },
+  {
+    "line": 734,
+    "text": "|[[Psalms ～魂の還るばしょ～]]|qfeileadh & レゾナンスもえこ|2.7.0&br;(2025/02/27)|1|3|8|11|"
+  },
+  {
+    "line": 735,
+    "text": "|[[Steadfast]]|Gardens|2.7.0&br;(2025/02/27)|1|4|9|13|"
+  },
+  {
+    "line": 736,
+    "text": "|[[Xenith]]|Tatsh|2.7.0&br;(2025/02/27)|3|7|12|13+|"
+  },
+  {
+    "line": 737,
+    "text": "|[[Gladius Tenebris]]|Ando|2.7.0&br;(2025/02/27)|3|6|8|13|"
+  },
+  {
+    "line": 738,
+    "text": "|[[Eclipse]]|INFX & MIIM|2.7.0&br;(2025/02/27)|2|7|12|14|"
+  },
+  {
+    "line": 739,
+    "text": "|[[vs.TREAMEЯ]]|AAAAoi(ああああ+Aoi)|2.7.0&br;(2025/02/27)|4|7|11|13+|"
+  },
+  {
+    "line": 744,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 745,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 746,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 747,
+    "text": "|[[Aleph-0]]|LeaF|2.8.0&br;(2025/03/27)|3|6|11+|12+|0|"
+  },
+  {
+    "line": 748,
+    "text": "|[[Brain Power]]|NOMA|2.8.0&br;(2025/03/27)|3|8|11|13|-|"
+  },
+  {
+    "line": 749,
+    "text": "|[[夢厭 con eleganza]]|大前司|2.8.0&br;(2025/03/27)|3|6|9|13|-|"
+  },
+  {
+    "line": 750,
+    "text": "|[[Stage 5]]|LV.4|2.8.0&br;(2025/03/27)|2|5|8|13|4|"
+  },
+  {
+    "line": 751,
+    "text": "|[[竹]]|立秋 feat.ちょこ|2.8.0&br;(2025/03/27)|2|8|11|13+|-|"
+  },
+  {
+    "line": 752,
+    "text": "|[[Dextroy]]|MonstDeath|2.8.0&br;(2025/03/27)|4|7|12|13|14|"
+  },
+  {
+    "line": 759,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 760,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 761,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 762,
+    "text": "|[[Hark! The wyntres wynd bloweth]]|SeyriN|2.17.0&br;(2025/12/25)|2|4|9|12+|"
+  },
+  {
+    "line": 763,
+    "text": "|[[Snowblind]]|Salty Salt|2.17.0&br;(2025/12/25)|2|7|11|13+|"
+  },
+  {
+    "line": 764,
+    "text": "|[[Snowbound Flight]]|Yvonne Teo|2.17.0&br;(2025/12/25)|2|4|8|12+|"
+  },
+  {
+    "line": 765,
+    "text": "|[[Eventide Rush]]|Inverted Silence|2.17.0&br;(2025/12/25)|3|5|9|13+|"
+  },
+  {
+    "line": 766,
+    "text": "|[[Dance of the Tiny Dreamer]]|Poh Hock feat. Sojubois|2.17.0&br;(2025/12/25)|3|6|11|14|"
+  },
+  {
+    "line": 771,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 772,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 773,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 774,
+    "text": "|[[《&#29233;立刻2000》]]|天秤Dav|2.18.0&br;(2026/01/22)|3|5|8|12|13|"
+  },
+  {
+    "line": 775,
+    "text": "|[[Water Recreation]]|COR!S|2.18.0&br;(2026/01/22)|3|6|9|12+|-|"
+  },
+  {
+    "line": 776,
+    "text": "|[[whence]]|qfeileadh feat. kei_iwata|2.18.0&br;(2026/01/22)|3|5|9|13|-|"
+  },
+  {
+    "line": 777,
+    "text": "|[[!@@k at m[ f@r[\\[r>look at me forever]]|ルゼ|2.18.0&br;(2026/01/22)|3|7|11+|13+|-|"
+  },
+  {
+    "line": 778,
+    "text": "|[[distant call]]|nuphory|2.18.0&br;(2026/01/22)|4|7|11|14|-|"
+  },
+  {
+    "line": 783,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 784,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 785,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 786,
+    "text": "|[[Time Keeper]]|Noizenecio ft. MC KCD|2.21.0&br;(2026/04/16)|3|6|9|12+|-|"
+  },
+  {
+    "line": 787,
+    "text": "|[[INFiNiTE ENERZY -Overdoze-]]|Reku Mochizuki|2.21.0&br;(2026/04/16)|3|6|11+|12+|13+|"
+  },
+  {
+    "line": 788,
+    "text": "|[[Eternal Ascent]]|Dxsbond|2.21.0&br;(2026/04/16)|3|6|11|13|-|"
+  },
+  {
+    "line": 789,
+    "text": "|[[HYP3RTRIBE]]|sky_delta vs KO3 vs Tanchiky|2.21.0&br;(2026/04/16)|4|6|11|13|-|"
+  },
+  {
+    "line": 790,
+    "text": "|[[The Amazing Race]]|Sephid|2.21.0&br;(2026/04/16)|4|6|10|13+|-|"
+  },
+  {
+    "line": 791,
+    "text": "|[[XLIX]]|Daily天利 feat. Sayayayako|2.21.0&br;(2026/04/16)|3|7|12+|14|-|"
+  },
+  {
+    "line": 795,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:60|c"
+  },
+  {
+    "line": 796,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 797,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 798,
+    "text": "|[[Serendipity]]|Makou|2.25.0&br;(2026/07/23)|2|5|8|12+|-|"
+  },
+  {
+    "line": 799,
+    "text": "|[[Lumina]]|Wisp X & Xomu|2.25.0&br;(2026/07/23)|2|5|8|12|12+|"
+  },
+  {
+    "line": 800,
+    "text": "|[[Elyqiria]]|Connexio|2.25.0&br;(2026/07/23)|3|7|10|13|-|"
+  },
+  {
+    "line": 801,
+    "text": "|[[至高天海 ペル・オケアノス]]|Ayatsugu_Otowa|2.25.0&br;(2026/07/23)|3|5|9|13|-|"
+  },
+  {
+    "line": 802,
+    "text": "|[[Dawn Nymphaea]]|花徒めと|2.25.0&br;(2026/07/23)|5|7|10+|13+|-|"
+  },
+  {
+    "line": 803,
+    "text": "|[[Stolen Lips]]|Osamu Kubota|2.25.0&br;(2026/07/23)|5|7|12+|14|-|"
+  },
+  {
+    "line": 808,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 809,
+    "text": "|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 810,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 811,
+    "text": "|[[M4XiMUM]]|Srav3R|2.27.0&br;(2026/09/17)|3|5|9|13|"
+  },
+  {
+    "line": 812,
+    "text": "|[[Forever Never Lasts]]|Fracus & Darwin feat. Mandy Edge|2.27.0&br;(2026/09/17)|2|6|9|11+|"
+  },
+  {
+    "line": 813,
+    "text": "|[[Dazzrite]]|Reku Mochizuki|2.27.0&br;(2026/09/17)|1|5|8|12+|"
+  },
+  {
+    "line": 814,
+    "text": "|[[Love Killer]]|Tatsunoshin|2.27.0&br;(2026/09/17)|4|6|9|12+|"
+  },
+  {
+    "line": 815,
+    "text": "|[[Azurite]]|oksuu|2.27.0&br;(2026/09/17)|4|7|11+|13+|"
+  },
+  {
+    "line": 816,
+    "text": "|[[Neural Rewind Protocol]]|Connexio|2.27.0&br;(2026/09/17)|3|6|9|14|"
+  },
+  {
+    "line": 823,
+    "text": "|CENTER:50|200|200|CENTER:70|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|c"
+  },
+  {
+    "line": 824,
+    "text": "|~航行&br;レベル|~Song|~Composer|~Version|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 825,
+    "text": "|~|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|h"
+  },
+  {
+    "line": 826,
+    "text": "|''1''|[[Full Circle]]|VITICZ|2.23.0&br;(2026/05/30)|2|5|9|12+|"
+  },
+  {
+    "line": 827,
+    "text": "|''2''|[[Extraordinary]]|technoplanet|2.23.0&br;(2026/05/30)|2|6|8|12|"
+  },
+  {
+    "line": 828,
+    "text": "|''3''|[[Switch Up!]]|Sahqmo|2.24.0&br;(2026/06/25)|4|6|10+|13|"
+  },
+  {
+    "line": 829,
+    "text": "|''4''|[[Another One of Those Times]]|Poh Hock feat. Debo Ray|2.25.0&br;(2026/07/23)|3|5|9|12+|"
+  },
+  {
+    "line": 830,
+    "text": "|''5''|[[Frogs Who Fight for Freedom]]|Jamphibious|2.26.0&br;(2026/08/21)|4|6|8|12+|"
+  },
+  {
+    "line": 831,
+    "text": "|''6''|[[Fractured Skies]]|Flay! feat. xia & Yoominel|2.27.0&br;(2026/09/17)|3|6|11|14|"
+  },
+  {
+    "line": 838,
+    "text": "|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:50|c"
+  },
+  {
+    "line": 839,
+    "text": "|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 840,
+    "text": "|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 841,
+    "text": "|[[極彩色のユートピア]]|HyuN feat. kradness|1.0.3&br;(2022/05/30)|2|3|10|12|-|"
+  },
+  {
+    "line": 842,
+    "text": "|[[A Philosophical Wanderer]]|テヅカ x Yunosuke|1.0.3&br;(2022/06/06)|4|7|11|13|-|"
+  },
+  {
+    "line": 843,
+    "text": "|[[PUPA]]|モリモリあつし|1.0.6&br;(2022/06/13)|4|8|11+|13+|-|"
+  },
+  {
+    "line": 844,
+    "text": "|[[KING]] ((&color(red){2026年11月1日をもって販売を終了します。購入すると引き続きプレイすることができます。};))|Kanaria|1.0.7&br;(2022/06/20)|2|6|9|11|-|"
+  },
+  {
+    "line": 845,
+    "text": "|[[死んでしまった季節のかけら]]|HyuN feat. トコノコα|1.1.2&br;(2022/07/27)|2|3|8|12|-|"
+  },
+  {
+    "line": 846,
+    "text": "|[[Welcome, SSSpooky!!!]]|Tanchiky & 打打だいず|1.4.1&br;(2022/10/30)|4|7|11|13|-|"
+  },
+  {
+    "line": 847,
+    "text": "|[[Obsidian(Short Ver.)]]|UnD3ath|1.5.1&br;(2022/12/23)|2|5|7|11|-|"
+  },
+  {
+    "line": 848,
+    "text": "|[[MilK]]|モリモリあつし|1.8.2&br;(2023/05/03)|2|6|9|12+|-|"
+  },
+  {
+    "line": 849,
+    "text": "|[[Mistilteinn]]|iTIC|1.13.2&br;(2023/12/08)|3|5|9|12+|-|"
+  },
+  {
+    "line": 850,
+    "text": "|[[Swirling Blue]]|Nagiha|1.13.2&br;(2023/12/08)|2|4|8|11|-|"
+  },
+  {
+    "line": 851,
+    "text": "|[[Angel dust]]|LV.4|1.13.3&br;(2023/12/24)|3|6|9|14|-|"
+  },
+  {
+    "line": 852,
+    "text": "|[[Daydream]]|RiraN|1.13.3&br;(2023/12/24)|2|5|11|13|-|"
+  },
+  {
+    "line": 853,
+    "text": "|[[INTERNET OVERDOSE]]|Aiobahn feat. KOTOKO|1.13.3&br;(2023/12/24)|2|4|8|12|-|"
+  },
+  {
+    "line": 854,
+    "text": "|[[Galaxy Striker]]|M2U|1.14.1&br;(2024/02/08)|3|6|9|12|-|"
+  },
+  {
+    "line": 855,
+    "text": "|[[Silver Town]]|Memme|1.14.1&br;(2024/02/08)|4|6|10|13|-|"
+  },
+  {
+    "line": 856,
+    "text": "|[[An&#246;kumene]]|Jun Kuroda|2.0.0&br;(2024/05/30)|3|6|8|12|-|"
+  },
+  {
+    "line": 857,
+    "text": "|[[Black Lair]]|Sakuzyo feat. void (violin: Katali)|2.0.0&br;(2024/05/30)|2|5|9|13|-|"
+  },
+  {
+    "line": 858,
+    "text": "|[[ベースラインやってる？笑]]|かめりあ feat. ななひら|2.0.2&br;(2024/06/27)|2|5|9|13|-|"
+  },
+  {
+    "line": 859,
+    "text": "|[[NULCTRL]]|Silentroom|2.1.1&br;(2024/08/08)|2|7|9|13|-|"
+  },
+  {
+    "line": 860,
+    "text": "|[[Fantasia Sonata God Dance]]|PYKAMIA vs. Sakuzyo|2.1.1&br;(2024/08/08)|3|6|9|12+|-|"
+  },
+  {
+    "line": 861,
+    "text": "|[[Broomstick adventure!]]|しーけー|2.10.0&br;(2025/05/30)|3|6|9|12+|-|"
+  },
+  {
+    "line": 862,
+    "text": "|[[BOUNCE THE TECH]]|Sound piercer vs. Iriss|2.10.0&br;(2025/05/30)|3|7|11|13|-|"
+  },
+  {
+    "line": 863,
+    "text": "|[[From Zero feat. 利香>From Zero]]|Neko Hacker|2.10.0&br;(2025/05/30)|3|7|11|12+|-|"
+  },
+  {
+    "line": 864,
+    "text": "|[[Simulated feat. 澤村光彩＆Ichika Nito]]|Neko Hacker|2.13.0&br;(2025/08/25)|2|6|9|13|-|"
+  },
+  {
+    "line": 865,
+    "text": "|[[粛聖!! ロリ神レクイエム☆]]|しぐれうい（9さい）|2.23.0&br;(2026/05/30)|3|6|9|11|13|"
+  },
+  {
+    "line": 866,
+    "text": "|[[Prismrose]]|qfeileadh feat.レゾナンスもえこ|2.23.0&br;(2026/05/30)|2|6|8|12+|-|"
+  },
+  {
+    "line": 867,
+    "text": "|[[REDRAVE]]|Tatsh & NAOKI feat. Kent Alexander|2.23.0&br;(2026/05/30)|3|6|9|13|-|"
+  },
+  {
+    "line": 876,
+    "text": "|CENTER:30|200|200|CENTER:80|COLOR(#32cd32):CENTER:30|COLOR(#0099ff):CENTER:30|COLOR(#ff6600):CENTER:30|COLOR(#9400d3):CENTER:30|COLOR(#b38cdb):CENTER:50|c"
+  },
+  {
+    "line": 877,
+    "text": "|~ランク|~Song|~Composer|~Version|>|>|>|>|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 878,
+    "text": "|~|~|~|~|~Ⅰ|~Ⅱ|~Ⅲ|~Ⅳ|~Ⅳ-α|h"
+  },
+  {
+    "line": 879,
+    "text": "|''5''|[[Fall in Me]]|memex|2.6.0&br;(2025/01/27)|2|5|8|12|-|"
+  },
+  {
+    "line": 880,
+    "text": "|''10''|[[Night Sky feat. Mashilo & ichika>Night Sky]]|Neko Hacker|2.6.0&br;(2025/01/27)|2|5|9|11+|-|"
+  },
+  {
+    "line": 881,
+    "text": "|''15''|[[Give (Me) Your Love]]|JAKAZiD|2.14.1&br;(2025/10/03)|3|7|10|13|-|"
+  },
+  {
+    "line": 882,
+    "text": "|''20''|[[enchanted love]]|linear ring|2.6.0&br;(2025/01/27)|3|6|10|11+|-|"
+  },
+  {
+    "line": 883,
+    "text": "|''25''|[[Name of oath]]|lvoid (Mournfinale) feat. コツキミヤ (Gt. えば)|2.16.0&br;(2025/12/05)|2|5|9|13+|-|"
+  },
+  {
+    "line": 884,
+    "text": "|''30''|[[&#196;ventyr]]|Grand Thaw / Rig&#235;l Theatre|2.14.1&br;(2025/10/03)|2|5|8|11|13|"
+  },
+  {
+    "line": 885,
+    "text": "|''40''|[[CATACLYSM]]|U-ske feat. ricono|2.20.0&br;(2026/03/19)|3|5|8|13+|-|"
+  },
+  {
+    "line": 886,
+    "text": "|''50''|[[VECTOЯ]]|WHITEFISTS|2.13.0&br;(2025/08/25)|3|6|9|13|-|"
+  },
+  {
+    "line": 890,
+    "text": "|200|200|CENTER:80|COLOR(#00ffff):CENTER:90|c"
+  },
+  {
+    "line": 891,
+    "text": "|~Song|~Composer|~Version|~&color(#000000){難易度};|h"
+  },
+  {
+    "line": 892,
+    "text": "|~|~|~|~???|h"
+  },
+  {
+    "line": 893,
+    "text": "|[[Rush E>2023年エイプリルフール]]|Sheet Music Boss|1.7.41&br;(2023/04/01)|BGCOLOR(#000000):E|"
+  },
+  {
+    "line": 894,
+    "text": "|[[&#3663;&#3648;&#3648;&#3588;&#3648;&#3663;&#3663;&#3663;&#3663;&#3663;&#3648;&#3588;&#3648;>OIIAIOOOOOIAI]] &color(#ff0000){&tooltip(！){&color(#ff0000){''この楽曲の通常譜面は現在ありません''};};};|Fish Head|1.15.441&br;(2024/04/01)|BGCOLOR(#000000):Meow|"
+  },
+  {
+    "line": 895,
+    "text": "|[[MVURBD>2025年エイプリルフール]]|How To Make Otoge Fast Food &color(#ff0000){&tooltip(！){''本来はETIA.氏がアーティスト''};};|2.8.41&br;(2025/04/01)|BGCOLOR(#000000):??|"
+  },
+  {
+    "line": 896,
+    "text": "|[[Dextroqpella>2026年エイプリルフール#dextroy]]|Sir Eye Respect for MonstDeath|2.20.41&br;(2026/04/01)|BGCOLOR(#32cd32):&color(#ffffff){?};|"
+  },
+  {
+    "line": 897,
+    "text": "|[[IEOpella [2 Player]>2026年エイプリルフール#overdose]]|Sir Eye Respect for Reku Mochizuki|2.20.41&br;(2026/04/01)|BGCOLOR(#32cd32):&color(#ffffff){?};|"
+  },
+  {
+    "line": 898,
+    "text": "|[[Suitopella>2026年エイプリルフール#suito]]|Sir Eye Respect for 隣の庭は青い|2.20.41&br;(2026/04/01)|BGCOLOR(#32cd32):&color(#ffffff){?};|"
+  }
+]

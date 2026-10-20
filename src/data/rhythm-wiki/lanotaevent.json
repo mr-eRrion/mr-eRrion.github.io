@@ -1,0 +1,502 @@
+[
+  {
+    "line": 5,
+    "text": "|250|CENTER:100|c"
+  },
+  {
+    "line": 6,
+    "text": "|《イベントマップ曲》|無し|"
+  },
+  {
+    "line": 7,
+    "text": "|《期間限定挑戦状》即時開放曲|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 8,
+    "text": "|《期間限定挑戦状》課題報酬曲|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 9,
+    "text": "|《期間限定挑戦状》パズル解放曲((パズルピース楽曲があるなら課題報酬曲と入れ替わる))|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 10,
+    "text": "|《イベントショップ》専用曲(無料)|BGCOLOR(#feb):|"
+  },
+  {
+    "line": 11,
+    "text": "|《イベントショップ》専用曲(有料)|BGCOLOR(#C3D5C7):|"
+  },
+  {
+    "line": 12,
+    "text": "|《イベント開始前》|?|"
+  },
+  {
+    "line": 17,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|c"
+  },
+  {
+    "line": 18,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 19,
+    "text": "|[[VEZZELiX]]|Reku Mochizuki|5|9|12|14+|2:09|190||"
+  },
+  {
+    "line": 20,
+    "text": "|[[Inferno City]]|Ponchi♪|6|10|13|&color(Purple){15+};|2:04|215||"
+  },
+  {
+    "line": 21,
+    "text": "|[[World tree Promise]]|D-D-Dice|3|8|12|14|2:20|231||"
+  },
+  {
+    "line": 22,
+    "text": "|[[Heliotrope]]|M-UE|5|9|13|&color(Purple){15+};|2:18|208||"
+  },
+  {
+    "line": 23,
+    "text": "|[[#1f1e33>1f1e33]]|Camellia(EDP)|6|9|12|&color(Purple){15+};|2:49|181||"
+  },
+  {
+    "line": 24,
+    "text": "|[[Malicious Mischance]]|s-don|4|8|13|14|2:21|155|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 25,
+    "text": "|[[Aegleseeker]]|Silentroom&br;vs Frums|6|10|14|&color(Purple){15+};|2:27|234|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 26,
+    "text": "|[[PUPA]]|Morimori Atushi|4|8|12|&color(Purple){15};|2:08|202||"
+  },
+  {
+    "line": 27,
+    "text": "|[[PUPA -Floor of Larva Remix-]]|Spiegel|5|9|13|&color(Purple){15};|2:51|202||"
+  },
+  {
+    "line": 28,
+    "text": "|[[GIFT]]|Notorious|4|8|12|14+|2:29|200||"
+  },
+  {
+    "line": 29,
+    "text": "|[[Fighter]]|HyuN|3|7|11|14|2:10|169|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 30,
+    "text": "|[[Lucida Nota]]|D-D-Dice|3|8|13|&color(Purple){15};|2:26|150|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 31,
+    "text": "|[[Brain Power(Cranky remix)]]|NOMA|6|11|14|&color(Purple){15};|2:08|165||"
+  },
+  {
+    "line": 32,
+    "text": "|[[conflict -NOMA//CONCEIVER//REMIX-]]|Cranky|3|7|13|14+|2:21|160|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 33,
+    "text": "|[[conflict]]|siromaru&br;＋Cranky|6|11|13+|&color(Purple){15+};|2:38|160|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 34,
+    "text": "|[[Hello Halloween]]|PYKAMIA & 3R2 |2|6|11|13+|2:19|130||"
+  },
+  {
+    "line": 35,
+    "text": "|[[Fauxmost]]|Lollipop & Sobrem|4|9|13|&color(Purple){15};|2:15|252|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 36,
+    "text": "|[[OCCHOCO-REST-LESS]]|MYUKKE.|5|8|13|14+|2:09|135||"
+  },
+  {
+    "line": 37,
+    "text": "|[[Drizzle Flavor]]|Systile|2|8|13|14+|2:31|142|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 38,
+    "text": "|[[ENERGY SYNERGY MATRIX]]|Tanchiky|4|8|13|&color(Purple){15};|2:03|160|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 39,
+    "text": "|[[Let’s go now]]|U-ske|3|9|12|14|1:43|188||"
+  },
+  {
+    "line": 40,
+    "text": "|[[Nini]]|tezuka|5|9|13|&color(Purple){15};|2:19|174|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 41,
+    "text": "|[[Fickle Mind]]|MALVA.|3|7|13|&color(Purple){15};|2:29|172||"
+  },
+  {
+    "line": 42,
+    "text": "|[[Giselle]]|Sobrem a.k.a. Widowmaker|3|7|11|14|2:21|152|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 43,
+    "text": "|[[Picasso]]|Sakuzyo|6|12|14+|''&color(Purple){16};''|2:36|200|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 44,
+    "text": "|[[Ginsekai ni Hitori]]|Goto feat. nayuta|2|6|11|14|1:57|190||"
+  },
+  {
+    "line": 45,
+    "text": "|[[Gekkaou Tengoku]]|Zuxin with Utsuro a.k.a. IanMirror|3|7|10|13|2:11|138|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 46,
+    "text": "|[[Sakura Fubuki]]|Street|6|9|13|&color(Purple){15};|2:01|175|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 47,
+    "text": "|[[Ukiyo-e Alley]]|Chaos City Niigata|5|9|12|14+|2:09|192||"
+  },
+  {
+    "line": 48,
+    "text": "|[[yozora]]|Kagetora.|3|8|12|14|2:23|142|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 49,
+    "text": "|[[Kaguya]]|BlackY|5|9|13|&color(Purple){15};|2:38|168|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 50,
+    "text": "|[[Volcanic Cacti]]|Spiegel vs Yukino|3|8|12|14+|2:16|180||"
+  },
+  {
+    "line": 51,
+    "text": "|[[Melty Summer]]|Umeboshi Chazuke + s-don|4|7|12|14|2:49|155|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 52,
+    "text": "|[[Vibey-Vibey]]|litmus|5|9|13|&color(Purple){15};|2:18|150|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 53,
+    "text": "|[[ringing]]|Luze|5|9|13+|&color(Purple){15};|2:45|185||"
+  },
+  {
+    "line": 54,
+    "text": "|[[VS RENDA]]|Luze|4|8|12|&color(Purple){15};|2:40|185||"
+  },
+  {
+    "line": 55,
+    "text": "|[[blacknEon(gamE Edit.)>blacknEon]]|seatrus|3|7|12|14+|2:19|170||"
+  },
+  {
+    "line": 56,
+    "text": "|[[Diamond Dust]]|seatrus feat.Dadaco|4|7|11|13|2:12|170|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 57,
+    "text": "|[[The Nightfall will be Conceal Everything>The Nightfall will be Conceal Everything Before Long.]]&br;[[Before Long.>The Nightfall will be Conceal Everything Before Long.]]|seatrus|6|11|&color(Maroon){15};|''&color(Purple){16};''|2:22|200|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 58,
+    "text": "|[[devil&#191;la6ue]]|Tenten Maru (prod. U-ske)|3|8|11|14|2:05|172||"
+  },
+  {
+    "line": 59,
+    "text": "|[[Hooray！Chaging seat！]]|Tenten Maru (prod. 立秋) |5|9|13+|14+|2:22|165|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 60,
+    "text": "|[[TenQ.]]|Tenten Maru (prod. Ponchi♪)|4|8|13|&color(Purple){15};|2:12|155|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 61,
+    "text": "|[[R.I.P.]]|eicateve&br;x hrchem&br;x TOHRU MiTSUHASHi|3|6|13|14+|2:30|192||"
+  },
+  {
+    "line": 62,
+    "text": "|[[Hope for the Flowers]]|Sound piercer feat.DAZBEE |4|7|12|14+|2:52|187|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 63,
+    "text": "|[[Ascension to Heaven]]|xi|6|10|13+|&color(Purple){15+};|2:49|200|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 64,
+    "text": "|[[Immutable (gamesize edit)]]|Juggernaut.|3|7|11|13+|3:26|80-190||"
+  },
+  {
+    "line": 65,
+    "text": "|[[Life is PIANO]]|Junk|3|7|12|14|2:10|133|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 66,
+    "text": "|[[Satelite:memories>Satelite.memories]]|Qutabire|5|8|12|&color(Purple){15};|2:21|202|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 67,
+    "text": "|[[Stray soul around]]|Mini|4|7|11|13+|2:13|150||"
+  },
+  {
+    "line": 68,
+    "text": "|[[Fate of Aria]]|HyuN &br;feat.HaNaTan|4|8|12|14|2:28|180|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 69,
+    "text": "|[[MVURBD]]|ETIA.|6|10|13+|&color(Purple){15+};|2:51|175|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 70,
+    "text": "|[[Alice's mythology]]|CK|4|8|13|&color(Purple){15+};|2:15|230||"
+  },
+  {
+    "line": 71,
+    "text": "|[[Akasagarbha -reincarnate-]]|wa. vs ETIA.|4|7|12|14+|1:54|192|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 72,
+    "text": "|[[Chronomia]]|Lime|6|10|13+|&color(Purple){15+};|2:26|227|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 73,
+    "text": "|[[Equality of Equites]]|MYUKKE.|4|8|12|14+|2:08|170||"
+  },
+  {
+    "line": 74,
+    "text": "|[[Veil of Summer]]|Maozon|4|9|12|14+|2:44|174|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 75,
+    "text": "|[[Viyella's Melancholy]]|Laur|6|9|13+|&color(Purple){15+};|2:30|190-220|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 76,
+    "text": "|[[Parfait Tornado]]|Halv|3|7|11|14|2:20|200||"
+  },
+  {
+    "line": 77,
+    "text": "|[[Shattered my World]]|Halv|4|8|12|14+|2:29|185|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 78,
+    "text": "|[[Calami7ous]]|Halv|6|11|14+|&color(Purple){15+};|2:43|199-201|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 79,
+    "text": "|[[Tiny Sign]]|momocaca|3|6|12|13|3:15|180||"
+  },
+  {
+    "line": 80,
+    "text": "|[[FUTURISM]]|Nor|4|7|12|14+|2:05|160|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 81,
+    "text": "|[[Walk Away]]|EmoCosine&br;vs RiraN|5|10|13|&color(Purple){15};|2:08|170|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 82,
+    "text": "|[[Kirakira Noel Story!!]]|Reku Mochizuki|3|7|11|14|2:16|180|BGCOLOR(#feb):|"
+  },
+  {
+    "line": 83,
+    "text": "|[[energy trixxx]]|KAH|5|9|12|&color(Purple){15};|2:26|160||"
+  },
+  {
+    "line": 84,
+    "text": "|[[NightTheater]]|*wakadori|3|8|12|14+|2:10|151|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 85,
+    "text": "|[[Ne Night & All Night>Ne Night ＆ All Night]]|MYUKKE.|6|11|14|&color(Purple){15+};|3:00|160|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 86,
+    "text": "|[[Song]]|Tsukasa Ohmae|2|5|10|13|2:51|83-166||"
+  },
+  {
+    "line": 87,
+    "text": "|[[Justification \"α\">正義論α]]|Otsukisamakokyokyoku|4|6|9|13+|2:58|144|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 88,
+    "text": "|[[CHAOS MAGNVM]]|Team Grimoire&br;(feat.Sennzai)|6|10|13+|&color(Purple){15+};|2:57|180|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 89,
+    "text": "|[[HAZARD]]|Limpid|2|6|11|13|2:07|128||"
+  },
+  {
+    "line": 90,
+    "text": "|[[Happily Ever After]]|Cansol|2|5|11|13+|2:37|105|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 91,
+    "text": "|[[Avataar ~Reincarnation of Kalpa~]]|Scarlette&br; a.k.a CrYmson|6|10|13+|&color(Purple){15+};|2:54|180|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 92,
+    "text": "|[[Bassline Yatteru? w]]|Camellia &br;feat. Nanahira|4|7|11|13|2:26|128|BGCOLOR(#C3D5C7):|"
+  },
+  {
+    "line": 93,
+    "text": "|[[Bamboo]]|RISH &br;feat. Choko|5|9|13+|&color(purple){15};|2:20|5-315|BGCOLOR(#C3D5C7):|"
+  },
+  {
+    "line": 94,
+    "text": "|[[Missing Planet]]|Chroma|5|9|13|&color(Purple){15};|3:38|185||"
+  },
+  {
+    "line": 95,
+    "text": "|[[Hoshi Ni Naru (Game Edit)]]|Islet feat. isui|3|7|11|13|2:58|135|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 96,
+    "text": "|[[Altale]]|Sakuzyo|5|10|13|&color(Purple){15+};|2:32|83-90|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 97,
+    "text": "|[[Rush-Hour]]|litmus*|5|8|11|13+|2:15|112||"
+  },
+  {
+    "line": 98,
+    "text": "|[[Head BONK ache]]|saaa &br;ft. MC iwata Bros.|4|8|12|14+|2:26|132-165|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 99,
+    "text": "|[[ULTRA SYNERGY MATRIX]]|Tanchiky|4|9|13|&color(purple){15};|2:03|160|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 100,
+    "text": "|[[AZA]]|Risa Yuzuki &br;(Prod. Shinra-Bansho)|5|10|13+|&color(Purple){15};|3:03|140-280||"
+  },
+  {
+    "line": 101,
+    "text": "|[[Unravelling]]|Aethoro & Moon Jelly|2|5|9|13|3:35|195|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 102,
+    "text": "|[[Villain Virus [feat. Camellia]>Villain Virus]]|Kobaryo|6|13|&color(Maroon){15};|&color(Purple){''16''};|3:33|520|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 103,
+    "text": "|[[Recollection]]|qfeileadh &br;feat. Risa Kodaka|3|7|11|13|2:40|84-204|BGCOLOR(#feb):|"
+  },
+  {
+    "line": 104,
+    "text": "|[[Thaleia]]|satella&br;feat. Aitsuki Nakuru|4|7|12|14|3:06|186||"
+  },
+  {
+    "line": 105,
+    "text": "|[[Alma Intacta]]|satella &br;feat.Sennzai|4|7|12|14|3:09|216|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 106,
+    "text": "|[[Sentheris]]|satella|6|9|13+|&color(purple){15+};|2:51|255|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 107,
+    "text": "|[[QUATTUORUX]]|D-D-Dice Vs. Tanchiky Vs. Karameru|4|7|13|&color(Purple){15};|2:32|220||"
+  },
+  {
+    "line": 108,
+    "text": "|[[PLAYERRRS!!!]]|D-D-Dice Vs. Tanchiky Vs. s-don|4|8|12|14|2:22|165|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 109,
+    "text": "|[[MYTH Re : LEASE>MYTH Re：LEASE]]|D-D-Dice Vs. Tanchiky &br;Vs. uma Vs. Morimori Atsushi|6|10|13+|&color(Purple){15+};|2:33|202|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 110,
+    "text": "|[[Before Sunrise]]|m1dy vs M-Project|4|8|12|14+|2:36|300||"
+  },
+  {
+    "line": 111,
+    "text": "|[[Recollection>Recollection_Kobaryo]]|Kobaryo|4|8|13|14+|3:05|266|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 112,
+    "text": "|[[Absolute end.]]|D-D-Dice|6|10|14|&color(Purple){15+};|3:03|200~300|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 113,
+    "text": "|[[YUMEKUI]]|yumeyume feat. amakoyomi|5|8|13|14+|2:27|185||"
+  },
+  {
+    "line": 114,
+    "text": "|[[Sound Chimera (Game Edition)]]|Laur|4|7|12|&color(Purple){15};|2:20|190|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 115,
+    "text": "|[[Walpurg&#305;snachT]]|Raimukun|6|11|14+|&color(Purple){15+};|2:33|210|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 116,
+    "text": "|[[WABI-CIRCUIT (Game Edit)]]|Tanchiky|4|7|12|14|2:47|185||"
+  },
+  {
+    "line": 117,
+    "text": "|[[First Step]]|Chroma|3|7|11|14|3:01|188|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 118,
+    "text": "|[[Punai Punai War]]|RISH feat. Choko|6|10|13+|&color(Purple){15+};|2:12|271|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 119,
+    "text": "|[[Rebirth]]|technoplanet feat. Haruki|4|8|12|14+|2:38|206||"
+  },
+  {
+    "line": 120,
+    "text": "|[[Seirensen]]|technoplanet feat. Haruki|4|7|10|13+|2:38|140|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 121,
+    "text": "|[[Juvenile 2]]|technoplanet|5|10|14|&color(Purple){15+};|2:30|202|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 122,
+    "text": "|[[GHOST VS. GHOUL MASHUP]]|Camellia|6|12|14+|&color(Purple){15+};|3:16|230||"
+  },
+  {
+    "line": 123,
+    "text": "|[[Embracing intelligences]]|Camellia|3|6|12|13+|3:01|106|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 124,
+    "text": "|[[Erasure: A World Without You>Erasure： A World Without You]]|Camellia|6|13|&color(Maroon){15};|&color(Purple){''16''};|2:47|152~228|BGCOLOR(#ddf):P|"
+  },
+  {
+    "line": 125,
+    "text": "|[[Fall in Me]]|memex|4|7|12|14|2:15|136||"
+  },
+  {
+    "line": 126,
+    "text": "|[[Dreadmourn (Gamesize Edit)]]|Juggernaut.|5|9|13|15|2:50|220|BGCOLOR(#fef):|"
+  },
+  {
+    "line": 127,
+    "text": "|[[Apotheosis (Lanota Edit)]]|Team Grimoire &br;& Laur|5|10|13|&color(Purple){15+};|3:14|185|BGCOLOR(#ddf):|"
+  },
+  {
+    "line": 128,
+    "text": "|[[Cryogenic]]|Camellia &br;ft. Petra Gurin|3|6|12|14+|2:20|145|BGCOLOR(#feb):|"
+  },
+  {
+    "line": 129,
+    "text": "|[[Reminiscence of asterism]]|Mini|W|A|U|M|T|185|BGCOLOR(White):?|"
+  },
+  {
+    "line": 130,
+    "text": "|[[Brand New Day]]|irucaice|W|A|U|M|T|185|BGCOLOR(White):?|"
+  },
+  {
+    "line": 131,
+    "text": "|[[Welcome to IDEA]]|Ponchi♪|W|A|U|M|T|185|BGCOLOR(White):?|"
+  },
+  {
+    "line": 141,
+    "text": "|LEFT:260|LEFT:250|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:60|CENTER:30|c"
+  },
+  {
+    "line": 142,
+    "text": "|[[Nyever gonna Meow you Nyup]]|Fireball Forte Studio|6|6|13|15|2:44|160|BGCOLOR(#f00):|"
+  }
+]

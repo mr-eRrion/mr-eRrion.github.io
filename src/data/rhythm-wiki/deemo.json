@@ -1,0 +1,2158 @@
+[
+  {
+    "line": 7,
+    "text": "|>|>|>|>|BGCOLOR(#111827):SIZE(16):CENTER:200|c"
+  },
+  {
+    "line": 8,
+    "text": "|[[A>#aaa]]|[[B>#bbb]]|[[C>#ccc]]|[[D>#ddd]]|[[E>#eee]]|"
+  },
+  {
+    "line": 9,
+    "text": "|[[F>#fff]]|[[G>#ggg]]|[[H>#hhh]]|[[I>#iii]]|[[J>#jjj]]|"
+  },
+  {
+    "line": 10,
+    "text": "|[[K>#kkk]]|[[L>#lll]]|[[M>#mmm]]|[[N>#nnn]]|[[O>#ooo]]|"
+  },
+  {
+    "line": 11,
+    "text": "|[[P>#ppp]]|[[Q>#qqq]]|[[R>#rrr]]|[[S>#sss]]|[[T>#ttt]]|"
+  },
+  {
+    "line": 12,
+    "text": "|[[U>#uuu]]|[[V>#vvv]]|[[W>#www]]|[[X>#xxx]]|[[Y>#yyy]]|"
+  },
+  {
+    "line": 13,
+    "text": "|[[Z>#zzz]]|>|>|[[日本語・漢字>#jpn]]|[[数字>#nam]]|"
+  },
+  {
+    "line": 16,
+    "text": "|BGCOLOR(#111827):300|180|>|150|c"
+  },
+  {
+    "line": 17,
+    "text": "|~曲名|~Artist|~Book|~Book&br;(Reborn)|h"
+  },
+  {
+    "line": 18,
+    "text": "|[[Abiogenesis]]|Juggernaut.|AD:PIANO collection 3||"
+  },
+  {
+    "line": 19,
+    "text": "|[[Accelerando]]|計畫通行|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 20,
+    "text": "|[[AciculignosA]]|Kaneko Chiharu|RAC collection #1||"
+  },
+  {
+    "line": 21,
+    "text": "|[[A Collection of Names]]| Hundotte |Hundotte Collection||"
+  },
+  {
+    "line": 22,
+    "text": "|[[Adaptation Window]]|Feryquitous|Feryquitous collection||"
+  },
+  {
+    "line": 23,
+    "text": "|[[Alexithymia]]|Team Grimoire| Team Grimoire collection ||"
+  },
+  {
+    "line": 24,
+    "text": "|[[Alice good night]]|Sleepy WiFi|Epilogue||"
+  },
+  {
+    "line": 25,
+    "text": "|[[Alice in Secret Circus]]|Kaname Shigeyoshi| RAC collection #2 ||"
+  },
+  {
+    "line": 26,
+    "text": "|[[ALiUS]]|Feryquitous |Feryquitous #2||"
+  },
+  {
+    "line": 27,
+    "text": "|[[A Little Servant]]|Alice Schach&br;and the magic orchestra|Shattered Memories 2 ||"
+  },
+  {
+    "line": 28,
+    "text": "|[[All Alone With You]]|EGOIST|CENTER:×未収録 |EGOIST Special Selection((PS4))|"
+  },
+  {
+    "line": 29,
+    "text": "|[[Almost Morning]]|Eshen|Eshen Chen collection||"
+  },
+  {
+    "line": 30,
+    "text": "|[[Altale]]|sakuzyo|Deemo's collection Vol.2((プラットフォームによって異なる))|Rayark Selection VOL.2 |"
+  },
+  {
+    "line": 31,
+    "text": "|[[Alternative Choice]]|Taishi| Taishi collection ||"
+  },
+  {
+    "line": 32,
+    "text": "|[[Am I delicious]]|Yamajet |Yamajet collection||"
+  },
+  {
+    "line": 33,
+    "text": "|[[Amagiri]]|Uemura Kanae|Adventure selection||"
+  },
+  {
+    "line": 34,
+    "text": "|[[Amber Wishes (Deemo edit)]]|Ice| Samsara collection ||"
+  },
+  {
+    "line": 35,
+    "text": "|[[Ancient Rose]]|SUU|RAC collection #6||"
+  },
+  {
+    "line": 36,
+    "text": "|[[A New Home]]|Video Game Orchestra |Timeline collection||"
+  },
+  {
+    "line": 37,
+    "text": "|[[AngelFalse]]|sakuzyo|Sakuzyo collection|Greatest Hits Vol.2|"
+  },
+  {
+    "line": 38,
+    "text": "|[[Angelic Sphere]]|3R2|Deemo's collection Vol.1B| Deemo's collection Vol.1 |"
+  },
+  {
+    "line": 39,
+    "text": "|[[Another Katharsis]]|VILA|Cranky collection||"
+  },
+  {
+    "line": 40,
+    "text": "|[[ANiMA]]|xi|Deemo's collection Vol.2 |Deemo's collection Vol.2|"
+  },
+  {
+    "line": 41,
+    "text": "|[[Anticipation]]|Shi Kuang Lee|RAC collection #2 ||"
+  },
+  {
+    "line": 42,
+    "text": "|[[Aquamarine]]|Cashew|Shattered Memories 2||"
+  },
+  {
+    "line": 43,
+    "text": "|[[Aquarelle: 010>Cigarette (DEEMO ver)]]|Ruibass|Shattered Memories 2||"
+  },
+  {
+    "line": 44,
+    "text": "|[[Aragami]]|xi|Samsara collection ||"
+  },
+  {
+    "line": 45,
+    "text": "|[[Are You Ready]]|Yamajet|Funkot collection ||"
+  },
+  {
+    "line": 46,
+    "text": "|[[Arekstrar Nornir]]|Yuma.mizo|Shattered Memories 2||"
+  },
+  {
+    "line": 47,
+    "text": "|[[Ark of Desire]]|Edmund Fu|Shattered Memories |Deemo's collection Vol.2|"
+  },
+  {
+    "line": 48,
+    "text": "|[[Artemis]]|Kobayashi Project|Kobayashi collection ||"
+  },
+  {
+    "line": 49,
+    "text": "|未来（キミ）に届け僕の思い&br;[[A song for you]]|Kobayashi Project|Kobayashi collection||"
+  },
+  {
+    "line": 50,
+    "text": "|[[Atlantis Love]]|V.K|V.K collection||"
+  },
+  {
+    "line": 51,
+    "text": "|[[Attic Dancer]]|Chroma|Autumn Selection||"
+  },
+  {
+    "line": 52,
+    "text": "|[[A Turtle's Heart]]|Mili|MILI collection Vol.2||"
+  },
+  {
+    "line": 53,
+    "text": "|[[Aufschwung]]|Schumann|Etude Collection||"
+  },
+  {
+    "line": 54,
+    "text": "|[[Aurarobe]]|onoken feat.Rin|Vocal collection|Vocal collection|"
+  },
+  {
+    "line": 55,
+    "text": "|彩&br;[[Aya]]|misoilepunch|CytusII Collection vol.2||"
+  },
+  {
+    "line": 58,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 59,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 60,
+    "text": "|[[Bad Elixir]]|xi|xi Collection||"
+  },
+  {
+    "line": 61,
+    "text": "|[[Ballade No.1]]|Chopin|Etude Collection||"
+  },
+  {
+    "line": 62,
+    "text": "|[[Bathtub Mermaid]]|Mili|MILI collection Vol.3||"
+  },
+  {
+    "line": 63,
+    "text": "|[[Berlin Station Chief]]|Sherwin|Sherwin Collection||"
+  },
+  {
+    "line": 64,
+    "text": "|[[Beyond that Notes]]|Feryquitous|Feryquitous collection #2||"
+  },
+  {
+    "line": 65,
+    "text": "|[[Beyond The Stratus]]| Ice |Deemo's collection Vol.1B| Deemo's collection Vol.1 |"
+  },
+  {
+    "line": 66,
+    "text": "|[[Beyond the Altostratus&br; (Deemo ver.)>Beyond the Altostratus (Deemo ver.)]]| Ice |N.M.S.T. collection #2 ||"
+  },
+  {
+    "line": 67,
+    "text": "|[[blooming spring]]|Go raibh maith &br;agat Orchestra|RAC collection #1||"
+  },
+  {
+    "line": 68,
+    "text": "|[[Blossoms for Life]]|Shi Kuang Lee &br;& Pico &br;& A-Tz | Cytus II collection Vol.1 ||"
+  },
+  {
+    "line": 69,
+    "text": "|[[Blue evenfall]]| Freeleaves |Deemo -Reborn- collection| Reborn |"
+  },
+  {
+    "line": 70,
+    "text": "|[[Blurred Distance]]| Chamber Chu | Sdorica collection ||"
+  },
+  {
+    "line": 71,
+    "text": "|[[Butterfly]]| Shi Kuang Lee & Pico | RAC collection #4 ||"
+  },
+  {
+    "line": 74,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 75,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 76,
+    "text": "|[[Caramel Custard]]|xi| DS:PIANO collection ||"
+  },
+  {
+    "line": 77,
+    "text": "|[[Carnation]]|himmel|RAC collection #6 ||"
+  },
+  {
+    "line": 78,
+    "text": "|[[Cerebrite]]|Mili|MILI collection Vol.2||"
+  },
+  {
+    "line": 79,
+    "text": "|[[Chance]]|Silaver|Rayark 12th collection |Vocal collection |"
+  },
+  {
+    "line": 80,
+    "text": "|[[Chaos and Abyss -2nd Movement-]]|Ayatsugu_Revolved |Ayatsugu_Otowa Collection||"
+  },
+  {
+    "line": 81,
+    "text": "|[[CHAOS MAGNVM]]|Team Grimoire &br;feat. Sennzai|Team Grimoire collection||"
+  },
+  {
+    "line": 82,
+    "text": "|[[Chat perdu]]|Feryquitous|Feryquitous collection #2||"
+  },
+  {
+    "line": 83,
+    "text": "|[[Cheezie Bountie]]|N.M.S.T.|N.M.S.T. collection #2||"
+  },
+  {
+    "line": 84,
+    "text": "|[[Chocolate Missile]]|Alice Schach&br;and&br;the Magic Orchestra|Cytus II collection Vol.1||"
+  },
+  {
+    "line": 85,
+    "text": "|[[Clematis]]|Taishi|Taishi collection||"
+  },
+  {
+    "line": 86,
+    "text": "|[[Clock of fifth]]|sakuzyo|Sakuzyo Collection #2||"
+  },
+  {
+    "line": 87,
+    "text": "|[[Cloud9]]|xi|xi Collection||"
+  },
+  {
+    "line": 88,
+    "text": "|[[Clover Snow]]|RICHIE EAO|Shattered Memories 2||"
+  },
+  {
+    "line": 89,
+    "text": "|[[Code：11>Code.11]]|KIVA|CENTER:×未収録||"
+  },
+  {
+    "line": 90,
+    "text": "|[[Conflict (VILA Remix)]]|siromaru&br;+ cranky|Cranky collection||"
+  },
+  {
+    "line": 91,
+    "text": "|[[Continuum (Deemo ver.)]]|3R2|N.M.S.T. collection #2||"
+  },
+  {
+    "line": 92,
+    "text": "|[[Cradle Waltz]]|M2U|M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 93,
+    "text": "|[[CREAM STEW (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection|Aioi collection|"
+  },
+  {
+    "line": 94,
+    "text": "|[[Creation of Fighters]]|Art of fighters&br;vs. Apo11o program&br;+DD“ナカタ”Metal |CENTER:×未収録 | Stone Monument Collection |"
+  },
+  {
+    "line": 95,
+    "text": "|[[Cristalisia]]|onoken|CytusII Collection vol.2||"
+  },
+  {
+    "line": 96,
+    "text": "|[[CydraL]]|Feryquitous|Feryquitous collection||"
+  },
+  {
+    "line": 99,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 100,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 101,
+    "text": "|[[Dance in the midnight]]|Manhattan Midnight|Shattered Memories 2||"
+  },
+  {
+    "line": 102,
+    "text": "|[[Daylight]]|Tatsh|Book of A.||"
+  },
+  {
+    "line": 103,
+    "text": "|[[Dawn of the ruins]]|Freeleaves|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 104,
+    "text": "|[[Dedication]]|void|AD:PIANO collection||"
+  },
+  {
+    "line": 105,
+    "text": "|[[Deemo Goodbye]]|Chamber Chu|Epilogue||"
+  },
+  {
+    "line": 106,
+    "text": "|[[Deerstalker]]|NICODE|M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 107,
+    "text": "|[[Delivery]]|Rabpit|Rabpit collection||"
+  },
+  {
+    "line": 108,
+    "text": "|[[Delphinium]]|SIHanatsuka|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 109,
+    "text": "|[[Delusion (Yume-Maboroshi)]]|NIKITA|RAC collection #6||"
+  },
+  {
+    "line": 110,
+    "text": "|[[Demonic Pray]]|Crawk&br;× Capchii|Capchii Collection||"
+  },
+  {
+    "line": 111,
+    "text": "|[[Departures　～あなたにおくるアイの歌～]]|EGOIST|CENTER:×未収録 ||"
+  },
+  {
+    "line": 112,
+    "text": "|[[Determination]]|Rayark Sound Team&br;\"Ice\"|Ice collection||"
+  },
+  {
+    "line": 113,
+    "text": "|[[DIARY]]|Xiaoming|RAC collection #4||"
+  },
+  {
+    "line": 114,
+    "text": "|[[DK]]|Mili|MILI collection Vol.3||"
+  },
+  {
+    "line": 115,
+    "text": "|[[Discovered Attack>Discovored Attack]]|BlackY|AD:PIANO collection 2||"
+  },
+  {
+    "line": 116,
+    "text": "|[[Don’t go - stay with me forever]]|Kobayashi Project&br;ft.Ayano|Kobayashi collection||"
+  },
+  {
+    "line": 117,
+    "text": "|[[DRG]]|ani|Cytus selection Vol.1|Cytus selection Vol.1|"
+  },
+  {
+    "line": 118,
+    "text": "|[[Dream]]|Rabpit|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 119,
+    "text": "|[[Dream of Dreams]]|Brian Crain|Brian Crain collection||"
+  },
+  {
+    "line": 120,
+    "text": "|[[Dusk to Dawn]]|xi|Funkot collection||"
+  },
+  {
+    "line": 121,
+    "text": "|[[doll eyes]]|yourmythos|Mirai's Selection||"
+  },
+  {
+    "line": 122,
+    "text": "|[[Dyslexia]]|Team Grimoire|Team Grimoire collection||"
+  },
+  {
+    "line": 125,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 126,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 127,
+    "text": "|[[Earlier Than Today]]|Eshen|Book of C.||"
+  },
+  {
+    "line": 128,
+    "text": "|[[Electron]]|Yuk-cheung Chun|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 129,
+    "text": "|[[Eltina]]|Feryquitous|DS:PIANO collection||"
+  },
+  {
+    "line": 130,
+    "text": "|[[Elysian Volitation]]|Hundotte|Rayark 12th collection||"
+  },
+  {
+    "line": 131,
+    "text": "|エリシオンの片隅&br;[[Elysion]]|Kobayashi Project|Kobayashi collection||"
+  },
+  {
+    "line": 132,
+    "text": "|[[Empedrado]]|Yuma.Mizo|Shattered Memories 2||"
+  },
+  {
+    "line": 133,
+    "text": "|[[En ga Chop]]|sakuzyo|Funkot collection||"
+  },
+  {
+    "line": 134,
+    "text": "|[[Encumbrance]]|Rabpit|Rabpit collection||"
+  },
+  {
+    "line": 135,
+    "text": "|[[Ensemble Curtain Fall]]|Ayatsugu_Otowa|Shattered Memories 2||"
+  },
+  {
+    "line": 136,
+    "text": "|[[Entrance]]|Ice|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 137,
+    "text": "|[[Ephemeral]]|Mili|MILI collection|MILI collection|"
+  },
+  {
+    "line": 138,
+    "text": "|[[Erua]]|Feryquitous|Feryquitous collection||"
+  },
+  {
+    "line": 139,
+    "text": "|[[eterno]]|Takashi OKAMOTO(12sound)|Deemo -Reborn- collection|Reborn Collection|"
+  },
+  {
+    "line": 140,
+    "text": "|[[Eternity]]|Cranky|Cranky collection||"
+  },
+  {
+    "line": 141,
+    "text": "|[[Etude]]|MIDInco|CENTER:×未収録|Stone Monument Collection|"
+  },
+  {
+    "line": 142,
+    "text": "|[[Ever After Story]]|Capchii|Capchii Collection||"
+  },
+  {
+    "line": 143,
+    "text": "|[[Everybody Koishiteru (Deemo Ver.)]]|aioi&br;Mochizuki Yoshie|Aioi collection vol.2||"
+  },
+  {
+    "line": 144,
+    "text": "|[[Evolution Era]]|V.K.|Deemo's collection Vol.1B|''未収録''|"
+  },
+  {
+    "line": 145,
+    "text": "|[[Expansion]]|Rabpit|Rabpit collection||"
+  },
+  {
+    "line": 146,
+    "text": "|[[Exodus]]| Iris |Deemo -Reborn- collection | Reborn |"
+  },
+  {
+    "line": 149,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 150,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 151,
+    "text": "|[[Fable]]|Mili|MILI collection|MILI collection|"
+  },
+  {
+    "line": 152,
+    "text": "|[[Faith, Hope and Love]]|Iris&br;ft.Victor Kong&#160;& LynH|CENTER:×未収録|Vocal collection|"
+  },
+  {
+    "line": 153,
+    "text": "|[[Falling Ears]]|Eshen|Eshen Chen collection|Eshen Chen collection|"
+  },
+  {
+    "line": 154,
+    "text": "|[[Falling Star]]|Triodust&br;ft.Joy Music|Spring selection||"
+  },
+  {
+    "line": 155,
+    "text": "|[[Far East Princess (Deemo Arr.)]]|nauts|DJMAX collection||"
+  },
+  {
+    "line": 156,
+    "text": "|[[Farewell]]|3R2|N.M.S.T. collection|N.M.S.T. collection|"
+  },
+  {
+    "line": 157,
+    "text": "|[[Farewell Waltz]]|Stone|Shattered Memories|Greatest Hits Vol.2|"
+  },
+  {
+    "line": 158,
+    "text": "|[[Feast of Spring]]|(M2U & K-Run)|CENTER:×未収録||"
+  },
+  {
+    "line": 159,
+    "text": "|[[FEHLT -DEEMO edition-]]|Alice Schach&br;and the magic orchestra|AD:PIANO collection 3||"
+  },
+  {
+    "line": 160,
+    "text": "|[[Fighting Sprit]]|Chamber Chu|Sdorica collection||"
+  },
+  {
+    "line": 161,
+    "text": "|[[Final Rush]]|ReZister|RAC collection #5||"
+  },
+  {
+    "line": 162,
+    "text": "|[[Finding Home]]|Brian Crain|Brian Crain collection||"
+  },
+  {
+    "line": 163,
+    "text": "|[[Fis-sure]]|Triodust|RAC collection #4||"
+  },
+  {
+    "line": 164,
+    "text": "|[[Flight of the Bumblebee]]|Nikolai Rimsky-Korsakov|Etude collection||"
+  },
+  {
+    "line": 165,
+    "text": "|[[Flowers Above Your Head]]|Eshen Chen|Eshen Chen collection||"
+  },
+  {
+    "line": 166,
+    "text": "|[[Fluffie Partie]]|N.M.S.T.|N.M.S.T. collection|N.M.S.T Collection|"
+  },
+  {
+    "line": 167,
+    "text": "|[[Fluquor]]|onoken&br;Vo.Rin|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 168,
+    "text": "|[[For Sis]]|Eshen|Book of C.||"
+  },
+  {
+    "line": 169,
+    "text": "|[[Forbidden Codex]]|Hoskey|Knight Iris collection|Knight Iris collection|"
+  },
+  {
+    "line": 170,
+    "text": "|[[Friction]]|HAMO&br;from Mili|Rayark selection Vol.2|Rayark selection Vol.2|"
+  },
+  {
+    "line": 171,
+    "text": "|[[Frozen Emotion]]|XEN|RAC collection #6||"
+  },
+  {
+    "line": 172,
+    "text": "|[[from RestedPoint]]|Tatsh|Book of A.||"
+  },
+  {
+    "line": 173,
+    "text": "|[[Funeral of Stars]]|void (mournfinale)|Autumn Selection||"
+  },
+  {
+    "line": 174,
+    "text": "|[[Funky Quest]]|3R2|Funkot collection||"
+  },
+  {
+    "line": 175,
+    "text": "|[[F&#252;r Alice>Fur Alice]]|onoken|CENTER:×未収録|Golden Sheets Collection|"
+  },
+  {
+    "line": 176,
+    "text": "|[[Fur War, Pur War]]|N.M.S.T.|N.M.S.T. collection #2||"
+  },
+  {
+    "line": 177,
+    "text": "|[[Futarimiti]]|Morrigan&br;Cranky|Shattered Memories||"
+  },
+  {
+    "line": 178,
+    "text": "|[[Future World]]|Killerblood|Cytus selection Vol.2||"
+  },
+  {
+    "line": 181,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 182,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 183,
+    "text": "|ガラハッド１号と科学的黒魔法&br;[[Ga1ahad and Scientific Witchery]]|Mili|MILI collection Vol.3||"
+  },
+  {
+    "line": 184,
+    "text": "|[[Ghost of a smile]]|EGOIST|CENTER:×未収録||"
+  },
+  {
+    "line": 185,
+    "text": "|[[Girl Meets World]]|HΔG|Mirai's Selection||"
+  },
+  {
+    "line": 186,
+    "text": "|[[Glaciology]]|Sherwin|Sherwin Collection||"
+  },
+  {
+    "line": 187,
+    "text": "|[[Glim]]|Quadxross|Collaboration Collection||"
+  },
+  {
+    "line": 188,
+    "text": "|[[glory day (Deemo Arr.)]]|BEXTER × Mycin.T|DJMAX collection||"
+  },
+  {
+    "line": 189,
+    "text": "|[[Go Adventure!]]|Rayark Sound Team|Collaboration Collection||"
+  },
+  {
+    "line": 190,
+    "text": "|[[Go or Stay]]|Zris|Shattered Memories 2||"
+  },
+  {
+    "line": 191,
+    "text": "|[[Graduation Song]]|Kitkit Lu|RAC collection #2||"
+  },
+  {
+    "line": 192,
+    "text": "|[[Grimoire of Blue]]|Team Grimoire|Team Grimoire collection||"
+  },
+  {
+    "line": 193,
+    "text": "|[[Guardian]]|The SxPlay|Shattered Memories||"
+  },
+  {
+    "line": 196,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 197,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 198,
+    "text": "|[[H]]|orangentle|Shattered Memories||"
+  },
+  {
+    "line": 199,
+    "text": "|箱庭デイブレイク&br;[[Hakoniwa Daybreak]]|Shurin&br;× Sound-box&br;|Emotional Addict collection||"
+  },
+  {
+    "line": 200,
+    "text": "|ハナノコトバ&br;[[Hana no Kotoba]]|Shina Kami&br;& Silaver|Shattered Memories 2||"
+  },
+  {
+    "line": 201,
+    "text": "|葉ノ舞&br;[[Hanomai]]|b|DS:PIANO collection||"
+  },
+  {
+    "line": 202,
+    "text": "|[[Heart of Witch (Deemo Arr.)]]|ReX|DJMAX collection||"
+  },
+  {
+    "line": 203,
+    "text": "|[[Hello (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection vol.2||"
+  },
+  {
+    "line": 204,
+    "text": "|[[Hello From Planet]]|Capchii|Capchii Collection||"
+  },
+  {
+    "line": 205,
+    "text": "|[[Hesitant Blade]]|Sdorica|Collaboration collection||"
+  },
+  {
+    "line": 206,
+    "text": "|[[Hey Boy]]|Jerry Barnes&br;Katreese Barnes&br;Rodger Green|Rayark selection Vol.1||"
+  },
+  {
+    "line": 207,
+    "text": "|[[Holy Knight]]|Eyemedia|Cytus selection Vol.2|Cytus Selection VOL.2|"
+  },
+  {
+    "line": 208,
+    "text": "|[[Hua Sui Yue]]|V.K|Rayark selection Vol.2||"
+  },
+  {
+    "line": 209,
+    "text": "|百花繚乱 &br;[[HYAKKA RYOURAN]]|Kakumi Nishigomi|Collaboration collection||"
+  },
+  {
+    "line": 210,
+    "text": "|[[Hypnos]]|xi|xi Collection||"
+  },
+  {
+    "line": 212,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 213,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 214,
+    "text": "|言えなくなる&br;[[I can not say (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection|Aioi collection|"
+  },
+  {
+    "line": 215,
+    "text": "|[[I lost my flp]]|jioyi&br;attacked by mirror|Funkot collection||"
+  },
+  {
+    "line": 216,
+    "text": "|[[If Any]]|Sherwin|Sherwin Collection||"
+  },
+  {
+    "line": 217,
+    "text": "|[[If I Can See You Again]]|Sing Sing Rabbit|Shattered Memories 2||"
+  },
+  {
+    "line": 218,
+    "text": "|[[I hate to tell you]]|Yuk-cheung Chun|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 219,
+    "text": "|幾年月&br;[[Ikutoshitsuki]]|Mili|MILI collection Vol.3||"
+  },
+  {
+    "line": 220,
+    "text": "|[[Image (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection|Aioi collection|"
+  },
+  {
+    "line": 221,
+    "text": "|[[Imagined Flight]]|Mili|MILI collection Vol.2||"
+  },
+  {
+    "line": 222,
+    "text": "|[[Imagining]]|Brian Crain|Brian Crain collection||"
+  },
+  {
+    "line": 223,
+    "text": "|[[imp]]|sakuzyo|Sakuzyo collection||"
+  },
+  {
+    "line": 224,
+    "text": "|[[Impromptu No.3]]|Schubert|Etude Collection||"
+  },
+  {
+    "line": 225,
+    "text": "|[[in a cradle]]|yourmythos|Shattered Memories 2||"
+  },
+  {
+    "line": 226,
+    "text": "|[[Infinite Puzzle]]|Y-SHIN|Shattered Memories|Greatest Hits Vol.2|"
+  },
+  {
+    "line": 227,
+    "text": "|[[Inperfects]]|Feryquitous|Feryquitous collection #2||"
+  },
+  {
+    "line": 228,
+    "text": "|[[Instinct]]|sakuzyo|CytusII Collection vol.2||"
+  },
+  {
+    "line": 229,
+    "text": "|[[Intermezzo in A Major]]|Brahms|Etude Collection||"
+  },
+  {
+    "line": 230,
+    "text": "|[[Intersteller Exploration]]|spacebot(floating)|CENTER:×未収録|Stone Monument Collectionn|"
+  },
+  {
+    "line": 231,
+    "text": "|[[Invention No.1]]|J.S.Bach|Etude Collection||"
+  },
+  {
+    "line": 232,
+    "text": "|[[Invite]]|Sun Chen|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 233,
+    "text": "|[[I race the dawn]]|Kevin Penkin|Rayark selection Vol.2|Rayark selection Vol.2|"
+  },
+  {
+    "line": 234,
+    "text": "|時が戻るのなら&br;[[I Want You Back]]|sakuzyo&br;ft.Sakuzyo|Sakuzyo Collection #2||"
+  },
+  {
+    "line": 236,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 237,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 238,
+    "text": "|[[Juicy Gossip]]|good-cool|Cytus II collection Vol.1||"
+  },
+  {
+    "line": 239,
+    "text": "|[[Jumpy star]]|Yuk-cheung Chun&br;Jeff Li&br;Justine Lu|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 242,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 243,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 244,
+    "text": "|懐中庭園を持つ少女&br;[[KAICHUTEIEN WO MOTSU SYOUJO]]|Harunaba|Taiko no Tatsujin&br;Collection|Taiko no Tatujin&br;Collaboration collection|"
+  },
+  {
+    "line": 245,
+    "text": "|[[Kaguya]]|BlackY|AD:PIANO collection 3||"
+  },
+  {
+    "line": 246,
+    "text": "|片恋シンドローム&br;[[Katakoi Syndrome]]|CLoTiVE&br;ft.Lielle|Rayark 12th collection||"
+  },
+  {
+    "line": 247,
+    "text": "|キレイゴト&br;[[kireigoto (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection|Aioi collection|"
+  },
+  {
+    "line": 248,
+    "text": "|君の残した世界で&br;[[Kimi ga Nokoshita Sekai de]]|The SxPlay|Shattered Memories||"
+  },
+  {
+    "line": 249,
+    "text": "|君の名前の風が吹く&br;[[Kimi no namae no kazegafuku]]|ZENTA|CENTER:削除||"
+  },
+  {
+    "line": 250,
+    "text": "|[[Knight Of Firmament]]|Eye XY|Knight Iris collection|Knight Iris collection|"
+  },
+  {
+    "line": 251,
+    "text": "|[[Knots Way]]|NICODE&br;ft.Romelon|Collaboration collection||"
+  },
+  {
+    "line": 252,
+    "text": "|最初の国/喉の淵&br;[[Koqurow]]|Feryquitous|Feryquitous collection||"
+  },
+  {
+    "line": 253,
+    "text": "|[[kouyou]]|Ice|N.M.S.T. collection|N.M.S.T. collection|"
+  },
+  {
+    "line": 254,
+    "text": "|九天世界の少年&br;[[Kyuten Sekai no Shonen]]|Yuni Minami|AD:PIANO collection 2||"
+  },
+  {
+    "line": 256,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 257,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 258,
+    "text": "|ラ・カンパネッラ&br;[[La Campenella]]|Liszt|Etude collection||"
+  },
+  {
+    "line": 259,
+    "text": "|[[La Promesse]]|Cranky|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 260,
+    "text": "|[[Land of Giants]]|Hikoshi Hashimoto|Collaboration collection||"
+  },
+  {
+    "line": 261,
+    "text": "|[[LandScape]]|Keikaku Tsuukou&br;ft.Paroto|Shattered Memories 2||"
+  },
+  {
+    "line": 262,
+    "text": "|[[Lassi (Deemo Ver.)]]|aioi&br;feat. KAMATA JUNKO|Aioi collection vol.2||"
+  },
+  {
+    "line": 263,
+    "text": "|[[Last Promise]]|HyuN & Ritoru&br;ft.Serentium|Shattered Memories 2||"
+  },
+  {
+    "line": 264,
+    "text": "|[[Lavuestia Mutanz]]|Narsil (from Ring)&br;feat. Himeko Nemuri&br;(Luna-Crescente)|Shattered Memories 2||"
+  },
+  {
+    "line": 265,
+    "text": "|[[Legacy]]|switchworks|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 266,
+    "text": "|[[Lets Meet Here Again]]|sakuzyo&br;feat. Sakuzyo|Sakuzyo Collection #2||"
+  },
+  {
+    "line": 267,
+    "text": "|Lv.0&br;[[Level Zero]]|I.O|RAC collection #3||"
+  },
+  {
+    "line": 268,
+    "text": "|[[Leviathan]]|NeLiME|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 269,
+    "text": "|[[Liar]]|Takashi OKAMOTO(12sound)|Deemo -Reborn- collection|Reborn Collection|"
+  },
+  {
+    "line": 270,
+    "text": "|[[Libera me]]|Cranky|Cytus selection Vol.1|Cytus selection Vol.1|"
+  },
+  {
+    "line": 271,
+    "text": "|[[Librum clausi]]|Team Grimoire|Team Grimoire collection||"
+  },
+  {
+    "line": 272,
+    "text": "|[[Lifill]]|Feryquitous&br;feat.Sennzai|RAC collection #1|Greatest Hits Vol.1|"
+  },
+  {
+    "line": 273,
+    "text": "|[[Light of Buenos Aires]]|Masanori Akita|Cytus II collection Vol.1||"
+  },
+  {
+    "line": 274,
+    "text": "|[[Light pollution]]|Yuk-cheung Chun&br;ft.Europa Huang|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 275,
+    "text": "|[[Like Asian Spirit]]|Valunava|RAC collection #5|Greatest Hits Vol.2|"
+  },
+  {
+    "line": 276,
+    "text": "|[[LILI]]|Rigel theatre|RAC collection #2|Greatest Hits Vol.1|"
+  },
+  {
+    "line": 277,
+    "text": "|[[Liquid Labyrinth]]|Jerico|Autumn Selection||"
+  },
+  {
+    "line": 278,
+    "text": "|[[Little Corgi's Dream]]|KillerBlood|Rayark selection Vol.3|Rayark selection Vol.3|"
+  },
+  {
+    "line": 279,
+    "text": "|[[Little Dissonance]]|Taishi|Taishi collection||"
+  },
+  {
+    "line": 280,
+    "text": "|[[Little Love]]|Michiru Oshima|Shattered Memories||"
+  },
+  {
+    "line": 281,
+    "text": "|[[Living In The One]]|Edmund Fu|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 282,
+    "text": "|[[Loadstar]]|M2U&br;Arr.M2U & Nicode|M2U × Nicode collection|M2U × Nicode collection|"
+  },
+  {
+    "line": 283,
+    "text": "|[[Locum )-( Janus]]|Hundotte|Hundotte Collection||"
+  },
+  {
+    "line": 284,
+    "text": "|[[Lonely Pianist]]|Michiru Oshima|Shattered Memories||"
+  },
+  {
+    "line": 285,
+    "text": "|[[Long Summer]]|Chroma|AD:PIANO collection||"
+  },
+  {
+    "line": 286,
+    "text": "|[[Longinus]]|xi|AD:PIANO collection 2||"
+  },
+  {
+    "line": 287,
+    "text": "|[[Lord Of Crimson Rose]]|Eye DT|Knight Rosabell collection|Knight Rosabell collection|"
+  },
+  {
+    "line": 288,
+    "text": "|[[Lose my mind]]|brz1128&br;vs. M-UE|Shattered Memories 2||"
+  },
+  {
+    "line": 289,
+    "text": "|[[Lost in the nowhere]]|Rave Cyanide&br;& Lunatic Sounds|Samsara collection||"
+  },
+  {
+    "line": 290,
+    "text": "|[[Lune]]|M2U&br;Arr.M2U & Nicode|M2U × Nicode collection|M2U × Nicode collection|"
+  },
+  {
+    "line": 291,
+    "text": "|[[L1: Loneliness>L1. Loneliness]]|Ice|L: The Lower collection||"
+  },
+  {
+    "line": 292,
+    "text": "|[[L2: Liberation>L2. Liberation]]|Ice|L: The Lower collection||"
+  },
+  {
+    "line": 293,
+    "text": "|[[L3: Leverage>L3. Leverage]]|Ice|L: The Lower collection||"
+  },
+  {
+    "line": 294,
+    "text": "|[[L4: Latent>L4. Latent]]|Ice|L: The Lower collection||"
+  },
+  {
+    "line": 295,
+    "text": "|[[L5: Lapse>L5. Lapse]]|Ice|L: The Lower collection||"
+  },
+  {
+    "line": 296,
+    "text": "|[[L6: Lunatic>L6. Lunatic]]|Ice|L: The Upper collection||"
+  },
+  {
+    "line": 297,
+    "text": "|[[L7: Legion>L7. Legion]]|Ice|L: The Upper collection||"
+  },
+  {
+    "line": 298,
+    "text": "|[[L8: Lost>L8. Lost]]|Ice|L: The Upper collection||"
+  },
+  {
+    "line": 299,
+    "text": "|[[L9: Lament>L9. Lament]]|Ice|L: The Upper collection||"
+  },
+  {
+    "line": 300,
+    "text": "|[[L10: Largo>L10. Largo]]|Ice|L: The Upper collection||"
+  },
+  {
+    "line": 302,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 303,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 304,
+    "text": "|[[MagiCatz]]|sakuzyo|Sakuzyo collection||"
+  },
+  {
+    "line": 305,
+    "text": "|[[Magnolia]]|M2U&br;VOCAL byGuriri|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 306,
+    "text": "|[[Marigold]]|M2U|Samsara collection||"
+  },
+  {
+    "line": 307,
+    "text": "|[[Matricaria -Pazs cfzj ze Epfbfzm-]]|NOMA &br;& Apo11o\"1.62\"program&br;ft.Yuki Shizaki|Shattered Memories 2||"
+  },
+  {
+    "line": 308,
+    "text": "|[[Me]]|Laur|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 309,
+    "text": "|[[Mellow]]|Rabpit|Rabpit collection||"
+  },
+  {
+    "line": 310,
+    "text": "|[[Melody Of Elves]]|V.K|V.K collection||"
+  },
+  {
+    "line": 311,
+    "text": "|[[Memory of Skyblue]]|Ujico*|RAC collection #3||"
+  },
+  {
+    "line": 312,
+    "text": "|[[Merry go round girl]]|Yamajet|Yamajet collection||"
+  },
+  {
+    "line": 313,
+    "text": "|[[Metal Hypnotized]]|EARTHBOUND PAPAS|Rayark selection Vol.1|Rayark selection Vol.1|"
+  },
+  {
+    "line": 314,
+    "text": "|[[Midnight Alleys]]|N.M.S.T.|N.M.S.T. collection #2||"
+  },
+  {
+    "line": 315,
+    "text": "|[[Milk]]|Mili|MILI collection Vol.3||"
+  },
+  {
+    "line": 316,
+    "text": "|[[Miracle of Daybreak]]|WhiteCapella|Shattered Memories||"
+  },
+  {
+    "line": 317,
+    "text": "|[[Mirage]]|Chamber Chu|Sdorica collection||"
+  },
+  {
+    "line": 318,
+    "text": "|[[Mirage of Mind]]|Hamu Vo.F9|AD:PIANO collection 2||"
+  },
+  {
+    "line": 319,
+    "text": "|[[Mirai]]|onoken&br;feat.b|CENTER:×未収録|Golden Sheets Collection|"
+  },
+  {
+    "line": 320,
+    "text": "|[[Mistilteinn]]|xi|xi Collection||"
+  },
+  {
+    "line": 321,
+    "text": "|[[Miocene]]|HAGANE|Autumn Selection||"
+  },
+  {
+    "line": 322,
+    "text": "|[[Money & Money>Money and Money]]|Video Game Orchestra|Timeline collection||"
+  },
+  {
+    "line": 323,
+    "text": "|[[Monochrome Anomaly]]|Feriquitous&br;feat. F9|AD:PIANO collection 2||"
+  },
+  {
+    "line": 324,
+    "text": "|[[Monokuro no kaze]]|Yamajet&br;feat.TEA&br;&&#160;Godspeed|Yamajet collection||"
+  },
+  {
+    "line": 325,
+    "text": "|[[Moon Halo]]|M2U|M2U × Nicode collection|M2U × Nicode collection|"
+  },
+  {
+    "line": 326,
+    "text": "|[[Moon without the stars]]|Jerry Barnes&br;Quiana|Rayark selection Vol.2|Rayark selection Vol.2|"
+  },
+  {
+    "line": 327,
+    "text": "|[[Moonlight]]|Beethoven|Etude Collection||"
+  },
+  {
+    "line": 328,
+    "text": "|[[Morning Drops]]|KIVA|Rayark selection Vol.3|Rayark selection Vol.3|"
+  },
+  {
+    "line": 329,
+    "text": "|[[Ms.Velmuda and the Crystal Ark]]|Ayatsugu_Revolved|Ayatsugu_Otowa Collection||"
+  },
+  {
+    "line": 330,
+    "text": "|[[Music]]|Mai Aoyagi|Knight Rosabell collection|Knight Rosabell collection|"
+  },
+  {
+    "line": 331,
+    "text": "|[[My Dear,Deemo]]|Iris&br;feat.LynH|CENTER:×未収録|Vocal collection|"
+  },
+  {
+    "line": 332,
+    "text": "|[[Myosotis]]|NICODE|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 334,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 335,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 336,
+    "text": "|[[Naughty Cats]]|Alice Lee&br;& Michael Wyckoff|Mirai's Selection||"
+  },
+  {
+    "line": 337,
+    "text": "|[[Need Your Luv]]|Tatsh|Book of A.||"
+  },
+  {
+    "line": 338,
+    "text": "|[[Never Ending Tales]]|Capchii|Emotional Addict collection||"
+  },
+  {
+    "line": 339,
+    "text": "|[[NEW WORLD (Deemo Ver.)]]|aioi&br;feat.KAMATA JUNKO|Aioi collection|Aioi collection|"
+  },
+  {
+    "line": 340,
+    "text": "|[[Nidhogg]]|Yuma.mizo&br;|CytusII Collection vol.2||"
+  },
+  {
+    "line": 341,
+    "text": "|[[Nier Fluquor]]|onoken|CENTER:×未収録|Golden Sheets Collection|"
+  },
+  {
+    "line": 342,
+    "text": "|[[Niflheimr]]|xi|Cytus selection Vol.2|Cytus selection Vol.2|"
+  },
+  {
+    "line": 343,
+    "text": "|[[Night Code Cinderella]]|Capchii&br;ft.Yuzuha|Capchii Collection||"
+  },
+  {
+    "line": 344,
+    "text": "|[[nightfall]]|ginkiha|Shattered Memories||"
+  },
+  {
+    "line": 345,
+    "text": "|[[Nightmare (Deemo Arr.)]]|M2U|DJMAX collection||"
+  },
+  {
+    "line": 346,
+    "text": "|[[Nine point eight]]|Mili|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 347,
+    "text": "|[[No Gravity]]|Lyo|Taiko no Tatsujin&br;Collection|Taiko no Tatujin&br;Collaboration collection|"
+  },
+  {
+    "line": 348,
+    "text": "|[[No Man’s Land]]|Sherwin|Sherwin Collection||"
+  },
+  {
+    "line": 349,
+    "text": "|[[Noblesse Oblige]]|Powerless|DS:PIANO collection||"
+  },
+  {
+    "line": 350,
+    "text": "|[[Nyanya no Uta]]|NICODE|M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 352,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 353,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 354,
+    "text": "|[[OBLIVION (Deemo Arr.)]]|ESTi|DJMAX collection||"
+  },
+  {
+    "line": 355,
+    "text": "|[[Oceanus]]|cosMo@bousou-P|AD:PIANO collection|Greatest Hits Vol.1|"
+  },
+  {
+    "line": 356,
+    "text": "|[[One Way Love]]|Tsukasa|Cytus II collection Vol.1||"
+  },
+  {
+    "line": 357,
+    "text": "|[[Orca]]|Yamajet|Yamajet collection||"
+  },
+  {
+    "line": 358,
+    "text": "|[[Out of Ctrl]]|Sound Souler|Adventure selection||"
+  },
+  {
+    "line": 359,
+    "text": "|[[Out of Natura]]|Sound Souler|Shattered Memories 2||"
+  },
+  {
+    "line": 360,
+    "text": "|[[Out of Sense]]|Sound Souler|Adventure selection||"
+  },
+  {
+    "line": 361,
+    "text": "|[[Out of the Box]]|PTB10|Shattered Memories 2||"
+  },
+  {
+    "line": 362,
+    "text": "|[[Overlong]]|Rabpit|Rabpit collection||"
+  },
+  {
+    "line": 364,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 365,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 366,
+    "text": "|[[Page 0]]|Chroma|Rayark 12th collection||"
+  },
+  {
+    "line": 367,
+    "text": "|[[Pandora's Box]]|Ice|Ice collection||"
+  },
+  {
+    "line": 368,
+    "text": "|紙飛機的冒險&br;[[Paper Plane's Adventure]]|V.K|V.K collection||"
+  },
+  {
+    "line": 369,
+    "text": "|[[Paraline]]|Yuta Murase|RAC collection #5||"
+  },
+  {
+    "line": 370,
+    "text": "|[[Parodia Sonatina Var.II]]|Ice|Samsara collection||"
+  },
+  {
+    "line": 371,
+    "text": "|[[Parousia]]|xi|Cytus selection Vol.2|Cytus Selection vol.2|"
+  },
+  {
+    "line": 372,
+    "text": "|[[Past the Stargazing Season]]|H△G&br;Remixed by Mili|MILI collection||"
+  },
+  {
+    "line": 373,
+    "text": "|[[Path and Period]]|Jun Kuroda|Epilogue||"
+  },
+  {
+    "line": 374,
+    "text": "|[[Pathetique]]|Beethoven|Etude Collection||"
+  },
+  {
+    "line": 375,
+    "text": "|[[Peach Lady]]|Yuk-cheung Chun&br;Trevor Lin|Rayark selection Vol.1|Rayark Selection Vol.1 |"
+  },
+  {
+    "line": 376,
+    "text": "|[[Penglai Movement]]|Video Game Orchestra|Timeline collection||"
+  },
+  {
+    "line": 377,
+    "text": "|[[Pharmacy of heart]]|white tail box&br;|Vocal collection|Vocal collection|"
+  },
+  {
+    "line": 378,
+    "text": "|[[Phubbing]]|Video Game Orchestra|Timeline collection||"
+  },
+  {
+    "line": 379,
+    "text": "|[[Piano Sonata No.3]]|Chopin|Etude collection||"
+  },
+  {
+    "line": 380,
+    "text": "|[[Pie War]]|Yuma.Mizo&br;vs Ai Ohsera&br;with YumaelServer|Rayark 12th collection||"
+  },
+  {
+    "line": 381,
+    "text": "|[[Pilot]]|Rabpit|Rayark selection Vol.1|Rayark Selection Vol.1|"
+  },
+  {
+    "line": 382,
+    "text": "|[[Place Your Bets]]|3R2|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 383,
+    "text": "|[[Planetes]]|EGOIST|CENTER:×未収録|EGOIST Special Selection|"
+  },
+  {
+    "line": 384,
+    "text": "|[[Platinum]]|Sta|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 385,
+    "text": "|[[Platonic Electro (Deemo Ver.)]]|aioi&br;feat.KAMATA JUNKO|Aioi collection vol.2||"
+  },
+  {
+    "line": 386,
+    "text": "|[[Poem of Rapture]]|sakuzyo|Sakuzyo collection||"
+  },
+  {
+    "line": 387,
+    "text": "|[[Post-script]]|The Hoshizora Project|Shattered Memories||"
+  },
+  {
+    "line": 388,
+    "text": "|[[Precipitation]]|Ice|Cytus selection Vol.1|Cytus Selection VOL.1|"
+  },
+  {
+    "line": 389,
+    "text": "|[[Predawn]]|Nicode & M2U|Knight Rosabell collection|Knight Rosabell collection|"
+  },
+  {
+    "line": 390,
+    "text": "|[[Prelude de l'adieu]]|onoken|CENTER:×未収録|Golden Sheets Collection|"
+  },
+  {
+    "line": 391,
+    "text": "|[[Protest]]|Video Game Orchestra|Timeline collection||"
+  },
+  {
+    "line": 392,
+    "text": "|[[Pulses]]|Sta|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 393,
+    "text": "|[[PUPA]]|Morimori Atsushi|RAC collection #3||"
+  },
+  {
+    "line": 394,
+    "text": "|純白&br;[[Pure White]]|V.K|V.K collection||"
+  },
+  {
+    "line": 395,
+    "text": "|[[Purification]]|Capchii&br;ft.Uzumaki|Capchii Collection||"
+  },
+  {
+    "line": 397,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 398,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 399,
+    "text": "|[[Queen on Ice]]|Ayatsugu_Otowa|Ayatsugu_Otowa Collection||"
+  },
+  {
+    "line": 400,
+    "text": "|[[Quimi (DEEMO Edit)]]|Yooh|AD:PIANO collection 3||"
+  },
+  {
+    "line": 402,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 403,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 404,
+    "text": "|[[Ragnarok]]|FIG|RAC collection #3||"
+  },
+  {
+    "line": 405,
+    "text": "|[[Rain of Flowers]]|VILA|Cranky collection||"
+  },
+  {
+    "line": 406,
+    "text": "|[[Rainbow Time Machine]]|sakuzyo|Sakuzyo Collection #2||"
+  },
+  {
+    "line": 407,
+    "text": "|[[Rainbow's End]]|Edmund Fu|Shattered Memories||"
+  },
+  {
+    "line": 408,
+    "text": "|[[Rainy Memory]]|Rabpit|Rayark selection Vol.1|Rayark Selection Vol.1|"
+  },
+  {
+    "line": 409,
+    "text": "|ランドール&br;[[Randall]]|Hikoshi Hashimoto|Collaboration collection||"
+  },
+  {
+    "line": 410,
+    "text": "|[[Ray Of Sunshine]]|Sherwin|Shattered Memories 2||"
+  },
+  {
+    "line": 411,
+    "text": "|[[Rayark 7th Main Theme]]|Rayark Sound Team&br;\"Ice & SIHanatsuka\"|Collaboration collection||"
+  },
+  {
+    "line": 412,
+    "text": "|[[RE:UNION -Duo Blade Against->RE.UNION -Duo Blade Against-]]|Ice&br;vs. Morimori Atsushi|Ice collection||"
+  },
+  {
+    "line": 413,
+    "text": "|音満ちる、月光の世界より。&br;[[Re: the Full moon World. >Re. the Full moon World.]]|Ayatsugu Otowa|RAC collection #1||"
+  },
+  {
+    "line": 414,
+    "text": "|[[Re:you ～彼の地を知りえたとして～ >Re.you]]|Apo11o program&br;& ゆゆうた|CENTER:×未収録|Vocal collection|"
+  },
+  {
+    "line": 415,
+    "text": "|[[Rebellion]]|Tatsh|Book of A.||"
+  },
+  {
+    "line": 416,
+    "text": "|[[Recollections]]|Yamajet|Cytus selection Vol.2|Cytus Selection VOL.2|"
+  },
+  {
+    "line": 417,
+    "text": "|[[Red Storm Sentiment]]|Tsukasa|Vocal collection|Vocal collection|"
+  },
+  {
+    "line": 418,
+    "text": "|[[Reflection (Mirror Night)]]|V.K|Deemo's collection Vol.1A|''未収録''|"
+  },
+  {
+    "line": 419,
+    "text": "|[[Reincarnation]]|Emocosine|Autumn Selection||"
+  },
+  {
+    "line": 420,
+    "text": "|[[Reminiscence]]|Brian Crain|Brian Crain collection||"
+  },
+  {
+    "line": 421,
+    "text": "|[[Reverence (Deemo ver)]]|vospi|Samsara collection||"
+  },
+  {
+    "line": 422,
+    "text": "|[[Reverse]]|V.K|CENTER:削除||"
+  },
+  {
+    "line": 423,
+    "text": "| 逆動・平行時空&br;[[Reverse - Parallel Universe]]|V.K|Deemo's collection Vol.1A|''未収録''|"
+  },
+  {
+    "line": 424,
+    "text": "|[[Revival]]|TQ|Shattered Memories|Greatest Hits Vol.1|"
+  },
+  {
+    "line": 425,
+    "text": "|[[Rhapsody in B minor]]|Brahms|Etude Collection||"
+  },
+  {
+    "line": 426,
+    "text": "|[[Rhapsody on a Theme of Aud Be'af]]|Hundotte|Hundotte Collection||"
+  },
+  {
+    "line": 427,
+    "text": "|声&br;[[Rhuzerv]]|Feryquitous&br;feat.Sennzai|Feryquitous collection||"
+  },
+  {
+    "line": 428,
+    "text": "|[[RIN]]|a_hisa|Taiko no Tatsujin Collection|Taiko no Tatujin&br;Collaboration collection|"
+  },
+  {
+    "line": 429,
+    "text": "|[[Rise Up]]|Tatsh|Book of A.||"
+  },
+  {
+    "line": 430,
+    "text": "|[[ripples]]|naoto|Shattered Memories 2||"
+  },
+  {
+    "line": 431,
+    "text": "| 97鍵盤のための輪舞曲&br;[[Rondo for 97Keys]]|sakuzyo|Sakuzyo collection||"
+  },
+  {
+    "line": 432,
+    "text": "|[[Rosetta]]|Mili|MILI collection|MILI Collection|"
+  },
+  {
+    "line": 433,
+    "text": "|[[Ruins in the Mirage]]|SIHanatsuka&br;& Yukino|Shattered Memories 2||"
+  },
+  {
+    "line": 434,
+    "text": "|[[Run Away Run]]|Eshen|Eshen Chen collection|Eshen Chen collection|"
+  },
+  {
+    "line": 435,
+    "text": "|[[Run Go Run]]|Kaeru Underground|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 436,
+    "text": "|翹課&br;[[Run Lads Run]]|KillerBlood|Shattered Memories||"
+  },
+  {
+    "line": 438,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 439,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 440,
+    "text": "|[[Sacred]]|Rabpit|Cytus selection Vol.1|Cytus Selection VOL.1|"
+  },
+  {
+    "line": 441,
+    "text": "|さえる&br;[[saeru]]|yourmythos|Shattered Memories 2||"
+  },
+  {
+    "line": 442,
+    "text": "|サガシモノ&br;[[Sagashimono]]|M2U|M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 443,
+    "text": "|[[Saihate]]|Apo11o\"QUASAR\"program|CENTER:×未収録|Stone Monument Collection|"
+  },
+  {
+    "line": 444,
+    "text": "|彩華&br;[[Saika]]|Rabpit|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 445,
+    "text": "|[[Sairai]]|Shinichi Kobayashi|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 446,
+    "text": "|桜色の夢&br;[[Sakura iro no yume]]|Baba Band|Deemo's collection Vol.2|''未収録''|"
+  },
+  {
+    "line": 447,
+    "text": "|寂しがり屋の凱旋&br;[[Samishigariya no gaisen]]|b|DS:PIANO collection||"
+  },
+  {
+    "line": 448,
+    "text": "|[[Sanctity]]|Rabpit|Rayark selection Vol.2|Rayark Selection VOL.2 |"
+  },
+  {
+    "line": 449,
+    "text": "|[[Sandglass]]|M2U|M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 450,
+    "text": "|[[Say Hi]]|Eshen|Book of C.||"
+  },
+  {
+    "line": 451,
+    "text": "|[[Scent]]|farhan|RAC collection #6||"
+  },
+  {
+    "line": 452,
+    "text": "|[[Scherzo]]|gondayu|RAC collection #5||"
+  },
+  {
+    "line": 453,
+    "text": "|[[Scherzo -pain in rain-]]|xi vs Ice|Ice collection||"
+  },
+  {
+    "line": 454,
+    "text": "|[[Sea Side Road]]|Eshen|Eshen Chen collection||"
+  },
+  {
+    "line": 455,
+    "text": "|[[Shadow in the mirror]]|Abia Ng|Shattered Memories||"
+  },
+  {
+    "line": 456,
+    "text": "|[[Shedding Season]]|TERU FOX|Shattered Memories 2||"
+  },
+  {
+    "line": 457,
+    "text": "|[[Shiny!]]|Ayatsugu_Otowa|Ayatsugu_Otowa Collection||"
+  },
+  {
+    "line": 458,
+    "text": "|[[Show Start!]]|Chamber Chu|Sdorica collection||"
+  },
+  {
+    "line": 459,
+    "text": "|[[Sikar]]|Sherwin|Sherwin Collection||"
+  },
+  {
+    "line": 460,
+    "text": "|[[Sincerity]]|Yamajet|Yamajet collection||"
+  },
+  {
+    "line": 461,
+    "text": "|[[Snow thaw]]|Yu-dachi|Emotional Addict collection||"
+  },
+  {
+    "line": 462,
+    "text": "|[[Snowflakes]]|N.M.S.T.|N.M.S.T. collection|N.M.S.T. collection|"
+  },
+  {
+    "line": 463,
+    "text": "|[[Snowscape]]|Yuta Murase|AD:PIANO collection||"
+  },
+  {
+    "line": 464,
+    "text": "|[[Soaring]]|Jerico|AD:PIANO collection 3||"
+  },
+  {
+    "line": 465,
+    "text": "|[[Sonatina for Bygone Piano>Sonata for Bygone Piano]]|Hundotte|Hundotte Collection||"
+  },
+  {
+    "line": 466,
+    "text": "|[[Sonitus orationis]]|Feryquitous|Feryquitous collection #2||"
+  },
+  {
+    "line": 467,
+    "text": "|[[Space Colony]]|Mili|MILI collection Vol.2||"
+  },
+  {
+    "line": 468,
+    "text": "|[[Spring Breeze]]|Air Carrier|Spring selection||"
+  },
+  {
+    "line": 469,
+    "text": "|[[Spring Snowflake Flower]]|masaki kawasaki|Shattered Memories||"
+  },
+  {
+    "line": 470,
+    "text": "|[[Sprout]]|HALLPBESTUDIO|RAC collection #2||"
+  },
+  {
+    "line": 471,
+    "text": "|[[Squeaky Mind]]|t+pazolite|Deemo -Reborn- collection|Reborn Collection|"
+  },
+  {
+    "line": 472,
+    "text": "|[[Stare at Your Enemies]]|Taishi|Taishi collection||"
+  },
+  {
+    "line": 473,
+    "text": "|[[Starry Night]]|HΔG|Mirai's Selection||"
+  },
+  {
+    "line": 474,
+    "text": "|[[Starry Sky Embrace]]|muyu&br;+ Yu-dachi|Adventure selection||"
+  },
+  {
+    "line": 475,
+    "text": "|[[Starting Wind]]|Edmund Fu|Shattered Memories|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 476,
+    "text": "|[[Stellar]]|M2U|M2U × Nicode collection|M2U × Nicode collection|"
+  },
+  {
+    "line": 477,
+    "text": "|[[Still-Waking Sleep (DEEMO edit)]]|Hundotte|Shattered Memories 2||"
+  },
+  {
+    "line": 478,
+    "text": "|[[Sunset]]|Alex Vourtsanis|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 479,
+    "text": "|[[Suspenseful Third Day]]|Kaeru Underground|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 480,
+    "text": "|交響詩 \"禁断の恋\"&br;[[Symphonic Poem 'Forbidden Love']]|sakuzyo|Sakuzyo Collection #2||"
+  },
+  {
+    "line": 482,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 483,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 484,
+    "text": "|[[Tempest]]|Freeleaves|Shattered Memories 2||"
+  },
+  {
+    "line": 485,
+    "text": "|[[Tempestuous]]|計畫通行|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 486,
+    "text": "|[[The beauties of nature]]|Kobayashi Project|Kobayashi collection||"
+  },
+  {
+    "line": 487,
+    "text": "|こんなにも月が美しく輝く夜は&br;[[The Beautiful Moonlight]]|Mai Aoyagi|Deemo's collection Vol.2|Deemo's collection Vol.2|"
+  },
+  {
+    "line": 488,
+    "text": "|[[The Bisque Doll and 14 Bunnies]]|VILA|Cranky collection||"
+  },
+  {
+    "line": 489,
+    "text": "|[[The Black Case]]|KillerBlood|Cytus selection Vol.1|Cytus Selection VOL.1|"
+  },
+  {
+    "line": 490,
+    "text": "|[[The Day It Blooms]]|Taishi|Taishi collection||"
+  },
+  {
+    "line": 491,
+    "text": "|[[The Daydreaming Girl]]|3R2|Spring selection||"
+  },
+  {
+    "line": 492,
+    "text": "|[[The Fallen Bloom]]|Hoskey|Knight Rosabell collection|Knight Rosabell collection|"
+  },
+  {
+    "line": 493,
+    "text": "|[[The Last Bloom]]|3R2|CENTER:×未収録|Reborn Collection|"
+  },
+  {
+    "line": 494,
+    "text": "|[[The Last Decision]]|Jun Kuroda|Emotional Addict collection||"
+  },
+  {
+    "line": 495,
+    "text": "|[[The Letter]]|KIVA|Rayark selection Vol.3|Rayark Selection vol.3((PS4))|"
+  },
+  {
+    "line": 496,
+    "text": "|[[The Red Coronation]]|Eye RH|Knight Iris Collection|Knight Iris Collection|"
+  },
+  {
+    "line": 497,
+    "text": "|[[The Sanctuary]]|Eye AC|Knight Iris Collection|Knight Iris Collection|"
+  },
+  {
+    "line": 498,
+    "text": "|[[The secret tale]]|studio neo|Adventure selection||"
+  },
+  {
+    "line": 499,
+    "text": "|[[The Story Unfolds]]|Sdorica|Collaboration collection||"
+  },
+  {
+    "line": 500,
+    "text": "|[[The Truth That You Leave]]|Pianoboy|Rayark selection Vol.3||"
+  },
+  {
+    "line": 501,
+    "text": "|[[The way home]]|Kiva|Samsara collection||"
+  },
+  {
+    "line": 502,
+    "text": "|[[The Way We Were]]|NICODE|Knight Iris collection|Knight Iris collection|"
+  },
+  {
+    "line": 503,
+    "text": "|花還似非花，也無人惜從教墜&br;[[They seem like blossoms yet ...]]|Air Carrier|RAC collection #4||"
+  },
+  {
+    "line": 504,
+    "text": "|[[Thief of the Gleaming Star]]|Chamber Chu|Sdorica collection||"
+  },
+  {
+    "line": 505,
+    "text": "|[[Three Years Diary]]|HΔG|Mirai's Selection||"
+  },
+  {
+    "line": 506,
+    "text": "|[[Time Forgotten]]|Brian Crain|Brian Crain collection||"
+  },
+  {
+    "line": 507,
+    "text": "|[[To Live]]|xi|xi Collection||"
+  },
+  {
+    "line": 508,
+    "text": "|灯火&br;[[tomoshibi]]|yourmythos|Shattered Memories 2||"
+  },
+  {
+    "line": 509,
+    "text": "|[[To next page]]|Kamome sano|RAC collection #3||"
+  },
+  {
+    "line": 510,
+    "text": "|冬竜 ～Toryu～&br;[[Toryu]]|Azu|Taiko no Tatsujin Collection|Taiko no Tatujin&br;Collaboration collection|"
+  },
+  {
+    "line": 511,
+    "text": "|都市の呼吸&br;[[Toshi no kokyu]]|technoplanet|Epilogue||"
+  },
+  {
+    "line": 512,
+    "text": "|おもちゃのエチュード&br;[[Toys Etude]]|soyomogi|RAC collection #1|Greatest Hits Vol.2|"
+  },
+  {
+    "line": 513,
+    "text": "|[[Travelling (Deemo Ver.)]]|aioi&br;feat.KAMATA JUNKO|Aioi collection vol.2||"
+  },
+  {
+    "line": 514,
+    "text": "|[[Tree of Dreams]]|Michiru Oshima|Shattered Memories||"
+  },
+  {
+    "line": 515,
+    "text": "|通称「別れの曲」&br;[[Tristesse]]|Chopin|Etude Collection||"
+  },
+  {
+    "line": 516,
+    "text": "|トルコ行進曲&br;[[Turkish March]]|Mozart|Etude Collection||"
+  },
+  {
+    "line": 518,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 519,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 520,
+    "text": "|[[UFO]]|Mili|MILI collection Vol.2||"
+  },
+  {
+    "line": 521,
+    "text": "|[[Ukakuf Kins]]|t+pazolite&br;feat.nanahira|Vocal collection|Vocal collection|"
+  },
+  {
+    "line": 522,
+    "text": "|[[Undo]]|Yuk-cheung Chun|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 523,
+    "text": "|[[Untitled2]]|Fabric Factory|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 524,
+    "text": "|[[Utopiosphere]]|Mili|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 525,
+    "text": "|[[u7228]]|H Undo OTT e|Hundotte Collection||"
+  },
+  {
+    "line": 527,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 528,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 529,
+    "text": "|[[Valentining]]|Sherwin|Spring selection||"
+  },
+  {
+    "line": 530,
+    "text": "|[[Valle De Los Caidos]]|Triodust|Samsara collection||"
+  },
+  {
+    "line": 531,
+    "text": "|[[vandarhythm]]|Apo11o program&br;ft.Ritsuka|Vocal collection|Vocal collection|"
+  },
+  {
+    "line": 532,
+    "text": "|ヴェネツィアの舟歌&br;[[Venetian Gondellied]]|Mendelssohn|Etude collection||"
+  },
+  {
+    "line": 533,
+    "text": "|[[Veritas]]|Presti|Rayark selection Vol.3|Rayark selection Vol.3|"
+  },
+  {
+    "line": 534,
+    "text": "|[[vivere la vita]]|Sta|Rayark selection Vol.1||"
+  },
+  {
+    "line": 535,
+    "text": "|[[Voice of Cell]]|Michiru Oshima|Samsara collection||"
+  },
+  {
+    "line": 537,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 538,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 539,
+    "text": "|[[Walking by the sea]]|Edmund Fu|Deemo's collection Vol.1B|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 540,
+    "text": "|[[Waltz in Devil's Playground]]|Ramenbot Jr.|Shattered Memories|Rayark Selection vol.3|"
+  },
+  {
+    "line": 541,
+    "text": "|[[Waltz No.1]]|Chopin|Etude collection||"
+  },
+  {
+    "line": 542,
+    "text": "|[[Where You Are Not]]|Nicode|Knight Rosabell collection|Knight Rosabell collection|"
+  },
+  {
+    "line": 543,
+    "text": "|[[White Fantasy]]|SLS|Shattered Memories 2||"
+  },
+  {
+    "line": 544,
+    "text": "|[[White Palette]]|Tigerlily|AD:PIANO collection||"
+  },
+  {
+    "line": 545,
+    "text": "|[[White Rain]]|Michiru Oshima|Shattered Memories||"
+  },
+  {
+    "line": 546,
+    "text": "|[[Wicked Fate]]|M2U|M2U × Nicode collection|M2U × Nicode collection|"
+  },
+  {
+    "line": 547,
+    "text": "|[[Will]]|Hikoshi Hashimoto|Collaboration collection||"
+  },
+  {
+    "line": 548,
+    "text": "|[[Wings of piano]]|V.K.|Deemo's collection Vol.1A|''未収録''|"
+  },
+  {
+    "line": 549,
+    "text": "|[[Winter (Deemo Ver.)]]|3R2|N.M.S.T. collection|N.M.S.T Collection|"
+  },
+  {
+    "line": 550,
+    "text": "|[[Wish upon a shooting star]]|SUi|RAC collection #4|Greatest Hits Vol.1|"
+  },
+  {
+    "line": 551,
+    "text": "|[[witch hunting]]|JohnTowse&br;.LunaSafari&br;feat.SAYA|Shattered Memories 2||"
+  },
+  {
+    "line": 552,
+    "text": "|[[Witch's Invitation]]|Mili|MILI collection|MILI collection|"
+  },
+  {
+    "line": 553,
+    "text": "|[[Wisteria]]|Freeleaves|Spring selection||"
+  },
+  {
+    "line": 554,
+    "text": "|[[Wondering Luv]]|Ayatsugu_Otowa|Ayatsugu_Otowa Collection||"
+  },
+  {
+    "line": 556,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 557,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 558,
+    "text": "|雪舞&br;[[Xue Wu]]|V.K|V.K collection||"
+  },
+  {
+    "line": 559,
+    "text": "|[[XYZ]]|technoplanet|CytusII Collection vol.2||"
+  },
+  {
+    "line": 561,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 562,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 563,
+    "text": "|妖月&br;[[Yaoyue]]|gondayu|Shattered Memories||"
+  },
+  {
+    "line": 564,
+    "text": "|獅子大張嘴&br;[[Yawning Lion]]|V.K|Deemo's collection Vol.1B||"
+  },
+  {
+    "line": 565,
+    "text": "|夜明けの歌&br;[[Yoake no Uta]]|M2U |M2U × Nicode collection Vol.2||"
+  },
+  {
+    "line": 566,
+    "text": "|夜明けを待つ君の詩&br;[[Yoake o matsu kimi no uta]]|TAKU1175|RAC collection #5||"
+  },
+  {
+    "line": 567,
+    "text": "|[[YUBIKIRI-GENMAN]]|Mili|Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 569,
+    "text": "|BGCOLOR(#111827):300|180|150|150|c"
+  },
+  {
+    "line": 576,
+    "text": "|BGCOLOR(#111827):300|180|150|R:150|c"
+  },
+  {
+    "line": 577,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 578,
+    "text": "|[[あいたい]]|onoken|CENTER:×未収録 |Golden Sheets Collection|"
+  },
+  {
+    "line": 579,
+    "text": "|[[キミソラキセキ]]|EGOIST|CENTER:×未収録 |EGOIST|"
+  },
+  {
+    "line": 580,
+    "text": "|[[まよいづき]]|onoken|CENTER:×未収録 |Golden Sheets Collection|"
+  },
+  {
+    "line": 581,
+    "text": "|[[彩華>Saika]]| Rabpit |Deemo's collection Vol.1A|Deemo's collection Vol.1|"
+  },
+  {
+    "line": 582,
+    "text": "|[[迅雷天響]]| 柳田Ethnica |CENTER:×未収録 |Stone Monument Collection|"
+  },
+  {
+    "line": 586,
+    "text": "|BGCOLOR(#111827):300|180|150|R:150|c"
+  },
+  {
+    "line": 587,
+    "text": "|~曲名|~Artist|~Book|~Book(Reborn)|h"
+  },
+  {
+    "line": 588,
+    "text": "|[[10 -ichizero-]]| Amber Wishes  | Ice collection ||"
+  },
+  {
+    "line": 589,
+    "text": "|[[3piece-JazzParty!]]|Mihile| Taiko no Tatsujin Collection| Taiko no Tatujin &br;Collaboration Collection((PS4除く))|"
+  }
+]

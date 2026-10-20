@@ -1,0 +1,2022 @@
+[
+  {
+    "line": 11,
+    "text": "|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c"
+  },
+  {
+    "line": 12,
+    "text": "|　[[A>#aaa]]　|　[[B>#bbb]]　|　[[C>#ccc]]　|　[[D>#ddd]]　|　[[E>#eee]]　|　[[F>#fff]]　|　[[G>#ggg]]　|　[[H>#hhh]]　|　[[I>#iii]]　|　[[J>#jjj]]　|　[[K>#kkk]]　|　[[L>#lll]]　|　[[M>#mmm]]　|　[[N>#nnn]]　|"
+  },
+  {
+    "line": 13,
+    "text": "|　[[O>#ooo]]　|　[[P>#ppp]]　|　Q　|　[[R>#rrr]]　|　[[S>#sss]]　|　[[T>#ttt]]　|　[[U>#uuu]]　|　[[V>#vvv]]　|　[[W>#www]]　|　X　|　[[Y>#yyy]]　|　[[Z>#zzz]]　|>|CENTER:　[[その他>#others]]　|"
+  },
+  {
+    "line": 21,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 22,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 23,
+    "text": "|[[A Little Servant]]|Alice Schach and the Magic &br;Orchestra|&#10004;|復刻01|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 24,
+    "text": "|[[a rift in the clouds]]|phritz|&#10004;|アルバム27|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 25,
+    "text": "|[[a step to hope (feat. suui)]]|phritz|&#10004;|無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 26,
+    "text": "|[[Abiogenesis]]|Juggernaut.||復刻10|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 27,
+    "text": "|[[Accelerando]]|Keikaku Tsuukou||復刻11|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 28,
+    "text": "|[[Achromic Riddle]]|Nego_tiator||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 29,
+    "text": "|[[Advances]]|K.Shiraki||アルバム38|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 30,
+    "text": "|[[After The Rain]]|Neighbors Complain|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 31,
+    "text": "|[[Agbenamu Hill]]|Milkoi||アルバム06|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 32,
+    "text": "|[[aimai-days]]|Takenoko boy feat. touna|&#10004;|無題01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 33,
+    "text": "|[[Aitai]]|onoken feat. Rin|&#10004;|復刻09|3.1.1&br;23/10/25|"
+  },
+  {
+    "line": 34,
+    "text": "|[[Alecto]]|ISAFAT|&#10004;|アルバム08|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 35,
+    "text": "|[[All doors closed]]|KiWi|&#10004;|アルバム27|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 36,
+    "text": "|[[All In]]|Avans||アルバム37|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 37,
+    "text": "|[[Altale (Duo Rework)]]|Sakuzyo (Violin: Katali)||オンデマンド01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 38,
+    "text": "|[[Amagiri]]|Uemura Kanae||復刻10|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 39,
+    "text": "|[[Ambivalenz]]|Hiroyuki Oshima||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 40,
+    "text": "|[[Ame ni tokete]]|Ayaka Tachibana|&#10004;|アルバム25|2.2.1&br;23/02/22|"
+  },
+  {
+    "line": 41,
+    "text": "|[[AMEMOYOU]]|punipunidenki arr. penoreri|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 42,
+    "text": "|[[Anchor (piano ver.)]]|Iris||アルバム14|1.2.1&br;22/04/27|"
+  },
+  {
+    "line": 43,
+    "text": "|[[angelic arrow(DEEMO Edition)]]|Cierula|&#10004;|アルバム02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 44,
+    "text": "|[[Annei]]|MIDInco||アルバム01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 45,
+    "text": "|[[Another Ending]]|Mizuki Halcy||アルバム25|2.2.1&br;23/02/22|"
+  },
+  {
+    "line": 46,
+    "text": "|[[Antheia]]|ARForest||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 47,
+    "text": "|[[Anti]]|Error Signal||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 48,
+    "text": "|[[Antikythera]]|technoplanet||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 49,
+    "text": "|[[Ao]]|Ayaka Tachibana||アルバム09|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 50,
+    "text": "|[[artemis]]|Miyolophone feat. bkbk_tomoko|&#10004;|ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 51,
+    "text": "|[[atmospheric drops]]|Yamajet feat. Masako Hiura|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 52,
+    "text": "|[[Aurora VIP (feat. Shion)]]|Kirara Magic|&#10004;|アルバム38|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 53,
+    "text": "|[[Autumn-like - Vo.Kato Haruka]]|Moroboshi Nana feat.&br;Yu-ki Hirose|&#10004;|アルバム15|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 54,
+    "text": "|[[AwasekagamI]]|Guriri vs.DD\"Nakata\"Metal &br;(Gt.Daisuke Kurosawa&br;/Bs.Seabridge)|&#10004;|無題02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 55,
+    "text": "|[[Ayame]]|Freeleaves||無題01|1.3.0&br;22/07/20|"
+  },
+  {
+    "line": 62,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 63,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 64,
+    "text": "|[[Baa-raa-ra]]|Sobrem|&#10004;|アルバム32|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 65,
+    "text": "|[[Bach - Italian Concerto Mov.3]]|pianist: Yi-Chen Feng||クラシック03|2.2.1&br;23/01/18|"
+  },
+  {
+    "line": 66,
+    "text": "|[[Bach - French Suite No.2 Allemande et Courante]]|pianist: Yi-Chen Feng||クラシック02|3.1.0&br;23/07/12|"
+  },
+  {
+    "line": 67,
+    "text": "|[[Bach - The Goldberg Variations &br;(Aria & Variation I)>Bach - The Goldberg Variations (Aria and Variation I)]]|pianist: Yi-Chen Feng||クラシック01|3.0.0&br;23/05/24|"
+  },
+  {
+    "line": 68,
+    "text": "|[[Bach - Rondeaux, Capriccio &br;from Partita No.2>Bach - Rondeaux Capriccio from Partita No.2]]|pianist: Yi-Chen Feng||クラシック02|1.0.8&br;22/01/19|"
+  },
+  {
+    "line": 69,
+    "text": "|[[bAllAd]]|Kaneko Chiharu||アルバム24|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 70,
+    "text": "|[[Balloon]]|Harito||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 71,
+    "text": "|[[Be a Soldier]]|Sammi Lin||アルバム07|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 72,
+    "text": "|[[Be Alive]]|naotyu- feat. Misaki|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 73,
+    "text": "|[[Beethoven - Appassionata &br;(Excerpt)>Beethoven - Appassionata (Excerpt)]]|pianist: Yi-Chen Feng||クラシック02|1.0.10&br;22/02/23|"
+  },
+  {
+    "line": 74,
+    "text": "|[[Beethoven - Pathetique Mov.3]]|pianist: Yi-Chen Feng||クラシック02|3.1.1&br;23/09/27|"
+  },
+  {
+    "line": 75,
+    "text": "|[[Beethoven - Tempest Mov.1]]|pianist: Yi-Chen Feng||クラシック03|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 76,
+    "text": "|[[Beethoven tempest mov.3]]|pianist: Yi-Chen Feng||クラシック04|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 77,
+    "text": "|[[Before the storm]]|KiWi|&#10004;|アルバム37|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 78,
+    "text": "|[[Begin Anew]]|Michael Wyckoff &br;& Veronica Goudie|&#10004;|アルバム05|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 79,
+    "text": "|[[Bento Box Bivouac]]|Mili|&#10004;|ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 80,
+    "text": "|[[Bitter=Bitter=Lovesick]]|seatrus||アルバム33|3.1.1&br;23/10/04|"
+  },
+  {
+    "line": 81,
+    "text": "|[[Blades of Grass]]|Tutara Peak ft. Zes|&#10004;|アルバム09|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 82,
+    "text": "|[[Blessing]]|Harito||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 83,
+    "text": "|[[Bloody Purity]]|eyemedia||復刻05|1.1.0&br;22/03/09|"
+  },
+  {
+    "line": 84,
+    "text": "|[[Blue and Amor]]|Shogo Nomura (BNSI)||アルバム28|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 85,
+    "text": "|[[Blue evenfall]]|Freeleaves||無題03|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 86,
+    "text": "|[[Boring Day?]]|Tomggg||アルバム02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 87,
+    "text": "|[[Brahms - Hungarian Dance No.5]]|pianist: Yi-Chen Feng||クラシック03|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 88,
+    "text": "|[[Breathe in Breathe out]]|Night Keepers|&#10004;|アルバム21|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 89,
+    "text": "|[[Bubble Tea]]|dark cat|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 90,
+    "text": "|[[But I Know]]|naotyu- feat. Aizdean|&#10004;|アルバム08|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 96,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 97,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 98,
+    "text": "|[[Carnation]]|himmel||復刻01|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 99,
+    "text": "|[[Carry You Away]]|Patrick James|&#10004;|アルバム06|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 100,
+    "text": "|[[Chamber of Shackles]]|Elliot Hsu||アルバム34|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 101,
+    "text": "|[[CHAOS MAGNVM]]|Team Grimoire feat.Sennzai|&#10004;|スペシャル02|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 102,
+    "text": "|[[Chopin - Etude Op.10 &br;No.12 \"Revolutionary\">Chopin - Etude Op.10 No.12 Revolutionary]]|pianist: Yi-Chen Feng||クラシック02|3.1.1&br;23/11/15|"
+  },
+  {
+    "line": 103,
+    "text": "|[[Chopin - Etude Op.10 No.5 “Black Keys”]]|pianist: Yi-Chen Feng||クラシック01|3.0.0&br;23/06/14|"
+  },
+  {
+    "line": 104,
+    "text": "|[[Chopin - Fantaisie Impromptu &br;(Excerpt)>Chopin - Fantaisie Impromptu (Excerpt)]]|pianist: Yi-Chen Feng||クラシック01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 105,
+    "text": "|[[Chopin - Mazurka Op.63 No.1]]|pianist: Yi-Chen Feng||クラシック03|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 106,
+    "text": "|[[Chopin nocturne op.9 no.2]]|pianist: Yi-Chen Feng||クラシック01|1.1.0&br;22/03/30|"
+  },
+  {
+    "line": 107,
+    "text": "|[[Chopin op. 64 no.2]]|pianist: Yi-Chen Feng||クラシック01|2.2.1&br;23/03/08|"
+  },
+  {
+    "line": 108,
+    "text": "|[[Chopin - Op.69 No.2]]|pianist: Yi-Chen Feng||クラシック03|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 109,
+    "text": "|[[Chopin - Waltz in A minor, B.150, &br;Op. Posth.>Chopin - Waltz in A minor B.150 Op. Posth.]]|pianist: Yi-Chen Feng||クラシック02|3.1.1&br;23/11/04|"
+  },
+  {
+    "line": 110,
+    "text": "|[[Cicatrice*]]|8kusa feat.Apo11o program &br;vo.tammy|&#10004;|アルバム19|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 111,
+    "text": "|[[Clematis]]|Taishi||無題03|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 112,
+    "text": "|[[Clementi - Op.36 No.1 Three Movts]]|pianist: Yi-Chen Feng||クラシック01|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 113,
+    "text": "|[[Clementi Piano Sonatina Op.36 &br;no.3 mov.1>Clementi Piano Sonatina Op.36 no.3 mov.1]]|pianist: Yi-Chen Feng||クラシック04|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 114,
+    "text": "|[[Clementi Piano Sonatina Op.36 &br;No.6 mov.1>Clementi Piano Sonatina Op.36 No.6 mov.1]]|pianist: Yi-Chen Feng||クラシック03|1.0.10&br;22/02/16|"
+  },
+  {
+    "line": 115,
+    "text": "|[[Clouds clear and...]]|Qutabire||ストーリー01|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 116,
+    "text": "|[[Coastline]]|Harito||ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 117,
+    "text": "|[[Cold Dusk]]|seatrus||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 118,
+    "text": "|[[Collision]]|callasoiled||アルバム26|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 119,
+    "text": "|[[Come Over]]|Neighbors Complain|&#10004;|無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 120,
+    "text": "|[[Conflict (VILA Remix)]]|siromaru + cranky|&#10004;|復刻04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 121,
+    "text": "|[[Corridor of reminiscence]]|effe||アルバム39|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 122,
+    "text": "|[[Cruelame+hyst]]|seatrus||アルバム39|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 123,
+    "text": "|[[crumsy propause]]|seatrus||アルバム35|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 124,
+    "text": "|[[Culoare]]|Avans||アルバム03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 125,
+    "text": "|[[Cxielarko]]|Ayatsugu_Otowa||無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 132,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 133,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 134,
+    "text": "|[[Dance in the midnight]]|Manhattan Midnight||無題03|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 135,
+    "text": "|[[Dandelion Girls, Dandelion Boys>Dandelion Girls Dandelion Boys]]|Mili|&#10004;|アルバム07|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 136,
+    "text": "|[[Dandelion]]|Ice Bird Studio/Flow||アルバム20|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 137,
+    "text": "|[[Dawn of the ruins]]|Freeleaves||復刻11|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 138,
+    "text": "|[[Deadlogue]]|WHITEFISTS||アルバム32|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 139,
+    "text": "|[[Dear :>Dear]]|Night Keepers|&#10004;|アルバム23|2.2.1&br;23/01/18|"
+  },
+  {
+    "line": 140,
+    "text": "|[[Debussy - Arabesque No.1 &br;(Excerpt)>Debussy - Arabesque No.1 (Excerpt)]]|pianist: Yi-Chen Feng||クラシック01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 141,
+    "text": "|[[Deemo's Flight I: Piano>Deemo's Flight I Piano]]|Seycara||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 142,
+    "text": "|[[Deemo's Flight II: Rain>Deemo's Flight II Rain]]|Seycara||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 143,
+    "text": "|[[Delight of Life]]|Sakiko Sakuragi|&#10004;|ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 144,
+    "text": "|[[Delphinium]]|SIHanatsuka|&#10004;|無題03|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 145,
+    "text": "|[[Delusion (Yume-Maboroshi)]]|NIKITA||無題03|3.1.1&br;23/10/18|"
+  },
+  {
+    "line": 146,
+    "text": "|[[Demonic Pray]]|Crawk × Capchii||スペシャル02|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 147,
+    "text": "|[[Dewdrops]]|Complexive||アルバム11|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 148,
+    "text": "|[[Diary of Loneliness]]|Mitsukiyo||アルバム30|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 149,
+    "text": "|[[Disastear]]|technoplanet||アルバム33|3.1.1&br;23/10/04|"
+  },
+  {
+    "line": 150,
+    "text": "|[[Discipline]]|Street||アルバム32|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 151,
+    "text": "|[[DO YOU MISS ME ?]]|dark cat||アルバム12|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 152,
+    "text": "|[[doll eyes]]|yourmythos|&#10004;|無題03|3.1.1&br;23/12/06|"
+  },
+  {
+    "line": 153,
+    "text": "|[[Dominant]]|MIDInco||復刻08|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 154,
+    "text": "|[[Dream of Blind]]|ARForest||アルバム21|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 155,
+    "text": "|[[Dream to you…]]|Apo11o program ft.Riko Azuna|&#10004;|アルバム30|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 156,
+    "text": "|[[Dream together]]|Hydra Tsai (INSPION)||アルバム01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 157,
+    "text": "|[[DRG (piano ver.)]]|onoken, arranged by SLS||オンデマンド01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 158,
+    "text": "|[[Dubblethink]]|Avans||アルバム32|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 159,
+    "text": "|[[D&#233;j&#224;-vu>Deja-vu]]|Shunji Fujii|&#10004;|アルバム31|3.1.0&br;23/07/12|"
+  },
+  {
+    "line": 166,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 167,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 168,
+    "text": "|[[Echoes of Obscurity]]|TSK||ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 169,
+    "text": "|[[Echo over you...]]|Apo11o program||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 170,
+    "text": "|[[Elgar - Pomp and Circumstance, &br;Op.39 No.1>Elgar - Pomp and Circumstance, Op.39 No.1]]|pianist: Yi-Chen Feng||クラシック04|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 171,
+    "text": "|[[End of the Spiral Version 1a.01.a]]|Tsynphonia||アルバム38|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 172,
+    "text": "|[[Endure]]|Iris feat. LynH|&#10004;|無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 173,
+    "text": "|[[Enola Farewell]]|HALLPBE.S||無題01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 174,
+    "text": "|[[Everything I’ll Ever Need]]|DEW|&#10004;|ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 175,
+    "text": "|[[eterno]]|Takashi OKAMOTO(12sound)&br;feat.Tsukasa Shiraki|&#10004;|復刻11|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 176,
+    "text": "|[[Exodus]]|Iris||復刻08|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 177,
+    "text": "|[[Express 102]]|Nagiha||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 184,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 185,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 186,
+    "text": "|[[Fabricatia]]|Nego_tiator||アルバム36|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 187,
+    "text": "|[[FACE THE MUSIC]]|Apo11o program vs. DJ WILDPARTY &br;vs. RiraN||アルバム33|3.1.1&br;23/10/04|"
+  },
+  {
+    "line": 188,
+    "text": "|[[Fairy's Crown]]|Powerless||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 189,
+    "text": "|[[Faith, Hope & Love>Faith Hope Love]]|Iris ft. Victor Kong & LynH|&#10004;|復刻11|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 190,
+    "text": "|[[felzione]]|onoken||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 191,
+    "text": "|[[FEHLT -DEEMO edition-]]|Alice Schach and the Magic Orchestra|&#10004;|復刻08|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 192,
+    "text": "|[[Finale our hope &#8222;Carpe-Diem“>Finale our hope Carpe-Diem]]|onoken vs. Apo11o program &br;ft. Tamako Kinoshita|&#10004;|ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 193,
+    "text": "|[[FLASH DIVER]]|WHITEFISTS||アルバム29|3.0.0&br;23/05/31|"
+  },
+  {
+    "line": 194,
+    "text": "|[[Flew]]|Sad Keyboard Guy||アルバム29|3.0.0&br;23/05/31|"
+  },
+  {
+    "line": 195,
+    "text": "|[[floating]]|PARKGOLF|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 196,
+    "text": "|[[Flower Rain]]|THE SxPLAY(Sugawara Sayuri)|&#10004;|アルバム12|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 197,
+    "text": "|[[Fluff]]|KiWi||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 198,
+    "text": "|[[Flutter]]|Hudson Lee (feat. Oyeme)|&#10004;|アルバム06|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 199,
+    "text": "|[[Forest of Clock]]|ARForest||アルバム06|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 200,
+    "text": "|[[Forever]]|Patrick James|&#10004;|無題03|1.3.0&br;22/07/27|"
+  },
+  {
+    "line": 201,
+    "text": "|[[Forgotten Sanctuary]]|Elliot Hsu||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 202,
+    "text": "|[[Four Seasons Winter (Piano &br;Edit)>Four Seasons Winter (Piano Edit)]]|A. Vivaldi arranged by&br; Double Tree||アルバム24|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 203,
+    "text": "|[[Fractured Cantabile]]|Elliot Hsu||アルバム30|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 204,
+    "text": "|[[From There]]|TSK||アルバム39|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 205,
+    "text": "|[[Frosty Forest]]|Kaneko Chiharu||アルバム21|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 206,
+    "text": "|[[Fruits of Sequana]]|Crimsona||アルバム40|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 207,
+    "text": "|[[Funeral of Stars]]|void (mournfinale)||スペシャル02|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 208,
+    "text": "|[[F&#252;r Alice>Fur Alice]]|onoken||復刻09|3.1.1&br;23/10/25|"
+  },
+  {
+    "line": 215,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 216,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 217,
+    "text": "|[[Galanthus - Vo.Kato Haruka]]|Moroboshi Nana feat.&br;Yu-ki Hirose|&#10004;|アルバム04|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 218,
+    "text": "|[[Game on Together ! - Short &br;Ver. (Inst.)>Game on Together ! - Short Ver. (Inst.)]]|Rayark Sound Team||無題01|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 219,
+    "text": "|[[Gear]]|Street||アルバム31|3.1.0&br;23/07/12|"
+  },
+  {
+    "line": 220,
+    "text": "|[[Gekkouka]]|Masanori Akita||復刻03|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 221,
+    "text": "|[[Gemini about the Darkness]]|Ayatsugu_Revolved||アルバム02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 222,
+    "text": "|[[Gemini about the Innocence]]|Ayatsugu_Revolved||アルバム04|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 223,
+    "text": "|[[Gershwin - Rhapsody in Blue]]|pianist: Yi-Chen Feng||クラシック04|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 224,
+    "text": "|[[Ghost Dance]]|PARKGOLF||アルバム11|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 225,
+    "text": "|[[ghost in my place]]|technoplanet feat. setsat||アルバム07|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 226,
+    "text": "|[[gleammer]]|kidlit|&#10004;|アルバム22|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 227,
+    "text": "|[[Go a long way]]|TzuChieh Wen, You Xue Qian||アルバム07|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 228,
+    "text": "|[[Go Adventure!]]|Rayark Sound Team||無題03|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 229,
+    "text": "|[[Grave]]|Miyo Takashiro|&#10004;|アルバム20|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 230,
+    "text": "|[[Graves -Ancient Memories-]]|Juggernaut.||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 231,
+    "text": "|[[Grope in the Dark]]|satie||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 232,
+    "text": "|[[Gunners in the Rain]]|Mili|&#10004;|無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 239,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 240,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 241,
+    "text": "|[[H]]|orangentle||無題02|3.1.0&br;23/08/23|"
+  },
+  {
+    "line": 242,
+    "text": "|[[Hakoniwa Clock]]|Hamu||アルバム09|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 243,
+    "text": "|[[Hakoniwa Daybreak]]|Shurin x Sound-Box ;feat.nayuta|&#10004;|復刻01|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 244,
+    "text": "|[[Halzion]]|H△G|&#10004;|アルバム09|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 245,
+    "text": "|[[Hanei]]|Rin Matsubayashi (INSPION)||ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 246,
+    "text": "|[[Haru Tomei]]|Ayaka Tachibana|&#10004;|ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 247,
+    "text": "|[[HarvestSeason!]]|Yu_Asahina||アルバム24|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 248,
+    "text": "|[[Haunted parade]]|Freeleaves||無題01|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 249,
+    "text": "|[[Haydn - Piano Sonata in E Minor,&br; Hob.&#8553;&#8549;/34>Haydn - Piano Sonata in E Minor Hob.XVI/34]]|pianist: Yi-Chen Feng||クラシック03|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 250,
+    "text": "|[[Heap Of Rubble]]|Kurubukko||アルバム26|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 251,
+    "text": "|[[Heat Haze - Vo.Kato Haruka]]|Moroboshi Nana feat.&br;Yu-ki Hirose|&#10004;|アルバム01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 252,
+    "text": "|[[Heaven's Light]]|Kitkit Lu|&#10004;|復刻02|1.2.2&br;22/06/15|"
+  },
+  {
+    "line": 253,
+    "text": "|[[Hello (DEEMO Version)]]|aioi feat. Kamata Junko|&#10004;|復刻05|1.1.0&br;22/03/09|"
+  },
+  {
+    "line": 254,
+    "text": "|[[Here is where your story &br;begins>Here is where your story begins]]|Milkoi, Sya Sya||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 255,
+    "text": "|[[Heritage Remain]]|Yu_Asahina feat.Kanata.N|&#10004;|アルバム08|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 256,
+    "text": "|[[hikari no michi]]|Tomggg||ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 257,
+    "text": "|[[Hope for the Stars]]|Aethoro feat.Moon Jelly|&#10004;|アルバム36|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 258,
+    "text": "|[[hydrangea]]|yourmythos|&#10004;|アルバム04|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 259,
+    "text": "|[[Hydrangea]]|Musicarus||アルバム37|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 260,
+    "text": "|[[HydroMe+eor]]|seatrus||アルバム22|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 261,
+    "text": "|[[Hyouryu (piano ver.)]]|THE SxPLAY(Sugawara Sayuri) &br;& KIVΛ, arranged by SLS||アルバム14|1.2.1&br;22/04/27|"
+  },
+  {
+    "line": 268,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 269,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 270,
+    "text": "|[[I luv U]]|SQUAR||復刻06|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 271,
+    "text": "|[[I race the dawn]]|Kevin Penkin feat. &br;Michiyo Honda|&#10004;|復刻07|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 272,
+    "text": "|[[I will never forget you]]|Feryquitous||アルバム02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 273,
+    "text": "|[[Ikazuchi]]|Miyo Takashiro|&#10004;|ストーリー01|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 274,
+    "text": "|[[Imhullu]]|Miyolophone||アルバム22|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 275,
+    "text": "|[[Imprinting (Orchestral Rework)]]|Sakuzyo||アルバム16|1.3.0&br;22/07/06|"
+  },
+  {
+    "line": 276,
+    "text": "|[[in a cradle]]|yourmythos|&#10004;|無題03|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 277,
+    "text": "|[[In The Air]]|Neighbors Complain|&#10004;|アルバム08|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 278,
+    "text": "|[[Indelible Yore]]|Taishi||アルバム37|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 279,
+    "text": "|[[INNOCENCE]]|Hydra Tsai (INSPION)|&#10004;|アルバム05|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 280,
+    "text": "|[[iron flower]]|Room97 feat.EVO+|&#10004;|アルバム29|3.0.0&br;23/05/31|"
+  },
+  {
+    "line": 287,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 288,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 289,
+    "text": "|[[Jackpot]]|kuhu||アルバム08|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 290,
+    "text": "|[[Jijo]]|Miyolophone feat. Miori Celesta|&#10004;|アルバム27|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 291,
+    "text": "|[[Journey to the light]]|yunovation||アルバム04|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 292,
+    "text": "|[[Jump into a puddle]]|muyu||アルバム34|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 293,
+    "text": "|[[Just Like Me]]|Glacier|&#10004;|無題03|1.2.2&br;22/06/08|"
+  },
+  {
+    "line": 300,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 301,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 302,
+    "text": "|[[Kadode]]|Tomggg (feat. Utae)|&#10004;|アルバム11|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 303,
+    "text": "|[[Kaguya]]|BlackY||スペシャル02|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 304,
+    "text": "|[[karanosu]]|yourmythos|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 305,
+    "text": "|[[Kasumisou]]|Kurubukko||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 306,
+    "text": "|[[Keep You Safe (piano ver.)]]|Iris||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 307,
+    "text": "|[[kizashi]]|yourmythos|&#10004;|アルバム12|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 308,
+    "text": "|[[Knots Way]]|NICODE(SQUAREMUSIQ)|&#10004;|スペシャル01|2.0.1&br;22/09/21|"
+  },
+  {
+    "line": 309,
+    "text": "|[[Kokoro Odoro]]|Tomggg (feat. m/lue. )|&#10004;|ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 310,
+    "text": "|[[Kono hiroi sekaide]]|odol|&#10004;|アルバム10|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 311,
+    "text": "|[[Koqurow]]|Feryquitous||復刻03|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 312,
+    "text": "|[[Kreisler/Rachmaninoff - &br;Love's Sorrow (Excerpt)>Kreisler/Rachmaninoff - Love's Sorrow (Excerpt)]]|pianist: Yi-Chen Feng||クラシック01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 313,
+    "text": "|[[KUMO]]|ASOBOiSM|&#10004;|無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 320,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 321,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 322,
+    "text": "|[[Last Guardian]]|ARForest||アルバム36|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 323,
+    "text": "|[[l`aurore]]|ISAFAT|&#10004;|アルバム13|1.0.10&br;22/02/09|"
+  },
+  {
+    "line": 324,
+    "text": "|[[Labyrinth of Desire]]|Elliot Hsu||アルバム22|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 325,
+    "text": "|[[Legacy]]|switchworks||無題01|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 326,
+    "text": "|[[Lesedrama]]|Avans＆Blacklolita||アルバム35|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 327,
+    "text": "|[[Letters from Heaven]]|Capchii feat. Ririsya|&#10004;|アルバム19|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 328,
+    "text": "|[[Life review]]|*-Teris.||アルバム30|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 329,
+    "text": "|[[Lifill]]|Feryquitous feat.Sennzai|&#10004;|復刻03|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 330,
+    "text": "|[[Light up my LOVE!! (piano ver.)]]|onoken, arranged by SLS||アルバム14|1.2.1&br;22/04/27|"
+  },
+  {
+    "line": 331,
+    "text": "|[[LILI]]|Rigel Theatre||復刻06|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 332,
+    "text": "|[[Linkage]]|technoplanet feat. Risa Yuzuki &br;& Kuroto Sion|&#10004;|アルバム27|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 333,
+    "text": "|[[Listz paganini etude 6]]|pianist: Yi-Chen Feng||クラシック03|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 334,
+    "text": "|[[Liszt liebestraum no.3]]|pianist: Yi-Chen Feng||クラシック04|2.0.1&br;22/10/19|"
+  },
+  {
+    "line": 335,
+    "text": "|[[Little Steps]]|ginrei||アルバム23|2.2.1&br;23/01/18|"
+  },
+  {
+    "line": 336,
+    "text": "|[[Like a gentle breeze]]|KiWi|&#10004;|アルバム35|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 337,
+    "text": "|[[Like Asian Spirit]]|Valunava||スペシャル02|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 338,
+    "text": "|[[Little Tourist]]|Kaname Shigeyoshi||アルバム34|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 339,
+    "text": "|[[Looking for Radiant Rainbow]]|seatrus||アルバム27|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 340,
+    "text": "|[[Lose my mind]]|brz1128vs.M-UE||無題03|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 341,
+    "text": "|[[Losing Myself]]|Alice Lee & Michael Wyckoff||アルバム09|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 342,
+    "text": "|[[Lost in the nowhere]]|Rave Cyanide vs Lunatic Sounds||復刻01|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 343,
+    "text": "|[[Lost Memory]]|yuichi NAGAO||アルバム26|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 344,
+    "text": "|[[Lost Utopia]]|pan||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 345,
+    "text": "|[[Lucerna]]|Iris||無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 346,
+    "text": "|[[Luchta]]|Rei Shimizu||アルバム25|2.2.1&br;23/02/22|"
+  },
+  {
+    "line": 347,
+    "text": "|[[LUNE]]|M2U / Arranger:M2U & NICODE||復刻10|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 348,
+    "text": "|[[Lycoris]]|THE SxPLAY(Sugawara Sayuri)|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 355,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 356,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 357,
+    "text": "|[[Medtner Op.39 No.5(recap to the end)]]|pianist: Yi-Chen Feng||クラシック03|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 358,
+    "text": "|[[Mafdet’s Hands]]|Crimsona||ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 359,
+    "text": "|[[Maigo no Uta]]|yourmythos|&#10004;|アルバム28|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 360,
+    "text": "|[[Mark of Remembrance]]|seatrus||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 361,
+    "text": "|[[Mayoizuki]]|onoken feat. Misaki|&#10004;|復刻04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 362,
+    "text": "|[[Me]]|Laur||無題03|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 363,
+    "text": "|[[memories of love]]|kidlit||ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 364,
+    "text": "|[[Memories of You]]|Sad Keyboard Guy|&#10004;|無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 365,
+    "text": "|[[Miocene]]|HAGANE||復刻06|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 366,
+    "text": "|[[Miracle Leaf]]|Nahre Sol||ストーリー02|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 367,
+    "text": "|[[Mirage of Mind]]|Hamu Vo.F9|&#10004;|復刻01|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 368,
+    "text": "|[[Mirai]]|onoken feat. b||復刻09|3.1.1&br;23/10/25|"
+  },
+  {
+    "line": 369,
+    "text": "|[[Mistweaver]]|Sobrem||アルバム05|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 370,
+    "text": "|[[Mondlicht]]|street||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 371,
+    "text": "|[[Moments]]|Jerico||アルバム26|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 372,
+    "text": "|[[Moon Halo]]|M2U||復刻06|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 373,
+    "text": "|[[Moonlight Fragrance]]|H△G|&#10004;|アルバム10|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 374,
+    "text": "|[[Moonrise]]|Complexive||アルバム10|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 375,
+    "text": "|[[Mozart - Piano Sonata in B-flat K.570 Mov.3]]|pianist: Yi-Chen Feng||クラシック04|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 376,
+    "text": "|[[Mozart - Serenade in G Major, K.525 (Excerpt)>Mozart - Serenade in G Major K.525 (Excerpt)]]|pianist: Yi-Chen Feng||クラシック02|3.1.0&br;23/08/02|"
+  },
+  {
+    "line": 377,
+    "text": "|[[Mozart - Sonata in C Major, K.545 (Mov.1)>Mozart - Sonata in C Major K.545 (Mov.1)]]|pianist: Yi-Chen Feng||クラシック01|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 378,
+    "text": "|[[Moving Shadows]]|Fjun|&#10004;|ストーリー03|2.1.2&br;22/11/23|"
+  },
+  {
+    "line": 379,
+    "text": "|[[Mozart Sonata k.545 mov.1]]|pianist: Yi-Chen Feng||クラシック04|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 380,
+    "text": "|[[Mystery Journal]]|Melo:D (The 380's)|&#10004;|アルバム23|2.2.1&br;23/01/18|"
+  },
+  {
+    "line": 381,
+    "text": "|[[Mystraveler]]|Nego_tiator||アルバム34|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 388,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 389,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 390,
+    "text": "|[[Nemophila]]|naotyu- feat.Futaba Minato|&#10004;|アルバム31|3.1.0&br;23/07/12|"
+  },
+  {
+    "line": 391,
+    "text": "|[[Never After Dreams]]|Capchii feat. Yuzuha|&#10004;|アルバム19|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 392,
+    "text": "|[[New Chapter]]|Milkoi||アルバム18|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 393,
+    "text": "|[[Nidome no Sora]]|yourmythos|&#10004;|無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 394,
+    "text": "|[[Nier Fluquor]]|onoken||復刻09|3.1.1&br;23/10/25|"
+  },
+  {
+    "line": 395,
+    "text": "|[[nightfall]]|ginkiha||復刻02|1.2.2&br;22/06/15|"
+  },
+  {
+    "line": 396,
+    "text": "|[[Nightster]]|Nightster|&#10004;|無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 397,
+    "text": "|[[Nine Point Eight]]|Mili|&#10004;|復刻07|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 398,
+    "text": "|[[No+e o/= Hope]]|xi||アルバム24|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 399,
+    "text": "|[[NostaRoad]]|Feryquitous||アルバム11|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 400,
+    "text": "|[[Not alone]]|ISAFAT|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 407,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 408,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 409,
+    "text": "|[[Occidens]]|ginkiha||スペシャル01|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 410,
+    "text": "|[[Olympia]]|Nardis||復刻04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 411,
+    "text": "|[[On & On>On and On]]|Neighbors Complain|&#10004;|アルバム19|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 412,
+    "text": "|[[op258]]|K.Shiraki||アルバム31|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 413,
+    "text": "|[[op280]]|K.Shiraki||アルバム40|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 414,
+    "text": "|[[overloaded emotions]]|ARForest||アルバム40|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 415,
+    "text": "|[[Overture your dream &#8222;Carpe-Diem“>Overture your dream Carpe-Diem]]|Apo11o program vs. onoken &br;ft. Tamako Kinoshita|&#10004;|ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 416,
+    "text": "|[[Owari to Hajimari no Oto &br;(piano ver.)>Owari to Hajimari no Oto (piano ver.)]]|Umeboshi Chazuke, arranged &br;by SLS||アルバム16|1.3.0&br;22/07/06|"
+  },
+  {
+    "line": 423,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 424,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 425,
+    "text": "|[[Page 0]]|Chroma||アルバム24|2.2.1&br;23/02/08|"
+  },
+  {
+    "line": 426,
+    "text": "|[[Paraline]]|Yuta Murase||無題02|3.1.0&br;23/07/26|"
+  },
+  {
+    "line": 427,
+    "text": "|[[Parousia]]|xi||復刻10|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 428,
+    "text": "|[[Particle Parade]]|Tomggg||ストーリー02|1.3.0&br;22/08/24|"
+  },
+  {
+    "line": 429,
+    "text": "|[[Payapaya]]|Miyo Takashiro|&#10004;|アルバム39|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 430,
+    "text": "|[[Petals Fall]]|Hudson Lee (feat. Oyeme)|&#10004;|無題02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 431,
+    "text": "|[[Pharmacy of heart]]|white tail box ft.riri|&#10004;|復刻05|1.1.0&br;22/03/09|"
+  },
+  {
+    "line": 432,
+    "text": "|[[Phases of the Moon]]|xi||無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 433,
+    "text": "|[[Piano Bend]]|Kevin Penkin||アルバム17|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 434,
+    "text": "|[[platform-5]]|Aethoro feat. xia|&#10004;|無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 435,
+    "text": "|[[Plathome]]|ISAFAT||ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 436,
+    "text": "|[[Platinum (piano ver.)]]|Sta, arranged by Nahre Sol||アルバム14|1.2.1&br;22/04/27|"
+  },
+  {
+    "line": 437,
+    "text": "|[[Pr&#233;lude de l’adieu>Prelude de l’adieu]]|onoken||復刻09|3.1.1&br;23/10/25|"
+  },
+  {
+    "line": 438,
+    "text": "|[[Popcorn]]|Nahre Sol||アルバム13|1.0.10&br;22/02/09|"
+  },
+  {
+    "line": 439,
+    "text": "|[[Post-Script (piano ver.)]]|the hoshizora project (HZP)&br;, arranged by Keikaku Tsuukou||オンデマンド01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 440,
+    "text": "|[[Practical Joke]]|good-cool feat. &br;KI-SA-MA Sisters|&#10004;|アルバム03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 441,
+    "text": "|[[Pray for Breeze]]|Fty feat.Futaba Minato|&#10004;|アルバム31|3.1.0&br;23/07/12|"
+  },
+  {
+    "line": 442,
+    "text": "|[[Pray for the rain]]|onoken feat. Tamako Kinoshita|&#10004;|アルバム15|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 443,
+    "text": "|[[Precious Days]]|Rin Matsubayashi (INSPION)|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 444,
+    "text": "|[[Precious Paramount]]|Hannah & Y.U.E.|&#10004;|アルバム03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 445,
+    "text": "|[[Purple Strings]]|Kevin Penkin||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 446,
+    "text": "|[[Puzzle]]|street||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 453,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 454,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 455,
+    "text": "|>|>|>|>|CENTER:&size(12){&color(white,#292929){&br;楽曲無し&br;&br;};};|"
+  },
+  {
+    "line": 462,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 463,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 464,
+    "text": "|[[Rachmaninoff - Paganini &br;Variation No.18 (Arrangement &br;for piano solo)>Rachmaninoff - Paganini Variation No.18 (Arrangement for piano solo)]]|pianist: Yi-Chen Feng||クラシック01|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 465,
+    "text": "|[[Radio Station]]|Essbee||アルバム35|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 466,
+    "text": "|[[Rain Carnation, Ruin Lilac>Rain Carnation Ruin Lilac]]|Apo11o program ft.&br;ATSUMI UEDA|&#10004;|ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 467,
+    "text": "|[[Rain Glitch]]|PARKGOLF||無題03|2.0.1&br;22/10/12|"
+  },
+  {
+    "line": 468,
+    "text": "|[[Rain Lily]]|H△G|&#10004;|ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 469,
+    "text": "|[[Rainy Memory]]|Rabpit||復刻07|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 470,
+    "text": "|[[Re:Saika -kazahana->Re Saika -kazahana-]]|RABPIT × Apo11o program &br;ft. Sera Amagi|&#10004;|アルバム19|2.0.1&br;22/09/28|"
+  },
+  {
+    "line": 471,
+    "text": "|[[Re:Star Fragment>Re Star Fragment]]|WonderRats feat.Dadaco|&#10004;|アルバム17|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 472,
+    "text": "|[[Re:turn the World, Odyssey &br;of the Ark.>Re turn the World Odyssey of the Ark.]]|Ayatsugu_Otowa feat. Sennzai|&#10004;|アルバム18|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 473,
+    "text": "|[[Real Notes]]|yourmythos|&#10004;|無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 474,
+    "text": "|[[Recall The Old Days]]|NIWASHI||無題01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 475,
+    "text": "|[[reconfigure]]|Ascellia Mio & Na'o||アルバム34|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 476,
+    "text": "|[[Recreant of the Everlasting]]|Elliot Hsu||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 477,
+    "text": "|[[Red Storm Sentiment]]|Tsukasa feat. kalon|&#10004;|無題01|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 478,
+    "text": "|[[Reminisce]]|Airuei ft. Renko|&#10004;|無題03|1.3.0&br;22/08/17|"
+  },
+  {
+    "line": 479,
+    "text": "|[[Replica]]|bq studio|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 480,
+    "text": "|[[Respighi - Valse Caressante]]|pianist: Yi-Chen Feng||クラシック02|1.1.0&br;22/03/23|"
+  },
+  {
+    "line": 481,
+    "text": "|[[Resurrection \"Samurai\">Resurrection Samurai]]|Shogo Nomura (BNSI)||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 482,
+    "text": "|[[Reunite]]|Tsukishiro Hikari||無題01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 483,
+    "text": "|[[Reverie]]|satella||ストーリー01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 484,
+    "text": "|[[Revoltade]]|Miyolophone||アルバム30|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 485,
+    "text": "|[[Rhuzerv]]|Feryquitous feat.Sennzai|&#10004;|スペシャル02|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 486,
+    "text": "|[[Ride Those Winds]]|tanigon||アルバム03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 487,
+    "text": "|[[Rokh no gakuhu]]|Apo11o program ft. Emma Chouette|&#10004;|無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 488,
+    "text": "|[[Run go run and run]]|kaeru underground feat. &br;Analog digitaL||アルバム06|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 489,
+    "text": "|[[Run]]|Michael Wyckoff &br;& Patrick John Lu|&#10004;|アルバム05|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 496,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 497,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 498,
+    "text": "|[[saeru]]|yourmythos|&#10004;|無題02|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 499,
+    "text": "|[[SAIRAI]]|Shinichi Kobayashi||復刻03|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 500,
+    "text": "|[[sanctity]]|Rabpit||復刻04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 501,
+    "text": "|[[Sayoshigure]]|Miyo Takashiro|&#10004;|アルバム33|3.1.1&br;23/10/04|"
+  },
+  {
+    "line": 502,
+    "text": "|[[Scarlatti - k.1]]|pianist: Yi-Chen Feng||クラシック02|1.1.0&br;22/04/20|"
+  },
+  {
+    "line": 503,
+    "text": "|[[Scarlatti - Sonata in G Major]]|pianist: Yi-Chen Feng||クラシック03|1.2.2&br;22/05/11|"
+  },
+  {
+    "line": 504,
+    "text": "|[[Scent (piano ver.)]]|Farhan, arranged by Nahre Sol||オンデマンド01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 505,
+    "text": "|[[Schubert - Impromptu No.3 &br;(Excerpt)>Schubert - Impromptu No.3 (Excerpt)]]|pianist: Yi-Chen Feng||クラシック02|1.0.8&br;22/01/19|"
+  },
+  {
+    "line": 506,
+    "text": "|[[Schubert - Wanderer Fantasy Mov.4]]|pianist: Yi-Chen Feng||クラシック04|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 507,
+    "text": "|[[Sea Side Road]]|Eshen|&#10004;|スペシャル01|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 508,
+    "text": "|[[Secret Letters]]|Sakiko Sakuragi (INSPION)|&#10004;|アルバム15|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 509,
+    "text": "|[[Secret Place]]|ARForest||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 510,
+    "text": "|[[Serendibite]]|Nego_tiator||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 511,
+    "text": "|[[Shedding Season]]|TERU FOX||復刻02|1.2.2&br;22/06/15|"
+  },
+  {
+    "line": 512,
+    "text": "|[[Shelter]]|Iris|&#10004;|アルバム21|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 513,
+    "text": "|[[Shinigami Line]]|Miyolophone feat. eris elysia|&#10004;|アルバム23|2.2.1&br;23/01/18|"
+  },
+  {
+    "line": 514,
+    "text": "|[[Shiny!]]|Ayatsugu_Otowa||無題02|3.0.0&br;23/06/21|"
+  },
+  {
+    "line": 515,
+    "text": "|[[Shirase]]|Miyo Takashiro|&#10004;|無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 516,
+    "text": "|[[SHOWTIME!!]]|Aethoro feat.Traceco|&#10004;|アルバム35|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 517,
+    "text": "|[[Sketchbook]]|Aethoro feat. vally.exe|&#10004;|ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 518,
+    "text": "|[[sleeping flowers]]|kidlit|&#10004;|ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 519,
+    "text": "|[[Snowflake]]|H△G|&#10004;|アルバム01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 520,
+    "text": "|[[SnowFlake]]|Lunatic Sounds||無題01|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 521,
+    "text": "|[[Soaring]]|Jerico||復刻06|2.1.0&br;22/10/26|"
+  },
+  {
+    "line": 522,
+    "text": "|[[softly illuminated]]|Shoichiro Hirata||アルバム18|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 523,
+    "text": "|[[SOMEWHERE ELSE]]|dark cat||アルバム10|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 524,
+    "text": "|[[Somewhere]]|You Xue Qian||アルバム17|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 525,
+    "text": "|[[son nani watashi wo...]]|Uemura Kanae|&#10004;|復刻04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 526,
+    "text": "|[[sowasowa]]|Harito||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 527,
+    "text": "|[[Sprout]]|HALLPBESTUDIO|&#10004;|復刻02|1.2.2&br;22/06/15|"
+  },
+  {
+    "line": 528,
+    "text": "|[[Squeaky Mind]]|t+pazolite||スペシャル02|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 529,
+    "text": "|[[Stand Steel]]|Sammi Lin||アルバム13|1.0.10&br;22/02/09|"
+  },
+  {
+    "line": 530,
+    "text": "|[[Star]]|Street||アルバム36|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 531,
+    "text": "|[[Stardust Pickpocket]]|kidlit|&#10004;|アルバム40|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 532,
+    "text": "|[[stati&#248;n -Last train bound for &br;saihate.->station -Last train bound for saihate.-]]|Apo11o\"DAISYWORLD\"program &br;ft.Guriri|&#10004;|アルバム18|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 533,
+    "text": "|[[Stay in the Circle]]|JYOCHO|&#10004;|アルバム20|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 534,
+    "text": "|[[Stay with me]]|Mitsukiyo||アルバム29|3.0.0&br;23/05/31|"
+  },
+  {
+    "line": 535,
+    "text": "|[[Still (piano ver.)]]|Rua feat. K, arranged by &br;Nahre Sol||アルバム16|1.3.0&br;22/07/06|"
+  },
+  {
+    "line": 536,
+    "text": "|[[Story]]|Rabpit│Apo11o program│&br;SeraAmagi│Yuukineko|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 537,
+    "text": "|[[Strangers on the station]]|kidlit||アルバム22|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 538,
+    "text": "|[[SUICHU]]|HOSHIMIYATOTO+TEMPLIME||アルバム37|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 539,
+    "text": "|[[Suiu]]|Ayaka Tachibana|&#10004;|アルバム02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 540,
+    "text": "|[[Sunday Coffee]]|Alice Lee & Michael Wyckoff||アルバム01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 541,
+    "text": "|[[Sunrise]]|Hydra Tsai (INSPION)||アルバム18|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 542,
+    "text": "|[[Sweet Sweet]]|TSK||アルバム40|4.0.5&br;24/07/03|"
+  },
+  {
+    "line": 543,
+    "text": "|[[Sweetheart Crush]]|seatrus||アルバム33|3.1.1&br;23/10/04|"
+  },
+  {
+    "line": 544,
+    "text": "|[[Symphony Blue for 2 Pianos]]|kidlit||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 545,
+    "text": "|[[sy&#363;ten (piano ver.)>syuten (piano ver.)]]|Apo11o\"COLLAPSAR\"program&br;, arranged by SLS||アルバム16|1.3.0&br;22/07/06|"
+  },
+  {
+    "line": 552,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 553,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 554,
+    "text": "|[[Take a Breath]]|Glacier||アルバム11|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 555,
+    "text": "|[[Tango Estrecho]]|Miyolophone||ストーリー06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 556,
+    "text": "|[[Tchaikovsky the Seasons &br;op.37a, Feb.>Tchaikovsky the Seasons op.37a Feb.]]|pianist: Yi-Chen Feng||クラシック04|2.1.2&br;22/12/14|"
+  },
+  {
+    "line": 557,
+    "text": "|[[Tenkiame]]|Yamajet||アルバム12|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 558,
+    "text": "|[[Tempest]]|Freeleaves||復刻10|3.1.1&br;23/11/22|"
+  },
+  {
+    "line": 559,
+    "text": "|[[Terminus]]|ARForest||無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 560,
+    "text": "|[[That Rainy Day]]|Sakiko Sakuragi (INSPION)|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 561,
+    "text": "|[[The Illusionist]]|Sakiko Sakuragi (INSPION)||アルバム05|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 562,
+    "text": "|[[The Last Bloom]]|3R2||復刻11|4.0.3&br;24/03/06|"
+  },
+  {
+    "line": 563,
+    "text": "|[[The Long Voyage]]|kidlit||アルバム38|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 564,
+    "text": "|[[The Longest Night]]|Euchaeta|&#10004;|復刻08|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 565,
+    "text": "|[[The Missing Chapter]]|Osamu Kubota||アルバム25|2.2.1&br;23/02/22|"
+  },
+  {
+    "line": 566,
+    "text": "|[[The sky is the limit]]|JAKAZiD+Apo11o program ft.miwacoco14|&#10004;|アルバム27|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 567,
+    "text": "|[[This is Rain, Not Tears>This is Rain Not Tears]]|Fjun|&#10004;|アルバム13|1.0.10&br;22/02/09|"
+  },
+  {
+    "line": 568,
+    "text": "|[[Through Mist and Fog]]|iolli|&#10004;|無題02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 569,
+    "text": "|[[Time Goes By]]|Rhyan D'Errico||アルバム21|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 570,
+    "text": "|[[Tishtrya-G&#216;DEES SΛVE THE &br;AFTERGLOW->Tishtrya-GODEES SAVE THE AFTERGLOW-]]|Apo11o program vs. Yuma.Mizo &br;ft.Ai Ohsera|&#10004;|アルバム25|2.2.1&br;23/02/22|"
+  },
+  {
+    "line": 571,
+    "text": "|[[To next page]]|kamome sano||スペシャル02|4.0.3&br;24/03/27|"
+  },
+  {
+    "line": 572,
+    "text": "|[[toketa kokorono omoibito]]|technoplanet||アルバム15|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 573,
+    "text": "|[[Tondari-Hanetari]]|Yuichi Tsuchiya||復刻08|3.1.1&br;23/09/06|"
+  },
+  {
+    "line": 574,
+    "text": "|[[Toys Etude]]|soyomogi||復刻07|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 575,
+    "text": "|[[Traveler]]|ISAFAT|&#10004;|無題01|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 576,
+    "text": "|[[Try to]]|banene|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 577,
+    "text": "|[[Tsukiyura (piano ver.)]]|mitssi, arranged by &br;Keikaku Tsuukou||アルバム16|1.3.0&br;22/07/06|"
+  },
+  {
+    "line": 578,
+    "text": "|[[Tsukuroi]]|Miyo Takashiro|&#10004;|アルバム38|4.0.4&br;24/05/08|"
+  },
+  {
+    "line": 579,
+    "text": "|[[Tsutaetai omoi]]|Rin Matsubayashi (INSPION)|&#10004;|アルバム17|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 580,
+    "text": "|[[Tuberose]]|7mai||アルバム10|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 581,
+    "text": "|[[Turbulent Hearts]]|Elliot Hsu||アルバム36|4.0.1&br;24/01/31|"
+  },
+  {
+    "line": 582,
+    "text": "|[[Turn into the Blue]]|JYOCHO|&#10004;|アルバム20|2.1.2&br;22/11/30|"
+  },
+  {
+    "line": 583,
+    "text": "|[[Two doors]]|KiWi|&#10004;|アルバム28|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 584,
+    "text": "|[[Two roads diverged]]|Chamber Chu||無題01|1.1.0&br;22/03/16|"
+  },
+  {
+    "line": 591,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 592,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 593,
+    "text": "|[[UFO]]|Mili|&#10004;|復刻02|1.2.2&br;22/06/15|"
+  },
+  {
+    "line": 594,
+    "text": "|[[Un Deux Trois]]|Miyolophone feat. natsunaya|&#10004;|ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 595,
+    "text": "|[[Uneven Star]]|Ascellia Mio||無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 596,
+    "text": "|[[Unlimited]]|technoplanet||アルバム15|1.2.2&br;22/05/25|"
+  },
+  {
+    "line": 597,
+    "text": "|[[Unmelting]]|t+pazolite||ストーリー02|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 598,
+    "text": "|[[Unravelling]]|Aethoro & Moon Jelly|&#10004;|無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 599,
+    "text": "|[[Until we meet again]]|KiWi|&#10004;|無題06|4.0.0&br;23/12/13|"
+  },
+  {
+    "line": 600,
+    "text": "|[[Unwavering Spirit]]|Elliot Hsu||ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 601,
+    "text": "|[[Utopiosphere]]|Mili|&#10004;|無題01|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 602,
+    "text": "|[[Utsusemi]]|Miyo Takashiro|&#10004;|ストーリー05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 609,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 610,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 611,
+    "text": "|[[vacant]]|callasolied||アルバム32|3.1.1&br;23/08/02|"
+  },
+  {
+    "line": 612,
+    "text": "|[[Valhalla]]|Error Signal||アルバム26|2.2.1&br;23/03/15|"
+  },
+  {
+    "line": 613,
+    "text": "|[[Veritas]]|presti||スペシャル02|4.0.1&br;24/01/03|"
+  },
+  {
+    "line": 614,
+    "text": "|[[Vivaldi - summer, presto>Vivaldi - summer presto]]|pianist: Yi-Chen Feng||クラシック01|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 621,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 622,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 623,
+    "text": "|[[Waffles and Mimosas]]|Complexive|&#10004;|無題02|2.2.1&br;22/12/21|"
+  },
+  {
+    "line": 624,
+    "text": "|[[Wandering in a Water Tunnel]]|Soshitearuiha|&#10004;|アルバム13|1.0.10&br;22/02/09|"
+  },
+  {
+    "line": 625,
+    "text": "|[[wavelets]]|Ryo Arue||アルバム28|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 626,
+    "text": "|[[White Clover]]|H△G|&#10004;|アルバム04|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 627,
+    "text": "|[[Wholeheartedness]]|BlackY||アルバム28|3.0.0&br;23/05/10|"
+  },
+  {
+    "line": 628,
+    "text": "|[[wilt (piano ver.)]]|VerseQuence, arranged by &br;Keikaku Tsuukou||アルバム14|1.2.1&br;22/04/27|"
+  },
+  {
+    "line": 629,
+    "text": "|[[windmolen]]|Qutabire||無題05|3.0.0&br;23/04/26|"
+  },
+  {
+    "line": 630,
+    "text": "|[[Wish upon a shooting star]]|SUi||復刻07|2.1.2&br;22/11/09|"
+  },
+  {
+    "line": 631,
+    "text": "|[[Wishful Spirit]]|Tutara ft. Zes|&#10004;|無題03|1.2.2&br;22/06/29|"
+  },
+  {
+    "line": 632,
+    "text": "|[[Witch's Invitation]]|Mili|&#10004;|スペシャル01|2.2.1&br;23/01/04|"
+  },
+  {
+    "line": 633,
+    "text": "|[[with your prayer]]|Takenoko boy||ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 634,
+    "text": "|[[With your rain]]|Takenoko boy||アルバム12|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 635,
+    "text": "|[[wonder world]]|kidlit||アルバム39|4.0.4&br;24/06/05|"
+  },
+  {
+    "line": 642,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 643,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 644,
+    "text": "|>|>|>|>|CENTER:&size(12){&color(white,#292929){&br;楽曲無し&br;&br;};};|"
+  },
+  {
+    "line": 651,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 652,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 653,
+    "text": "|[[Yadorigi]]|Miyo Takashiro|&#10004;|ストーリー04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 654,
+    "text": "|[[Yarazu Ame]]|Shogo Nomura (BNSI)||アルバム29|3.0.0&br;23/05/31|"
+  },
+  {
+    "line": 655,
+    "text": "|[[Yoake no Uta]]|M2U / Vocal: Dazbee|&#10004;|復刻03|1.3.0&br;22/08/03|"
+  },
+  {
+    "line": 656,
+    "text": "|[[Yoake]]|Ayaka Tachibana|&#10004;|アルバム07|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 657,
+    "text": "|[[You can dance with me]]|You Xue Qian||アルバム17|1.1.0&br;22/04/06|"
+  },
+  {
+    "line": 658,
+    "text": "|[[Yume]]|Hannah & Y.U.E.|&#10004;|アルバム03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 665,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 666,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 667,
+    "text": "|[[Zinnia]]|Titancube||無題04|2.0.1&br;22/09/07|"
+  },
+  {
+    "line": 668,
+    "text": "|[[Zuttosobani]]|odol|&#10004;|ストーリー03|1.0.8&br;22/01/13|"
+  },
+  {
+    "line": 675,
+    "text": "|LEFT:220|LEFT:220|CENTER:50|CENTER:105|CENTER:80|c"
+  },
+  {
+    "line": 676,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Lyrics|~Album|~Update&br;Version|h"
+  },
+  {
+    "line": 677,
+    "text": "|[[2:99am>2 99am]]|Shogo Nomura (BNSI)||アルバム23|2.2.1&br;23/01/18|"
+  }
+]

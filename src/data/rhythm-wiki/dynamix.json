@@ -1,0 +1,2522 @@
+[
+  {
+    "line": 12,
+    "text": "|CENTER:|CENTER:90|CENTER:160|CENTER:350|c"
+  },
+  {
+    "line": 13,
+    "text": "|~アプリ名称|>|Dynamix|&attachref(./Dynamix_logo.jpg,150x150);&br;[[&attachref(./DL_AppStore.png,AppStoreリンク,90x90);>https://apps.apple.com/us/app/dynamix/id945955095]][[&attachref(./DL_GooglePlay.png,GooglePlayリンク,101x101);>https://play.google.com/store/apps/details?id=com.c4cat.dynamix]]|"
+  },
+  {
+    "line": 14,
+    "text": "|~開発元|>|C4Cat Entertainment Limited|~|"
+  },
+  {
+    "line": 15,
+    "text": "|~対応言語|>|日本語/英語/中国語(繁体)|~|"
+  },
+  {
+    "line": 16,
+    "text": "|~リリース|~iOS|2015年5月20日|~|"
+  },
+  {
+    "line": 17,
+    "text": "|~|~Android|2014年10月30日|~|"
+  },
+  {
+    "line": 18,
+    "text": "|~基本価格|~iOS|無料|~|"
+  },
+  {
+    "line": 19,
+    "text": "|~|~Android|~|~|"
+  },
+  {
+    "line": 20,
+    "text": "|~アプリ内課金|~iOS|[[下記>Dynamix#pay]]に記載|~|"
+  },
+  {
+    "line": 21,
+    "text": "|~|~Android|~|~|"
+  },
+  {
+    "line": 55,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 56,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 57,
+    "text": "|Danse de Romani|MUE|"
+  },
+  {
+    "line": 58,
+    "text": "|Contour|litmus*|"
+  },
+  {
+    "line": 59,
+    "text": "|Makes Me Wonder|P4koo|"
+  },
+  {
+    "line": 60,
+    "text": "|Wah!|ARForest|"
+  },
+  {
+    "line": 62,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 63,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 64,
+    "text": "|Riverside Cafe|litmus*|"
+  },
+  {
+    "line": 65,
+    "text": "|Metheus|ARForest|"
+  },
+  {
+    "line": 66,
+    "text": "|Nick of Time|P4koo|"
+  },
+  {
+    "line": 67,
+    "text": "|Final Dash|MUE|"
+  },
+  {
+    "line": 69,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 70,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 71,
+    "text": "|Outer Space|litmus*|"
+  },
+  {
+    "line": 73,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 74,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 75,
+    "text": "|Crank up|litmus*|"
+  },
+  {
+    "line": 79,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 80,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 81,
+    "text": "|Reborn|Scarfaith|"
+  },
+  {
+    "line": 83,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 84,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 85,
+    "text": "|Seedy Try|t+pazolite|"
+  },
+  {
+    "line": 86,
+    "text": "|Stage5|Lv.4|"
+  },
+  {
+    "line": 88,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 89,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 90,
+    "text": "|Offshore|Nhato|"
+  },
+  {
+    "line": 94,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 95,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 96,
+    "text": "|duet|Skytree Original|"
+  },
+  {
+    "line": 97,
+    "text": "|L'AMITIE|Skytree Original|"
+  },
+  {
+    "line": 99,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 100,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 101,
+    "text": "|GOEMON|ICBM|"
+  },
+  {
+    "line": 105,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 106,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 107,
+    "text": "|Azure Snow Land|3R2|"
+  },
+  {
+    "line": 108,
+    "text": "|System Interior|3R2|"
+  },
+  {
+    "line": 109,
+    "text": "|The Truth Never Spoken|3R2|"
+  },
+  {
+    "line": 110,
+    "text": "|No Remorse|3R2|"
+  },
+  {
+    "line": 112,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 113,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 114,
+    "text": "|Theme of Rabi-Ribi|3R2|"
+  },
+  {
+    "line": 118,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 119,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 120,
+    "text": "|Regenerate Violence|V!C|"
+  },
+  {
+    "line": 124,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 125,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 126,
+    "text": "|Essence of Twilight|ak+q|"
+  },
+  {
+    "line": 127,
+    "text": "|Party Vinyl|モリモリあつし|"
+  },
+  {
+    "line": 128,
+    "text": "|フライブルクとエンドロウル|アリスシャッハと魔法の楽団|"
+  },
+  {
+    "line": 129,
+    "text": "|Flashback|ARForest|"
+  },
+  {
+    "line": 131,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 132,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 133,
+    "text": "|Vexaria|ak+q|"
+  },
+  {
+    "line": 137,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 138,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 139,
+    "text": "|Catastrophe|powerless|"
+  },
+  {
+    "line": 140,
+    "text": "|Convictor|Ayatsugu_Otowa|"
+  },
+  {
+    "line": 141,
+    "text": "|奏 -KANADE-|naccle|"
+  },
+  {
+    "line": 142,
+    "text": "|Lucentear|ぺのれり|"
+  },
+  {
+    "line": 144,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 145,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 146,
+    "text": "|Dolqueen|ONOKEN|"
+  },
+  {
+    "line": 150,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 151,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 152,
+    "text": "|White : Revolve|adaptor|"
+  },
+  {
+    "line": 153,
+    "text": "|Mitochondria|5argon|"
+  },
+  {
+    "line": 154,
+    "text": "|Astral|Titan Chaos|"
+  },
+  {
+    "line": 155,
+    "text": "|ReLyna|Se-U-Ra|"
+  },
+  {
+    "line": 157,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 158,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 159,
+    "text": "|Rave! and Get on it!|Woof|"
+  },
+  {
+    "line": 160,
+    "text": "|Euouae|Spyro Kong|"
+  },
+  {
+    "line": 161,
+    "text": "|Totally bounded|影虎。|"
+  },
+  {
+    "line": 162,
+    "text": "|MassacrE &#124;&#124; 3rc4224M|Spiegel vs Yukino|"
+  },
+  {
+    "line": 166,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 167,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 168,
+    "text": "|Restricted Access|Knighthood|"
+  },
+  {
+    "line": 169,
+    "text": "|Marsh Winds|ETIA.|"
+  },
+  {
+    "line": 170,
+    "text": "|Rondo of the 3ND|SEPHID|"
+  },
+  {
+    "line": 171,
+    "text": "|SUTTA MONDAY|MYUKKE.|"
+  },
+  {
+    "line": 173,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 174,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 175,
+    "text": "|零號車輛|seatrus|"
+  },
+  {
+    "line": 176,
+    "text": "|Lucid Trigger|Liq_mmry|"
+  },
+  {
+    "line": 177,
+    "text": "|Turning POINT|Junk|"
+  },
+  {
+    "line": 178,
+    "text": "|Hiyaiya!|MYUKKE.|"
+  },
+  {
+    "line": 182,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 183,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 184,
+    "text": "|Grayscale Tragedy|Polysha|"
+  },
+  {
+    "line": 185,
+    "text": "|Horloge|xL|"
+  },
+  {
+    "line": 186,
+    "text": "|NNOYiA|Se-U-Ra|"
+  },
+  {
+    "line": 187,
+    "text": "|ネーヴェの紋様|R.Solidor|"
+  },
+  {
+    "line": 191,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 192,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 193,
+    "text": "|流麗凛舞|K-forest|"
+  },
+  {
+    "line": 194,
+    "text": "|画竜天晴|Halv|"
+  },
+  {
+    "line": 195,
+    "text": "|Bloom Blade|Crawk|"
+  },
+  {
+    "line": 196,
+    "text": "|Luna Rossa|r0y|"
+  },
+  {
+    "line": 200,
+    "text": "|LEFT190|LEFT190|c"
+  },
+  {
+    "line": 201,
+    "text": "|楽曲|作曲者|h"
+  },
+  {
+    "line": 202,
+    "text": "|Heaven's Cage|ETIA.|"
+  },
+  {
+    "line": 203,
+    "text": "|Secret Illumination|Yooh|"
+  },
+  {
+    "line": 204,
+    "text": "|Starlight Traveler|ああああ + 打打だいず|"
+  },
+  {
+    "line": 205,
+    "text": "|vs.TREAMEЯ|AAAAoi(ああああ+Aoi)|"
+  },
+  {
+    "line": 224,
+    "text": "|CENTER:100|CENTER:100|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:100|c"
+  },
+  {
+    "line": 225,
+    "text": "|''楽曲名''|''名義''|''C''|''N''|''H''|''M''|''G''|''公式音源''|h"
+  },
+  {
+    "line": 226,
+    "text": "|~Supernova|\tSynthtonix\t|\t-\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 227,
+    "text": "|~HeracleS|\t打打だいず vs. siromaru\t|\t-\t|\t7\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 228,
+    "text": "|~Moonset|\tThe Dystopia's Tomorrow\t|\t1\t|\t6\t|\t-\t|\t-\t|\t13\t|\t|"
+  },
+  {
+    "line": 229,
+    "text": "|~FUNK TIME!!!|\tRAYの丼/VQMD\t|\t3\t|\t-\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 230,
+    "text": "|~Phoenixismia|\tC4ydora(CS4W + Pirendora)\t|\t5\t|\t-\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 231,
+    "text": "|~GIFT|\tNotorious(Nota & TRIAL)\t|\t3\t|\t6\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 232,
+    "text": "|~Ephemeral Echo|\tKenuno\t|\t3\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 233,
+    "text": "|~Sleepless|\tTKG vs Withecker\t|\t2\t|\t-\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 234,
+    "text": "|~Far East Frontline|\tNight Yard\t|\t3\t|\t-\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 235,
+    "text": "|~Amphisbaena|\t打打だいず vs. siromaru\t|\t-\t|\t7\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 236,
+    "text": "|~BIT TECH COMPUTER|\tKUROI\t|\t-\t|\t4\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 237,
+    "text": "|~Alone|\tLillyRazy\t|\t-\t|\t6\t|\t12\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 238,
+    "text": "|~FREEZE|\tlixound feat.薛南\t|\t3\t|\t-\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 239,
+    "text": "|~Hauynite|\tRYOQUCHA & CS4W\t|\t4\t|\t-\t|\t11\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 240,
+    "text": "|~Assassin|\tTKG\t|\t2\t|\t-\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 241,
+    "text": "|~Distance|\tCentral Divide vs. surk\t|\t-\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 242,
+    "text": "|~Lacrimosa|\tAbel & RiraN\t|\t-\t|\t5\t|\t-\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 243,
+    "text": "|~Welcome, SSSpooky!!!|\tTanchiky Vs. 打打だいず\t|\t2\t|\t5\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 244,
+    "text": "|~taunami|\tlunul x nuno\t|\t-\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 245,
+    "text": "|~&#40;&#40;unidentified new entry))|\tLIXION\t|\t-\t|\t7\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 246,
+    "text": "|~haptime|\tdingerbox\t|\t-\t|\t6\t|\t11\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 247,
+    "text": "|~魑魅戴天|\tmayoi\t|\t-\t|\t5\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 248,
+    "text": "|~Wuthering Weapon|\tTakahiro Aoki\t|\t-\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 249,
+    "text": "|~Pumpkin Lollipop|\tpan\t|\t2\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 250,
+    "text": "|~&#33067;&#28542;|\tPica\t|\t2\t|\t-\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 251,
+    "text": "|~City Girl in the Love|\tudon!\t|\t-\t|\t6\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 252,
+    "text": "|~Ragnar&#248;k|\tDokuwaki feat.薔薇姫メイデン・クライネ\t|\t3\t|\t-\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 253,
+    "text": "|~MEGA　POP|\tUrtica_Ferox_\t|\t-\t|\t4\t|\t11\t|\t15\t|\t-\t|\t|"
+  },
+  {
+    "line": 254,
+    "text": "|~lehigh|\tディンガー vs 橙ミャオ\t|\t3\t|\t-\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 255,
+    "text": "|~NightTheater|\tわかどり\t|\t2\t|\t5\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 256,
+    "text": "|~Volcano|\tTakahiro Aoki\t|\t2\t|\t6\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 257,
+    "text": "|~Ennor|\tRaimukun\t|\t3\t|\t7\t|\t12\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 258,
+    "text": "|~Guilty Hostage|\tCS4W\t|\t-\t|\t6\t|\t11\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 259,
+    "text": "|~ムーンリット・ワンダラー|\tみーに\t|\t3\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 260,
+    "text": "|~Ultimate Lachesism|\tFallN Leav\t|\t-\t|\t5\t|\t9\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 261,
+    "text": "|~lodeinfo|\tdingerbox\t|\t-\t|\t7\t|\t-\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 262,
+    "text": "|~Zephyr|\tTQ☆\t|\t2\t|\t5\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 263,
+    "text": "|~Kyubi|\tHalv\t|\t-\t|\t-\t|\t10\t|\t14\t|\t14\t|\t|"
+  },
+  {
+    "line": 264,
+    "text": "|~Eldredth|\tNordius Dystancius\t|\t3\t|\t5\t|\t8\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 265,
+    "text": "|~ISERA (DNX Edit)|\tJehezukiel & Ice\t|\t2\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 266,
+    "text": "|~Decoherence|\tsurk\t|\t2\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 267,
+    "text": "|~ELYXiVN ELYXiUM|\tReku Mochizuki\t|\t3\t|\t6\t|\t9\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 268,
+    "text": "|~Virtual Nature|\t荒谷サトル\t|\t-\t|\t5\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 269,
+    "text": "|~Physical Cosmology|\t7mai vs pan\t|\t3\t|\t6\t|\t10\t|\t14\t|\t14\t|\t|"
+  },
+  {
+    "line": 270,
+    "text": "|~Rule The World|\tVau Boy\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 271,
+    "text": "|~Polaris Australis|\tくるぶっこちゃん\t|\t-\t|\t7\t|\t-\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 272,
+    "text": "|~You Psy|\tNight Yard\t|\t-\t|\t5\t|\t-\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 273,
+    "text": "|~You Were With A Boy|\tVau Boy\t|\t-\t|\t5\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 274,
+    "text": "|~Waldjaegerin|\tAbel\t|\t3\t|\t-\t|\t9\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 275,
+    "text": "|~2000VOLT|\tALTA\t|\t5\t|\t-\t|\t-\t|\t11\t|\t15\t|\t|"
+  },
+  {
+    "line": 276,
+    "text": "|~Sunset Toybox feat. 桃雛なの|\tテヅカ x Aoi\t|\t-\t|\t8\t|\t11\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 277,
+    "text": "|~Back Out|\tRiraN\t|\t-\t|\t-\t|\t9\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 278,
+    "text": "|~Unsung Hero|\t桃源郷華\t|\t-\t|\t4\t|\t8\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 279,
+    "text": "|~Legacy|\tJehezukiel\t|\t2\t|\t5\t|\t9\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 280,
+    "text": "|~freewheeling|\tルゼ\t|\t3\t|\t-\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 281,
+    "text": "|~Once again (DNX Edit.)|\tCansol\t|\t3\t|\t-\t|\t-\t|\t11\t|\t15\t|\t|"
+  },
+  {
+    "line": 282,
+    "text": "|~Pollux|\tAoi\t|\t-\t|\t6\t|\t10\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 283,
+    "text": "|~In a vat|\tteknizer\t|\t-\t|\t5\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 284,
+    "text": "|~War in the Mirrorworld|\tAoi\t|\t2\t|\t8\t|\t12\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 285,
+    "text": "|~Tech-Nique|\tRaphiiel\t|\t-\t|\t6\t|\t-\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 286,
+    "text": "|~Sin of Souls|\tiTIC\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 287,
+    "text": "|~Spooky Macaron|\tSobrem\t|\t-\t|\t6\t|\t-\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 288,
+    "text": "|~Acrise|\tL.Mity & EspiDev\t|\t3\t|\t-\t|\t7\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 289,
+    "text": "|~ionosphere|\tsatie\t|\t-\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 290,
+    "text": "|~Viatores|\tTQ☆\t|\t1\t|\t5\t|\t8\t|\t14\t|\t14\t|\t|"
+  },
+  {
+    "line": 291,
+    "text": "|~Raving in Halloween|\tJehezukiel\t|\t3\t|\t-\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 292,
+    "text": "|~Vogue Flavour|\tpan\t|\t3\t|\t7\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 293,
+    "text": "|~FORTALiCE|\tZxNX\t|\t-\t|\t6\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 294,
+    "text": "|~Necroxus|\tSe-U-Ra\t|\t-\t|\t4\t|\t-\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 295,
+    "text": "|~妄想&#9825;ちゅー!!|\tPonchi♪ feat.はぁち\t|\t3\t|\t-\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 296,
+    "text": "|~Riot Flavor|\tTakahiro Aoki\t|\t3\t|\t-\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 297,
+    "text": "|~Sushi Tornado|\tHalv\t|\t3\t|\t-\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 298,
+    "text": "|~ニャンだふる&#9825;サマー!!|\tPonchi♪ feat.はぁち\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 299,
+    "text": "|~ASTRAEA|\tWONDERTRAVELER Project\t|\t2\t|\t-\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 300,
+    "text": "|~Deda Dash|\tRoon_kun\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 301,
+    "text": "|~blueberry cheesecake|\tαirlemoneX\t|\t1\t|\t4\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 302,
+    "text": "|~Fission|\tLousiK&#198;Y/HLxQ.v.M\t|\t1\t|\t4\t|\t7\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 303,
+    "text": "|~アリス失格|\twotaku\t|\t4\t|\t6\t|\t-\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 304,
+    "text": "|~Φ|\tStreet (jacket : Sin:cK)\t|\t-\t|\t5\t|\t-\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 305,
+    "text": "|~Dusky Disslove|\tSound-Box\t|\t3\t|\t6\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 306,
+    "text": "|~Let the bass kick|\tLure Rabbit\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 307,
+    "text": "|~The Show's Over|\t！すでのな\t|\t-\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 308,
+    "text": "|~NOVA|\tNotorious(Nota & TRIAL)\t|\t2\t|\t-\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 309,
+    "text": "|~Re=correct|\tRoon_kun\t|\t3\t|\t6\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 310,
+    "text": "|~INFiNiTE ENERZY -Overdoze-|\tReku Mochizuki\t|\t4\t|\t-\t|\t-\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 311,
+    "text": "|~ほしのおとしもの|\tああああ\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 312,
+    "text": "|~Dahlia|\tAAAAoi（ああああ + Aoi）\t|\t3\t|\t4\t|\t8\t|\t11\t|\t15\t|\t|"
+  },
+  {
+    "line": 313,
+    "text": "|~Nightseeker|\tわかどり\t|\t1\t|\t4\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 314,
+    "text": "|~INNOceNsION|\tQayo\t|\t-\t|\t-\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 315,
+    "text": "|~Mid Night Metropolitan Highway|\tTakahiro Aoki\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 316,
+    "text": "|~Wanted Robbery|\tKAH\t|\t-\t|\t5\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 317,
+    "text": "|~Kalis Mind|\tMYUKKE.\t|\t-\t|\t5\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 318,
+    "text": "|~Big Beats Blow|\t839\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 319,
+    "text": "|~Shinobi (Original Short Mix)|\t[sound shinobi]\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 320,
+    "text": "|~玲瓏メテオ|\tReku Mochizuki\t|\t2\t|\t-\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 321,
+    "text": "|~RE:IGNITE-Republic of Gamers|\tWeiFan Chang\t|\t-\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 322,
+    "text": "|~Cumulus|\tCsky\t|\t1\t|\t-\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 323,
+    "text": "|~Creigis|\tOVERDRIVE.\t|\t-\t|\t5\t|\t9\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 324,
+    "text": "|~Space Runners|\tFlashe\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 325,
+    "text": "|~Hyperspace Jump|\tKARUT\t|\t2\t|\t6\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 326,
+    "text": "|~428 Dance Showcase|\t古屋直雪\t|\t1\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 327,
+    "text": "|~Give It To Me|\tOutLogic\t|\t-\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 328,
+    "text": "|~Calling|\tモリモリあつし\t|\t2\t|\t5\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 329,
+    "text": "|~シュガーハイ|\tMORNINGWELCOME feat. yurico\t|\t-\t|\t4\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 330,
+    "text": "|~Happiness Bread|\tQutabire\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 331,
+    "text": "|~天照|\tモリモリあつし\t|\t2\t|\t-\t|\t-\t|\t14\t|\t14\t|\t|"
+  },
+  {
+    "line": 332,
+    "text": "|~Lava Control|\tZris\t|\t-\t|\t6\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 333,
+    "text": "|~恋スル:Rabi-Love|\tかゆき と うぐ\t|\t1\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 334,
+    "text": "|~荼&#34364;|\trmk\t|\t2\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 335,
+    "text": "|~Infinity Bullet|\t287\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 336,
+    "text": "|~Antithesis|\t5argon\t|\t-\t|\t5\t|\t9\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 337,
+    "text": "|~PIXEVLAZZ|\tteknizer\t|\t1\t|\t4\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 338,
+    "text": "|~Cross Time|\tY川\t|\t1\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 339,
+    "text": "|~depTh of mem0ry|\tDaison\t|\t3\t|\t5\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 340,
+    "text": "|~Mithril|\tN-Driver\t|\t1\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 341,
+    "text": "|~Smile Encounter|\tyaseta + Hidra-Xjeil\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 342,
+    "text": "|~WHIRLWIND|\tLinne X SCTL(Illust.Keiyuu&RED-FOX)\t|\t-\t|\t5\t|\t10\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 343,
+    "text": "|~(XD)|\tEu\t|\t-\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 344,
+    "text": "|~My life is mine|\tSymphonian feat.kei_iwata\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 345,
+    "text": "|~Fl0at on Air|\tSSS\t|\t-\t|\t5\t|\t-\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 346,
+    "text": "|~Heart Of Glass|\tΣX3 (Sigma X3)\t|\t4\t|\t7\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 347,
+    "text": "|~Counter Terrorists|\tMusikPanzer\t|\t2\t|\t6\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 348,
+    "text": "|~Partenza|\tY-SHIN\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 349,
+    "text": "|~Love like we're dying|\tArch\t|\t3\t|\t5\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 350,
+    "text": "|~Reminds Me Of You (feat. Asuna Vanilla)|\tVau Boy\t|\t2\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 351,
+    "text": "|~strawberry*passion|\tこふ\t|\t2\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 352,
+    "text": "|~Mind Blast (Dynamix Edit)|\tEBIMAYO\t|\t1\t|\t-\t|\t7\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 353,
+    "text": "|~Dangerous Insanity (2019 Rework)|\tMonstDeath Vs Neutral Moon\t|\t-\t|\t6\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 354,
+    "text": "|~The Last Arcady|\tSEPHID\t|\t-\t|\t5\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 355,
+    "text": "|~High-School QUEEN!!!|\tU-ske\t|\t3\t|\t7\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 356,
+    "text": "|~Nives Marinae|\t浅羽ロキ\t|\t1\t|\t4\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 357,
+    "text": "|~Moving On|\tCROWLIA\t|\t3\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 358,
+    "text": "|~Reef Hideout|\tVau Boy & Pendarr\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 359,
+    "text": "|~Laivisca|\t浅羽ロキ\t|\t1\t|\t5\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 360,
+    "text": "|~紅に染まる森|\tけー\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 361,
+    "text": "|~Aeronautica|\tPTB10\t|\t-\t|\t4\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 362,
+    "text": "|~MLG|\tVau Boy\t|\t2\t|\t-\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 363,
+    "text": "|~CHAKA|\tRuvver\t|\t-\t|\t-\t|\t11\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 364,
+    "text": "|~UCHOUTEN Highway|\tRuvver\t|\t5\t|\t8\t|\t11\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 365,
+    "text": "|~Enhanced Lights|\tNeutral Moon\t|\t2\t|\t6\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 366,
+    "text": "|~モシモシビット (Moshi Moshi Bit)|\tNeutral Moon\t|\t2\t|\t6\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 367,
+    "text": "|~Sky Adventure!|\thapi⇔krow\t|\t2\t|\t6\t|\t9\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 368,
+    "text": "|~∀I∃Y§§|\tやみこう。\t|\t-\t|\t5\t|\t8\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 369,
+    "text": "|~VENUS INVADER|\tSTARSTREAK CHAOS-TL12\t|\t3\t|\t-\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 370,
+    "text": "|~Forbidden Area|\tKaKi\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 371,
+    "text": "|~That's How We Rock|\tlitmus*\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 372,
+    "text": "|~Fatality Saga|\tああああ茶漬け\t|\t2\t|\t-\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 373,
+    "text": "|~Hope!!|\tTakahiro Aoki\t|\t3\t|\t-\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 374,
+    "text": "|~Mass Control|\tyusi.\t|\t-\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 375,
+    "text": "|~Now Is The Time, Do It|\tRoy Mikelate\t|\t3\t|\t6\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 376,
+    "text": "|~DestroY StresS|\tjeNoth\t|\t2\t|\t-\t|\t8\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 377,
+    "text": "|~Chemical Infusion|\tHyphen\t|\t1\t|\t-\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 378,
+    "text": "|~終の舞姫|\tSe-U-Ra\t|\t5\t|\t9\t|\t12\t|\t15\t|\t15\t|\t|"
+  },
+  {
+    "line": 379,
+    "text": "|~Fireworks|\tEu\t|\t2\t|\t7\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 380,
+    "text": "|~NaCl|\tHi-Tech/Daily\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 381,
+    "text": "|~Encore|\tZxNX & Hiryur\t|\t-\t|\t4\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 382,
+    "text": "|~Tenebris|\tGabriel\t|\t2\t|\t5\t|\t8\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 383,
+    "text": "|~Aujourd'hui|\tR&#233;becca Missillier\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 384,
+    "text": "|~Chromosphere|\t鈎兎(KagiUsagi)\t|\t2\t|\t-\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 385,
+    "text": "|~MOONLIT PARTY (Game Edit.)|\tHaruka Toki Song by TEA\t|\t2\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 386,
+    "text": "|~Lumina|\tWisp X & Xomu\t|\t-\t|\t5\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 387,
+    "text": "|~Dead Master|\tNeutral Moon\t|\t-\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 388,
+    "text": "|~Vector Matrix|\tCeg*da-bo\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 389,
+    "text": "|~Slyness Foxx|\tudouddo\t|\t3\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 390,
+    "text": "|~Empty Stars|\tSound Souler\t|\t1\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 391,
+    "text": "|~Skrik (DNX edit)|\tChicala Lpis (Lactic Acid Bacteria)\t|\t3\t|\t7\t|\t-\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 392,
+    "text": "|~Faithtival|\t影翔鼓舞\t|\t3\t|\t6\t|\t11\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 393,
+    "text": "|~Atomic Dropper|\tdotη\t|\t-\t|\t6\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 394,
+    "text": "|~Glory of the Sacred Kingdom|\tLimstella\t|\t1\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 395,
+    "text": "|~Hall of Fame|\tMwk\t|\t2\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 396,
+    "text": "|~At the peak|\tnay\t|\t1\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 397,
+    "text": "|~Lonely Cat|\tlitmus*\t|\t3\t|\t-\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 398,
+    "text": "|~Jack Out KIllER|\tMisoilePunch♪ ～タケノコ添え～\t|\t4\t|\t6\t|\t9\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 399,
+    "text": "|~Rudy|\tDusK with 化し目\t|\t2\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 400,
+    "text": "|~Sultan Madness|\tMonstDeath\t|\t-\t|\t5\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 401,
+    "text": "|~Sky land|\tスコッティん\t|\t3\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 402,
+    "text": "|~Link To Dungeons|\tCarnival\t|\t4\t|\t6\t|\t-\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 403,
+    "text": "|~Fading Sky|\tCRYDITS & GohanGakari\t|\t-\t|\t5\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 404,
+    "text": "|~ROAD to 773H|\tMYUKKE.\t|\t2\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 405,
+    "text": "|~Youth|\tTakuma Tsuda\t|\t3\t|\t-\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 406,
+    "text": "|~The Path|\tCarnival\t|\t3\t|\t-\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 407,
+    "text": "|~Destruction|\t桃源郷華\t|\t3\t|\t-\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 408,
+    "text": "|~オレンジ|\tDragon_Klub & 残響P\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 409,
+    "text": "|~demonic juggernauts|\tΔ→Low\t|\t-\t|\t6\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 410,
+    "text": "|~Stargazer|\tGowrock\t|\t2\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 411,
+    "text": "|~RASeed|\tCUT(Calixer+Und0+Turret)\t|\t1\t|\t4\t|\t7\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 412,
+    "text": "|~Knight of Tripletz (for DNX Edit)|\tNormal1zer\t|\t2\t|\t4\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 413,
+    "text": "|~哀しい竜とカイツール|\tSe-U-Ra\t|\t-\t|\t6\t|\t11\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 414,
+    "text": "|~Kokytos|\tしーけー\t|\t-\t|\t-\t|\t7\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 415,
+    "text": "|~Perpetual|\tQu-ail\t|\t2\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 416,
+    "text": "|~HumaN|\tSOTUI\t|\t3\t|\t5\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 417,
+    "text": "|~おもひでファンタジア|\t梅こふ茶漬け\t|\t1\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 418,
+    "text": "|~Sunset Road|\tpan\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 419,
+    "text": "|~soar to &#216;|\tAoi\t|\t-\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 420,
+    "text": "|~NOISIΛ|\tXe (αirlemoneX)\t|\t2\t|\t-\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 421,
+    "text": "|~Magic of love (Dynamix Ver)|\tHazeCat\t|\t-\t|\t5\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 422,
+    "text": "|~CORONA|\tLactic Acid Bacteria\t|\t1\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 423,
+    "text": "|~Class memories|\tAntistar/Ctymax\t|\t-\t|\t4\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 424,
+    "text": "|~涅槃を灯すシャーデンフロイデ|\twotaku(from Jimmy'z)\t|\t-\t|\t6\t|\t8\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 425,
+    "text": "|~HYPER-NOVA|\tNeLiME\t|\t-\t|\t5\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 426,
+    "text": "|~Dead Soul|\tSound Souler\t|\t3\t|\t-\t|\t7\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 427,
+    "text": "|~Snowy Light|\tdotη\t|\t-\t|\t6\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 428,
+    "text": "|~New Story|\tElliot Hsu\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 429,
+    "text": "|~Holy Lightbringer|\tLimstella\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 430,
+    "text": "|~Life Style|\tArcadeStuff\t|\t3\t|\t-\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 431,
+    "text": "|~BLUFF|\tRyo Arue\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 432,
+    "text": "|~Eschatology|\tTrerey-U\t|\t-\t|\t4\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 433,
+    "text": "|~Future City Ⅵ|\tsyrela&#8203;&#8203;\t|\t3\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 434,
+    "text": "|~Soul fire lit|\tRyo Arue\t|\t3\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 435,
+    "text": "|~Mechanism&#243;s ton Antikyth&#237;ron|\thurirai\t|\t-\t|\t5\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 436,
+    "text": "|~Fernand System Operating!!|\tBTB\t|\t1\t|\t4\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 437,
+    "text": "|~Kreuz|\tsky_delta\t|\t2\t|\t5\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 438,
+    "text": "|~炯眼の絶対零度|\tpolysha\t|\t3\t|\t6\t|\t-\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 439,
+    "text": "|~An&#246;kumene|\tJun Kuroda\t|\t-\t|\t4\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 440,
+    "text": "|~Little Flower|\tユヅキ ケイト\t|\t1\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 441,
+    "text": "|~Wish|\tOmocha\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 442,
+    "text": "|~白色の夢で。|\tNatunoruno (Senonlts)\t|\t-\t|\t5\t|\t-\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 443,
+    "text": "|~Lionhearted|\tSaMZIng\t|\t2\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 444,
+    "text": "|~The Clockwork Doll|\tテヅカ\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 445,
+    "text": "|~Grenade|\tsky_delta\t|\t-\t|\t6\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 446,
+    "text": "|~Black sour Ruby|\tCosine\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 447,
+    "text": "|~Mechanical J&#228;ger|\t翡乃イスカ\t|\t-\t|\t4\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 448,
+    "text": "|~Rain|\tくるぶっこちゃん\t|\t-\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 449,
+    "text": "|~Nightmare Girl|\tケシｋｓくん\t|\t-\t|\t4\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 450,
+    "text": "|~Black : Magnam|\tadaptor\t|\t3\t|\t6\t|\t-\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 451,
+    "text": "|~Prismatic Flipper|\tpolysha\t|\t3\t|\t6\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 452,
+    "text": "|~Unshakable|\tRiraN\t|\t1\t|\t4\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 453,
+    "text": "|~Ice Chandelier|\tpan\t|\t3\t|\t6\t|\t10\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 454,
+    "text": "|~Arty Party|\tyaseta\t|\t3\t|\t6\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 455,
+    "text": "|~夏色メランコリー|\t奏音 feat. 駄々子\t|\t-\t|\t4\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 456,
+    "text": "|~Startail|\tArch\t|\t-\t|\t4\t|\t9\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 457,
+    "text": "|~Crystal Clear Sky|\tTakahiro Aoki\t|\t2\t|\t5\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 458,
+    "text": "|~Envy Luvs Melancholy|\tM-O-T-U\t|\t-\t|\t5\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 459,
+    "text": "|~Lily|\tJun Kuroda\t|\t-\t|\t4\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 460,
+    "text": "|~Nova Highway|\taoWAVE\t|\t1\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 461,
+    "text": "|~SECONDED WORLD|\tP4koo feat.初音ミク\t|\t2\t|\t6\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 462,
+    "text": "|~ぺたるすてっぷ|\tdawn-system feat. 一之瀬りと\t|\t-\t|\t4\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 463,
+    "text": "|~Next Time (Feat.初音ミク)|\tSaMZIng\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 464,
+    "text": "|~Angel x Angel|\tTakahiro Aoki\t|\t2\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 465,
+    "text": "|~PUPA|\tモリモリあつし\t|\t3\t|\t7\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 466,
+    "text": "|~交差して歪む過去と未来|\tcolorless\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 467,
+    "text": "|~Dolqueen|\tonoken\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 468,
+    "text": "|~Re_Construct|\tZekk\t|\t-\t|\t5\t|\t9\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 469,
+    "text": "|~Oriental Landscape|\tカレイドサンスイ(庭師＋4696-D)\t|\t3\t|\t5\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 470,
+    "text": "|~Xetta|\tTangJuan vs Black Box\t|\t-\t|\t-\t|\t10\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 471,
+    "text": "|~万&#21544;匿名信|\t埋葬\t|\t-\t|\t4\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 472,
+    "text": "|~Last Fate|\t玖玲\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 473,
+    "text": "|~Peony|\t一ノ瀬樹(Feat.Akane)\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 474,
+    "text": "|~月奏リバイバル|\tかゆき feat.燈露\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 475,
+    "text": "|~ほしぞらトラベル|\t奏音\t|\t2\t|\t-\t|\t7\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 476,
+    "text": "|~曇る鑑《かがみ》の霧を含みて|\tIno(chronoize)\t|\t3\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 477,
+    "text": "|~Own The Night|\tRiraN\t|\t1\t|\t6\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 478,
+    "text": "|~Emulisy|\tHidra-Xjeil\t|\t-\t|\t4\t|\t7\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 479,
+    "text": "|~JOACHIM : D|\tWONDERTRAVELER project\t|\t-\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 480,
+    "text": "|~Speedster, Trickster|\tMs.+駄々子\t|\t2\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 481,
+    "text": "|~BOUNCE THE TECH|\tSound piercer vs. Iriss\t|\t3\t|\t-\t|\t8\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 482,
+    "text": "|~Cross†Soul|\tHyuN feat. Syepias\t|\t2\t|\t6\t|\t8\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 483,
+    "text": "|~Hopeful Warrior|\tMonstDeath vs Gl&#250;teos\t|\t2\t|\t7\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 484,
+    "text": "|~16383|\tKplecraft\t|\t-\t|\t6\t|\t-\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 485,
+    "text": "|~Time & Space (Dynamix Edit)|\tNeutral Moon\t|\t3\t|\t6\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 486,
+    "text": "|~^/7(L&#8739;?［&#717;(L+&#8983;&#8249;&#8250;+&&#9125;^(o)|\tHyphen\t|\t-\t|\t4\t|\t8\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 487,
+    "text": "|~Against The Pseudo|\tKlavistr a.k.a. Phantom MasK\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 488,
+    "text": "|~Helios|\tRin\t|\t-\t|\t7\t|\t9\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 489,
+    "text": "|~Dement ~After Legend~|\tLunatic Sounds\t|\t1\t|\t6\t|\t11\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 490,
+    "text": "|~Rocket Lanterns|\tFarhan\t|\t-\t|\t6\t|\t9\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 491,
+    "text": "|~The Endless for Traveler|\tSe-U-Ra\t|\t3\t|\t-\t|\t-\t|\t15\t|\t15\t|\t|"
+  },
+  {
+    "line": 492,
+    "text": "|~Frontline B-Side|\tAn Yuki\t|\t1\t|\t4\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 493,
+    "text": "|~diSTractiOn PoInT|\tArctures vs DJ KemoNOiZE\t|\t-\t|\t4\t|\t10\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 494,
+    "text": "|~Tunnelling|\tKurorak\t|\t2\t|\t7\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 495,
+    "text": "|~OCCHOCO-REST-LESS|\tMYUKKE.\t|\t-\t|\t5\t|\t8\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 496,
+    "text": "|~Daydream|\tRiraN\t|\t-\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 497,
+    "text": "|~銀梅花|\t影翔鼓舞\t|\t2\t|\t-\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 498,
+    "text": "|~Between Boundaries|\tDJ Counterforce\t|\t3\t|\t7\t|\t11\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 499,
+    "text": "|~Justice Justice|\tstereoberry feat. Sanca\t|\t1\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 500,
+    "text": "|~Arcana Idola|\t紅葉月梛葉 a.k.a. Aine\t|\t2\t|\t6\t|\t9\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 501,
+    "text": "|~天泣 -fracture-|\tKamisys\t|\t2\t|\t7\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 502,
+    "text": "|~Blue|\tRiraN\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 503,
+    "text": "|~Last farewell|\tUn vs. らせん\t|\t3\t|\t-\t|\t7\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 504,
+    "text": "|~Purgat&#243;rio|\tVazio\t|\t3\t|\t7\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 505,
+    "text": "|~Defended|\tBlueWind x UN1C0DE\t|\t-\t|\t6\t|\t8\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 506,
+    "text": "|~High Speed Riders|\tCashew\t|\t1\t|\t4\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 507,
+    "text": "|~to soar|\tAoi with mAoA9\t|\t1\t|\t7\t|\t-\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 508,
+    "text": "|~Vexaria|\tak+q\t|\t3\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 509,
+    "text": "|~Alter Ego|\tモリモリあつし\t|\t3\t|\t6\t|\t-\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 510,
+    "text": "|~Pandemik|\tD.F.K.Soundsystem\t|\t-\t|\t6\t|\t9\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 511,
+    "text": "|~Mouse Runs For Cheese(short Edit)|\tsky_delta\t|\t3\t|\t-\t|\t9\t|\t13\t|\t14\t|\t|"
+  },
+  {
+    "line": 512,
+    "text": "|~Red Liquid|\tM-O-T-U\t|\t-\t|\t4\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 513,
+    "text": "|~Mystic Night|\tU咲\t|\t-\t|\t5\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 514,
+    "text": "|~Bluebell|\t5argon feat. imTiNEY\t|\t1\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 515,
+    "text": "|~声が届かないのなら|\tからとP feat.脱線ぐーぅ\t|\t2\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 516,
+    "text": "|~Before Sunrise|\tm1dy & M-Project\t|\t3\t|\t5\t|\t8\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 517,
+    "text": "|~You Spin Me Around|\tRiraN\t|\t3\t|\t4\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 518,
+    "text": "|~Regenerate Violence|\tV!C\t|\t1\t|\t6\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 519,
+    "text": "|~Marion.net|\tMoonHare\t|\t-\t|\t4\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 520,
+    "text": "|~REconstruction|\tRyazan\t|\t-\t|\t4\t|\t8\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 521,
+    "text": "|~Triumph & Regret|\ttypeMARS\t|\t-\t|\t7\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 522,
+    "text": "|~DeaDLiNE|\tDragon_Klub\t|\t4\t|\t7\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 523,
+    "text": "|~Evoltex (poppi'n mix)|\tArch vs n3pu\t|\t-\t|\t6\t|\t10\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 524,
+    "text": "|~αterlβus|\tAoi\t|\t-\t|\t6\t|\t8\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 525,
+    "text": "|~Theme of Rabi-Ribi|\t3R2\t|\t-\t|\t6\t|\t10\t|\t-\t|\t13\t|\t|"
+  },
+  {
+    "line": 526,
+    "text": "|~Soul Army|\tSound Souler\t|\t2\t|\t-\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 527,
+    "text": "|~Cervelle Connexion|\tpraw\t|\t-\t|\t4\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 528,
+    "text": "|~Flarebirds of Scarlet Prism|\tpan\t|\t-\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 529,
+    "text": "|~Starbirds of Zenith Blue|\tpan\t|\t-\t|\t7\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 530,
+    "text": "|~Hiccup Drunk|\tudouddo\t|\t3\t|\t-\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 531,
+    "text": "|~Vanilla_Sky|\tStereoberry\t|\t3\t|\t5\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 532,
+    "text": "|~AKI-ZAKURA|\tJun Kuroda + はがね\t|\t2\t|\t5\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 533,
+    "text": "|~Sakura Fubuki|\tStreet\t|\t4\t|\t7\t|\t10\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 534,
+    "text": "|~Persephone|\tEBICO\t|\t3\t|\t-\t|\t9\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 535,
+    "text": "|~紅|\tモリモリあつし\t|\t-\t|\t7\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 536,
+    "text": "|~Crank Up|\tlitmus*\t|\t3\t|\t6\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 537,
+    "text": "|~Cryonix|\tsky_delta\t|\t-\t|\t7\t|\t10\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 538,
+    "text": "|~Go Escape|\tmmry\t|\t-\t|\t5\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 539,
+    "text": "|~GOEMON|\tICBM\t|\t3\t|\t5\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 540,
+    "text": "|~Offshore|\tNhato\t|\t1\t|\t4\t|\t7\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 541,
+    "text": "|~Chrysoberyl|\t黑&#35987;\t|\t-\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 542,
+    "text": "|~罪曲|\tMIssionary\t|\t3\t|\t6\t|\t10\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 543,
+    "text": "|~Le ciel heureux|\tP4koo\t|\t1\t|\t5\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 544,
+    "text": "|~月下桜天国|\tZuxin with Utsuro\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 545,
+    "text": "|~Play A Day|\tMimi\t|\t1\t|\t5\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 546,
+    "text": "|~Le ciel heureux|\tP4koo\t|\t1\t|\t5\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 547,
+    "text": "|~anamn&#233;sis|\tXenoe\t|\t3\t|\t-\t|\t-\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 548,
+    "text": "|~Evils Was Coming|\tdwi kashiwagi\t|\t-\t|\t5\t|\t-\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 549,
+    "text": "|~Ornament|\tSLT\t|\t-\t|\t-\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 550,
+    "text": "|~.reversive(Dynamix Ver.)|\tSECTION\t|\t-\t|\t-\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 551,
+    "text": "|~Utopia|\ttypeMARS\t|\t-\t|\t-\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 552,
+    "text": "|~bewitched|\tCashew\t|\t-\t|\t-\t|\t-\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 553,
+    "text": "|~Crocus|\tRiraN\t|\t-\t|\t-\t|\t-\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 554,
+    "text": "|~Gleam Stone|\tadaptor\t|\t-\t|\t-\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 555,
+    "text": "|~Energy|\tTada\t|\t-\t|\t-\t|\t-\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 556,
+    "text": "|~Prime|\tPokku'n\t|\t-\t|\t-\t|\t-\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 557,
+    "text": "|~Worldwide RAVE-Attack!!|\tRyazan\t|\t-\t|\t-\t|\t-\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 558,
+    "text": "|~Stardust|\tmmry\t|\t1\t|\t4\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 559,
+    "text": "|~春菊|\tSUWAKI\t|\t2\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 560,
+    "text": "|~Actinium|\tMimi\t|\t3\t|\t7\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 561,
+    "text": "|~Reborn|\tScarfaith\t|\t2\t|\t4\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 562,
+    "text": "|~名無しの宣教師|\tMIssionary\t|\t2\t|\t6\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 563,
+    "text": "|~香港ノ奇術師|\tMInzu\t|\t1\t|\t7\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 564,
+    "text": "|~Impromptu D899#3-Y|\tYukino\t|\t1\t|\t4\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 565,
+    "text": "|~Outer Space|\tlitmus*\t|\t1\t|\t7\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 566,
+    "text": "|~パントマイム feat. IA|\tUtae\t|\t3\t|\t6\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 567,
+    "text": "|~Moonlight of Sand Castle|\t旅人E (EBICO)\t|\t2\t|\t6\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 568,
+    "text": "|~Rave-olution|\tEdwin K\t|\t3\t|\t4\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 569,
+    "text": "|~Phoebe|\tHero_C\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 570,
+    "text": "|~Leviticus|\tEpiglottic\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 571,
+    "text": "|~青坊|\tTrillion\t|\t3\t|\t4\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 572,
+    "text": "|~Vengeance|\tChouYawa\t|\t3\t|\t6\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 573,
+    "text": "|~Forget Me Not|\tMimi\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 574,
+    "text": "|~Little Boy|\tmmry\t|\t2\t|\t6\t|\t10\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 575,
+    "text": "|~Lotus|\tTinygun\t|\t1\t|\t4\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 576,
+    "text": "|~Perspicuus_Aestus|\tRyusse\t|\t3\t|\t6\t|\t8\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 577,
+    "text": "|~Midnight Party|\tBEN\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 578,
+    "text": "|~Axis|\tmmry & DCWH\t|\t3\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 579,
+    "text": "|~Wonderful Days|\tDJ Mashiro\t|\t1\t|\t5\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 580,
+    "text": "|~&#33828;火虫の怨|\t埋葬\t|\t1\t|\t4\t|\t8\t|\t11\t|\t13\t|\t|"
+  },
+  {
+    "line": 581,
+    "text": "|~Desert Rose|\tMInzu\t|\t2\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 582,
+    "text": "|~Decomposition|\tSIHanatsuka\t|\t3\t|\t6\t|\t10\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 583,
+    "text": "|~流れ星に願うよいま...|\tLemon whisper (EBICO & ノゾム)\t|\t2\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 584,
+    "text": "|~Grape Jelly|\tMimineko x Tang Juan\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 585,
+    "text": "|~Aegis|\tmmry\t|\t2\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 586,
+    "text": "|~Forsaken|\tjioyi\t|\t1\t|\t4\t|\t7\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 587,
+    "text": "|~Fierce Heart|\tOptiU\t|\t3\t|\t6\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 588,
+    "text": "|~Goldelius|\tAyatsugu_Otowa\t|\t3\t|\t6\t|\t10\t|\t-\t|\t13\t|\t|"
+  },
+  {
+    "line": 589,
+    "text": "|~Keep Out|\tTangJuan\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 590,
+    "text": "|~Caelus|\tWoof\t|\t3\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 591,
+    "text": "|~Gallium Arsenide|\tCircle 2\t|\t2\t|\t4\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 592,
+    "text": "|~Gallium Phosphide|\tCircle 2\t|\t2\t|\t6\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 593,
+    "text": "|~Gallium Nitride|\tCircle 2\t|\t3\t|\t6\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 594,
+    "text": "|~Elph’s Sadness|\tCircle 2\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 595,
+    "text": "|~Ashes|\tZekk\t|\t3\t|\t7\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 596,
+    "text": "|~Lunar Arrow|\tmmry\t|\t3\t|\t5\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 597,
+    "text": "|~Oracle|\tTQ☆\t|\t4\t|\t7\t|\t11\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 598,
+    "text": "|~Another World|\tLunatic Sounds\t|\t-\t|\t6\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 599,
+    "text": "|~Hatsukoi Memories|\tZekk\t|\t-\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 600,
+    "text": "|~Set Free -KIVΛ Edition-|\tKIVΛ\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 601,
+    "text": "|~WILL|\tVillax\t|\t-\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 602,
+    "text": "|~Creater S|\tC.R.E\t|\t-\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 603,
+    "text": "|~Invaded|\tSpyro Kong\t|\t-\t|\t6\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 604,
+    "text": "|~Sandwich|\tUN1C0DE\t|\t-\t|\t7\t|\t11\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 605,
+    "text": "|~Hemisphere|\tARForest\t|\t-\t|\t7\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 606,
+    "text": "|~Surrealism|\tMimi feat. ZAT\t|\t2\t|\t5\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 607,
+    "text": "|~Variance|\tmmry\t|\t3\t|\t5\t|\t10\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 608,
+    "text": "|~Eclipses|\tTQ☆\t|\t3\t|\t6\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 609,
+    "text": "|~80|\tDCWH\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 610,
+    "text": "|~雲の国の王子|\tMimi\t|\t2\t|\t4\t|\t7\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 611,
+    "text": "|~Win & Bow|\tTangJuan\t|\t1\t|\t4\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 612,
+    "text": "|~Rom Corruption|\tDCWH\t|\t2\t|\t5\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 613,
+    "text": "|~After The Ending|\tmmry\t|\t1\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 614,
+    "text": "|~White Horse Disease|\tMIssionary\t|\t3\t|\t6\t|\t8\t|\t12\t|\t14\t|\t|"
+  },
+  {
+    "line": 615,
+    "text": "|~Red Horse Massacre|\tMIssionary\t|\t3\t|\t7\t|\t10\t|\t12\t|\t15\t|\t|"
+  },
+  {
+    "line": 616,
+    "text": "|~Black Horse Famine|\tMIssionary\t|\t3\t|\t6\t|\t10\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 617,
+    "text": "|~Grey Horse Underworld|\tMIssionary\t|\t3\t|\t7\t|\t9\t|\t13\t|\t15\t|\t|"
+  },
+  {
+    "line": 618,
+    "text": "|~Voyagers|\tmmry\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 619,
+    "text": "|~Deadly Poppy Field|\tMimi\t|\t2\t|\t4\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 620,
+    "text": "|~夜奏流|\tWingse\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 621,
+    "text": "|~星の王子様と「僕」|\tMimi\t|\t3\t|\t4\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 622,
+    "text": "|~Yotta|\tTangJuan VS BeatsAway\t|\t3\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 623,
+    "text": "|~Libra|\tMIssionary VS Mimineko\t|\t2\t|\t6\t|\t11\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 624,
+    "text": "|~PARALLEL ADDRESS|\tmmry\t|\t2\t|\t6\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 625,
+    "text": "|~CruX|\tSUWAKI\t|\t4\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 626,
+    "text": "|~Rising Soul|\tSUWAKI\t|\t2\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 627,
+    "text": "|~Dyspnea|\tTQ☆\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 628,
+    "text": "|~Random20|\tDCWH\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 629,
+    "text": "|~龍舞|\tMInzu\t|\t2\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 630,
+    "text": "|~&#39118;&#23679;|\t埋葬\t|\t2\t|\t5\t|\t9\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 631,
+    "text": "|~つゆだま|\tTQ☆\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 632,
+    "text": "|~Infinite Loop VIP|\tDCWH\t|\t2\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 633,
+    "text": "|~Leave Me|\tmmry\t|\t2\t|\t4\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 634,
+    "text": "|~Danse De Romani|\tMUE\t|\t3\t|\t7\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 635,
+    "text": "|~Contour|\tlitmus*\t|\t3\t|\t7\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 636,
+    "text": "|~Makes Me Wonder|\tP4koo\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 637,
+    "text": "|~Wah!|\tARForest\t|\t2\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 638,
+    "text": "|~Riverside Cafe|\tlitmus*\t|\t1\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 639,
+    "text": "|~Nick of Time|\tP4koo\t|\t3\t|\t5\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 640,
+    "text": "|~Metheus|\tARForest\t|\t2\t|\t5\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 641,
+    "text": "|~Final Dash|\tMUE\t|\t1\t|\t5\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 642,
+    "text": "|~Dream Starter|\tVelecTi\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 643,
+    "text": "|~刻み付け、散華の名を|\tVelecTi\t|\t3\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 644,
+    "text": "|~Meteor Hope|\tVelecTi\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 645,
+    "text": "|~悠遠のヒストリカ|\tVelecTi\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 646,
+    "text": "|~Seedy Try|\tt+pazolite\t|\t2\t|\t7\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 647,
+    "text": "|~Stage 5|\tLv.4\t|\t4\t|\t4\t|\t10\t|\t4\t|\t-\t|\t|"
+  },
+  {
+    "line": 648,
+    "text": "|~Duet|\tSkytree Original\t|\t1\t|\t4\t|\t7\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 649,
+    "text": "|~L'AMITIE|\tSkytree Original\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 650,
+    "text": "|~Nible|\tARForest vs SC-KIM\t|\t3\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 651,
+    "text": "|~Trajectory|\tLegoLee\t|\t2\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 652,
+    "text": "|~Galaxia|\tTQ☆\t|\t2\t|\t6\t|\t9\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 653,
+    "text": "|~Teardrops|\tCashew\t|\t2\t|\t4\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 654,
+    "text": "|~Okesuchi|\tKplecraft\t|\t1\t|\t4\t|\t8\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 655,
+    "text": "|~8-Bit Goa #4|\tKplecraft\t|\t2\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 656,
+    "text": "|~Nanohemu|\tKplecraft\t|\t2\t|\t7\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 657,
+    "text": "|~Kog|\tKplecraft\t|\t3\t|\t5\t|\t8\t|\t11\t|\t-\t|\t|"
+  },
+  {
+    "line": 658,
+    "text": "|~SPECIAL♪LIVE|\tP4koo\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 659,
+    "text": "|~セカイセイフク|\tCaco-2\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 660,
+    "text": "|~WORLDS CONNECT|\tNekomeP\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 661,
+    "text": "|~愛藍傘|\tエキゾチックかまたに\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 662,
+    "text": "|~Azure Snow Land|\t3R2\t|\t1\t|\t7\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 663,
+    "text": "|~System Interior|\t3R2\t|\t3\t|\t6\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 664,
+    "text": "|~The Truth Never Spoken|\t3R2\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 665,
+    "text": "|~No Remorse|\t3R2\t|\t2\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 666,
+    "text": "|~Heart Eyes|\tM-O-T-U\t|\t2\t|\t5\t|\t11\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 667,
+    "text": "|~White Chocolate|\tCashew\t|\t1\t|\t5\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 668,
+    "text": "|~Crystal Ribbon|\tCosine\t|\t3\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 669,
+    "text": "|~Super Macaron|\tSobrem\t|\t3\t|\t6\t|\t9\t|\t11\t|\t14\t|\t|"
+  },
+  {
+    "line": 670,
+    "text": "|~Ace Sniper|\tLactic Acid Bacteria\t|\t3\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 671,
+    "text": "|~Blood Chivalry|\tHazel-D\t|\t2\t|\t7\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 672,
+    "text": "|~デュアル天使|\tディヴェラ\t|\t2\t|\t4\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 673,
+    "text": "|~Metropolitan Chaser|\tSUi\t|\t1\t|\t4\t|\t11\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 674,
+    "text": "|~Essence of Twilight|\tak+q\t|\t1\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 675,
+    "text": "|~Party Vinyl|\tモリモリあつし\t|\t2\t|\t6\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 676,
+    "text": "|~フライブルクとエンドロウル|\tアリスシャッハと魔法の楽団\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 677,
+    "text": "|~Flashback|\tARForest\t|\t2\t|\t6\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 678,
+    "text": "|~Absolute Zero|\tCashew\t|\t1\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 679,
+    "text": "|~Fabula Proelium Magna|\tDJ Counterforce\t|\t1\t|\t6\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 680,
+    "text": "|~HEADROOM WITH PLEASANT RHYTHM|\tRuvver\t|\t3\t|\t7\t|\t11\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 681,
+    "text": "|~Melancholy|\tD_AAN\t|\t1\t|\t4\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 682,
+    "text": "|~Kant|\tAozic\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 683,
+    "text": "|~Flying colours|\tRyusse\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 684,
+    "text": "|~Termination|\tSpyro Kong\t|\t1\t|\t5\t|\t8\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 685,
+    "text": "|~Yoyoyoyo|\tDCWH\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 686,
+    "text": "|~Catastrophe|\tpowerless\t|\t3\t|\t5\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 687,
+    "text": "|~Convictor|\tAyatsugu_Otowa\t|\t2\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 688,
+    "text": "|~奏 -KANADE-|\tnaccle\t|\t3\t|\t6\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 689,
+    "text": "|~Lucentear|\tペのれり\t|\t3\t|\t6\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 690,
+    "text": "|~Ocean|\tCashew & Riyandi K\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 691,
+    "text": "|~Tronica and Fugue|\tJehezukiel\t|\t3\t|\t5\t|\t7\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 692,
+    "text": "|~Canon in Blue|\tJocaso\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 693,
+    "text": "|~Nachtmusik|\tKayoubi\t|\t3\t|\t5\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 694,
+    "text": "|~HDHR|\tBilliumMoto\t|\t3\t|\t4\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 695,
+    "text": "|~Rocky Buinne|\tBilliumMoto\t|\t1\t|\t4\t|\t9\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 696,
+    "text": "|~Glacial (Liquart Remix)|\tBilliumMoto\t|\t1\t|\t5\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 697,
+    "text": "|~life flashes before weeb eyes|\tBilliumMoto\t|\t2\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 698,
+    "text": "|~In Search Of...|\tNeutral Moon ft. Daison\t|\t2\t|\t4\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 699,
+    "text": "|~The Mysterious Man|\tMonstDeath\t|\t1\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 700,
+    "text": "|~Dogu|\tmmry & Neutral Moon\t|\t2\t|\t5\t|\t10\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 701,
+    "text": "|~Impulse (Neutral Moon VIP Edit)|\tDaison\t|\t1\t|\t4\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 702,
+    "text": "|~Slapstick Parfait|\tFLUCTON\t|\t1\t|\t5\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 703,
+    "text": "|~POP SEQUENCE|\tFLUCTON\t|\t1\t|\t6\t|\t8\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 704,
+    "text": "|~Paved Garden|\tFLUCTON\t|\t3\t|\t5\t|\t9\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 705,
+    "text": "|~CROSSING DELTA|\tFLUCTON\t|\t2\t|\t6\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 706,
+    "text": "|~White : Revolve|\tadaptor\t|\t1\t|\t5\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 707,
+    "text": "|~Mitochondria|\t5argon\t|\t2\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 708,
+    "text": "|~Astral|\tTitan Chaos\t|\t3\t|\t7\t|\t11\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 709,
+    "text": "|~ReLyna|\tSe-U-Ra\t|\t4\t|\t7\t|\t10\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 710,
+    "text": "|~Rave! and Get on it!|\tWoof\t|\t3\t|\t6\t|\t9\t|\t-\t|\t-\t|\t|"
+  },
+  {
+    "line": 711,
+    "text": "|~Euouae|\tSpyro Kong\t|\t5\t|\t9\t|\t12\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 712,
+    "text": "|~Totally bounded|\t影虎。\t|\t2\t|\t5\t|\t9\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 713,
+    "text": "|~MassacrE &#124;&#124; 3rc4224M|\tSpiegel vs Yukino\t|\t6\t|\t9\t|\t13\t|\t15\t|\t15\t|\t|"
+  },
+  {
+    "line": 714,
+    "text": "|~Luxvinore|\tNordius Dystancius\t|\t3\t|\t5\t|\t8\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 715,
+    "text": "|~プラズマ・プラス・プラチナ！|\tかんざきしおん\t|\t2\t|\t4\t|\t10\t|\t12\t|\t-\t|\t|"
+  },
+  {
+    "line": 716,
+    "text": "|~petal|\tFractal Paws\t|\t2\t|\t6\t|\t8\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 717,
+    "text": "|~&#196;ngstlicher Vermeidender|\tJehezukiel\t|\t2\t|\t-\t|\t7\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 718,
+    "text": "|~Marsh Winds|\tETIA.\t|\t3\t|\t8\t|\t11\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 719,
+    "text": "|~Rondo of the 3ND|\tSEPHID\t|\t5\t|\t9\t|\t11\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 720,
+    "text": "|~Restricted Access|\tKnighthood\t|\t1\t|\t6\t|\t9\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 721,
+    "text": "|~SUTTA MONDAY|\tMYUKKE.\t|\t2\t|\t7\t|\t10\t|\t13\t|\t-\t|\t|"
+  },
+  {
+    "line": 722,
+    "text": "|~零號車輛|\tseatrus\t|\t3\t|\t7\t|\t11\t|\t14\t|\t15\t|\t|"
+  },
+  {
+    "line": 723,
+    "text": "|~Turning POINT|\tJunk\t|\t2\t|\t6\t|\t10\t|\t14\t|\t-\t|\t|"
+  },
+  {
+    "line": 724,
+    "text": "|~Lucid Trigger|\tLiq_mmry\t|\t2\t|\t6\t|\t8\t|\t-\t|\t15\t|\t|"
+  },
+  {
+    "line": 725,
+    "text": "|~Hiyaiya!|\tMYUKKE.\t|\t3\t|\t6\t|\t10\t|\t-\t|\t14\t|\t|"
+  },
+  {
+    "line": 767,
+    "text": "|LEFT:120|LEFT:80|c"
+  },
+  {
+    "line": 768,
+    "text": "|個数|値段|h"
+  },
+  {
+    "line": 769,
+    "text": "|100Bits|157円|"
+  },
+  {
+    "line": 770,
+    "text": "|300Bits|439円|"
+  },
+  {
+    "line": 771,
+    "text": "|600Bits|862円|"
+  },
+  {
+    "line": 772,
+    "text": "|1000Bits|1332円|"
+  },
+  {
+    "line": 774,
+    "text": "|LEFT:180|LEFT:100|c"
+  },
+  {
+    "line": 775,
+    "text": "|個数|値段|h"
+  },
+  {
+    "line": 776,
+    "text": "|楽曲アルバム(｢ボーカル｣除く)|iOS 600円&br;Android 540円|"
+  },
+  {
+    "line": 777,
+    "text": "|｢ボーカル｣アルバム|iOS 700円&br;Android 800円|"
+  },
+  {
+    "line": 778,
+    "text": "|イベントバンドル|iOS 2500円&br;Android 3000円|"
+  }
+]

@@ -1,0 +1,473 @@
+{
+  "id": "bof-123",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=123",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "821c05f3194f3337f80c1731f0c9e2c4b3d07310abe4a2234401234da239d702",
+  "partialSnapshot": true,
+  "records": [
+    {
+      "title": "Träne",
+      "artist": "MALVA.(mov:焼き鳥 illustration:しえろ。& 萬田)",
+      "sourceId": "123-2",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=123"
+    },
+    {
+      "title": "B612",
+      "artist": "music:litmus*/bms:SeRu(=smaxell)(mov:litmus*)",
+      "sourceId": "123-4",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=123"
+    },
+    {
+      "title": "Flashdance",
+      "artist": "music:litmus*/bms::Poin7less(mov:directed by litmus*)",
+      "sourceId": "123-16",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=123"
+    },
+    {
+      "title": "涼風誘燐",
+      "artist": "Re:gats&(mov:はなけん)",
+      "sourceId": "123-12",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=123"
+    },
+    {
+      "title": "Divergence",
+      "artist": "Nego_tiator(mov:Fiz)",
+      "sourceId": "123-15",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=123"
+    },
+    {
+      "title": "Bismuth",
+      "artist": "tanacoro(mov:MUSH.T)",
+      "sourceId": "123-27",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=123"
+    },
+    {
+      "title": "翼の折れた天使たちのレクイエム",
+      "artist": "Sakamiya feat.前野(mov:hx)",
+      "sourceId": "123-3",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=123"
+    },
+    {
+      "title": "Good Life",
+      "artist": "litmus*(mov:kazari)",
+      "sourceId": "123-44",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=44&event=123"
+    },
+    {
+      "title": "Cloudy mood",
+      "artist": "Nota(mov:DRIVE.)",
+      "sourceId": "123-113",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=113&event=123"
+    },
+    {
+      "title": "サカサマの空に在ったのは",
+      "artist": "qfeileadh(mov:浪漫映像制作倶楽部)",
+      "sourceId": "123-78",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=123"
+    },
+    {
+      "title": "Sparkle New Life",
+      "artist": "rider(mov:1B)",
+      "sourceId": "123-40",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=40&event=123"
+    },
+    {
+      "title": "Animatronics",
+      "artist": "oxygen",
+      "sourceId": "123-58",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=58&event=123"
+    },
+    {
+      "title": "Fatal Function",
+      "artist": "corok-Bb(mov:corok-Bb / St)",
+      "sourceId": "123-144",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=123"
+    },
+    {
+      "title": "プナイプナイせんそう",
+      "artist": "立秋 feat.ちょこ(mov:hard／石王マサト)",
+      "sourceId": "123-104",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=123"
+    },
+    {
+      "title": "deg w∧v chu doc",
+      "artist": "utubo",
+      "sourceId": "123-204",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=123"
+    },
+    {
+      "title": "Find_Me",
+      "artist": "K-forest(mov:YuKiMuMa)",
+      "sourceId": "123-7",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=7&event=123"
+    },
+    {
+      "title": "Finale",
+      "artist": "Dolphin(mov:自動車原付)",
+      "sourceId": "123-81",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=81&event=123"
+    },
+    {
+      "title": "cryout",
+      "artist": "Ju_E(mov:Haight)",
+      "sourceId": "123-91",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=123"
+    },
+    {
+      "title": "Black Blast",
+      "artist": "kanoryo(DJ Silentnoiz)(mov:AquaMarine)",
+      "sourceId": "123-173",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=173&event=123"
+    },
+    {
+      "title": "ReviXy",
+      "artist": "ikaruga_nex(mov:出前)",
+      "sourceId": "123-179",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123"
+    },
+    {
+      "title": "Polacro",
+      "artist": "隣の庭は青い(庭師+Aoi)(mov:SELDO)",
+      "sourceId": "123-295",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=295&event=123"
+    },
+    {
+      "title": "Howlin' Pumpkin",
+      "artist": "brz1128(mov:byaco)",
+      "sourceId": "123-140",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=123"
+    },
+    {
+      "title": "Palescreen",
+      "artist": "WyvernP(mov:GAMEBAKA)",
+      "sourceId": "123-67",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=123"
+    },
+    {
+      "title": "無限奈落 ～Infinite Abysm",
+      "artist": "69 de 74(Sheena Ed Crow)(mov:YAGGY)",
+      "sourceId": "123-39",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=123"
+    },
+    {
+      "title": "明空リュウセイグン",
+      "artist": "idzuchi takl feat. TEA",
+      "sourceId": "123-356",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=123"
+    },
+    {
+      "title": "PROMAXIMA",
+      "artist": "Nego_tiator(Istasha)",
+      "sourceId": "123-189",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=123"
+    },
+    {
+      "title": "fall down",
+      "artist": "BilliumMoto(mov:AYhaz)",
+      "sourceId": "123-225",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=225&event=123"
+    },
+    {
+      "title": "Revenant",
+      "artist": "Juggernaut.(mov:drowseland)",
+      "sourceId": "123-319",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=319&event=123"
+    },
+    {
+      "title": "Albus Lupus",
+      "artist": "TY-2(mov:Illust:+REIYA+)",
+      "sourceId": "123-378",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=378&event=123"
+    },
+    {
+      "title": "energy trixxx",
+      "artist": "KAH(mov:自動車原付 illust:手鞠鈴)",
+      "sourceId": "123-72",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=72&event=123"
+    },
+    {
+      "title": "QSHELL -拒色のシェルル-",
+      "artist": "Se-U-Ra",
+      "sourceId": "123-147",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=123"
+    },
+    {
+      "title": "Neurotoxicity",
+      "artist": "黒皇帝(mov:PixelSquid)",
+      "sourceId": "123-191",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=191&event=123"
+    },
+    {
+      "title": "ikasu",
+      "artist": "Nitro(ak+q (BMS: Toaster))(mov:Khronetic)",
+      "sourceId": "123-256",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=256&event=123"
+    },
+    {
+      "title": "アトロポスと最果の探求者",
+      "artist": "しーけー(mov:yoshimo illust:せゆーら)",
+      "sourceId": "123-246",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=246&event=123"
+    },
+    {
+      "title": "Electric Emotion",
+      "artist": "nmk feat.橘花音(mov:わっふゑ)",
+      "sourceId": "123-181",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=181&event=123"
+    },
+    {
+      "title": "Rate Cranky Hi-roller",
+      "artist": "rate-dat + Cranky + hi-low / Cranky(mov:rate-dat)",
+      "sourceId": "123-232",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=232&event=123"
+    },
+    {
+      "title": "Better Graphic Animation",
+      "artist": "A-ZERO Project + ルゼ(mov:A-ZERO Project)",
+      "sourceId": "123-338",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123"
+    },
+    {
+      "title": "Play Me Your Love Song",
+      "artist": "Kyuzo Sameura feat. a-m",
+      "sourceId": "123-115",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=115&event=123"
+    },
+    {
+      "title": "twinkle white*",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+      "sourceId": "123-306",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=306&event=123"
+    },
+    {
+      "title": "異想天",
+      "artist": "Zris(P1)",
+      "sourceId": "123-196",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=196&event=123"
+    },
+    {
+      "title": "宮古島トランス",
+      "artist": "DJ TAKUAN",
+      "sourceId": "123-145",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=123"
+    },
+    {
+      "title": "Reimei",
+      "artist": "影虎。(mov:HaltquinZ♠️♥️♣️♦️)",
+      "sourceId": "123-333",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=333&event=123"
+    },
+    {
+      "title": "Artinate",
+      "artist": "Shirasu",
+      "sourceId": "123-296",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=296&event=123"
+    },
+    {
+      "title": "JapaNembrA",
+      "artist": "Nfree",
+      "sourceId": "123-299",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=299&event=123"
+    },
+    {
+      "title": "Replica",
+      "artist": "Lime(mov:chromatography)",
+      "sourceId": "123-417",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=123"
+    },
+    {
+      "title": "This Club is not 4 U",
+      "artist": "EmoCo.(mov:玲架)",
+      "sourceId": "123-105",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=123"
+    },
+    {
+      "title": "The Guardians Of The Sun",
+      "artist": "RiraN(mov:Irelriser)",
+      "sourceId": "123-415",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=415&event=123"
+    },
+    {
+      "title": "Never Escape",
+      "artist": "void / Gt. HAKKYOU-KUN / Movie: nokir&",
+      "sourceId": "123-274",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=123"
+    },
+    {
+      "title": "Orfevre",
+      "artist": "SHIKI",
+      "sourceId": "123-276",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=123"
+    },
+    {
+      "title": "Rendaring",
+      "artist": "ルゼ(mov:Y.A.B.tutidama)",
+      "sourceId": "123-317",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=317&event=123"
+    },
+    {
+      "title": "Cereris",
+      "artist": "NceS v.s. SunsetRay(mov:Zris)",
+      "sourceId": "123-210",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=210&event=123"
+    },
+    {
+      "title": "GREAT GREAT",
+      "artist": "Zris",
+      "sourceId": "123-428",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=428&event=123"
+    },
+    {
+      "title": "REQUiEM",
+      "artist": "Ford-Q / Ford-Q vs Mr. A",
+      "sourceId": "123-288",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=123"
+    },
+    {
+      "title": "Sterelogue",
+      "artist": "VeetaCrush(mov:Cndragon1)",
+      "sourceId": "123-294",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=294&event=123"
+    },
+    {
+      "title": "Fully Utilized Constructive Kickz",
+      "artist": "Normal1zer(mov:Ford-Q)",
+      "sourceId": "123-360",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=360&event=123"
+    },
+    {
+      "title": "GLAZ",
+      "artist": "Yunosuke(mov:Kaito)",
+      "sourceId": "123-286",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=286&event=123"
+    },
+    {
+      "title": "MEJIRUSHI",
+      "artist": "Zekk(mov:yusi.)",
+      "sourceId": "123-384",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=123"
+    },
+    {
+      "title": "Rebirth",
+      "artist": "yx",
+      "sourceId": "123-244",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=123"
+    },
+    {
+      "title": "portable rain",
+      "artist": "sopranotrom",
+      "sourceId": "123-395",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=395&event=123"
+    },
+    {
+      "title": "Forbitten Depress.",
+      "artist": "True Marina",
+      "sourceId": "123-325",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=123"
+    },
+    {
+      "title": "Dirge in Magenta",
+      "artist": "Polymath9",
+      "sourceId": "123-332",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=123"
+    },
+    {
+      "title": "reFlash",
+      "artist": "ILusMin(mov:YuumiA)",
+      "sourceId": "123-349",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=349&event=123"
+    },
+    {
+      "title": "Qronostasis",
+      "artist": "BLAQPSY(mov:ふぇいフリック)",
+      "sourceId": "123-174",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=123"
+    },
+    {
+      "title": "VECTOЯ",
+      "artist": "WHITEFISTS(mov:ふぇいフリック)",
+      "sourceId": "123-424",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=424&event=123"
+    },
+    {
+      "title": "R.I.P.",
+      "artist": "eicateve x hrchem x TOHRU MiTSUHASHi",
+      "sourceId": "123-339",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=339&event=123"
+    },
+    {
+      "title": "Bad Elixir",
+      "artist": "xi(mov:鑓田(alpha complex))",
+      "sourceId": "123-316",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=316&event=123"
+    },
+    {
+      "title": "Destr0yer",
+      "artist": "削除 feat. Nikki Simmons(mov:yoshimo & Radiosity)",
+      "sourceId": "123-353",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=123"
+    },
+    {
+      "title": "MARENOL",
+      "artist": "LeaF(mov:Optie ＆ Fiz)",
+      "sourceId": "123-370",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=370&event=123"
+    },
+    {
+      "title": "ShadowGale",
+      "artist": "Puru(mov:kkkfff2)",
+      "sourceId": "123-304",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=304&event=123"
+    },
+    {
+      "title": "Child of Earth",
+      "artist": "Urban Techno Cafe(mov:HDLV)",
+      "sourceId": "123-391",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=391&event=123"
+    },
+    {
+      "title": "Amnéhilesie",
+      "artist": "MisomyL(mov:悠)",
+      "sourceId": "123-362",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=362&event=123"
+    },
+    {
+      "title": "moor",
+      "artist": "qfeileadh(tokiru_iwata)",
+      "sourceId": "123-51",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=123"
+    },
+    {
+      "title": "Meshimase!! Nyan-Nyan Nightmare",
+      "artist": "かたぎり(mov:mst)",
+      "sourceId": "123-108",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=123"
+    },
+    {
+      "title": "cryosphere",
+      "artist": "Night Ruler",
+      "sourceId": "123-407",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=407&event=123"
+    },
+    {
+      "title": "Love Like",
+      "artist": "eoll(mov:eicateve)",
+      "sourceId": "123-194",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=194&event=123"
+    },
+    {
+      "title": "The super punching machine",
+      "artist": "shi",
+      "sourceId": "123-431",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=431&event=123"
+    },
+    {
+      "title": "LostPuppet",
+      "artist": "rmk / rmk",
+      "sourceId": "123-290",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=290&event=123"
+    }
+  ]
+}

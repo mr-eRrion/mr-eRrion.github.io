@@ -1,0 +1,338 @@
+[
+  {
+    "line": 17,
+    "text": "|~TITLE|~ARTIST|~BPM|>|>|>|~DIFFICULTY|~ARC|~VERSION|h"
+  },
+  {
+    "line": 18,
+    "text": "|~|~|~|COLOR(#70c7fd):~MIN|COLOR(#8df7f7):~EVO|COLOR(#b192fc):~ULT|COLOR(#df5069):~FBD|~|~|h"
+  },
+  {
+    "line": 19,
+    "text": "|CENTER:200|CENTER:180|CENTER:70|CENTER:55|CENTER:55|CENTER:55|CENTER:55|CENTER:70|CENTER:90|c"
+  },
+  {
+    "line": 20,
+    "text": "|[[Albedo (Tutorial)>Tutorial]]|void (Mournfinale)|163|?|?|-|-|-|-|"
+  },
+  {
+    "line": 21,
+    "text": "|[[Altered Edge]]|satella|142|2|5|9|11|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 22,
+    "text": "|[[Be There]]|PSYQUI|164|3|6|10|12|[[InFalsus>チャプター#InFalsus]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 23,
+    "text": "|[[Chronomia]]|Lime|227|2|5|10|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 24,
+    "text": "|[[Cryogenic]]|Camellia ft. Petra Gurin|145|2|5|9|12|[[InFalsus>チャプター#InFalsus]]|[[0.2.0>アップデート#v020]]|"
+  },
+  {
+    "line": 25,
+    "text": "|[[Cyaegha]]|USAO|200|3|6|10|12|[[InFalsus>チャプター#InFalsus]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 26,
+    "text": "|[[cylin]]|kalsoer|178|3|6|10|12|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 27,
+    "text": "|[[Deep Into The Vibe]]|rejection|175|3|6|10|12|[[1章>チャプター#TheFirstLie]]|[[0.3.0>アップデート#v030]]|"
+  },
+  {
+    "line": 28,
+    "text": "|[[Enigma]]|sanmal|172|4|7|11|13|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 29,
+    "text": "|[[Everything]]|Avans|128|1|4|8|10|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 30,
+    "text": "|[[F0 CHA0S]]|Lamanya|140|2|5|9|11|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 31,
+    "text": "|[[FFFF]]|zts|142|2|5|9|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 32,
+    "text": "|[[Forbidden Souls]]|Nhato|128|2|4|9|11|[[InFalsus>チャプター#InFalsus]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 33,
+    "text": "|[[Ghost Ray]]|Qlarabelle & crayvxn|157|1|4|8|10|[[InFalsus>チャプター#InFalsus]]|[[0.2.0>アップデート#v020]]|"
+  },
+  {
+    "line": 34,
+    "text": "|[[Greyscale City]]|litmus*|128|2|5|10|12|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 35,
+    "text": "|[[Hanabi]]|Snail's House|183|2|6|9|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 36,
+    "text": "|[[Hyalo&#252;yne]]|ak+q|152|3|6|10|12|[[InFalsus>チャプター#InFalsus]]|[[0.2.0>アップデート#v020]]|"
+  },
+  {
+    "line": 37,
+    "text": "|[[init()]]|kamome sano|180|2|5|9|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v030]]|"
+  },
+  {
+    "line": 38,
+    "text": "|[[Latent Duality]]|Palme|170|4|7|11|13|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 39,
+    "text": "|[[Lights Out]]|USAO|130|4|7|10|12|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 40,
+    "text": "|[[M/O/O/N/D/I/V/E/R>M_O_O_N_D_I_V_E_R]]|Bitplane|126|2|5|9|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 41,
+    "text": "|[[Minerva]]|Hylen|174|2|5|9|11|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 42,
+    "text": "|[[MIRINAE]]|TAK × Zekk|180|2|6|9|12|[[InFalsus>チャプター#InFalsus]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 43,
+    "text": "|[[M&#233;moire>Memoire]]|Zekk|180|4|7|11|13|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 44,
+    "text": "|[[NEONViSION]]|REDALiCE|188|3|6|9|11|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 45,
+    "text": "|[[New Vision]]|ii/night feat. shizuki|181|1|4|9|11|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 46,
+    "text": "|[[Ordirehv]]|Feryquitous|191|1|4|8|10|[[InFalsus>チャプター#InFalsus]]|[[0.2.0>アップデート#v020]]|"
+  },
+  {
+    "line": 47,
+    "text": "|[[papillon blanc]]|bermei.inazawa feat.乃花こより|-|1|4|8|10|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 48,
+    "text": "|[[Primeval Texture]]|くるぶっこちゃん|120|2|5|8|10|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 49,
+    "text": "|[[Sin Utopia]]|Kobaryo|141-282|3|7|10|12|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 50,
+    "text": "|[[Things I Treasure]]|黒沢ダイスケ feat. 濱田道子|132|2|5|9|11|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 51,
+    "text": "|[[Transparency]]|くるぶっこちゃん|145|1|4|8|10|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 52,
+    "text": "|[[With Truth]]|ARForest feat.nayuta|185|1|4|8|10|[[2章>チャプター#APastBestUntold]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 53,
+    "text": "|[[WonderRoom2.0]]|virtual Nice dog workS|150|3|6|9|10|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 54,
+    "text": "|[[ZFC]]|cybermiso|180|2|6|10|12|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 55,
+    "text": "|[[&#224; la mode]]|aran|140|1|5|9|11|[[InFalsus>チャプター#InFalsus]]|[[0.2.0>アップデート#v020]]|"
+  },
+  {
+    "line": 56,
+    "text": "|[[キラピコ繚乱キラピコリン]]|立秋 feat. ちょこ|130-192|2|5|9|11|[[2.5章>チャプター#EveryMoment]]|[[1.0.2c>アップデート#v030]]|"
+  },
+  {
+    "line": 57,
+    "text": "|[[砂の記憶]]|Nyolfen|148|2|5|9|11|[[1章>チャプター#TheFirstLie]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 58,
+    "text": "|[[Chaoticism Legacy]]|Nothing But Requiem|190|4|7|10|13|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 59,
+    "text": "|[[code:Leviathan>code_Leviathan]]|kanone|163|5|8|11|14|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 60,
+    "text": "|[[Cold Sea]]|Sakuzyo|174|4|7|10|13|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 61,
+    "text": "|[[Falling Shadow]]|callasoiled|188|1|4|8|11|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 62,
+    "text": "|[[Live Fast Die Young]]|anubasu-anubasu|153|2|5|10|12|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 63,
+    "text": "|[[My Deadly Sins]]|Sta|170.5|2|6|9|12|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v030]]|"
+  },
+  {
+    "line": 64,
+    "text": "|[[Re:Flection>Re_Flection]]|t+pazolite|185|4|7|10|13|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 65,
+    "text": "|[[Reconnect]]|BlackY feat. Risa Yuzuki|184|2|5|9|11|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 66,
+    "text": "|[[Self-confrontatioN]]|s-don|155|3|6|10|12|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 67,
+    "text": "|[[should have been]]|Frums|240?|3|6|10|13|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 68,
+    "text": "|[[Trajectory of Hope]]|TAG|185|3|6|10|12|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 69,
+    "text": "|[[Vesper]]|Dustvoxx|200|3|6|10|13|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 70,
+    "text": "|[[yggthrasir]]|ikaruga_nex|130-179|3|6|10|12|[[3章>チャプター#HeavensChains]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 71,
+    "text": "|[[Albedo]]|void (Mournfinale)|163|3|6|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 72,
+    "text": "|[[Chronophobia]]|xi vs かねこちはる|170-225|6|9|11|14|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 73,
+    "text": "|[[Destr0yer]]|Sakuzyo feat. Nikki Simmons|90|3|6|9|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 74,
+    "text": "|[[EXCEED MIND LIMIT]]|SOUND HOLIC feat. Nana Takahashi|158|3|6|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 75,
+    "text": "|[[Falsequre]]|Blacklolita|175|2|6|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 76,
+    "text": "|[[Moonsliders]]|DJ Noriken|194|3|6|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 77,
+    "text": "|[[Noct Idea]]|Juggernaut.|200|3|6|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 78,
+    "text": "|[[Now I know]]|lapix feat. RANASOL|170|3|6|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 79,
+    "text": "|[[Outer Justice]]|Morrigan feat.Lily|180|3|6|9|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 80,
+    "text": "|[[PhylaXron]]|Taishi|138|6|9|12|14|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 81,
+    "text": "|[[Scarlet Espada]]|Yooh|157|3|6|9|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 82,
+    "text": "|[[Shadows of Unknown]]|Sad Keyboard Guy feat. vally.exe|190|4|7|10|12|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 83,
+    "text": "|[[TACTOM]]|onoken|133-266|4|8|11|14|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 84,
+    "text": "|[[Toccata Funebre]]|Katali|174|3|6|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 85,
+    "text": "|[[Zetta]]|Hommarju|200|3|6|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 86,
+    "text": "|[[綺劣]]|Laur|200|4|7|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 87,
+    "text": "|[[空殻]]|Camellia feat.ナノ|215|5|8|11|14|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 88,
+    "text": "|[[驟雨の狭間]]|Silentroom|174|4|7|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 89,
+    "text": "|[[魔王]]|sasakure.UK × TJ.hangneil|190-280|4|7|10|13|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 90,
+    "text": "|[[&#9619;]]|∞|171|6|9|12|15|[[4章>チャプター#TheHandofCalamity]]|[[1.0.2c>アップデート#v102c]]|"
+  },
+  {
+    "line": 91,
+    "text": "|[[モニタリング]]|DECO*27|132|1|4|8|11|[[Virtual Singers>チャプター#VirtualSingers]]|[[1.0.5>アップデート#v105]]|"
+  },
+  {
+    "line": 92,
+    "text": "|[[ロストワンの号哭]]|Neru|162|2|5|8|11|[[Virtual Singers>チャプター#VirtualSingers]]|[[1.0.5>アップデート#v105]]|"
+  },
+  {
+    "line": 93,
+    "text": "|[[ノンブレス・オブリージュ]]|ピノキオピー|148|3|6|9|12|[[Virtual Singers>チャプター#VirtualSingers]]|[[1.0.5>アップデート#v105]]|"
+  },
+  {
+    "line": 94,
+    "text": "|[[幸せになれる隠しコマンドがあるらしい]]|うたたP|142|4|7|10|12|[[Virtual Singers>チャプター#VirtualSingers]]|[[1.0.5>アップデート#v105]]|"
+  },
+  {
+    "line": 95,
+    "text": "|[[ロキ]]|みきとP|150|4|7|10|13|[[Virtual Singers>チャプター#VirtualSingers]]|[[1.0.5>アップデート#v105]]|"
+  },
+  {
+    "line": 96,
+    "text": "|[[Disruptor Array]]|[[Akira Complex>アーティスト#akiracomplex]] vs [[kiraku>アーティスト#kiraku]]|230|-|-|-|-|[[CHUNITHM Collaboration>チャプター#Chunithm]]|[[実装予定>アップデート#v000]]|"
+  },
+  {
+    "line": 97,
+    "text": "|[[TECHNOPOLIS 2085]]|[[PRASTIK DANCEFLOOR>アーティスト#prastikdancefloor]]|134|-|-|-|-|[[CHUNITHM Collaboration>チャプター#Chunithm]]|[[実装予定>アップデート#v000]]|"
+  },
+  {
+    "line": 98,
+    "text": "|[[Megameteor]]|[[削除>アーティスト#sakuzyo]]|187|-|-|-|-|[[CHUNITHM Collaboration>チャプター#Chunithm]]|[[実装予定>アップデート#v000]]|"
+  },
+  {
+    "line": 99,
+    "text": "|[[Yume no hajimari]]|[[Virtual Cat>アーティスト#virtualcat]]|98|-|-|-|-|[[CHUNITHM Collaboration>チャプター#Chunithm]]|[[実装予定>アップデート#v000]]|"
+  },
+  {
+    "line": 100,
+    "text": "|[[空間創造理論]]|[[Sound piercer>アーティスト#soundpiercer]]|138|-|-|-|-|[[CHUNITHM Collaboration>チャプター#Chunithm]]|[[実装予定>アップデート#v000]]|"
+  }
+]

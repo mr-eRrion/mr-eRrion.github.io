@@ -1,0 +1,1306 @@
+[
+  {
+    "line": 9,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 10,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 11,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 12,
+    "text": "|[[雨霖&#38083;>雨霖鈴]]|Alan Mackin|1|4|7||"
+  },
+  {
+    "line": 13,
+    "text": "|[[Cryheart]]|RAI&小夜|2|5|7||"
+  },
+  {
+    "line": 14,
+    "text": "|[[Bailar]]|igoo2u|1|4|8||"
+  },
+  {
+    "line": 15,
+    "text": "|[[Tales of Ginkgo]]|Zris|1|3|8||"
+  },
+  {
+    "line": 16,
+    "text": "|[[BZenith]]|xh白女士hx|2|5|9||"
+  },
+  {
+    "line": 17,
+    "text": "|[[Apocalypse Seed]]|Knightmare0|2|5|9||"
+  },
+  {
+    "line": 18,
+    "text": "|[[Brain Crash]]|rider|1|5|9||"
+  },
+  {
+    "line": 19,
+    "text": "|[[UNTITLED]]|SaMZIng / TSAR|1|5|9+||"
+  },
+  {
+    "line": 20,
+    "text": "|[[Emotional Confusion]]|SamaR3N w/ Koto Spirit|1|6|9+||"
+  },
+  {
+    "line": 21,
+    "text": "|[[Chartreuse Green]]|t+pazolite|2|5|10||"
+  },
+  {
+    "line": 22,
+    "text": "|[[BiBiC Heart]]|MYUKKE.|3|6|10+||"
+  },
+  {
+    "line": 23,
+    "text": "|[[SCHADEN ~Schubert: Erlk&#246;nig, D.328~>SCHADEN]]|CaraCORE|2|5|10||"
+  },
+  {
+    "line": 24,
+    "text": "|[[Spark!e]]|Aoi|3|7|10+||"
+  },
+  {
+    "line": 25,
+    "text": "|[[Angel Wing]]|uma|3|8|10+||"
+  },
+  {
+    "line": 26,
+    "text": "|[[ill city (Orzmic Edit)]]|DySkyLan & VA1zpary|4|7|11+|病|"
+  },
+  {
+    "line": 32,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 33,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 34,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 35,
+    "text": "|[[Star Fall in Evernight City]]|Reku Mochizuki|2|6|10||"
+  },
+  {
+    "line": 36,
+    "text": "|[[rvp7vre]]|Halv|2|5|10||"
+  },
+  {
+    "line": 37,
+    "text": "|[[Skyscrapers Stage]]|EBIMAYO|3|6|10||"
+  },
+  {
+    "line": 38,
+    "text": "|[[Forgotten Emotions]]|影虎。|4|7|11||"
+  },
+  {
+    "line": 39,
+    "text": "|[[Era Breath]]|MYUKKE.|3|8|11+||"
+  },
+  {
+    "line": 40,
+    "text": "|[[Eligos]]|Team Grimoire|3|6|10|12|"
+  },
+  {
+    "line": 45,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 46,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 47,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 48,
+    "text": "|[[Singularity]]|Jun Kuroda|2|9+|10+||"
+  },
+  {
+    "line": 49,
+    "text": "|[[Iridescent Gazer]]|polysha|3|6|10||"
+  },
+  {
+    "line": 50,
+    "text": "|[[proto:messiah>Proto Messiah]]|かゆき|3|7|10+||"
+  },
+  {
+    "line": 51,
+    "text": "|[[Enchanted]]|ARForest|2|8|11||"
+  },
+  {
+    "line": 52,
+    "text": "|[[Fiend Demme]]|Delaina as \"ZxNX\"|2|9+|11+||"
+  },
+  {
+    "line": 53,
+    "text": "|[[Splatter Doll]]|モリモリあつし|3|8|10|''狂''|"
+  },
+  {
+    "line": 58,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 59,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 60,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 61,
+    "text": "|[[Freedom Wing]]|HyuN|1|6|10||"
+  },
+  {
+    "line": 62,
+    "text": "|[[Haerkzs]]|NceS|2|7|10||"
+  },
+  {
+    "line": 63,
+    "text": "|[[Falsely]]|Fuuryn.G vs AiSS ft. Sepia|2|7|10+||"
+  },
+  {
+    "line": 64,
+    "text": "|[[FORBIDDEN MAGICKA]]|Akira Complex vs. kiraku|3|6|11||"
+  },
+  {
+    "line": 65,
+    "text": "|[[Saintelmo]]|Aoi|3|8|11+||"
+  },
+  {
+    "line": 66,
+    "text": "|[[Gamol Hundg&#275;ar]]|Epthys|4|9|11|12|"
+  },
+  {
+    "line": 73,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 74,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 75,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 76,
+    "text": "|[[Target▲Zero]]|WyvernP|1|5|10||"
+  },
+  {
+    "line": 77,
+    "text": "|[[Cracked]]|影虎。|2|7|10+||"
+  },
+  {
+    "line": 78,
+    "text": "|[[Avys]]|Se-U-Ra|2|6|10+||"
+  },
+  {
+    "line": 79,
+    "text": "|[[GRAVITY ZOИE]]|seatrus|3|8|11+||"
+  },
+  {
+    "line": 80,
+    "text": "|[[Dead Angel]]|D_AAN|4|8|11+||"
+  },
+  {
+    "line": 81,
+    "text": "|[[Le Porteur d'Ombre]]|黒皇帝 feat. AKA|4|9|11+|''狂''|"
+  },
+  {
+    "line": 88,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 89,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 90,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 91,
+    "text": "|[[Tactics-Exhaustive]]|shadow_bling|2|7|10||"
+  },
+  {
+    "line": 92,
+    "text": "|[[心機一轉[白]>心機一轉(白)]]|Pica|3|8|10+||"
+  },
+  {
+    "line": 93,
+    "text": "|[[Qualia]]|RyouRyou|2|7|10+||"
+  },
+  {
+    "line": 94,
+    "text": "|[[Among Wolves]]|Iris|2|8|11||"
+  },
+  {
+    "line": 95,
+    "text": "|[[エセ交響詩[若き白の女王]>エセ交響詩(若き白の女王)]]|rN|3|9+|11+||"
+  },
+  {
+    "line": 96,
+    "text": "|[[VorpΛlize]]|Reku Mochizuki|4|9+|11+|''狂''|"
+  },
+  {
+    "line": 97,
+    "text": "|[[十拳剣]]|5KiLOBYTE vs. Raphiiel|4|9+|11+|''狂''|"
+  },
+  {
+    "line": 98,
+    "text": "|[[Forbidden Area]]|ADA|3|9|11+||"
+  },
+  {
+    "line": 99,
+    "text": "|[[つーく・つわんく]]|WABI|3|8|11||"
+  },
+  {
+    "line": 100,
+    "text": "|[[Orphe]]|Avans|2|8|10+||"
+  },
+  {
+    "line": 101,
+    "text": "|[[Forget me not]]|Arch|3|7|10+||"
+  },
+  {
+    "line": 102,
+    "text": "|[[The Last Flower]]|Hagali feat.國土佳音|1|6|10||"
+  },
+  {
+    "line": 111,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 112,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 113,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 114,
+    "text": "|[[苦しくて、切なくて]]|ShrimpCats.（はぁち × 後藤涼輔）|3|8|10+||"
+  },
+  {
+    "line": 115,
+    "text": "|[[enclosed]]|Spyro Kong|4|?|11||"
+  },
+  {
+    "line": 116,
+    "text": "|[[La F&#233;e Sonnette]]|Rig&#235;l Theatre|3|9|11||"
+  },
+  {
+    "line": 117,
+    "text": "|[[Memories in Toybox]]|梅干茶漬け|5|9+|11+||"
+  },
+  {
+    "line": 118,
+    "text": "|[[Greeting into Abysschaos]]|Raimukun|''6''|''10+''|''12''||"
+  },
+  {
+    "line": 119,
+    "text": "|[[Sphalerite]]|RYOQUCHA & CS4W|''6''|''10+''|''12''|''13''|"
+  },
+  {
+    "line": 120,
+    "text": "|[[アルデバランの理想郷]]|Now Field|3|9|11||"
+  },
+  {
+    "line": 121,
+    "text": "|[[Velkradia]]|Connexio|5|''10+''|''12''||"
+  },
+  {
+    "line": 128,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 129,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 130,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 131,
+    "text": "|[[告白・告別]]|Greetea feat. ninnikuu|5|9|10||"
+  },
+  {
+    "line": 132,
+    "text": "|[[Beach at Dusk]]|NceS|1|5|6||"
+  },
+  {
+    "line": 133,
+    "text": "|[[Last Promise]]|Rayson|1|5|8+||"
+  },
+  {
+    "line": 134,
+    "text": "|[[Myth(vip)]]|rmk|1|5|9||"
+  },
+  {
+    "line": 135,
+    "text": "|[[un secret]]|モリモリあつし|1|5|9||"
+  },
+  {
+    "line": 136,
+    "text": "|[[Coming Down]]|NceS|3|6|9||"
+  },
+  {
+    "line": 137,
+    "text": "|[[Imperishable Moon]]|DayStars|2|6|9+||"
+  },
+  {
+    "line": 138,
+    "text": "|[[Hardcore Ravers]]|DJ ZED|2|6|10||"
+  },
+  {
+    "line": 139,
+    "text": "|[[Replacer]]|CPSQUQI & All_Life_X|1|6|9+||"
+  },
+  {
+    "line": 140,
+    "text": "|[[UИ0HЯ1Λ: Seventh Syberia Strike>UN0HR1A]]|Orzmic Sound Team|1|5|10||"
+  },
+  {
+    "line": 141,
+    "text": "|[[On And On!!]]|ETIA. feat. Jenga|4|6|10||"
+  },
+  {
+    "line": 142,
+    "text": "|[[Przep&#322;yw &#347;wiat&#322;a>Przeplyw swiatla]]|RAI|3|7|10||"
+  },
+  {
+    "line": 143,
+    "text": "|[[Snow Dance]]|悠叶いのり|2|7|10||"
+  },
+  {
+    "line": 144,
+    "text": "|[[Dainsleif]]|ETIA.|2|6|10||"
+  },
+  {
+    "line": 145,
+    "text": "|[[目が覚めた時]]|Gasai_Tomoya/TAOTIE|3|8|10||"
+  },
+  {
+    "line": 146,
+    "text": "|[[Lights in the Painting]]|DayStars|3|8|11||"
+  },
+  {
+    "line": 147,
+    "text": "|[[Pullin' Me Down (To The 90's Groove)]]|佑木いずみ|4|7|10+||"
+  },
+  {
+    "line": 148,
+    "text": "|[[bring me to life]]|repellentic|2|7|11||"
+  },
+  {
+    "line": 149,
+    "text": "|[[c.s.q.n.]]|Aoi|3|7|10+||"
+  },
+  {
+    "line": 150,
+    "text": "|[[Final Hope]]|Riya|4|6|11||"
+  },
+  {
+    "line": 151,
+    "text": "|[[Break Through Myself feat. Risa Yuzuki]]|DJ Myosuke & Laur|2|7|11+||"
+  },
+  {
+    "line": 152,
+    "text": "|[[Requiem Cataclysm]]|5KiLOBYTE & Raphiiel|4|9+|11+||"
+  },
+  {
+    "line": 153,
+    "text": "|[[Finale Destination]]|takehirotei ft. Finite Limit|2|6|9+|12|"
+  },
+  {
+    "line": 159,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 160,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 161,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 162,
+    "text": "|[[Escape]]|All_Life_X & MXTC|2|6|9+|"
+  },
+  {
+    "line": 163,
+    "text": "|[[怪逢]]|Night Yard|2|5|9+|"
+  },
+  {
+    "line": 164,
+    "text": "|[[Bad Gateway]]|DeBisco|2|6|10|"
+  },
+  {
+    "line": 165,
+    "text": "|[[First Date (feat. Ei)]]|DJ Zed & Darren|3|8|10|"
+  },
+  {
+    "line": 166,
+    "text": "|[[Echoes of the Night]]|PYKAMIA|3|6|10+|"
+  },
+  {
+    "line": 167,
+    "text": "|[[Eternal Sunshine]]|Essbee|2|6|10+|"
+  },
+  {
+    "line": 168,
+    "text": "|[[Revelation]]|tn-shi|3|8+|10+|"
+  },
+  {
+    "line": 169,
+    "text": "|[[星相&#36816;&#36712;-The End of Time-]]|EndCat-&#32456;猫|2|5|10+|"
+  },
+  {
+    "line": 170,
+    "text": "|[[EulcRa]]|Raphiiel|3|7|10+|"
+  },
+  {
+    "line": 171,
+    "text": "|[[Give It To Me]]|OutLogic|2|7|11|"
+  },
+  {
+    "line": 172,
+    "text": "|[[FurukuNeon]]|INBOX WG|2|7|11|"
+  },
+  {
+    "line": 173,
+    "text": "|[[Be With Me]]|PoppoOVO|2|7|10+|"
+  },
+  {
+    "line": 174,
+    "text": "|[[Treflux]]|RAI|2|9|11|"
+  },
+  {
+    "line": 175,
+    "text": "|[[Interference]]||3|9+|11+|"
+  },
+  {
+    "line": 176,
+    "text": "|[[衝天のグラディウス]]|RyouRyou|2|6|11|"
+  },
+  {
+    "line": 177,
+    "text": "|[[INFiNiTE ENERZY -Overdoze-]]|Reku Mochizuki|3|9|11|"
+  },
+  {
+    "line": 178,
+    "text": "|[[iΓ-f&#477;Rric]]|Shanom|4|8|11|"
+  },
+  {
+    "line": 179,
+    "text": "|[[Glamorous]]|Axya|2|9|10+|"
+  },
+  {
+    "line": 180,
+    "text": "|[[STARDUST]]|Riya|3|9+|11|"
+  },
+  {
+    "line": 181,
+    "text": "|[[Omega]]|SNKS & Mizku|2|7|11+|"
+  },
+  {
+    "line": 182,
+    "text": "|[[OiL-CAD-OiL]]|MYUKKE|3|9+|11+|"
+  },
+  {
+    "line": 183,
+    "text": "|[[核心共振]]|烈&#39118;|3|8|11+|"
+  },
+  {
+    "line": 190,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 191,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 192,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 193,
+    "text": "|[[Aleph-0]]|LeaF|5|?|10|"
+  },
+  {
+    "line": 194,
+    "text": "|[[conflict]]|siromaru + cranky|2|8|10+|"
+  },
+  {
+    "line": 195,
+    "text": "|[[Mandragora]]|Columba (Daily vs Roon_kun)|2|5|11|"
+  },
+  {
+    "line": 196,
+    "text": "|[[Access Granted]]|LUNARiUM|3|7|10+|"
+  },
+  {
+    "line": 197,
+    "text": "|[[TSUSURVIVORGAMUSH]]|Family Farce|2|6|10+|"
+  },
+  {
+    "line": 198,
+    "text": "|[[Access Denied]]|Knighthood|2|5|11|"
+  },
+  {
+    "line": 199,
+    "text": "|[[PUPA]]|モリモリあつし|4|6|11+|"
+  },
+  {
+    "line": 205,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 206,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 207,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 208,
+    "text": "|[[DataErr0r]]|Cosmograph|1|6|9+|"
+  },
+  {
+    "line": 209,
+    "text": "|[[&#196;ventyr>Aventyr]]|Rig&#235;l Theatre|2|5|9+|"
+  },
+  {
+    "line": 210,
+    "text": "|[[Firefly City]]|EBIMAYO|2|7|10|"
+  },
+  {
+    "line": 211,
+    "text": "|[[Originally]]|SNKS & Mizku|1|7|10+|"
+  },
+  {
+    "line": 212,
+    "text": "|[[Vanishing Glimmer]]|Tetrajectory|3|6|10+|"
+  },
+  {
+    "line": 213,
+    "text": "|[[CROSS†OVER]]|HyuN feat. LyuU|4|7|10+|"
+  },
+  {
+    "line": 214,
+    "text": "|[[斷劍の獄]]|Rayson|2|6|11|"
+  },
+  {
+    "line": 215,
+    "text": "|[[The Last Page]]|ARForest|2|6|11|"
+  },
+  {
+    "line": 221,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 222,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 223,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 224,
+    "text": "|[[Psalms ～魂の還るばしょ～]]|qfeileadh & レゾナンスもえこ|1|6|8|"
+  },
+  {
+    "line": 225,
+    "text": "|[[Headache]]|NceS|1|5|10|"
+  },
+  {
+    "line": 226,
+    "text": "|[[OTTAMA GAZER]]|MYUKKE.|2|5|9+|"
+  },
+  {
+    "line": 227,
+    "text": "|[[Asphodel Meadow]]|The Doll Reaper vs Knighthood|2|6|10|"
+  },
+  {
+    "line": 228,
+    "text": "|[[Chapters]]|Sephid|2|6|10+|"
+  },
+  {
+    "line": 229,
+    "text": "|[[写儀の少女Lix]]|Se-U-Ra|3|7|10+|"
+  },
+  {
+    "line": 230,
+    "text": "|[[BLVNK VIP]]|Spyro Kong|1|6|11|"
+  },
+  {
+    "line": 231,
+    "text": "|[[R.I.P.]]|eicateve|3|9|11+|"
+  },
+  {
+    "line": 237,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 238,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 239,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 240,
+    "text": "|[[Nhelv]]|Silentroom|5|?|9+|"
+  },
+  {
+    "line": 241,
+    "text": "|[[Human Observer]]|rmk|1|8|10|"
+  },
+  {
+    "line": 242,
+    "text": "|[[NightTheater]]|わかどり|2|7|10+|"
+  },
+  {
+    "line": 243,
+    "text": "|[[銀世界にひとり]]|後藤 feat. nayuta|2|6|10+|"
+  },
+  {
+    "line": 244,
+    "text": "|[[rainbow]]|ああああ|3|7|10+|"
+  },
+  {
+    "line": 245,
+    "text": "|[[Kirakira Noel Story!!]]|Reku Mochizuki|2|8|10+|"
+  },
+  {
+    "line": 246,
+    "text": "|[[Mahika]]|The Musical Ghost|2|9+|11+|"
+  },
+  {
+    "line": 247,
+    "text": "|[[Hauynite]]|RYOQUCHA & CS4W|4|10|11+|"
+  },
+  {
+    "line": 253,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 254,
+    "text": "|~曲名|~作曲者 |>|>|>|~難易度|h"
+  },
+  {
+    "line": 255,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|~SPECIAL|h"
+  },
+  {
+    "line": 256,
+    "text": "|[[recall!!]]|ariiol|2|6|10||"
+  },
+  {
+    "line": 257,
+    "text": "|[[Back In The Days]]|Ardolf|2|8|10+||"
+  },
+  {
+    "line": 258,
+    "text": "|[[Elegy for the Betrayed]]|tn-shi|3|9|11||"
+  },
+  {
+    "line": 259,
+    "text": "|[[Talc]]|Knighthood|2|9+|11+||"
+  },
+  {
+    "line": 260,
+    "text": "|[[Savant]]|Kry.exe|3|8|11|病|"
+  },
+  {
+    "line": 261,
+    "text": "|[[Liar]]|R-TOP|3|9|11||"
+  },
+  {
+    "line": 262,
+    "text": "|[[Witch's Curse]]|M-UE|3|9+|11||"
+  },
+  {
+    "line": 263,
+    "text": "|[[caesura.]]|nm-y feat. AKA|4|10|''12''|''狂''|"
+  },
+  {
+    "line": 272,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 273,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 274,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 275,
+    "text": "|[[Always Been You]]|TE15SCOPE,PoppoOVO|4|双|10+|"
+  },
+  {
+    "line": 276,
+    "text": "|[[Splash The Beat!! (from BeatVerse 2025)]]|ああああ|4|8+|11+|"
+  },
+  {
+    "line": 277,
+    "text": "|[[IGNITE]]|USAO/Massive New Krew|3|8|11|"
+  },
+  {
+    "line": 278,
+    "text": "|[[Somebody]]|Ucixyel|1|7|10|"
+  },
+  {
+    "line": 279,
+    "text": "|[[When The Light Flows]]|Bob Hou#KITSUNE|3|9|10+|"
+  },
+  {
+    "line": 280,
+    "text": "|[[cybernetic blazar]]|ああああ|5|9+|11+|"
+  },
+  {
+    "line": 281,
+    "text": "|[[&#26103;野江清]]|AiSS|3|9|11|"
+  },
+  {
+    "line": 282,
+    "text": "|[[繁&#28976;明空-Fireworks-]]|EndCat-&#32456;猫 vs. ハリネズミ頭の大魔王|2|9+|11|"
+  },
+  {
+    "line": 283,
+    "text": "|[[&#24694;修女&#8212;&#8212;永火熔&#38136;]]|&#36127;&#31163;子SYNTHETIC feat. 黑&#27901;&#35834;&#20122;NOIR|2|8|10+|"
+  },
+  {
+    "line": 284,
+    "text": "|[[甜&#28073;之梦]]|YUC'e feat.早稻&#21501;|3|8|10+|"
+  },
+  {
+    "line": 285,
+    "text": "|[[SONIC SURGE]]|TSAR feat. aran|4|10|11|"
+  },
+  {
+    "line": 286,
+    "text": "|[[光と色の世界]]|PYKAMIA|2|6|9|"
+  },
+  {
+    "line": 287,
+    "text": "|[[大正星空ロマンス]]|PYKAMIA|2|7|9+|"
+  },
+  {
+    "line": 288,
+    "text": "|[[Colorful Subi]]|PYKAMIA|3|8|10|"
+  },
+  {
+    "line": 289,
+    "text": "|[[Hello Halloween]]|PYKAMIA vs 3R2|2|7|9+|"
+  },
+  {
+    "line": 290,
+    "text": "|[[Flame Dark]]|KIVΛ|3|7|10+|"
+  },
+  {
+    "line": 291,
+    "text": "|[[Infinite Dreamtale]]|Luna Asuka|3|8|11|"
+  },
+  {
+    "line": 292,
+    "text": "|[[Crush BETA]]|shadow_bling|2|9+|11|"
+  },
+  {
+    "line": 293,
+    "text": "|[[Crush Keyboard]]|shadow_bling|3|9|11|"
+  },
+  {
+    "line": 294,
+    "text": "|[[Crush Alcohol]]|shadow_bling|3|9+|11+|"
+  },
+  {
+    "line": 295,
+    "text": "|[[Crush Expert]]|shadow_bling|4|9+|11+|"
+  },
+  {
+    "line": 301,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 302,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 303,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 304,
+    "text": "|[[City of Ashes]]|RAI|1|5|9|"
+  },
+  {
+    "line": 305,
+    "text": "|[[夢色]]|RAI|3|6|9+|"
+  },
+  {
+    "line": 306,
+    "text": "|[[&#36951;世之地>遺世之地]]|RAI|2|6|10|"
+  },
+  {
+    "line": 313,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 314,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 315,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 316,
+    "text": "|[[1 Spoon of Butter]]|Solanum Tuberosum|3|6|9+|"
+  },
+  {
+    "line": 317,
+    "text": "|[[Agnostic]]|AiSS|4|8|10+|"
+  },
+  {
+    "line": 318,
+    "text": "|[[Fluorescent Light]]|Wooden|2|6|11|"
+  },
+  {
+    "line": 319,
+    "text": "|[[Nakunaru]]|P3T|2|7|11|"
+  },
+  {
+    "line": 320,
+    "text": "|[[ΗΣmolΨsis]]|P3T|5|9|11+|"
+  },
+  {
+    "line": 321,
+    "text": "|[[The Everlasting Rain]]|AiSS vs. Abit|4|9+|''12''|"
+  },
+  {
+    "line": 327,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 328,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 329,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 330,
+    "text": "|[[Helical Eye]]|VeetaCrush|1|6|9+|"
+  },
+  {
+    "line": 331,
+    "text": "|[[Final Code-7]]|Roon_kun|2|7|10|"
+  },
+  {
+    "line": 332,
+    "text": "|[[嫦娥奔月 -Lunar Paradoxx-]]|Kaori<Master/B3>Aizawa|4|10|11|"
+  },
+  {
+    "line": 333,
+    "text": "|[[Syrinx]]|Project Myth|3|7|11|"
+  },
+  {
+    "line": 340,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 341,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 342,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 343,
+    "text": "|[[Artificial Intelligence]]|street|2|5|9+|"
+  },
+  {
+    "line": 344,
+    "text": "|[[Platina]]|MEMME|2|6|10|"
+  },
+  {
+    "line": 345,
+    "text": "|[[Altros]]|ARForest|3|7|11|"
+  },
+  {
+    "line": 353,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 354,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 355,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 356,
+    "text": "|[[Recollection]]|qfeileadh feat. Risa Kodaka|2|9|10|"
+  },
+  {
+    "line": 357,
+    "text": "|[[Into the Depths]]|ruha|3|6|10+|"
+  },
+  {
+    "line": 358,
+    "text": "|[[pulsar]]|satie|4|7|10+|"
+  },
+  {
+    "line": 359,
+    "text": "|[[Spy-DR]]|ZxNX|2|8|11|"
+  },
+  {
+    "line": 360,
+    "text": "|[[Psychic]]|Kaede Hiyama|3|9+|11+|"
+  },
+  {
+    "line": 361,
+    "text": "|[[JACKPOT's Dreamer]]|打打だいず|4|9|11+|"
+  },
+  {
+    "line": 362,
+    "text": "|[[Aiknown]]|Se-U-Ra|4|''10+''|''12''|"
+  },
+  {
+    "line": 369,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 370,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 371,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 372,
+    "text": "|[[Dream goes on]]|Tiny Minim|1|6|9+|"
+  },
+  {
+    "line": 373,
+    "text": "|[[Weg]]|Yourmythos|1|7|10|"
+  },
+  {
+    "line": 374,
+    "text": "|[[Horizon Blue]]|Nothing But Requiem Ft.Aikapin & Chiyoko|3|9|11|"
+  },
+  {
+    "line": 375,
+    "text": "|[[Frey's Philosophy]]|Powerless|3|8|11+|"
+  },
+  {
+    "line": 376,
+    "text": "|[[Wolves Standing Towards Enemies]]|Camellia(EDP)|3|9+|''12''|"
+  },
+  {
+    "line": 383,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 384,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 385,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 386,
+    "text": "|[[Hypothesize]]|Sephid|4|10|11|"
+  },
+  {
+    "line": 387,
+    "text": "|[[墜光の都市より]]|DJ Raisei|3|10|11+|"
+  },
+  {
+    "line": 388,
+    "text": "|[[TremENDouS]]|Camellia|4|9|11+|"
+  },
+  {
+    "line": 389,
+    "text": "|[[JUDGE UP DOWN]]|KAH|4|9|11|"
+  },
+  {
+    "line": 390,
+    "text": "|[[AbsoluTe disoRdeR]]|Acute Disarray|''6''|''10+''|''12''|"
+  },
+  {
+    "line": 398,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 399,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 400,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 401,
+    "text": "|[[Fantasia Sonata Stars]]|PYKAMIA|3|9|10+|"
+  },
+  {
+    "line": 402,
+    "text": "|[[Fantasia Sonata Destiny]]|PYKAMIA|2|8|11|"
+  },
+  {
+    "line": 403,
+    "text": "|[[Fantasia Sonata God Dance]]|PYKAMIA vs. Sakuzyo|2|9+|11|"
+  },
+  {
+    "line": 404,
+    "text": "|[[Fantasia Sonata Hope]]|PYKAMIA vs. Reku Mochizuki|5|10|11+|"
+  },
+  {
+    "line": 411,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 412,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 413,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 414,
+    "text": "|[[Collapse]]|CS4W|3|9+|11|"
+  },
+  {
+    "line": 415,
+    "text": "|[[NO x]]|Juggernaut.|4|10|11+|"
+  },
+  {
+    "line": 416,
+    "text": "|[[Iris (short ver.)]]|黒魔|5|''10+''|11+|"
+  },
+  {
+    "line": 417,
+    "text": "|[[×RapieR×]]|隣の庭は青い（庭師+Aoi）|5|''10+''|''12''|"
+  },
+  {
+    "line": 427,
+    "text": "|240|150|CENTER:150|CENTER:50|c"
+  },
+  {
+    "line": 428,
+    "text": "|~曲名|~作曲者|>|~難易度|h"
+  },
+  {
+    "line": 429,
+    "text": "|[[Acht Streiks]]|Epthys|''&color(deepskyblue){AS}; / &color(deepskyblue){STREIKS};''|&#39130;|"
+  },
+  {
+    "line": 430,
+    "text": "|[[Hea Dac He]]|NceS|''&color(deepskyblue){HDH}; / &color(deepskyblue){OHHHHHH};''|&#33402;|"
+  },
+  {
+    "line": 431,
+    "text": "|[[Eligos]]|Team Grimoire|''&color(deepskyblue){[+]}; / &color(deepskyblue){MORE};''|(11)&#8314;|"
+  },
+  {
+    "line": 432,
+    "text": "|~|~|''&color(orange){BT}; / &color(orange){WWWWWWW};''|BT|"
+  },
+  {
+    "line": 433,
+    "text": "|[[Fracture Temporelle]]|黒皇帝|''&color(deepskyblue){UEZ}; / &color(deepskyblue){UNEASY};''|20|"
+  },
+  {
+    "line": 434,
+    "text": "|~|~|''&color(orange){UNM}; / &color(orange){NO RMAL};''|21|"
+  },
+  {
+    "line": 435,
+    "text": "|~|~|''&color(red){UHD}; / &color(red){HHHARDDD};''|4|"
+  },
+  {
+    "line": 436,
+    "text": "|~|~|''&color(black){SSP}; / &color(black){SSSSP};''|1|"
+  },
+  {
+    "line": 437,
+    "text": "|[[Candy Bomb!!]]|NoraKz|''&color(deepskyblue){CB}; / &color(deepskyblue){BOMB};''|?|"
+  },
+  {
+    "line": 438,
+    "text": "|[[OPERATION BLADE]]|ORZMIC SONIC FORCE|''&color(deepskyblue){OB}; / &color(deepskyblue){BLADE};''|-1|"
+  },
+  {
+    "line": 439,
+    "text": "|[[星相&#36816;&#36712;-The Fake of EndCat-(Badcore Mix)]]|EndCat-&#32456;猫|''&color(deepskyblue){66}; / &color(deepskyblue){666};''|66|"
+  },
+  {
+    "line": 440,
+    "text": "|~|~|''&color(orange){99}; / &color(orange){999};''|99|"
+  },
+  {
+    "line": 441,
+    "text": "|[[&#32456;暮~核磁共振+(SuperBadcore-VeryBad REMIX)]]|ハリネズミ頭の大魔王 vs StartDoge-始犬|''&color(deepskyblue){EZ}; / &color(deepskyblue){EASY};''|0|"
+  },
+  {
+    "line": 442,
+    "text": "|~|~|''&color(orange){NR}; / &color(orange){NORMAL};''|-1|"
+  },
+  {
+    "line": 443,
+    "text": "|[[TAPE ERROR]]|shadow bling|''&color(deepskyblue){EZ}; / &color(deepskyblue){EASY};''|11|"
+  },
+  {
+    "line": 444,
+    "text": "|~|~|''&color(orange){NR}; / &color(orange){NORMAL};''|00|"
+  },
+  {
+    "line": 445,
+    "text": "|[[永雨&#22920;&#22920;。人生是&#26103;野江清-(notBadcore MIX)]]|StartDoge-始犬 vs RUFUKI|''&color(deepskyblue){EZ}; / &color(deepskyblue){EASY};''|!|"
+  },
+  {
+    "line": 451,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 452,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 453,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 454,
+    "text": "|[[About the Universe]]|SOTUI & MIssionary|1|5|9+|"
+  },
+  {
+    "line": 455,
+    "text": "|[[Life]]|NceS|2|6|9+|"
+  },
+  {
+    "line": 456,
+    "text": "|[[Thunderstorm Catastrophe]]|CaraCORE / Brank|2|6|9+|"
+  },
+  {
+    "line": 465,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 466,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 467,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 468,
+    "text": "|[[雨霖&#38083;>雨霖鈴]]|Alan Mackin|1|4|8|"
+  },
+  {
+    "line": 469,
+    "text": "|[[Bailar]]|igoo2u|1|4|8|"
+  },
+  {
+    "line": 470,
+    "text": "|[[BZenith]]|xh白女士hx|2|5|8+|"
+  },
+  {
+    "line": 471,
+    "text": "|[[OTTAMA GAZER]]|MYUKKE.|2|6|9|"
+  },
+  {
+    "line": 472,
+    "text": "|[[BiBiC Heart]]|MYUKKE.|3|7|10|"
+  },
+  {
+    "line": 478,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 479,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 480,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 481,
+    "text": "|[[Cryheart]]|YumenoRAI&小夜|2|4|7|"
+  },
+  {
+    "line": 482,
+    "text": "|[[Apocalypse Seed]]|Knightmare0|2|6|8+|"
+  },
+  {
+    "line": 483,
+    "text": "|[[Emotional Confusion]]|SamaR3N w/ 言\\霊|1|6|9|"
+  },
+  {
+    "line": 484,
+    "text": "|[[Chartreuse Green]]|t+pazolite|2|6|9+|"
+  },
+  {
+    "line": 485,
+    "text": "|[[ill city (Orzmic Edit)]]|DySkyLan & VA1zpary|4|8|11|"
+  },
+  {
+    "line": 491,
+    "text": "|240|150|CENTER:55|CENTER:55|CENTER:55|c"
+  },
+  {
+    "line": 492,
+    "text": "|~曲名|~作曲者 |>|>|~難易度|h"
+  },
+  {
+    "line": 493,
+    "text": "|~|~|~&color(deepskyblue){EASY};|~&color(Orange){NORMAL};|~&color(Red){HARD};|h"
+  },
+  {
+    "line": 494,
+    "text": "|[[Tales of Ginkgo]]|Zris|1|3|8+|"
+  },
+  {
+    "line": 495,
+    "text": "|[[UNTITLED]]|SaMZIng / TSAR|1|6|9|"
+  },
+  {
+    "line": 496,
+    "text": "|[[SCHADEN ~Schubert: Erlk&#246;nig, D.328~>SCHADEN]]|CaraCORE|2|6|10|"
+  },
+  {
+    "line": 497,
+    "text": "|[[Angel Wing]]|uma|2|7|10|"
+  },
+  {
+    "line": 498,
+    "text": "|[[Spark!e]]|Aoi|3|8|10+|"
+  }
+]

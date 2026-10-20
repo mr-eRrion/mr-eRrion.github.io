@@ -1,0 +1,58 @@
+[
+  {
+    "line": 3,
+    "text": "|CENTER:200|CENTER:200|CENTER:200|CENTER:200|CENTER:200|c"
+  },
+  {
+    "line": 4,
+    "text": "|[[Sound of Reunion -Phase Ⅰ->その他チャプター楽曲一覧#Sound_of_Reunion_1]]&br;再会の音 フェーズ I|[[Sound of Reunion -Phase II->その他チャプター楽曲一覧#Sound_of_Reunion_2]]&br;再会の音 フェーズ II|BGCOLOR(lightgray):|BGCOLOR(lightgray):|BGCOLOR(lightgray):|"
+  },
+  {
+    "line": 15,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:100|c"
+  },
+  {
+    "line": 16,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 17,
+    "text": "|[[After Journey]]|ARForest|5|9|12|14+|T|B||"
+  },
+  {
+    "line": 18,
+    "text": "|[[Blessed Marquis]]|brz1128 &br;vs. M-UE|5|9|13|&color(Purple){15};|T|B||"
+  },
+  {
+    "line": 19,
+    "text": "|[[Moonlight Chaser]]|BlackY &br;vs. Yooh|6|10|14|&color(Purple){15+};|T|B||"
+  },
+  {
+    "line": 26,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:30|CENTER:100|c"
+  },
+  {
+    "line": 27,
+    "text": "|~Title|~Composer|~&color(Teal){W};|~&color(Green){A};|~&color(Maroon){U};|~&color(Purple){M};|~TIME|~BPM|~備考|"
+  },
+  {
+    "line": 28,
+    "text": "|[[Idunn's Innocence]]|Powerless|5|9|13|&color(purple){15+};|T|B||"
+  },
+  {
+    "line": 29,
+    "text": "|[[Snowdrop]]|tezuka|5|8|13|&color(purple){15};|T|B||"
+  },
+  {
+    "line": 30,
+    "text": "|[[&#91;Oro Ara&#93;>Oro Ara]]|Se-U-Ra|6|11|14|&color(purple){15+};|T|B||"
+  },
+  {
+    "line": 33,
+    "text": "|LEFT:250|LEFT:150|CENTER:30|CENTER:30|CENTER:30|CENTER:34|CENTER:43|CENTER:37|CENTER:101|c"
+  },
+  {
+    "line": 34,
+    "text": "|[[Xairos]]|Silentroom|6|13|15|&color(white,purple){16+};|T|B||"
+  }
+]

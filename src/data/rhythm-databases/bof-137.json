@@ -1,0 +1,497 @@
+{
+  "id": "bof-137",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=137",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "099178bf905d1e8616f7865baa666b8509e145bebac8c2a414aeed5c3338de52",
+  "partialSnapshot": true,
+  "records": [
+    {
+      "title": "アフェクション・ラヴ",
+      "artist": "kei_iwata / kei_iwata(mov:KeiuO / 内村徹)",
+      "sourceId": "137-21",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=137"
+    },
+    {
+      "title": "Luminaria",
+      "artist": "Lime",
+      "sourceId": "137-1",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=137"
+    },
+    {
+      "title": "アルスノヴァに喝采を",
+      "artist": "qfeileadh feat.レゾナンスもえこ(mov:movie:アカイユウ / illust:ねるぞう)",
+      "sourceId": "137-15",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=137"
+    },
+    {
+      "title": "Spectral Function",
+      "artist": "Project Nirvana(mov:空読無 白眼)",
+      "sourceId": "137-25",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=25&event=137"
+    },
+    {
+      "title": "俗物フェスティバル",
+      "artist": "Micelle feat.Yshida",
+      "sourceId": "137-4",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=137"
+    },
+    {
+      "title": "Let's get wild!",
+      "artist": "SOMON",
+      "sourceId": "137-60",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=137"
+    },
+    {
+      "title": "Poppy",
+      "artist": "Columba(Daily vs. Roon_kun)(mov:TRAF)",
+      "sourceId": "137-46",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=46&event=137"
+    },
+    {
+      "title": "告白進行中 -Retro Future Version-",
+      "artist": "T2o VS 張楚寒",
+      "sourceId": "137-93",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=93&event=137"
+    },
+    {
+      "title": "霓虹灯下",
+      "artist": "T2o Feat 秦瑜",
+      "sourceId": "137-104",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=137"
+    },
+    {
+      "title": "Angel Falls",
+      "artist": "816ThreeNumbers(816ThreeNumbers)(mov:TC_Rui)",
+      "sourceId": "137-105",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=105&event=137"
+    },
+    {
+      "title": "Crush Alcohol",
+      "artist": "shadow_bling(shadow_bling)(mov:shadow_bling)",
+      "sourceId": "137-109",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=137"
+    },
+    {
+      "title": "At The Ground's Edge",
+      "artist": "KANAOKOProject(KANAOKOProject & 816ThreeNumbers)(mov:LIN)",
+      "sourceId": "137-116",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=116&event=137"
+    },
+    {
+      "title": "DDD",
+      "artist": "はがね(mov:わっふゑ)",
+      "sourceId": "137-206",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=206&event=137"
+    },
+    {
+      "title": "Childhood Dream",
+      "artist": "OfficialAz3(mov:LThirty6, Linerly)",
+      "sourceId": "137-108",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=108&event=137"
+    },
+    {
+      "title": "Astatine",
+      "artist": "LiGaYb",
+      "sourceId": "137-119",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=119&event=137"
+    },
+    {
+      "title": "K",
+      "artist": "L216",
+      "sourceId": "137-188",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=137"
+    },
+    {
+      "title": "KVEYKVA",
+      "artist": "Nego_tiator(mov:みなも)",
+      "sourceId": "137-132",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=132&event=137"
+    },
+    {
+      "title": "シロヒトリサマ",
+      "artist": "*reinahitomi",
+      "sourceId": "137-133",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=137"
+    },
+    {
+      "title": "CLUB RENDA",
+      "artist": "ルゼ",
+      "sourceId": "137-140",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=140&event=137"
+    },
+    {
+      "title": "SUNDERING VORTEX",
+      "artist": "KURORAK(mov:KURORAK)",
+      "sourceId": "137-158",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=158&event=137"
+    },
+    {
+      "title": "爽昧夢想ラバーズ",
+      "artist": "qfeileadh feat.りこりす・らぢあーた(mov:amyu)",
+      "sourceId": "137-432",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=137"
+    },
+    {
+      "title": "蝎虎天体 -Lacertid-",
+      "artist": "Cream vs Daily天利(Nick Furry vs 悪いケモノ-A)(mov:the GalaxyF)",
+      "sourceId": "137-118",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=118&event=137"
+    },
+    {
+      "title": "PHAZE UPPER",
+      "artist": "Reku Mochizuki(mov:Norts)",
+      "sourceId": "137-174",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=137"
+    },
+    {
+      "title": "Escape",
+      "artist": "MXTC&All_Life_X(mov:CatKnife)",
+      "sourceId": "137-131",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=131&event=137"
+    },
+    {
+      "title": "Arcade Smasher!!",
+      "artist": "SZAN(mov:青鸟)",
+      "sourceId": "137-187",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=137"
+    },
+    {
+      "title": "葡萄茶の寫眞機",
+      "artist": "魔界都市ニイガタ(dawn-system/黄泉路テヂーモ/かゆき/自動車 原付)",
+      "sourceId": "137-423",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=423&event=137"
+    },
+    {
+      "title": "蟷ｸ遖上→蟒ｺ蜑",
+      "artist": "ルゼ(mov:乙青商会)",
+      "sourceId": "137-144",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=137"
+    },
+    {
+      "title": "Mermaid",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)(mov:retu)",
+      "sourceId": "137-288",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=137"
+    },
+    {
+      "title": "BRAIN HACKER",
+      "artist": "SOMON",
+      "sourceId": "137-85",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=85&event=137"
+    },
+    {
+      "title": "愛歌「ネグラドルナ」",
+      "artist": "ルゼ(mov:KeiuO illust：うまるつふり)",
+      "sourceId": "137-147",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=137"
+    },
+    {
+      "title": "Hyperkinetic",
+      "artist": "zatsuzatsu",
+      "sourceId": "137-164",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=164&event=137"
+    },
+    {
+      "title": "Terminus.",
+      "artist": "uytrere(mov:HAL)",
+      "sourceId": "137-198",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=198&event=137"
+    },
+    {
+      "title": "絶滅",
+      "artist": "しなちくシステム",
+      "sourceId": "137-455",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=455&event=137"
+    },
+    {
+      "title": "幻影",
+      "artist": "Pica(Pica)",
+      "sourceId": "137-267",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=267&event=137"
+    },
+    {
+      "title": "アジサイ",
+      "artist": "litmus* feat. 薛南",
+      "sourceId": "137-167",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=137"
+    },
+    {
+      "title": "Your Smile",
+      "artist": "litmus*",
+      "sourceId": "137-277",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=277&event=137"
+    },
+    {
+      "title": "U ARE",
+      "artist": "兎我月 未来(F Rabbeat)(mov:𝗬𝗘𝗔𝗛𝗧𝗨𝗡𝗔)",
+      "sourceId": "137-250",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=137"
+    },
+    {
+      "title": "S.L.I.",
+      "artist": "Rostel",
+      "sourceId": "137-283",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=137"
+    },
+    {
+      "title": "DIGITAL DIVER 20XX",
+      "artist": "くるぶっこちゃん(mov:サム)",
+      "sourceId": "137-252",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=137"
+    },
+    {
+      "title": "Carnage Mary",
+      "artist": "HiGAN(mov:AMES)",
+      "sourceId": "137-217",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=217&event=137"
+    },
+    {
+      "title": "Xyst",
+      "artist": "xarva",
+      "sourceId": "137-356",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=356&event=137"
+    },
+    {
+      "title": "little witch in permafrost garden",
+      "artist": "linear ring(mov:yama_ko)",
+      "sourceId": "137-350",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=350&event=137"
+    },
+    {
+      "title": "Pleisure",
+      "artist": "Zris(mov:Lunate)",
+      "sourceId": "137-472",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=472&event=137"
+    },
+    {
+      "title": "Betelgeuse",
+      "artist": "ED-L(ハムコア)(mov:Asa)",
+      "sourceId": "137-244",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=244&event=137"
+    },
+    {
+      "title": "Stream Amalgamate",
+      "artist": "yusi.",
+      "sourceId": "137-383",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=383&event=137"
+    },
+    {
+      "title": "Infinite Dreamtale",
+      "artist": "LUNA_ASUKA(mov:bluboy_official)",
+      "sourceId": "137-284",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=137"
+    },
+    {
+      "title": "玉響サーチライト",
+      "artist": "otoshi.b × みゅい(mov:tolz × はしたかさん)",
+      "sourceId": "137-19",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=137"
+    },
+    {
+      "title": "Rebirth of the MYTH",
+      "artist": "s-don・サム・さるきむ",
+      "sourceId": "137-371",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=371&event=137"
+    },
+    {
+      "title": "Bitpop Trip",
+      "artist": "西森夢理",
+      "sourceId": "137-301",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=301&event=137"
+    },
+    {
+      "title": "1022",
+      "artist": "Psysia(mov:Psysia，油爐79)",
+      "sourceId": "137-289",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=289&event=137"
+    },
+    {
+      "title": "Überragen",
+      "artist": "Psysia(mov:Psysia，油爐79)",
+      "sourceId": "137-318",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=318&event=137"
+    },
+    {
+      "title": "Between a Non-existent Reality",
+      "artist": "Aspid Cat(mov:katus774 & Azathoth)",
+      "sourceId": "137-308",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=308&event=137"
+    },
+    {
+      "title": "Panic",
+      "artist": "Neutral Moon(mov:katus774 & Azathoth)",
+      "sourceId": "137-313",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=137"
+    },
+    {
+      "title": "Outernoid",
+      "artist": "Aoi feat. Airi(mov:榊原またぎ)",
+      "sourceId": "137-401",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=401&event=137"
+    },
+    {
+      "title": "epilogue",
+      "artist": "VeetaCrush(mov:あるし)",
+      "sourceId": "137-32",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=32&event=137"
+    },
+    {
+      "title": "jello jelly",
+      "artist": "VeetaCrush(mov:Ano)",
+      "sourceId": "137-459",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=459&event=137"
+    },
+    {
+      "title": "花音 con tenerezza",
+      "artist": "大前 司(mov:Mido)",
+      "sourceId": "137-340",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=340&event=137"
+    },
+    {
+      "title": "Starbowscapes*",
+      "artist": "NASA(mov:Arishima_)",
+      "sourceId": "137-373",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=373&event=137"
+    },
+    {
+      "title": "Mahika",
+      "artist": "The Musical Ghost(mov:h. + The Musical Ghost)",
+      "sourceId": "137-377",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=377&event=137"
+    },
+    {
+      "title": "A Gleam for the Sightless",
+      "artist": "黒皇帝 × BilliumMoto(Lidelle × BilliumMoto)(mov:八重幸)",
+      "sourceId": "137-369",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=369&event=137"
+    },
+    {
+      "title": "Random",
+      "artist": "Sobrem × Silentroom(mov:Harkiadel)",
+      "sourceId": "137-372",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=372&event=137"
+    },
+    {
+      "title": "self-dissociation",
+      "artist": "黒皇帝 × Sobrem × Sennzai(Lidelle × Sobrem × Sennzai)(mov:Khronetic)",
+      "sourceId": "137-374",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=374&event=137"
+    },
+    {
+      "title": "Sense",
+      "artist": "BilliumMoto × Silentroom(mov:mahinii)",
+      "sourceId": "137-375",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=375&event=137"
+    },
+    {
+      "title": "FREEZE",
+      "artist": "lixound feat. 薛南(mov:Xquid)",
+      "sourceId": "137-441",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=441&event=137"
+    },
+    {
+      "title": "what was his name...",
+      "artist": "Lundy+BuzztoBesmol",
+      "sourceId": "137-461",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=461&event=137"
+    },
+    {
+      "title": "Wit's biz",
+      "artist": "Sobrem(mov:Espitz)",
+      "sourceId": "137-384",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=384&event=137"
+    },
+    {
+      "title": "ミライトコネクト",
+      "artist": "Sound piercer & ginkiha (feat.柚子花 & NeLiME)(mov:marierie, みしゃも, weiss)",
+      "sourceId": "137-414",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=137"
+    },
+    {
+      "title": "Simurgh",
+      "artist": "BilliumMoto & Sobrem(mov:Espitz, chan, grackle.draws)",
+      "sourceId": "137-420",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=420&event=137"
+    },
+    {
+      "title": "3HP MISSIONS",
+      "artist": "cybermiso",
+      "sourceId": "137-412",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=412&event=137"
+    },
+    {
+      "title": "OPERATION#138",
+      "artist": "DOT96",
+      "sourceId": "137-422",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=422&event=137"
+    },
+    {
+      "title": "Stomachache",
+      "artist": "NceS",
+      "sourceId": "137-409",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=137"
+    },
+    {
+      "title": "Precious Retrospection",
+      "artist": "Tetrajectory feat. Tetrajectory(Tetrajectory feat. 並奈一如)",
+      "sourceId": "137-415",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=415&event=137"
+    },
+    {
+      "title": "スナレ",
+      "artist": "Zris feat. Green",
+      "sourceId": "137-475",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=475&event=137"
+    },
+    {
+      "title": "Scattered Souls",
+      "artist": "D.Biu",
+      "sourceId": "137-458",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=137"
+    },
+    {
+      "title": "A.O.",
+      "artist": "Enterskip(mov:Alex Turell)",
+      "sourceId": "137-260",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=260&event=137"
+    },
+    {
+      "title": "めめ",
+      "artist": "Frums(めめ)",
+      "sourceId": "137-204",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=137"
+    },
+    {
+      "title": "kaomoji party",
+      "artist": "memowave(mov:Eden GT)",
+      "sourceId": "137-426",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=426&event=137"
+    },
+    {
+      "title": "Silence to freeze",
+      "artist": "NceS(mov:Sephid)",
+      "sourceId": "137-452",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=452&event=137"
+    },
+    {
+      "title": "energy revival",
+      "artist": "KAH(mov:自動車 原付 illust:りゅうら)",
+      "sourceId": "137-160",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=160&event=137"
+    },
+    {
+      "title": "Kindness",
+      "artist": "7mai(mov:マスティ )",
+      "sourceId": "137-357",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=137"
+    },
+    {
+      "title": "Alternativa",
+      "artist": "JDF(mov:sunrise)",
+      "sourceId": "137-437",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=437&event=137"
+    }
+  ]
+}

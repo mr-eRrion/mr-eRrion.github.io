@@ -1,0 +1,329 @@
+{
+  "id": "bof-149",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=149",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "7f580fc6d3457339e08719e0720be11c2934ebff44348caecbd3a8f4cc181145",
+  "partialSnapshot": false,
+  "records": [
+    {
+      "title": "CONST",
+      "artist": "Psysia",
+      "sourceId": "149-141",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=149"
+    },
+    {
+      "title": "MEEL",
+      "artist": "Psysia",
+      "sourceId": "149-229",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=229&event=149"
+    },
+    {
+      "title": "F",
+      "artist": "LiGaYb(mov:LiGaYb)",
+      "sourceId": "149-53",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=53&event=149"
+    },
+    {
+      "title": "Avalanche Controller",
+      "artist": "LiGaYb(mov:LiGaYb)",
+      "sourceId": "149-73",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=73&event=149"
+    },
+    {
+      "title": "仮想敵",
+      "artist": "Cortrix(mov:VJ NOKANY)",
+      "sourceId": "149-361",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=149"
+    },
+    {
+      "title": "赤外分光計算端末",
+      "artist": "NoKANY(mov:nonacola3)",
+      "sourceId": "149-393",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=393&event=149"
+    },
+    {
+      "title": "Call of the Night",
+      "artist": "MessX(mov:汗豆先生)",
+      "sourceId": "149-197",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=149"
+    },
+    {
+      "title": "Ácettefin",
+      "artist": "星咲Suzumi & AprilXI(mov:Akitrco)",
+      "sourceId": "149-211",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=149"
+    },
+    {
+      "title": "Finale",
+      "artist": "Soundwave(mov:汗豆先生)",
+      "sourceId": "149-288",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=149"
+    },
+    {
+      "title": "茜月夜ノ禁猟区",
+      "artist": "MiKaDo feat. A.Dokuga(mov:MiKaDo & たっくす)",
+      "sourceId": "149-17",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=17&event=149"
+    },
+    {
+      "title": "Limen",
+      "artist": "Silentroom(mov:sam, yozba, Silentroom)",
+      "sourceId": "149-369",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=369&event=149"
+    },
+    {
+      "title": "Flowing Light",
+      "artist": "GM_Shadows(mov:GM_Shadows & Mizukumo)",
+      "sourceId": "149-95",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=95&event=149"
+    },
+    {
+      "title": "Last Encounter",
+      "artist": "Xydlor vs Rosin(mov:Z6W2A)",
+      "sourceId": "149-200",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=200&event=149"
+    },
+    {
+      "title": "Natsuiroscape",
+      "artist": "kooridori(mov:Shake J)",
+      "sourceId": "149-99",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=99&event=149"
+    },
+    {
+      "title": "The World Tree",
+      "artist": "uma(mov:XAIQI)",
+      "sourceId": "149-333",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=333&event=149"
+    },
+    {
+      "title": "Altistential",
+      "artist": "Funchen / Funchen",
+      "sourceId": "149-75",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=75&event=149"
+    },
+    {
+      "title": "こくはく攻撃",
+      "artist": "litmus* ft. 分散型自律ゴーレム りむる",
+      "sourceId": "149-79",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=79&event=149"
+    },
+    {
+      "title": "Find U",
+      "artist": "litmus* ft. Rumency",
+      "sourceId": "149-240",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=240&event=149"
+    },
+    {
+      "title": "Lumichan Chronicles",
+      "artist": "litmus*",
+      "sourceId": "149-241",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=241&event=149"
+    },
+    {
+      "title": "pygmalion",
+      "artist": "litmus* as Ester",
+      "sourceId": "149-252",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=149"
+    },
+    {
+      "title": "AirPause",
+      "artist": "Itz62iGD(mov:Stable Diffusion fixed by 秋梦观鹤)",
+      "sourceId": "149-167",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=167&event=149"
+    },
+    {
+      "title": "Ascending Memories",
+      "artist": "DJ ANDREA JP",
+      "sourceId": "149-114",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=149"
+    },
+    {
+      "title": "Crush Anecdotes",
+      "artist": "shadow_bling",
+      "sourceId": "149-157",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=157&event=149"
+    },
+    {
+      "title": "Retroaction",
+      "artist": "1N6Fs feat. 翎婉(イニシャル・アール)(mov:1N6Fs)",
+      "sourceId": "149-417",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=417&event=149"
+    },
+    {
+      "title": "Oublie Moi",
+      "artist": "WuyangP(mov:chojing)",
+      "sourceId": "149-149",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=149&event=149"
+    },
+    {
+      "title": "IIII IIII IIII",
+      "artist": "Lamanya",
+      "sourceId": "149-220",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=149"
+    },
+    {
+      "title": "Checkmate",
+      "artist": "NonNam feat.Yixi(mov:Zenith†Grimoire_)",
+      "sourceId": "149-109",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=109&event=149"
+    },
+    {
+      "title": "nonexistent",
+      "artist": "Eraser(mov:Diamo)",
+      "sourceId": "149-236",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=236&event=149"
+    },
+    {
+      "title": "Backward Position",
+      "artist": "watch vs. F411εν(mov:BASSKNIVES vs.sdjge)",
+      "sourceId": "149-45",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=149"
+    },
+    {
+      "title": "dream of utopia",
+      "artist": "ILusMin & moonset feat. ☁(mov:AlhSachi)",
+      "sourceId": "149-188",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=149"
+    },
+    {
+      "title": "the world of periwinkle",
+      "artist": "OfficialAz3(mov:Echa x 42SoL as \"! × ¡\")",
+      "sourceId": "149-262",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=149"
+    },
+    {
+      "title": "HyBird Rage",
+      "artist": "BuGoJi(Be1ial)",
+      "sourceId": "149-364",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=364&event=149"
+    },
+    {
+      "title": "扶桑 THE FUSOR ARBOR",
+      "artist": "BLACK 0(mov:JUNK_DOGE)",
+      "sourceId": "149-411",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=411&event=149"
+    },
+    {
+      "title": "FEVER",
+      "artist": "Spiral_",
+      "sourceId": "149-137",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=149"
+    },
+    {
+      "title": "seven states of dreamscapes",
+      "artist": "OfficialAz3",
+      "sourceId": "149-163",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=149"
+    },
+    {
+      "title": "TOOTH DECAY FREESTYLE 2025",
+      "artist": "kdcysth(kdcysth → nothinbutafedupdude)",
+      "sourceId": "149-39",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=39&event=149"
+    },
+    {
+      "title": "Until That Day Passes",
+      "artist": "UANwork(mov:Jerry Parker、Akumaki、Pablo、Chien)",
+      "sourceId": "149-204",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=149"
+    },
+    {
+      "title": "Beyond The Galaxy",
+      "artist": "shimizushi(mov:Black)",
+      "sourceId": "149-51",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=51&event=149"
+    },
+    {
+      "title": "IDENCY",
+      "artist": "ESPITZ Gt.NeLiME",
+      "sourceId": "149-42",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=42&event=149"
+    },
+    {
+      "title": "goodbye world",
+      "artist": "yeowool(mov:chilldive)",
+      "sourceId": "149-110",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=110&event=149"
+    },
+    {
+      "title": "Euraidd",
+      "artist": "Kusua(mov:太儿233)",
+      "sourceId": "149-12",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=149"
+    },
+    {
+      "title": "果て前の花",
+      "artist": "noyrfa(mov:tanP)",
+      "sourceId": "149-310",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=310&event=149"
+    },
+    {
+      "title": "Re:Again",
+      "artist": "Reonda&Suglarke(mov:suglarke&reonda)",
+      "sourceId": "149-271",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=271&event=149"
+    },
+    {
+      "title": "Radiance of Sword",
+      "artist": "DayStars",
+      "sourceId": "149-281",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=149"
+    },
+    {
+      "title": "inv.Arcadia",
+      "artist": "JDF(mov:JDF)",
+      "sourceId": "149-311",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=311&event=149"
+    },
+    {
+      "title": "般舟",
+      "artist": "从II从(mov:陸忻遊)",
+      "sourceId": "149-312",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=312&event=149"
+    },
+    {
+      "title": "AYO WTF?!",
+      "artist": "Normal1zer(Normal1zer as \"Art of Kickz\")(mov:佑木いずみ / Normal1zer / MKR)",
+      "sourceId": "149-313",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=313&event=149"
+    },
+    {
+      "title": "サマバケSunnyAttack!",
+      "artist": "MiKaDo",
+      "sourceId": "149-47",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=47&event=149"
+    },
+    {
+      "title": "pray for the rebØrn of Eden",
+      "artist": "MC小虫虫(mov:kurain)",
+      "sourceId": "149-129",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=129&event=149"
+    },
+    {
+      "title": "monochromatization",
+      "artist": "Verlexin",
+      "sourceId": "149-315",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=315&event=149"
+    },
+    {
+      "title": "Lightning Stinger",
+      "artist": "ROKINA(mov:空読無 白眼)",
+      "sourceId": "149-21",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=149"
+    },
+    {
+      "title": "Replica",
+      "artist": "Quint",
+      "sourceId": "149-378",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=378&event=149"
+    },
+    {
+      "title": "天穹之泪",
+      "artist": "Flanez(mov:SWEET SWEATER)",
+      "sourceId": "149-368",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=368&event=149"
+    }
+  ]
+}

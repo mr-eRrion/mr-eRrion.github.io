@@ -1,0 +1,6555 @@
+{
+  "id": "djmax",
+  "game": "DJMAX",
+  "url": "https://raw.githubusercontent.com/rosenrose/djmax/master/db.json",
+  "retrievedAt": "2026-10-20",
+  "creditType": "composer",
+  "rawSha256": "20faaa32454b2e8cd790381b958384b99da8cfc274f3f935e4c4fdcb6ba2bea2",
+  "records": [
+    {
+      "title": "너랑 있으면",
+      "artist": "STARTRACK",
+      "sourceId": "respect/0",
+      "credits": {
+        "composer": "STARTRACK",
+        "remixer": "",
+        "vocalist": "Lena",
+        "lyricist": "STARTRACK"
+      }
+    },
+    {
+      "title": "너로피어오라",
+      "artist": "ampstyle",
+      "sourceId": "respect/1",
+      "credits": {
+        "composer": "ampstyle",
+        "remixer": "",
+        "vocalist": "초희",
+        "lyricist": "ampstyle"
+      }
+    },
+    {
+      "title": "모짜르트 교향곡 40번 1악장",
+      "artist": "Mozart (remix: 김창훈)",
+      "sourceId": "respect/2",
+      "credits": {
+        "composer": "Mozart",
+        "remixer": "김창훈",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "비상 ~Stay With Me~",
+      "artist": "Mycin.T",
+      "sourceId": "respect/3",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "Moa",
+        "lyricist": "Mycin.T"
+      }
+    },
+    {
+      "title": "서울여자",
+      "artist": "ESTi",
+      "sourceId": "respect/4",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "YUKIKA",
+        "lyricist": "ESTi / 박지연(MonoTree) / 최영경"
+      }
+    },
+    {
+      "title": "염라",
+      "artist": "ampstyle",
+      "sourceId": "respect/5",
+      "credits": {
+        "composer": "ampstyle",
+        "remixer": "",
+        "vocalist": "초희",
+        "lyricist": "ampstyle"
+      }
+    },
+    {
+      "title": "혜성",
+      "artist": "Mycin.T",
+      "sourceId": "respect/6",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "HIGHTEEN",
+        "lyricist": "Mycin.T"
+      }
+    },
+    {
+      "title": "2Nite",
+      "artist": "ND Lee",
+      "sourceId": "respect/7",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "ND Lee",
+        "lyricist": "Tache"
+      }
+    },
+    {
+      "title": "Airlock",
+      "artist": "XeoN",
+      "sourceId": "respect/8",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Alone",
+      "artist": "Marshmello",
+      "sourceId": "respect/9",
+      "credits": {
+        "composer": "Marshmello",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Alone",
+      "artist": "Nauts",
+      "sourceId": "respect/10",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Nauts"
+      }
+    },
+    {
+      "title": "Always",
+      "artist": "YUGI / Mool",
+      "sourceId": "respect/11",
+      "credits": {
+        "composer": "YUGI / Mool",
+        "remixer": "",
+        "vocalist": "Shin Ji",
+        "lyricist": "YUGI"
+      }
+    },
+    {
+      "title": "Angelic Tears",
+      "artist": "SHIKI",
+      "sourceId": "respect/12",
+      "credits": {
+        "composer": "SHIKI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Armored Phantom",
+      "artist": "ned",
+      "sourceId": "respect/13",
+      "credits": {
+        "composer": "ned",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Aurora Borealis",
+      "artist": "Electronic Boutique",
+      "sourceId": "respect/14",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Beautiful Day",
+      "artist": "ND Lee",
+      "sourceId": "respect/15",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Flower Kim",
+        "lyricist": "Gabby Lim"
+      }
+    },
+    {
+      "title": "Beyond Yourself",
+      "artist": "Mycin.T",
+      "sourceId": "respect/16",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Binary World",
+      "artist": "Tsukasa",
+      "sourceId": "respect/17",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Aki Misawa",
+        "lyricist": "Aki Misawa / Tiffaco"
+      }
+    },
+    {
+      "title": "BlackCat",
+      "artist": "BEXTER",
+      "sourceId": "respect/18",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "정창훈",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Bleed",
+      "artist": "Axol / The Tech Thieves",
+      "sourceId": "respect/19",
+      "credits": {
+        "composer": "Axol / The Tech Thieves",
+        "remixer": "",
+        "vocalist": "Alia May Plesa-Topham",
+        "lyricist": "Victor Louis Andre Anfray / Mark Emmanuel / Alia May Plesa-Topham"
+      }
+    },
+    {
+      "title": "BlueWhite",
+      "artist": "HAYAKO",
+      "sourceId": "respect/20",
+      "credits": {
+        "composer": "HAYAKO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Boom!",
+      "artist": "BEXTER",
+      "sourceId": "respect/21",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "DyoN Joo",
+        "lyricist": "BEXTER / DPENGUIN"
+      }
+    },
+    {
+      "title": "Bullet, Wanted!",
+      "artist": "Mycin.T",
+      "sourceId": "respect/22",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Can We Talk (Broken Dog Leg Mix)",
+      "artist": "Forte Escape (remix: Forte Escape)",
+      "sourceId": "respect/23",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "Forte Escape",
+        "vocalist": "Pyk",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "Celestial Tears",
+      "artist": "Tsukasa",
+      "sourceId": "respect/24",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Chemical Slave",
+      "artist": "XeoN",
+      "sourceId": "respect/25",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Child of Night",
+      "artist": "GOTH",
+      "sourceId": "respect/26",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dance of the Dead",
+      "artist": "GOTH",
+      "sourceId": "respect/27",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dancin' Planet",
+      "artist": "Planetboom",
+      "sourceId": "respect/28",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dark Lightning",
+      "artist": "AstroKid",
+      "sourceId": "respect/29",
+      "credits": {
+        "composer": "AstroKid",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Daylight",
+      "artist": "Croove",
+      "sourceId": "respect/30",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "Amy Rivard",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Don't Die",
+      "artist": "Paul Bazooka",
+      "sourceId": "respect/31",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Enter The Universe",
+      "artist": "GOTH",
+      "sourceId": "respect/32",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Far East Princess",
+      "artist": "Nauts",
+      "sourceId": "respect/33",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "Lim Ryu",
+        "lyricist": "Nauts"
+      }
+    },
+    {
+      "title": "Fly Away",
+      "artist": "XeoN",
+      "sourceId": "respect/34",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Get Jinxed",
+      "artist": "Agnete K",
+      "sourceId": "respect/35",
+      "credits": {
+        "composer": "Agnete K",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ghost Voices",
+      "artist": "Virtual Self",
+      "sourceId": "respect/36",
+      "credits": {
+        "composer": "Virtual Self",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "glory day",
+      "artist": "BEXTER / Mycin.T",
+      "sourceId": "respect/37",
+      "credits": {
+        "composer": "BEXTER / Mycin.T",
+        "remixer": "",
+        "vocalist": "DyoN Joo",
+        "lyricist": "BEXTER / MD Pistol"
+      }
+    },
+    {
+      "title": "Grid System",
+      "artist": "Tsukasa",
+      "sourceId": "respect/38",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Groovin Up",
+      "artist": "Mycin.T",
+      "sourceId": "respect/39",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "honey",
+        "lyricist": "Mycin.T"
+      }
+    },
+    {
+      "title": "Heavenly",
+      "artist": "makou",
+      "sourceId": "respect/40",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "I want You ~반짝★반짝 Sunshine~",
+      "artist": "Lin-G",
+      "sourceId": "respect/41",
+      "credits": {
+        "composer": "Lin-G",
+        "remixer": "",
+        "vocalist": "파인(FiNE)",
+        "lyricist": "Lin-G / yuuto"
+      }
+    },
+    {
+      "title": "I'M ALIVE",
+      "artist": "Laurent Newfield",
+      "sourceId": "respect/42",
+      "credits": {
+        "composer": "Laurent Newfield",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "KILLER BEE",
+      "artist": "GOTH",
+      "sourceId": "respect/43",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "MuChi",
+        "lyricist": "MuChi"
+      }
+    },
+    {
+      "title": "Kingdom",
+      "artist": "Phantom sage",
+      "sourceId": "respect/44",
+      "credits": {
+        "composer": "Phantom sage",
+        "remixer": "",
+        "vocalist": "Miss Lina",
+        "lyricist": "Eron Douglas"
+      }
+    },
+    {
+      "title": "Kung Brother",
+      "artist": "Paul Bazooka",
+      "sourceId": "respect/45",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Liar",
+      "artist": "zts",
+      "sourceId": "respect/46",
+      "credits": {
+        "composer": "zts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lift You Up",
+      "artist": "makou",
+      "sourceId": "respect/47",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "ASUKA",
+        "lyricist": "Emilio"
+      }
+    },
+    {
+      "title": "Mr.Lonely",
+      "artist": "NieN",
+      "sourceId": "respect/48",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "Zim",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "NB RANGER - Virgin Force",
+      "artist": "NieN",
+      "sourceId": "respect/50",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "Ace(of Paran)",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "NEON 1989 (ESTi Remix)",
+      "artist": "OREO",
+      "sourceId": "respect/51",
+      "credits": {
+        "composer": "OREO",
+        "remixer": "",
+        "vocalist": "YUKIKA",
+        "lyricist": "OREO"
+      }
+    },
+    {
+      "title": "Only for you",
+      "artist": "NieN",
+      "sourceId": "respect/52",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "이지애",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "OPEN FIRE",
+      "artist": "JC",
+      "sourceId": "respect/53",
+      "credits": {
+        "composer": "JC",
+        "remixer": "",
+        "vocalist": "JC",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "OrBiTal",
+      "artist": "Paul Bazooka",
+      "sourceId": "respect/54",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Over Your Dream",
+      "artist": "xxdbxx",
+      "sourceId": "respect/55",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "Sin So Hee",
+        "lyricist": "Sin So Hee"
+      }
+    },
+    {
+      "title": "POP/STARS",
+      "artist": "K/DA",
+      "sourceId": "respect/56",
+      "credits": {
+        "composer": "K/DA",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "quixotic",
+      "artist": "bermei.inazawa",
+      "sourceId": "respect/57",
+      "credits": {
+        "composer": "bermei.inazawa",
+        "remixer": "",
+        "vocalist": "foolen",
+        "lyricist": "foolen"
+      }
+    },
+    {
+      "title": "Relation Again (ESTi's Remix)",
+      "artist": "Tsukasa / ESTi",
+      "sourceId": "respect/58",
+      "credits": {
+        "composer": "Tsukasa / ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Remains Of Doom",
+      "artist": "NieN",
+      "sourceId": "respect/59",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "RockSTAR",
+      "artist": "Mr.Funky",
+      "sourceId": "respect/60",
+      "credits": {
+        "composer": "Mr.Funky",
+        "remixer": "",
+        "vocalist": "Mr.Funky",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Royal Clown",
+      "artist": "bermei.inazawa",
+      "sourceId": "respect/61",
+      "credits": {
+        "composer": "bermei.inazawa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Runaway",
+      "artist": "LeeZu",
+      "sourceId": "respect/62",
+      "credits": {
+        "composer": "LeeZu",
+        "remixer": "",
+        "vocalist": "LeeZu",
+        "lyricist": "LeeZu"
+      }
+    },
+    {
+      "title": "Running girl",
+      "artist": "Mycin.T",
+      "sourceId": "respect/63",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "Ssong",
+        "lyricist": "Mycin.T"
+      }
+    },
+    {
+      "title": "Ruti'n (GOTH Wild Electro Remix)",
+      "artist": "BEXTER (remix: GOTH)",
+      "sourceId": "respect/64",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "GOTH",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Sad Machine",
+      "artist": "Porter Robinson",
+      "sourceId": "respect/65",
+      "credits": {
+        "composer": "Porter Robinson",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Secret Dejavu",
+      "artist": "DINY",
+      "sourceId": "respect/66",
+      "credits": {
+        "composer": "DINY",
+        "remixer": "",
+        "vocalist": "Creha",
+        "lyricist": "DINY"
+      }
+    },
+    {
+      "title": "Shadow Flower",
+      "artist": "ned",
+      "sourceId": "respect/67",
+      "credits": {
+        "composer": "ned",
+        "remixer": "",
+        "vocalist": "Moa",
+        "lyricist": "ned"
+      }
+    },
+    {
+      "title": "So Happy",
+      "artist": "Raven & Kreyn",
+      "sourceId": "respect/68",
+      "credits": {
+        "composer": "Raven & Kreyn",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Raven & Kreyn"
+      }
+    },
+    {
+      "title": "The Feelings",
+      "artist": "Supbaby",
+      "sourceId": "respect/69",
+      "credits": {
+        "composer": "Supbaby",
+        "remixer": "",
+        "vocalist": "Wes Joseph",
+        "lyricist": "Supbaby"
+      }
+    },
+    {
+      "title": "The Lost Story",
+      "artist": "NEOWIZ Bless Soundteam",
+      "sourceId": "respect/70",
+      "credits": {
+        "composer": "NEOWIZ Bless Soundteam",
+        "remixer": "",
+        "vocalist": "Kim Min Seon",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Obliterator",
+      "artist": "GOTH",
+      "sourceId": "respect/71",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Tok! Tok! Tok!",
+      "artist": "STARTRACK",
+      "sourceId": "respect/72",
+      "credits": {
+        "composer": "STARTRACK",
+        "remixer": "",
+        "vocalist": "Lena",
+        "lyricist": "STARTRACK"
+      }
+    },
+    {
+      "title": "U.A.D",
+      "artist": "HAYAKO",
+      "sourceId": "respect/73",
+      "credits": {
+        "composer": "HAYAKO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "v o l d e n u i t",
+      "artist": "Cuve",
+      "sourceId": "respect/74",
+      "credits": {
+        "composer": "Cuve",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Void",
+      "artist": "Kobayashi Tetsuya",
+      "sourceId": "respect/75",
+      "credits": {
+        "composer": "Kobayashi Tetsuya",
+        "remixer": "",
+        "vocalist": "Hirata Shihoko",
+        "lyricist": "Kayoco"
+      }
+    },
+    {
+      "title": "waiting for me",
+      "artist": "Croove",
+      "sourceId": "respect/76",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "Nina Park",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Waiting for you",
+      "artist": "Mycin.T",
+      "sourceId": "respect/77",
+      "credits": {
+        "composer": "Mycin.T",
+        "remixer": "",
+        "vocalist": "Ssong",
+        "lyricist": "Mycin.T"
+      }
+    },
+    {
+      "title": "Watch Your Step",
+      "artist": "XeoN",
+      "sourceId": "respect/78",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "We're All Gonna Die",
+      "artist": "Paul Bazooka",
+      "sourceId": "respect/79",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "WHY",
+      "artist": "Nauts",
+      "sourceId": "respect/80",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "바람에게 부탁해",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/0",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "바람에게 부탁해 ~Live Mix~",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/1",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "복수혈전",
+      "artist": "ND Lee",
+      "sourceId": "portable1/2",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "ND Lee",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "아침형 인간",
+      "artist": "ND Lee",
+      "sourceId": "portable1/3",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "pd han"
+      }
+    },
+    {
+      "title": "피아노 협주곡 1번",
+      "artist": "Wav Factory",
+      "sourceId": "portable1/4",
+      "credits": {
+        "composer": "Wav Factory",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "A.I",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/5",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Astro Fight",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/6",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "BlythE",
+      "artist": "M2U",
+      "sourceId": "portable1/7",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Tari",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "Bright Dream",
+      "artist": "M2U",
+      "sourceId": "portable1/8",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Tari",
+        "lyricist": "이선일"
+      }
+    },
+    {
+      "title": "Can We Talk",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/9",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Pyk",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Catch Me",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/10",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Chrono Breakers",
+      "artist": "NieN",
+      "sourceId": "portable1/11",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Dreadnought",
+      "artist": "EarBreaker",
+      "sourceId": "portable1/13",
+      "credits": {
+        "composer": "EarBreaker",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Elastic STAR",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/14",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "End of the Moonlight",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/15",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "Enemy Storm",
+      "artist": "Croove",
+      "sourceId": "portable1/16",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Eternal Memory ~소녀의 꿈~",
+      "artist": "M2U",
+      "sourceId": "portable1/17",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Sanch",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "Extreme Z4",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/18",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "FEAR",
+      "artist": "Supbaby",
+      "sourceId": "portable1/19",
+      "credits": {
+        "composer": "Supbaby",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Fever GJ",
+      "artist": "xxdbxx",
+      "sourceId": "portable1/20",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "Silver Water",
+        "lyricist": "xxdbxx"
+      }
+    },
+    {
+      "title": "FTR",
+      "artist": "Supbaby",
+      "sourceId": "portable1/21",
+      "credits": {
+        "composer": "Supbaby",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Funky Chups",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/22",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Futurism",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/23",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "HAMSIN",
+      "artist": "makou",
+      "sourceId": "portable1/24",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "JBG",
+      "artist": "Croove",
+      "sourceId": "portable1/25",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Jupiter Driving",
+      "artist": "xxdbxx",
+      "sourceId": "portable1/26",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lemonade",
+      "artist": "M2U",
+      "sourceId": "portable1/28",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Tari",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "Let's Go Baby",
+      "artist": "3rd Coast",
+      "sourceId": "portable1/29",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "3rd Coast"
+      }
+    },
+    {
+      "title": "Light House",
+      "artist": "xxdbxx",
+      "sourceId": "portable1/30",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Long Vacation",
+      "artist": "ESTi",
+      "sourceId": "portable1/31",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Luv Flow",
+      "artist": "3rd Coast",
+      "sourceId": "portable1/32",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "MASAI",
+      "artist": "Croove",
+      "sourceId": "portable1/33",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Memory of Beach",
+      "artist": "M2U",
+      "sourceId": "portable1/34",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Sanch",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "Minimal Life",
+      "artist": "EarBreaker",
+      "sourceId": "portable1/35",
+      "credits": {
+        "composer": "EarBreaker",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "NB RANGER",
+      "artist": "M2U",
+      "sourceId": "portable1/36",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "Never Say",
+      "artist": "ND Lee",
+      "sourceId": "portable1/37",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Yoa",
+        "lyricist": "Bean"
+      }
+    },
+    {
+      "title": "OBLIVION",
+      "artist": "ESTi",
+      "sourceId": "portable1/38",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "OBLIVION ~Rockin' Night Style~",
+      "artist": "ESTi (remix: NieN)",
+      "sourceId": "portable1/39",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "NieN",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ON",
+      "artist": "ND Lee",
+      "sourceId": "portable1/40",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "ND Lee",
+        "lyricist": "Bean"
+      }
+    },
+    {
+      "title": "One the Love",
+      "artist": "xxdbxx",
+      "sourceId": "portable1/41",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "Miuki",
+        "lyricist": "xxdbxx"
+      }
+    },
+    {
+      "title": "Out Law",
+      "artist": "Croove",
+      "sourceId": "portable1/42",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Para-Q",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/43",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ray of Illuminati",
+      "artist": "ESTi",
+      "sourceId": "portable1/44",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "RED",
+      "artist": "Croove",
+      "sourceId": "portable1/45",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Road Of Death",
+      "artist": "NieN",
+      "sourceId": "portable1/46",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Rock Or Die",
+      "artist": "NieN",
+      "sourceId": "portable1/47",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Save My Dream",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/48",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "SIN",
+      "artist": "ESTi",
+      "sourceId": "portable1/49",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SIN ~The Last Scene~",
+      "artist": "ESTi (remix: ESTi)",
+      "sourceId": "portable1/50",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "ESTi",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sunny Side",
+      "artist": "Croove",
+      "sourceId": "portable1/51",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Sunny Side ~Deepn' Soul Mix~",
+      "artist": "Croove (remix: makou)",
+      "sourceId": "portable1/52",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "makou",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Triple Zoe",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/54",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ya! Party!",
+      "artist": "Forte Escape",
+      "sourceId": "portable1/55",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "설레임",
+      "artist": "ND Lee",
+      "sourceId": "portable2/0",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "태권부리",
+      "artist": "xxdbxx",
+      "sourceId": "portable2/1",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "A Lie",
+      "artist": "makou",
+      "sourceId": "portable2/2",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Rin",
+        "lyricist": "Rin / JimKim"
+      }
+    },
+    {
+      "title": "Another DAY",
+      "artist": "Forte Escape",
+      "sourceId": "portable2/3",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "Brain Storm",
+      "artist": "Croove",
+      "sourceId": "portable2/4",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Brandnew Days",
+      "artist": "Planetboom",
+      "sourceId": "portable2/5",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Planetboom",
+        "lyricist": "Planetboom"
+      }
+    },
+    {
+      "title": "Brave it Out",
+      "artist": "BEXTER",
+      "sourceId": "portable2/6",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JinKim"
+      }
+    },
+    {
+      "title": "Bye Bye Love",
+      "artist": "3rd Coast",
+      "sourceId": "portable2/7",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Chain of Gravity",
+      "artist": "Tsukasa",
+      "sourceId": "portable2/8",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cherokee",
+      "artist": "xxdbxx",
+      "sourceId": "portable2/9",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "DIVINE SERVICE",
+      "artist": "Electronic Boutique",
+      "sourceId": "portable2/10",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dream of You",
+      "artist": "makou",
+      "sourceId": "portable2/11",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Fallen Angel",
+      "artist": "DJ Mocha",
+      "sourceId": "portable2/12",
+      "credits": {
+        "composer": "DJ Mocha",
+        "remixer": "",
+        "vocalist": "Yujin",
+        "lyricist": "DJ Mocha"
+      }
+    },
+    {
+      "title": "Fentanest",
+      "artist": "EarBreaker / Eszett",
+      "sourceId": "portable2/13",
+      "credits": {
+        "composer": "EarBreaker / Eszett",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "For Seasons",
+      "artist": "makou",
+      "sourceId": "portable2/14",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "For the IKARUS",
+      "artist": "NieN",
+      "sourceId": "portable2/15",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Get on Top",
+      "artist": "Planetboom",
+      "sourceId": "portable2/16",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "GET OUT",
+      "artist": "ND Lee",
+      "sourceId": "portable2/17",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Gypsi Road / Jimmy Len",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "Good Bye",
+      "artist": "Ruby Tuesday",
+      "sourceId": "portable2/18",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "LEAH",
+        "lyricist": "LEAH"
+      }
+    },
+    {
+      "title": "Hello Pinky",
+      "artist": "NieN",
+      "sourceId": "portable2/19",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Higher",
+      "artist": "Supbaby",
+      "sourceId": "portable2/20",
+      "credits": {
+        "composer": "Supbaby",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ladymade Star",
+      "artist": "ESTi",
+      "sourceId": "portable2/21",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "Sanch",
+        "lyricist": "ESTi"
+      }
+    },
+    {
+      "title": "Lost n' found",
+      "artist": "bermei.inazawa",
+      "sourceId": "portable2/22",
+      "credits": {
+        "composer": "bermei.inazawa",
+        "remixer": "",
+        "vocalist": "bermei.inazawa / ryorca",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Memoirs",
+      "artist": "M2U",
+      "sourceId": "portable2/23",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Setsu"
+      }
+    },
+    {
+      "title": "Mess it Up",
+      "artist": "Nauts",
+      "sourceId": "portable2/24",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Midnight Blood",
+      "artist": "NieN",
+      "sourceId": "portable2/25",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Miles",
+      "artist": "Electronic Boutique",
+      "sourceId": "portable2/26",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Minus 3",
+      "artist": "Croove",
+      "sourceId": "portable2/27",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "My Alias",
+      "artist": "Dayz",
+      "sourceId": "portable2/28",
+      "credits": {
+        "composer": "Dayz",
+        "remixer": "",
+        "vocalist": "JW",
+        "lyricist": "Dayz"
+      }
+    },
+    {
+      "title": "NANO RISK",
+      "artist": "Dayz",
+      "sourceId": "portable2/29",
+      "credits": {
+        "composer": "Dayz",
+        "remixer": "",
+        "vocalist": "Tornade",
+        "lyricist": "Dayz"
+      }
+    },
+    {
+      "title": "NB POWER",
+      "artist": "NieN",
+      "sourceId": "portable2/30",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "shinar",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "NB Rangers -Returns-",
+      "artist": "NieN",
+      "sourceId": "portable2/31",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN / utein",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Negative Nature",
+      "artist": "Electronic Boutique",
+      "sourceId": "portable2/32",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Nightmare",
+      "artist": "M2U",
+      "sourceId": "portable2/33",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Phantom Of Sky",
+      "artist": "M2U",
+      "sourceId": "portable2/34",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "M2U",
+        "lyricist": "M2U"
+      }
+    },
+    {
+      "title": "plastic method",
+      "artist": "zts",
+      "sourceId": "portable2/35",
+      "credits": {
+        "composer": "zts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Right Now",
+      "artist": "makou",
+      "sourceId": "portable2/36",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Rocka-a-doodle-doo",
+      "artist": "makou",
+      "sourceId": "portable2/37",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Rolling On the Duck",
+      "artist": "NieN",
+      "sourceId": "portable2/38",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Seeker",
+      "artist": "M2U",
+      "sourceId": "portable2/39",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Showtime",
+      "artist": "Ruby Tuesday",
+      "sourceId": "portable2/40",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "Jimmy A Well",
+        "lyricist": "Jimmy A Well"
+      }
+    },
+    {
+      "title": "Smoky Quartz",
+      "artist": "makou",
+      "sourceId": "portable2/41",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "sO mUCH iN LUV",
+      "artist": "3rd Coast",
+      "sourceId": "portable2/42",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "SQUEEZE",
+      "artist": "Oriental ST8",
+      "sourceId": "portable2/43",
+      "credits": {
+        "composer": "Oriental ST8",
+        "remixer": "",
+        "vocalist": "YU HI",
+        "lyricist": "YU HI"
+      }
+    },
+    {
+      "title": "STALKER",
+      "artist": "ND Lee",
+      "sourceId": "portable2/44",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Yena Yoon",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "StarFish",
+      "artist": "Planetboom",
+      "sourceId": "portable2/45",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Planetboom",
+        "lyricist": "Planetboom"
+      }
+    },
+    {
+      "title": "Stay with me",
+      "artist": "Ruby Tuesday",
+      "sourceId": "portable2/46",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "LEAH",
+        "lyricist": "LEAH"
+      }
+    },
+    {
+      "title": "Sunset Rider",
+      "artist": "Nauts",
+      "sourceId": "portable2/47",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Syriana",
+      "artist": "BEXTER",
+      "sourceId": "portable2/48",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "WhiteBlue",
+      "artist": "zts",
+      "sourceId": "portable2/49",
+      "credits": {
+        "composer": "zts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Yellowberry -AJ Mix-",
+      "artist": "Forte Escape",
+      "sourceId": "portable2/50",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "Yo Creo Que Si",
+      "artist": "makou",
+      "sourceId": "portable2/51",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Your Own Miracle",
+      "artist": "Ruby Tuesday",
+      "sourceId": "portable2/52",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "Christine Jones",
+        "lyricist": "Christine Jones"
+      }
+    },
+    {
+      "title": "Become Myself",
+      "artist": "Kibum / Yohan",
+      "sourceId": "portable3/0",
+      "credits": {
+        "composer": "Kibum / Yohan",
+        "remixer": "",
+        "vocalist": "Yohan",
+        "lyricist": "Yohan"
+      }
+    },
+    {
+      "title": "Break!",
+      "artist": "Mr.Funky",
+      "sourceId": "portable3/1",
+      "credits": {
+        "composer": "Mr.Funky",
+        "remixer": "",
+        "vocalist": "Garden(RubyStar)",
+        "lyricist": "Mr.Funky"
+      }
+    },
+    {
+      "title": "Desperado ~Nu Skool Mix~",
+      "artist": "Croove (remix: Paul Bazooka)",
+      "sourceId": "portable3/2",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "Paul Bazooka",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Enemy Storm ~Dark Jungle Mix~",
+      "artist": "Croove (remix: Paul Bazooka)",
+      "sourceId": "portable3/3",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "Paul Bazooka",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Everything",
+      "artist": "3rd Coast",
+      "sourceId": "portable3/4",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "glory day (Mintorment Remix)",
+      "artist": "BEXTER / Mycin.T (remix: Mintorment)",
+      "sourceId": "portable3/5",
+      "credits": {
+        "composer": "BEXTER / Mycin.T",
+        "remixer": "Mintorment",
+        "vocalist": "DyoN Joo",
+        "lyricist": "BEXTER / MD Pistol"
+      }
+    },
+    {
+      "title": "glory day -JHS Remix-",
+      "artist": "BEXTER / Mycin.T (remix: JHS)",
+      "sourceId": "portable3/6",
+      "credits": {
+        "composer": "BEXTER / Mycin.T",
+        "remixer": "JHS",
+        "vocalist": "DyoN Joo",
+        "lyricist": "BEXTER / MD Pistol"
+      }
+    },
+    {
+      "title": "Gone Astray",
+      "artist": "makou",
+      "sourceId": "portable3/7",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Etsuko Yusa",
+        "lyricist": "Etsuko Yusa"
+      }
+    },
+    {
+      "title": "Hanz up!",
+      "artist": "Mr.Funky",
+      "sourceId": "portable3/8",
+      "credits": {
+        "composer": "Mr.Funky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "IF",
+      "artist": "Vanilla Unity",
+      "sourceId": "portable3/9",
+      "credits": {
+        "composer": "Vanilla Unity",
+        "remixer": "",
+        "vocalist": "이승주",
+        "lyricist": "이승주"
+      }
+    },
+    {
+      "title": "Leave me alone",
+      "artist": "NieN",
+      "sourceId": "portable3/10",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Luv Flow ~Funky House Mix~",
+      "artist": "3rd Coast (remix: Paul Bazooka)",
+      "sourceId": "portable3/11",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "Paul Bazooka",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Luv is True",
+      "artist": "3rd Coast",
+      "sourceId": "portable3/12",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "MASAI ~Electro House Mix~",
+      "artist": "Croove (remix: Paul Bazooka)",
+      "sourceId": "portable3/13",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "Paul Bazooka",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Mellow D Fantasy",
+      "artist": "NieN",
+      "sourceId": "portable3/14",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "Sanch",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "NB Ranger : Nonstop Remix",
+      "artist": "M2U / NieN / Sugardonut (remix: Paul Bazooka)",
+      "sourceId": "portable3/15",
+      "credits": {
+        "composer": "M2U / NieN / Sugardonut",
+        "remixer": "Paul Bazooka",
+        "vocalist": "M2U / NieN / Sugardonut",
+        "lyricist": "M2U / NieN / Sugardonut"
+      }
+    },
+    {
+      "title": "Out Law : Reborn",
+      "artist": "Croove (remix: Mr.Funky)",
+      "sourceId": "portable3/16",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "Mr.Funky",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Raise me up",
+      "artist": "Planetboom",
+      "sourceId": "portable3/17",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Miso"
+      }
+    },
+    {
+      "title": "Season (Warm Mix)",
+      "artist": "makou",
+      "sourceId": "portable3/18",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SuperSonic ~Mr.Funky Dirty Planet Remix~",
+      "artist": "Planetboom (remix: Mr.Funky)",
+      "sourceId": "portable3/19",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "Mr.Funky",
+        "vocalist": "Michael Blunck",
+        "lyricist": "Michael Blunck"
+      }
+    },
+    {
+      "title": "The Rain Maker",
+      "artist": "Paul Bazooka",
+      "sourceId": "portable3/20",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Waiting for the Sun",
+      "artist": "MindCube",
+      "sourceId": "portable3/21",
+      "credits": {
+        "composer": "MindCube",
+        "remixer": "",
+        "vocalist": "김민정",
+        "lyricist": "Todd Durrant"
+      }
+    },
+    {
+      "title": "Your Smile",
+      "artist": "Cistrans(RoseLine)",
+      "sourceId": "portable3/22",
+      "credits": {
+        "composer": "Cistrans(RoseLine)",
+        "remixer": "",
+        "vocalist": "김민정",
+        "lyricist": "Todd Durrant"
+      }
+    },
+    {
+      "title": "ZET ~Mr.Funky Remix~",
+      "artist": "BEXTER (remix: Mr.Funky)",
+      "sourceId": "portable3/23",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "Mr.Funky",
+        "vocalist": "",
+        "lyricist": "JinKim"
+      }
+    },
+    {
+      "title": "바람의 기억",
+      "artist": "Forte Escape",
+      "sourceId": "trilogy/0",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "A Lie ~Deep Inside Mix~",
+      "artist": "makou (remix: Electronic Boutique)",
+      "sourceId": "trilogy/1",
+      "credits": {
+        "composer": "makou",
+        "remixer": "Electronic Boutique",
+        "vocalist": "Rin",
+        "lyricist": "Rin / JimKim"
+      }
+    },
+    {
+      "title": "Bye Bye Love ~Nu Jazz Mix~",
+      "artist": "3rd Coast (remix: Electronic Boutique)",
+      "sourceId": "trilogy/2",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "Electronic Boutique",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Catch You",
+      "artist": "Forte Escape",
+      "sourceId": "trilogy/3",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Forte Escape"
+      }
+    },
+    {
+      "title": "For Seasons ~Air Guitar Mix~",
+      "artist": "makou (remix: Planetboom)",
+      "sourceId": "trilogy/4",
+      "credits": {
+        "composer": "makou",
+        "remixer": "Planetboom",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "GET OUT ~Hip Noodle Mix~",
+      "artist": "ND Lee (remix: DJ EON)",
+      "sourceId": "trilogy/5",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "DJ EON",
+        "vocalist": "Gypsi Road / Jimmy Len",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "Mind Control",
+      "artist": "NieN",
+      "sourceId": "trilogy/6",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN / Yayoo(Band 'Guyz')",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "My Jealousy",
+      "artist": "3rd Coast",
+      "sourceId": "trilogy/7",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "NB Girls",
+      "artist": "NieN",
+      "sourceId": "trilogy/8",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NB Girls",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Nevermind",
+      "artist": "Paul Bazooka",
+      "sourceId": "trilogy/9",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "sO mUCH iN LUV ~Melodic Twisted Mix~",
+      "artist": "3rd Coast (remix: Forte Escape)",
+      "sourceId": "trilogy/10",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "Forte Escape",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Someday",
+      "artist": "NieN",
+      "sourceId": "trilogy/11",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "이지애",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "STOP",
+      "artist": "3rd Coast",
+      "sourceId": "trilogy/12",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Streetlight",
+      "artist": "Nauts",
+      "sourceId": "trilogy/13",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "안신애",
+        "lyricist": "안신애"
+      }
+    },
+    {
+      "title": "Syriana ~Blast Wave Mix~",
+      "artist": "BEXTER (remix: DJ EON)",
+      "sourceId": "trilogy/14",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "DJ EON",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Talk! Talk!",
+      "artist": "xxdbxx",
+      "sourceId": "trilogy/15",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The One",
+      "artist": "Paul Bazooka",
+      "sourceId": "trilogy/16",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ventilator",
+      "artist": "Cycle75",
+      "sourceId": "trilogy/17",
+      "credits": {
+        "composer": "Cycle75",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Yo Creo Que Si ~Live House Version~",
+      "artist": "makou (remix: BEXTER)",
+      "sourceId": "trilogy/18",
+      "credits": {
+        "composer": "makou",
+        "remixer": "BEXTER",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Your Own Miracle ~Disco House Mix~",
+      "artist": "Ruby Tuesday (remix: makou)",
+      "sourceId": "trilogy/19",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "makou",
+        "vocalist": "Christine Jones",
+        "lyricist": "Christine Jones"
+      }
+    },
+    {
+      "title": "ZET",
+      "artist": "BEXTER",
+      "sourceId": "trilogy/20",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JinKim"
+      }
+    },
+    {
+      "title": "내게로 와",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/1",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "Alex / Horan",
+        "lyricist": "Alex / Horan"
+      }
+    },
+    {
+      "title": "너에게",
+      "artist": "Sweetune",
+      "sourceId": "clazziquai/2",
+      "credits": {
+        "composer": "Sweetune",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Sweetune"
+      }
+    },
+    {
+      "title": "영원",
+      "artist": "BEXTER",
+      "sourceId": "clazziquai/3",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "BEXTER"
+      }
+    },
+    {
+      "title": "Closer",
+      "artist": "3rd Coast",
+      "sourceId": "clazziquai/4",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Coastal Tempo",
+      "artist": "3rd Coast",
+      "sourceId": "clazziquai/5",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Color",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/6",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "DJ Clazzi",
+        "lyricist": "DJ Clazzi"
+      }
+    },
+    {
+      "title": "Creator",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/7",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "이승열",
+        "lyricist": "이승열"
+      }
+    },
+    {
+      "title": "DARK ENVY",
+      "artist": "Sugardonut",
+      "sourceId": "clazziquai/8",
+      "credits": {
+        "composer": "Sugardonut",
+        "remixer": "",
+        "vocalist": "Sugardonut",
+        "lyricist": "Sugardonut"
+      }
+    },
+    {
+      "title": "Electronics",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/9",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "Alex",
+        "lyricist": "Alex"
+      }
+    },
+    {
+      "title": "Fate",
+      "artist": "STi",
+      "sourceId": "clazziquai/10",
+      "credits": {
+        "composer": "STi",
+        "remixer": "",
+        "vocalist": "STi",
+        "lyricist": "STi"
+      }
+    },
+    {
+      "title": "First Kiss",
+      "artist": "BJJ",
+      "sourceId": "clazziquai/11",
+      "credits": {
+        "composer": "BJJ",
+        "remixer": "",
+        "vocalist": "황정미",
+        "lyricist": "BJJ"
+      }
+    },
+    {
+      "title": "Flea",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/12",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "Alex / Horan",
+        "lyricist": "Alex / Horan"
+      }
+    },
+    {
+      "title": "Freedom",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/13",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "CHRISTINA",
+        "lyricist": "CHRISTINA"
+      }
+    },
+    {
+      "title": "Here in the Moment",
+      "artist": "Ruby Tuesday",
+      "sourceId": "clazziquai/14",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "LEAH",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Here in the Moment ~Extended Mix~",
+      "artist": "Ruby Tuesday",
+      "sourceId": "clazziquai/15",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "LEAH",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "In My Heart",
+      "artist": "Tsukasa",
+      "sourceId": "clazziquai/16",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Misato",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Love Mode",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/17",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "Alex / Horan",
+        "lyricist": "Alex / Horan"
+      }
+    },
+    {
+      "title": "Lover (CE Style)",
+      "artist": "ND Lee",
+      "sourceId": "clazziquai/18",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Young",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Rising The Sonic",
+      "artist": "Dayz",
+      "sourceId": "clazziquai/19",
+      "credits": {
+        "composer": "Dayz",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Tell Me",
+      "artist": "이궐",
+      "sourceId": "clazziquai/20",
+      "credits": {
+        "composer": "이궐",
+        "remixer": "",
+        "vocalist": "Soulman & Minos",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Clear Blue Sky",
+      "artist": "Tsukasa",
+      "sourceId": "clazziquai/21",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Aki Misawa",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Night Stage",
+      "artist": "CLAZZIQUAI",
+      "sourceId": "clazziquai/22",
+      "credits": {
+        "composer": "CLAZZIQUAI",
+        "remixer": "",
+        "vocalist": "Alex / Horan",
+        "lyricist": "Alex / Horan"
+      }
+    },
+    {
+      "title": "Urban Night",
+      "artist": "hYO",
+      "sourceId": "clazziquai/23",
+      "credits": {
+        "composer": "hYO",
+        "remixer": "",
+        "vocalist": "Soulman & Minos",
+        "lyricist": "Soulman & Minos"
+      }
+    },
+    {
+      "title": "Y (CE Style)",
+      "artist": "ND Lee",
+      "sourceId": "clazziquai/24",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Silver",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "ANALYS",
+      "artist": "HAYAKO",
+      "sourceId": "blacksquare/2",
+      "credits": {
+        "composer": "HAYAKO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Beat U Down",
+      "artist": "makou",
+      "sourceId": "blacksquare/3",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Colours of Sorrow",
+      "artist": "Tsukasa",
+      "sourceId": "blacksquare/4",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Nomico",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cypher Gate",
+      "artist": "7 Sequence",
+      "sourceId": "blacksquare/5",
+      "credits": {
+        "composer": "7 Sequence",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Desperado",
+      "artist": "Croove",
+      "sourceId": "blacksquare/6",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Fermion",
+      "artist": "makou",
+      "sourceId": "blacksquare/7",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Fever Pitch Girl",
+      "artist": "Nikacha",
+      "sourceId": "blacksquare/8",
+      "credits": {
+        "composer": "Nikacha",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Get Down",
+      "artist": "BJJ",
+      "sourceId": "blacksquare/9",
+      "credits": {
+        "composer": "BJJ",
+        "remixer": "",
+        "vocalist": "Brandy",
+        "lyricist": "Younghoo Kim"
+      }
+    },
+    {
+      "title": "Grave Consequence",
+      "artist": "Tsukasa",
+      "sourceId": "blacksquare/10",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "In my Dream",
+      "artist": "ND Lee",
+      "sourceId": "blacksquare/12",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Jealousy",
+      "artist": "3rd Coast",
+      "sourceId": "blacksquare/13",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Keys to the World",
+      "artist": "Planetboom",
+      "sourceId": "blacksquare/14",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Yohan(PIA) / Planetboom",
+        "lyricist": "Yohan(PIA)"
+      }
+    },
+    {
+      "title": "Lovely hands",
+      "artist": "Planetboom",
+      "sourceId": "blacksquare/15",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Planetboom"
+      }
+    },
+    {
+      "title": "Lover (BS Style)",
+      "artist": "ND Lee",
+      "sourceId": "blacksquare/16",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Young",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "PDM",
+      "artist": "Trish",
+      "sourceId": "blacksquare/17",
+      "credits": {
+        "composer": "Trish",
+        "remixer": "",
+        "vocalist": "샛별",
+        "lyricist": "Trish / Joan"
+      }
+    },
+    {
+      "title": "Ready Now",
+      "artist": "Ruby Tuesday",
+      "sourceId": "blacksquare/18",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "LEAH",
+        "lyricist": "LEAH"
+      }
+    },
+    {
+      "title": "Ruti'n",
+      "artist": "BEXTER",
+      "sourceId": "blacksquare/19",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Secret World",
+      "artist": "Sweetune",
+      "sourceId": "blacksquare/20",
+      "credits": {
+        "composer": "Sweetune",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Y (BS Style)",
+      "artist": "ND Lee",
+      "sourceId": "blacksquare/21",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Silver",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "Attack",
+      "artist": "Mr.Funky",
+      "sourceId": "vextension/0",
+      "credits": {
+        "composer": "Mr.Funky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "BLACK GOLD",
+      "artist": "Cranky",
+      "sourceId": "vextension/1",
+      "credits": {
+        "composer": "Cranky",
+        "remixer": "",
+        "vocalist": "Pico",
+        "lyricist": "Pico"
+      }
+    },
+    {
+      "title": "Do it",
+      "artist": "House Rulez",
+      "sourceId": "vextension/2",
+      "credits": {
+        "composer": "House Rulez",
+        "remixer": "",
+        "vocalist": "이윤정",
+        "lyricist": "서로"
+      }
+    },
+    {
+      "title": "Dream it",
+      "artist": "BEXTER",
+      "sourceId": "vextension/3",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "",
+        "vocalist": "DyoN Joo",
+        "lyricist": "BEXTER"
+      }
+    },
+    {
+      "title": "Fancy Night",
+      "artist": "SiNA / CHUCK",
+      "sourceId": "vextension/4",
+      "credits": {
+        "composer": "SiNA / CHUCK",
+        "remixer": "",
+        "vocalist": "Hyezoo",
+        "lyricist": "SiNA / CHUCK"
+      }
+    },
+    {
+      "title": "FIGHT NIGHT (feat. Calyae)",
+      "artist": "Messier",
+      "sourceId": "vextension/5",
+      "credits": {
+        "composer": "Messier",
+        "remixer": "",
+        "vocalist": "Calyae",
+        "lyricist": "Tsuyuri karin"
+      }
+    },
+    {
+      "title": "Kensei",
+      "artist": "Pure 100%",
+      "sourceId": "vextension/6",
+      "credits": {
+        "composer": "Pure 100%",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lisrim",
+      "artist": "onoken",
+      "sourceId": "vextension/7",
+      "credits": {
+        "composer": "onoken",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lost Serenity",
+      "artist": "Benicx",
+      "sourceId": "vextension/8",
+      "credits": {
+        "composer": "Benicx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lost Temple",
+      "artist": "IMLAY",
+      "sourceId": "vextension/9",
+      "credits": {
+        "composer": "IMLAY",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Maharajah -fenomeno edition-",
+      "artist": "Alice Schach and the Magic Orchestra",
+      "sourceId": "vextension/10",
+      "credits": {
+        "composer": "Alice Schach and the Magic Orchestra",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Misty Er'A",
+      "artist": "Mycin.T / jam-jam",
+      "sourceId": "vextension/11",
+      "credits": {
+        "composer": "Mycin.T / jam-jam",
+        "remixer": "",
+        "vocalist": "jam-jam",
+        "lyricist": "Mycin.T / jam-jam"
+      }
+    },
+    {
+      "title": "Move Yourself",
+      "artist": "IMLAY / YESEO",
+      "sourceId": "vextension/12",
+      "credits": {
+        "composer": "IMLAY / YESEO",
+        "remixer": "",
+        "vocalist": "YESEO",
+        "lyricist": "YESEO"
+      }
+    },
+    {
+      "title": "NANAIRO",
+      "artist": "HAYAKO",
+      "sourceId": "vextension/13",
+      "credits": {
+        "composer": "HAYAKO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Never Die",
+      "artist": "Paul Bazooka",
+      "sourceId": "vextension/14",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Remember Me",
+      "artist": "NieN",
+      "sourceId": "vextension/15",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "DyoN Joo",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Space Challenger",
+      "artist": "Bagagee Viphex13",
+      "sourceId": "vextension/16",
+      "credits": {
+        "composer": "Bagagee Viphex13",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Bagagee Viphex13"
+      }
+    },
+    {
+      "title": "Vile Requiem",
+      "artist": "GOTH",
+      "sourceId": "vextension/17",
+      "credits": {
+        "composer": "GOTH",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "welcome to the space (feat. Jisun)",
+      "artist": "Pory",
+      "sourceId": "vextension/18",
+      "credits": {
+        "composer": "Pory",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Nyam"
+      }
+    },
+    {
+      "title": "WONDER $LOT 777",
+      "artist": "MYUKKE.",
+      "sourceId": "vextension/19",
+      "credits": {
+        "composer": "MYUKKE.",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "꿈의 기억 (feat. Jisun)",
+      "artist": "Pory",
+      "sourceId": "vextension2/0",
+      "credits": {
+        "composer": "Pory",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Nyam"
+      }
+    },
+    {
+      "title": "너로피어오라 ~Original Ver.~",
+      "artist": "ampstyle",
+      "sourceId": "vextension2/1",
+      "credits": {
+        "composer": "ampstyle",
+        "remixer": "",
+        "vocalist": "초희",
+        "lyricist": "ampstyle"
+      }
+    },
+    {
+      "title": "Chrysanthemum",
+      "artist": "Kanallia",
+      "sourceId": "vextension2/3",
+      "credits": {
+        "composer": "Kanallia",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cocked Pistol",
+      "artist": "Pierre Blanche",
+      "sourceId": "vextension2/4",
+      "credits": {
+        "composer": "Pierre Blanche",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Daydream",
+      "artist": "Mycin.T / SiNA",
+      "sourceId": "vextension2/5",
+      "credits": {
+        "composer": "Mycin.T / SiNA",
+        "remixer": "",
+        "vocalist": "Jayoung / Iree",
+        "lyricist": "Mycin.T / SiNA"
+      }
+    },
+    {
+      "title": "FALLING IN LOVE",
+      "artist": "NieN",
+      "sourceId": "vextension2/6",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "이지애",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Forgotten",
+      "artist": "Paul Bazooka",
+      "sourceId": "vextension2/7",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "I've got a feeling",
+      "artist": "LeeZu",
+      "sourceId": "vextension2/8",
+      "credits": {
+        "composer": "LeeZu",
+        "remixer": "",
+        "vocalist": "LeeZu",
+        "lyricist": "LeeZu"
+      }
+    },
+    {
+      "title": "Imaginary dance",
+      "artist": "CHUCK",
+      "sourceId": "vextension2/9",
+      "credits": {
+        "composer": "CHUCK",
+        "remixer": "",
+        "vocalist": "달노도",
+        "lyricist": "CHUCK"
+      }
+    },
+    {
+      "title": "Melonaid",
+      "artist": "KATOMORI",
+      "sourceId": "vextension2/10",
+      "credits": {
+        "composer": "KATOMORI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Never let you go",
+      "artist": "Blosso",
+      "sourceId": "vextension2/11",
+      "credits": {
+        "composer": "Blosso",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Odysseus",
+      "artist": "XeoN",
+      "sourceId": "vextension2/12",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Over Me",
+      "artist": "SSOMbo",
+      "sourceId": "vextension2/13",
+      "credits": {
+        "composer": "SSOMbo",
+        "remixer": "",
+        "vocalist": "SSOMbo",
+        "lyricist": "SSOMbo"
+      }
+    },
+    {
+      "title": "Red Eyes",
+      "artist": "Cosmograph",
+      "sourceId": "vextension2/14",
+      "credits": {
+        "composer": "Cosmograph",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sweet On You",
+      "artist": "jam-jam",
+      "sourceId": "vextension2/15",
+      "credits": {
+        "composer": "jam-jam",
+        "remixer": "",
+        "vocalist": "jam-jam",
+        "lyricist": "jam-jam"
+      }
+    },
+    {
+      "title": "Underwater Castle",
+      "artist": "Nauts",
+      "sourceId": "vextension2/16",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "Lim Ryu",
+        "lyricist": "Nauts"
+      }
+    },
+    {
+      "title": "Vertical Floating",
+      "artist": "Tsukasa",
+      "sourceId": "vextension2/17",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Voyage",
+      "artist": "SOPHI",
+      "sourceId": "vextension2/18",
+      "credits": {
+        "composer": "SOPHI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Won't Back Down",
+      "artist": "Pure 100% / KASA",
+      "sourceId": "vextension2/19",
+      "credits": {
+        "composer": "Pure 100% / KASA",
+        "remixer": "",
+        "vocalist": "KASA",
+        "lyricist": "KASA"
+      }
+    },
+    {
+      "title": "Zero to the hunnit",
+      "artist": "SiNA",
+      "sourceId": "vextension2/20",
+      "credits": {
+        "composer": "SiNA",
+        "remixer": "",
+        "vocalist": "Yonge Jaundice",
+        "lyricist": "SiNA / Yonge Jaundice"
+      }
+    },
+    {
+      "title": "밤비(Bambi) - DJMAX Edit -",
+      "artist": "임수호 / 웅킴 / N!ko",
+      "sourceId": "vextension3/0",
+      "credits": {
+        "composer": "임수호 / 웅킴 / N!ko",
+        "remixer": "",
+        "vocalist": "다즈비(DAZBEE)",
+        "lyricist": "임수호 / N!ko / 림고"
+      }
+    },
+    {
+      "title": "#mine (feat. Riho Iwamoto)",
+      "artist": "Tsukasa",
+      "sourceId": "vextension3/1",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Riho Iwamoto",
+        "lyricist": "Riho Iwamoto"
+      }
+    },
+    {
+      "title": "Bright Future",
+      "artist": "RiraN",
+      "sourceId": "vextension3/2",
+      "credits": {
+        "composer": "RiraN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Charming World",
+      "artist": "SOPHI",
+      "sourceId": "vextension3/3",
+      "credits": {
+        "composer": "SOPHI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Disappearing Act",
+      "artist": "Pierre Blanche",
+      "sourceId": "vextension3/4",
+      "credits": {
+        "composer": "Pierre Blanche",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Emerge",
+      "artist": "Pure 100%",
+      "sourceId": "vextension3/5",
+      "credits": {
+        "composer": "Pure 100%",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Every Day ~ Every Night",
+      "artist": "Night Tempo",
+      "sourceId": "vextension3/6",
+      "credits": {
+        "composer": "Night Tempo",
+        "remixer": "",
+        "vocalist": "EXN",
+        "lyricist": "EXN"
+      }
+    },
+    {
+      "title": "Fundamental",
+      "artist": "Bagagee Viphex13",
+      "sourceId": "vextension3/7",
+      "credits": {
+        "composer": "Bagagee Viphex13",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "KICK IT",
+      "artist": "HAYAKO",
+      "sourceId": "vextension3/8",
+      "credits": {
+        "composer": "HAYAKO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Misty E'ra 'Mui'",
+      "artist": "Mycin.T / jam-jam",
+      "sourceId": "vextension3/9",
+      "credits": {
+        "composer": "Mycin.T / jam-jam",
+        "remixer": "",
+        "vocalist": "jam-jam",
+        "lyricist": "Mycin.T / jam-jam"
+      }
+    },
+    {
+      "title": "Moment (feat. Nauts)",
+      "artist": "DoubleTO",
+      "sourceId": "vextension3/10",
+      "credits": {
+        "composer": "DoubleTO",
+        "remixer": "",
+        "vocalist": "정민준",
+        "lyricist": "DoubleTO"
+      }
+    },
+    {
+      "title": "NB RANGERS - 운명의 Destiny",
+      "artist": "NieN",
+      "sourceId": "vextension3/11",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "A.MON",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Plasma Sphere",
+      "artist": "VoidRover",
+      "sourceId": "vextension3/12",
+      "credits": {
+        "composer": "VoidRover",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Secret",
+      "artist": "Milkoi / Ruxxi",
+      "sourceId": "vextension3/13",
+      "credits": {
+        "composer": "Milkoi / Ruxxi",
+        "remixer": "",
+        "vocalist": "Sanso Nakamura",
+        "lyricist": "Kyojaku"
+      }
+    },
+    {
+      "title": "Set Me Free",
+      "artist": "Takahiro Eguchi",
+      "sourceId": "vextension3/14",
+      "credits": {
+        "composer": "Takahiro Eguchi",
+        "remixer": "",
+        "vocalist": "Kururu",
+        "lyricist": "Fumihisa Tanaka"
+      }
+    },
+    {
+      "title": "STEP",
+      "artist": "YESEO",
+      "sourceId": "vextension3/16",
+      "credits": {
+        "composer": "YESEO",
+        "remixer": "",
+        "vocalist": "YESEO",
+        "lyricist": "YESEO"
+      }
+    },
+    {
+      "title": "Tic! Tac! Toe!",
+      "artist": "TAK / Corbin",
+      "sourceId": "vextension3/17",
+      "credits": {
+        "composer": "TAK / Corbin",
+        "remixer": "",
+        "vocalist": "Lily",
+        "lyricist": "Corbin"
+      }
+    },
+    {
+      "title": "Winners",
+      "artist": "CHUCK",
+      "sourceId": "vextension3/18",
+      "credits": {
+        "composer": "CHUCK",
+        "remixer": "",
+        "vocalist": "CielA",
+        "lyricist": "CHUCK"
+      }
+    },
+    {
+      "title": "Zero-Break",
+      "artist": "Cosmograph",
+      "sourceId": "vextension3/19",
+      "credits": {
+        "composer": "Cosmograph",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "너에게로 갈래",
+      "artist": "SOPHI / 혜이",
+      "sourceId": "vextension4/0",
+      "credits": {
+        "composer": "SOPHI / 혜이",
+        "remixer": "",
+        "vocalist": "혜이",
+        "lyricist": "SOPHI / 혜이"
+      }
+    },
+    {
+      "title": "염라 ~Original Ver.~",
+      "artist": "ampstyle",
+      "sourceId": "vextension4/1",
+      "credits": {
+        "composer": "ampstyle",
+        "remixer": "",
+        "vocalist": "초희",
+        "lyricist": "ampstyle"
+      }
+    },
+    {
+      "title": "!!New Game Start!!",
+      "artist": "Teikyou",
+      "sourceId": "vextension4/2",
+      "credits": {
+        "composer": "Teikyou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ADDICT!ON (DJMAX Edit)",
+      "artist": "ESAI(CLEF) / REQ / Memme",
+      "sourceId": "vextension4/3",
+      "credits": {
+        "composer": "ESAI(CLEF) / REQ / Memme",
+        "remixer": "",
+        "vocalist": "아이리 칸나",
+        "lyricist": "REQ / 아이리 칸나"
+      }
+    },
+    {
+      "title": "Back to the oldschool",
+      "artist": "Blosso",
+      "sourceId": "vextension4/4",
+      "credits": {
+        "composer": "Blosso",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Deadly Bomber",
+      "artist": "Daisuke Kurosawa",
+      "sourceId": "vextension4/5",
+      "credits": {
+        "composer": "Daisuke Kurosawa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "DIE IN",
+      "artist": "TAK / Sobrem",
+      "sourceId": "vextension4/6",
+      "credits": {
+        "composer": "TAK / Sobrem",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Don't Cry",
+      "artist": "Nauts",
+      "sourceId": "vextension4/7",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Gloxinia",
+      "artist": "Ruxxi / Milkoi",
+      "sourceId": "vextension4/8",
+      "credits": {
+        "composer": "Ruxxi / Milkoi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Hell'o",
+      "artist": "Pan",
+      "sourceId": "vextension4/9",
+      "credits": {
+        "composer": "Pan",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Hyper Drive",
+      "artist": "MINIMONSTER",
+      "sourceId": "vextension4/10",
+      "credits": {
+        "composer": "MINIMONSTER",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Hypernaid",
+      "artist": "KATOMORI",
+      "sourceId": "vextension4/11",
+      "credits": {
+        "composer": "KATOMORI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Like a Fool",
+      "artist": "Mr.Funky / Purple J / DAOM",
+      "sourceId": "vextension4/12",
+      "credits": {
+        "composer": "Mr.Funky / Purple J / DAOM",
+        "remixer": "",
+        "vocalist": "Purple J",
+        "lyricist": "Purple J / LETXA"
+      }
+    },
+    {
+      "title": "Love.Game.Money",
+      "artist": "LeeZu",
+      "sourceId": "vextension4/13",
+      "credits": {
+        "composer": "LeeZu",
+        "remixer": "",
+        "vocalist": "LeeZu",
+        "lyricist": "LeeZu"
+      }
+    },
+    {
+      "title": "LUV",
+      "artist": "ND Lee",
+      "sourceId": "vextension4/14",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Suri",
+        "lyricist": "Suri"
+      }
+    },
+    {
+      "title": "New World",
+      "artist": "Pure 100%",
+      "sourceId": "vextension4/15",
+      "credits": {
+        "composer": "Pure 100%",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Stay Alive",
+      "artist": "NieN",
+      "sourceId": "vextension4/16",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "Baik Eun Sol / NieN"
+      }
+    },
+    {
+      "title": "Stolen Memory",
+      "artist": "Pierre Blanche",
+      "sourceId": "vextension4/17",
+      "credits": {
+        "composer": "Pierre Blanche",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Four Seasons : Summer 2017",
+      "artist": "Antonio Lucio Vivaldi (remix: Funtwo)",
+      "sourceId": "vextension4/18",
+      "credits": {
+        "composer": "Antonio Lucio Vivaldi",
+        "remixer": "Funtwo",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Vertical Eclipse",
+      "artist": "TAG",
+      "sourceId": "vextension4/19",
+      "credits": {
+        "composer": "TAG",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Weaponize",
+      "artist": "causeluve",
+      "sourceId": "vextension4/20",
+      "credits": {
+        "composer": "causeluve",
+        "remixer": "",
+        "vocalist": "Sample Pack (KARRA Presents: Heather Sommer Vocal Pack)",
+        "lyricist": "Sample Pack (KARRA Presents: Heather Sommer Vocal Pack)"
+      }
+    },
+    {
+      "title": "별빛너머",
+      "artist": "ned",
+      "sourceId": "vextension5/0",
+      "credits": {
+        "composer": "ned",
+        "remixer": "",
+        "vocalist": "MRCH",
+        "lyricist": "ned"
+      }
+    },
+    {
+      "title": "3:33",
+      "artist": "Pierre Blanche",
+      "sourceId": "vextension5/1",
+      "credits": {
+        "composer": "Pierre Blanche",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Accelerate",
+      "artist": "Teminite / Skybreak",
+      "sourceId": "vextension5/2",
+      "credits": {
+        "composer": "Teminite / Skybreak",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Behemoth",
+      "artist": "Paul Bazooka",
+      "sourceId": "vextension5/3",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Carrot Carrot",
+      "artist": "Sobrem",
+      "sourceId": "vextension5/4",
+      "credits": {
+        "composer": "Sobrem",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Critical Point",
+      "artist": "ND Lee",
+      "sourceId": "vextension5/5",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Sample Source",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ECiLA",
+      "artist": "seibin",
+      "sourceId": "vextension5/6",
+      "credits": {
+        "composer": "seibin",
+        "remixer": "",
+        "vocalist": "Lency",
+        "lyricist": "seibin / Yumiha"
+      }
+    },
+    {
+      "title": "glory MAX -나의 최대치로 너와 함께할게-",
+      "artist": "TAK",
+      "sourceId": "vextension5/7",
+      "credits": {
+        "composer": "TAK",
+        "remixer": "",
+        "vocalist": "DyoN Joo",
+        "lyricist": "Corbin"
+      }
+    },
+    {
+      "title": "God Machine",
+      "artist": "VoidRover",
+      "sourceId": "vextension5/8",
+      "credits": {
+        "composer": "VoidRover",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Inside the Light",
+      "artist": "danbi",
+      "sourceId": "vextension5/9",
+      "credits": {
+        "composer": "danbi",
+        "remixer": "",
+        "vocalist": "Seulgi",
+        "lyricist": "danbi"
+      }
+    },
+    {
+      "title": "My Wonderland",
+      "artist": "NieN",
+      "sourceId": "vextension5/10",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "이지애",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "Paradaise",
+      "artist": "Blosso",
+      "sourceId": "vextension5/11",
+      "credits": {
+        "composer": "Blosso",
+        "remixer": "",
+        "vocalist": "Sample Source",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Peace Comes At a Price",
+      "artist": "Pure 100% / Cappa",
+      "sourceId": "vextension5/12",
+      "credits": {
+        "composer": "Pure 100% / Cappa",
+        "remixer": "",
+        "vocalist": "Cappa",
+        "lyricist": "Pure 100% / Cappa"
+      }
+    },
+    {
+      "title": "Pitter-patter",
+      "artist": "SOPHI",
+      "sourceId": "vextension5/13",
+      "credits": {
+        "composer": "SOPHI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Revenger",
+      "artist": "Sampling Masters AYA",
+      "sourceId": "vextension5/14",
+      "credits": {
+        "composer": "Sampling Masters AYA",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Rhapsody for The VEndetta",
+      "artist": "Ice",
+      "sourceId": "vextension5/15",
+      "credits": {
+        "composer": "Ice",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Right Time [ScreaM Records]",
+      "artist": "Faver / Haz Haus",
+      "sourceId": "vextension5/16",
+      "credits": {
+        "composer": "Faver / Haz Haus",
+        "remixer": "",
+        "vocalist": "Faver",
+        "lyricist": "Faver"
+      }
+    },
+    {
+      "title": "Rocket Launcher",
+      "artist": "MINIMONSTER",
+      "sourceId": "vextension5/17",
+      "credits": {
+        "composer": "MINIMONSTER",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "S.A.V.E",
+      "artist": "RiraN",
+      "sourceId": "vextension5/18",
+      "credits": {
+        "composer": "RiraN",
+        "remixer": "",
+        "vocalist": "Sample Source",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Shining Light (feat. Shabel Tonya)",
+      "artist": "INFX / MIIM",
+      "sourceId": "vextension5/19",
+      "credits": {
+        "composer": "INFX / MIIM",
+        "remixer": "",
+        "vocalist": "Shabel Tonya",
+        "lyricist": "INFX"
+      }
+    },
+    {
+      "title": "Cosmic Elevator",
+      "artist": "Forte Escape",
+      "sourceId": "emotionalsense/0",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Feel",
+      "artist": "DJ Mocha",
+      "sourceId": "emotionalsense/1",
+      "credits": {
+        "composer": "DJ Mocha",
+        "remixer": "",
+        "vocalist": "Yujin",
+        "lyricist": "DJ Mocha"
+      }
+    },
+    {
+      "title": "Knowledge System",
+      "artist": "Forte Escape",
+      "sourceId": "emotionalsense/2",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Real Over Drive",
+      "artist": "NieN",
+      "sourceId": "emotionalsense/3",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Space of Soul",
+      "artist": "M2U",
+      "sourceId": "emotionalsense/4",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "이선일"
+      }
+    },
+    {
+      "title": "Super lovely",
+      "artist": "EarBreaker",
+      "sourceId": "emotionalsense/5",
+      "credits": {
+        "composer": "EarBreaker",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Urban Night",
+      "artist": "Electronic Boutique",
+      "sourceId": "emotionalsense/6",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Yo! Max!",
+      "artist": "ND Lee",
+      "sourceId": "emotionalsense/7",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Bean"
+      }
+    },
+    {
+      "title": "Beyond the Future",
+      "artist": "7 Sequence",
+      "sourceId": "technika1/2",
+      "credits": {
+        "composer": "7 Sequence",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dear my Lady",
+      "artist": "Oriental ST8",
+      "sourceId": "technika1/3",
+      "credits": {
+        "composer": "Oriental ST8",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "DJMAX",
+      "artist": "Humming Urban Stereo",
+      "sourceId": "technika1/4",
+      "credits": {
+        "composer": "Humming Urban Stereo",
+        "remixer": "",
+        "vocalist": "J-Dogg(Rhymebus)",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Do you want it",
+      "artist": "House Rulez",
+      "sourceId": "technika1/5",
+      "credits": {
+        "composer": "House Rulez",
+        "remixer": "",
+        "vocalist": "Yehana / Kali",
+        "lyricist": "Ahn Ji Suk / Kali"
+      }
+    },
+    {
+      "title": "Fury",
+      "artist": "Sugardonut",
+      "sourceId": "technika1/6",
+      "credits": {
+        "composer": "Sugardonut",
+        "remixer": "",
+        "vocalist": "Sugardonut",
+        "lyricist": "Sugardonut"
+      }
+    },
+    {
+      "title": "HEXAD",
+      "artist": "Electronic Boutique",
+      "sourceId": "technika1/7",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Honeymoon",
+      "artist": "Humming Urban Stereo",
+      "sourceId": "technika1/8",
+      "credits": {
+        "composer": "Humming Urban Stereo",
+        "remixer": "",
+        "vocalist": "yozoh",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "I want You",
+      "artist": "Lin-G",
+      "sourceId": "technika1/9",
+      "credits": {
+        "composer": "Lin-G",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Lin-G"
+      }
+    },
+    {
+      "title": "Landscape",
+      "artist": "Tsukasa",
+      "sourceId": "technika1/10",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Melody",
+      "artist": "bermei.inazawa",
+      "sourceId": "technika1/11",
+      "credits": {
+        "composer": "bermei.inazawa",
+        "remixer": "",
+        "vocalist": "Esprit Lee",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Play the Future",
+      "artist": "Urbatronic Chopsticks",
+      "sourceId": "technika1/12",
+      "credits": {
+        "composer": "Urbatronic Chopsticks",
+        "remixer": "",
+        "vocalist": "Urbatronic Chopsticks",
+        "lyricist": "Urbatronic Chopsticks"
+      }
+    },
+    {
+      "title": "Remember",
+      "artist": "Lin-G",
+      "sourceId": "technika1/13",
+      "credits": {
+        "composer": "Lin-G",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "Lin-G"
+      }
+    },
+    {
+      "title": "Shoreline",
+      "artist": "Oriental ST8",
+      "sourceId": "technika1/14",
+      "credits": {
+        "composer": "Oriental ST8",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SON OF SUN",
+      "artist": "Hosoe Shinji",
+      "sourceId": "technika1/15",
+      "credits": {
+        "composer": "Hosoe Shinji",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SON OF SUN ~Extended Mix~",
+      "artist": "Hosoe Shinji",
+      "sourceId": "technika1/16",
+      "credits": {
+        "composer": "Hosoe Shinji",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SuperSonic",
+      "artist": "Planetboom",
+      "sourceId": "technika1/17",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "Planetboom",
+        "lyricist": "Michael Blunck"
+      }
+    },
+    {
+      "title": "Sweet Shining Shooting Star",
+      "artist": "Croove",
+      "sourceId": "technika1/18",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "The Last Dance",
+      "artist": "Urbatronic Chopsticks",
+      "sourceId": "technika1/19",
+      "credits": {
+        "composer": "Urbatronic Chopsticks",
+        "remixer": "",
+        "vocalist": "Esprit Lee",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Thor",
+      "artist": "XeoN",
+      "sourceId": "technika1/20",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Voyage",
+      "artist": "makou",
+      "sourceId": "technika1/21",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Lin",
+        "lyricist": "Lin"
+      }
+    },
+    {
+      "title": "BEE-U-TIFUL",
+      "artist": "FIRST AID",
+      "sourceId": "technika2/1",
+      "credits": {
+        "composer": "FIRST AID",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cosmic Fantastic Lovesong",
+      "artist": "DINY",
+      "sourceId": "technika2/3",
+      "credits": {
+        "composer": "DINY",
+        "remixer": "",
+        "vocalist": "chohee",
+        "lyricist": "DINY"
+      }
+    },
+    {
+      "title": "Cozy Quilt",
+      "artist": "bermei.inazawa",
+      "sourceId": "technika2/4",
+      "credits": {
+        "composer": "bermei.inazawa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "D2",
+      "artist": "FIRST AID",
+      "sourceId": "technika2/5",
+      "credits": {
+        "composer": "FIRST AID",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dream of Winds",
+      "artist": "XeoN",
+      "sourceId": "technika2/6",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dual Strikers",
+      "artist": "7 Sequence",
+      "sourceId": "technika2/7",
+      "credits": {
+        "composer": "7 Sequence",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "End of Mythology",
+      "artist": "Alice Schach and the Magic Orchestra",
+      "sourceId": "technika2/8",
+      "credits": {
+        "composer": "Alice Schach and the Magic Orchestra",
+        "remixer": "",
+        "vocalist": "Nene Akagawa",
+        "lyricist": "Yuni Minami"
+      }
+    },
+    {
+      "title": "Eternal Fantasy ~유니의 꿈~",
+      "artist": "XeoN",
+      "sourceId": "technika2/9",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "La Campanella : Nu Rave",
+      "artist": "Cranky",
+      "sourceId": "technika2/10",
+      "credits": {
+        "composer": "Cranky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Love is Beautiful",
+      "artist": "Electronic Boutique",
+      "sourceId": "technika2/11",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "Kastle",
+        "lyricist": "Kastle"
+      }
+    },
+    {
+      "title": "MonoXide",
+      "artist": "Planetboom",
+      "sourceId": "technika2/12",
+      "credits": {
+        "composer": "Planetboom",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Nova ~Mr.Funky Remix~",
+      "artist": "BEXTER (remix: Mr.Funky)",
+      "sourceId": "technika2/13",
+      "credits": {
+        "composer": "BEXTER",
+        "remixer": "Mr.Funky",
+        "vocalist": "Michael Blunck",
+        "lyricist": "Michael Blunck"
+      }
+    },
+    {
+      "title": "Put'Em Up",
+      "artist": "makou",
+      "sourceId": "technika2/14",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Vocal Forge(on Vocal Sample)",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Puzzler",
+      "artist": "Electronic Boutique",
+      "sourceId": "technika2/15",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Rage Of Demon",
+      "artist": "NieN",
+      "sourceId": "technika2/16",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN",
+        "lyricist": "JaeHwan"
+      }
+    },
+    {
+      "title": "Say it from your heart",
+      "artist": "makou",
+      "sourceId": "technika2/17",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sweet Dream",
+      "artist": "Lin-G",
+      "sourceId": "technika2/18",
+      "credits": {
+        "composer": "Lin-G",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Lin-G"
+      }
+    },
+    {
+      "title": "Thor ~Extended Mix~",
+      "artist": "XeoN",
+      "sourceId": "technika2/20",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Trip",
+      "artist": "NieN",
+      "sourceId": "technika2/21",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "안신애",
+        "lyricist": "안신애"
+      }
+    },
+    {
+      "title": "XLASHER",
+      "artist": "Hosoe Shinji",
+      "sourceId": "technika2/22",
+      "credits": {
+        "composer": "Hosoe Shinji",
+        "remixer": "",
+        "vocalist": "Mr.Yoshida",
+        "lyricist": "Nima"
+      }
+    },
+    {
+      "title": "Y ~Extended Mix~",
+      "artist": "ND Lee",
+      "sourceId": "technika2/23",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Silver",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "설레임 Part.2",
+      "artist": "ND Lee",
+      "sourceId": "technika3/0",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "ND Lee"
+      }
+    },
+    {
+      "title": "유령",
+      "artist": "STi",
+      "sourceId": "technika3/1",
+      "credits": {
+        "composer": "STi",
+        "remixer": "",
+        "vocalist": "수정",
+        "lyricist": "STi"
+      }
+    },
+    {
+      "title": "A Life With You",
+      "artist": "makou",
+      "sourceId": "technika3/2",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Fumi",
+        "lyricist": "Yara"
+      }
+    },
+    {
+      "title": "AD2222",
+      "artist": "Croove",
+      "sourceId": "technika3/3",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "AD2222 ~Extended Mix~",
+      "artist": "Croove",
+      "sourceId": "technika3/4",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ALiCE",
+      "artist": "seibin",
+      "sourceId": "technika3/5",
+      "credits": {
+        "composer": "seibin",
+        "remixer": "",
+        "vocalist": "장예나 / 장미",
+        "lyricist": "seibin"
+      }
+    },
+    {
+      "title": "Angel",
+      "artist": "Laurent Newfield / Ravenant",
+      "sourceId": "technika3/6",
+      "credits": {
+        "composer": "Laurent Newfield / Ravenant",
+        "remixer": "",
+        "vocalist": "Halya",
+        "lyricist": "Ravenant"
+      }
+    },
+    {
+      "title": "Black Swan",
+      "artist": "TAK",
+      "sourceId": "technika3/8",
+      "credits": {
+        "composer": "TAK",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dark Prism",
+      "artist": "Tsukasa",
+      "sourceId": "technika3/9",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dream Again",
+      "artist": "DINY",
+      "sourceId": "technika3/10",
+      "credits": {
+        "composer": "DINY",
+        "remixer": "",
+        "vocalist": "Creha",
+        "lyricist": "DINY"
+      }
+    },
+    {
+      "title": "EGG",
+      "artist": "Nauts",
+      "sourceId": "technika3/11",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "ZeeN",
+        "lyricist": "Nauts"
+      }
+    },
+    {
+      "title": "EGG ~Extended Mix~",
+      "artist": "Nauts",
+      "sourceId": "technika3/12",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "ZeeN",
+        "lyricist": "Nauts"
+      }
+    },
+    {
+      "title": "Emblem",
+      "artist": "makou",
+      "sourceId": "technika3/13",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Fallin' in LUV",
+      "artist": "3rd Coast",
+      "sourceId": "technika3/14",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Feel Ma Beat",
+      "artist": "NieN",
+      "sourceId": "technika3/15",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "NieN / JaeHwan",
+        "lyricist": "JaeHwan"
+      }
+    },
+    {
+      "title": "Give Me 5",
+      "artist": "ND Lee",
+      "sourceId": "technika3/16",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "Baby Chou",
+        "lyricist": "Moda"
+      }
+    },
+    {
+      "title": "Kung-Fu Rider",
+      "artist": "AstroKid",
+      "sourceId": "technika3/17",
+      "credits": {
+        "composer": "AstroKid",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "My Heart, My Soul",
+      "artist": "3rd Coast",
+      "sourceId": "technika3/18",
+      "credits": {
+        "composer": "3rd Coast",
+        "remixer": "",
+        "vocalist": "So Fly",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Now a NEW Day",
+      "artist": "Sui.Jay",
+      "sourceId": "technika3/19",
+      "credits": {
+        "composer": "Sui.Jay",
+        "remixer": "",
+        "vocalist": "Sui.Jay",
+        "lyricist": "Sui.Jay"
+      }
+    },
+    {
+      "title": "Out of CTRL",
+      "artist": "Mr.Funky",
+      "sourceId": "technika3/20",
+      "credits": {
+        "composer": "Mr.Funky",
+        "remixer": "",
+        "vocalist": "Yohan",
+        "lyricist": "Mr.Funky / Yohan"
+      }
+    },
+    {
+      "title": "Over the Rainbow",
+      "artist": "Tsukasa",
+      "sourceId": "technika3/21",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Aki Misawa",
+        "lyricist": "Aki Misawa"
+      }
+    },
+    {
+      "title": "Right Back",
+      "artist": "TANUKI",
+      "sourceId": "technika3/22",
+      "credits": {
+        "composer": "TANUKI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Showdown",
+      "artist": "LeeZu",
+      "sourceId": "technika3/23",
+      "credits": {
+        "composer": "LeeZu",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SigNalize",
+      "artist": "Paul Bazooka",
+      "sourceId": "technika3/24",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Supernova",
+      "artist": "Cranky",
+      "sourceId": "technika3/25",
+      "credits": {
+        "composer": "Cranky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Zero-G Vocal Foundry"
+      }
+    },
+    {
+      "title": "Supersonic 2011",
+      "artist": "Planetboom / Sound LAB",
+      "sourceId": "technika3/26",
+      "credits": {
+        "composer": "Planetboom / Sound LAB",
+        "remixer": "",
+        "vocalist": "Sound LAB",
+        "lyricist": "Michael Blunck / Planetboom"
+      }
+    },
+    {
+      "title": "Wanna Be Your Lover",
+      "artist": "Laurent Newfield / Ravenant",
+      "sourceId": "technika3/27",
+      "credits": {
+        "composer": "Laurent Newfield / Ravenant",
+        "remixer": "",
+        "vocalist": "Alex Ray",
+        "lyricist": "Ravenant"
+      }
+    },
+    {
+      "title": "Xeus",
+      "artist": "XeoN",
+      "sourceId": "technika3/28",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "You & Me",
+      "artist": "NieN",
+      "sourceId": "technika3/29",
+      "credits": {
+        "composer": "NieN",
+        "remixer": "",
+        "vocalist": "정상희 / 혜린",
+        "lyricist": "NieN"
+      }
+    },
+    {
+      "title": "A Song of Sixpence",
+      "artist": "makou",
+      "sourceId": "technikatuneq/1",
+      "credits": {
+        "composer": "makou",
+        "remixer": "",
+        "vocalist": "Itsuki and Her Friends",
+        "lyricist": "English Nersery Rhymes"
+      }
+    },
+    {
+      "title": "Back to Life",
+      "artist": "Croove",
+      "sourceId": "technikatuneq/2",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "JC / Croove",
+        "lyricist": "JC"
+      }
+    },
+    {
+      "title": "Deborah",
+      "artist": "Paul Bazooka",
+      "sourceId": "technikatuneq/3",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Paul Bazooka"
+      }
+    },
+    {
+      "title": "Eternal Fantasy (Miya Vocal Mix)",
+      "artist": "XeoN",
+      "sourceId": "technikatuneq/4",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": "XeoN"
+      }
+    },
+    {
+      "title": "Kal_wrnw",
+      "artist": "LeeZu",
+      "sourceId": "technikatuneq/6",
+      "credits": {
+        "composer": "LeeZu",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Love☆Panic",
+      "artist": "hiyong",
+      "sourceId": "technikatuneq/7",
+      "credits": {
+        "composer": "hiyong",
+        "remixer": "",
+        "vocalist": "sugarhate",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Luv Yourself",
+      "artist": "ND Lee",
+      "sourceId": "technikatuneq/8",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "소찬휘",
+        "lyricist": "Young \"JOHN\" Kim"
+      }
+    },
+    {
+      "title": "Mukilteo Beach",
+      "artist": "Croove",
+      "sourceId": "technikatuneq/9",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "Nina Park",
+        "lyricist": "JinKim"
+      }
+    },
+    {
+      "title": "Never Ending TECHNIKA",
+      "artist": "Studio LAY-BACK",
+      "sourceId": "technikatuneq/10",
+      "credits": {
+        "composer": "Studio LAY-BACK",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": "Studio LAY-BACK"
+      }
+    },
+    {
+      "title": "Renovation",
+      "artist": "XeoN",
+      "sourceId": "technikatuneq/11",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Retention",
+      "artist": "XeoN",
+      "sourceId": "technikatuneq/12",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Shining My Boy",
+      "artist": "AstroKid",
+      "sourceId": "technikatuneq/13",
+      "credits": {
+        "composer": "AstroKid",
+        "remixer": "",
+        "vocalist": "이정은",
+        "lyricist": "AstroKid"
+      }
+    },
+    {
+      "title": "Silent Clarity",
+      "artist": "Tsukasa",
+      "sourceId": "technikatuneq/14",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Aki Misawa",
+        "lyricist": "Aki Misawa"
+      }
+    },
+    {
+      "title": "Take on Me",
+      "artist": "Cuve",
+      "sourceId": "technikatuneq/15",
+      "credits": {
+        "composer": "Cuve",
+        "remixer": "",
+        "vocalist": "Jeannie",
+        "lyricist": "Jeannie"
+      }
+    },
+    {
+      "title": "Techno Racer",
+      "artist": "Paul Bazooka",
+      "sourceId": "technikatuneq/16",
+      "credits": {
+        "composer": "Paul Bazooka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The MAX",
+      "artist": "ND Lee",
+      "sourceId": "technikatuneq/17",
+      "credits": {
+        "composer": "ND Lee",
+        "remixer": "",
+        "vocalist": "ND Lee",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Thor (Deepin' Absonant Mix)",
+      "artist": "XeoN",
+      "sourceId": "technikatuneq/18",
+      "credits": {
+        "composer": "XeoN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "VORTEX",
+      "artist": "Electronic Boutique",
+      "sourceId": "technikatuneq/19",
+      "credits": {
+        "composer": "Electronic Boutique",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Break a Spell",
+      "artist": "Daisuke Ishiwatari",
+      "sourceId": "guiltygear/0",
+      "credits": {
+        "composer": "Daisuke Ishiwatari",
+        "remixer": "",
+        "vocalist": "Naoki Hashimoto",
+        "lyricist": "Daisuke Ishiwatari"
+      }
+    },
+    {
+      "title": "Holy Orders (Be Just Or Be Dead)",
+      "artist": "Daisuke Ishiwatari",
+      "sourceId": "guiltygear/1",
+      "credits": {
+        "composer": "Daisuke Ishiwatari",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Marionette",
+      "artist": "Daisuke Ishiwatari",
+      "sourceId": "guiltygear/2",
+      "credits": {
+        "composer": "Daisuke Ishiwatari",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Barbarous Funera",
+      "artist": "Rikako Watanabe(Basicape)",
+      "sourceId": "girlsfrontline/0",
+      "credits": {
+        "composer": "Rikako Watanabe(Basicape)",
+        "remixer": "",
+        "vocalist": "ErumNagi",
+        "lyricist": "Rikako Watanabe"
+      }
+    },
+    {
+      "title": "Frontline",
+      "artist": "B@kamin / M2U",
+      "sourceId": "girlsfrontline/1",
+      "credits": {
+        "composer": "B@kamin / M2U",
+        "remixer": "",
+        "vocalist": "Guriri",
+        "lyricist": "JiHEE / shimauma"
+      }
+    },
+    {
+      "title": "What am I fighting for?",
+      "artist": "Haloweak",
+      "sourceId": "girlsfrontline/2",
+      "credits": {
+        "composer": "Haloweak",
+        "remixer": "",
+        "vocalist": "AKINO with bless4",
+        "lyricist": "KANASA"
+      }
+    },
+    {
+      "title": "Black MInD",
+      "artist": "COSIO",
+      "sourceId": "groovecoaster/0",
+      "credits": {
+        "composer": "COSIO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Good Night, Bad Luck.",
+      "artist": "t+pazolite",
+      "sourceId": "groovecoaster/1",
+      "credits": {
+        "composer": "t+pazolite",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Got more raves?",
+      "artist": "E.G.G.",
+      "sourceId": "groovecoaster/2",
+      "credits": {
+        "composer": "E.G.G.",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Groove Prayer",
+      "artist": "COSIO",
+      "sourceId": "groovecoaster/3",
+      "credits": {
+        "composer": "COSIO",
+        "remixer": "",
+        "vocalist": "ChouCho",
+        "lyricist": "Reisuke Ishida"
+      }
+    },
+    {
+      "title": "Marry me, Nightmare",
+      "artist": "t+pazolite",
+      "sourceId": "groovecoaster/5",
+      "credits": {
+        "composer": "t+pazolite",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ouroboros -twin stroke of the end-",
+      "artist": "Cranky / MASAKI",
+      "sourceId": "groovecoaster/6",
+      "credits": {
+        "composer": "Cranky / MASAKI",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "OVER THE NIGHT",
+      "artist": "REDALiCE",
+      "sourceId": "groovecoaster/7",
+      "credits": {
+        "composer": "REDALiCE",
+        "remixer": "",
+        "vocalist": "Ayumi Nomiya",
+        "lyricist": "Ayumi Nomiya"
+      }
+    },
+    {
+      "title": "Satisfiction",
+      "artist": "t+pazolite",
+      "sourceId": "groovecoaster/8",
+      "credits": {
+        "composer": "t+pazolite",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Warrior",
+      "artist": "Cranky",
+      "sourceId": "groovecoaster/9",
+      "credits": {
+        "composer": "Cranky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Angelic Sphere",
+      "artist": "3R2",
+      "sourceId": "deemo/0",
+      "credits": {
+        "composer": "3R2",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ANiMA",
+      "artist": "xi",
+      "sourceId": "deemo/1",
+      "credits": {
+        "composer": "xi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dream",
+      "artist": "Rabpit",
+      "sourceId": "deemo/2",
+      "credits": {
+        "composer": "Rabpit",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Legacy",
+      "artist": "switchworks",
+      "sourceId": "deemo/3",
+      "credits": {
+        "composer": "switchworks",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Magnolia",
+      "artist": "M2U",
+      "sourceId": "deemo/4",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "Guriri",
+        "lyricist": "WAV.AV."
+      }
+    },
+    {
+      "title": "Nine Point Eight",
+      "artist": "Mili",
+      "sourceId": "deemo/5",
+      "credits": {
+        "composer": "Mili",
+        "remixer": "",
+        "vocalist": "momocashew",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sairai",
+      "artist": "Shinichi Kobayashi",
+      "sourceId": "deemo/6",
+      "credits": {
+        "composer": "Shinichi Kobayashi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Undo",
+      "artist": "Yuk-cheung Chun",
+      "sourceId": "deemo/7",
+      "credits": {
+        "composer": "Yuk-cheung Chun",
+        "remixer": "",
+        "vocalist": "Misi Ke",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Utopiosphere",
+      "artist": "Mili",
+      "sourceId": "deemo/8",
+      "credits": {
+        "composer": "Mili",
+        "remixer": "",
+        "vocalist": "momocashew",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "YUBIKIRI-GENMAN",
+      "artist": "Mili",
+      "sourceId": "deemo/9",
+      "credits": {
+        "composer": "Mili",
+        "remixer": "",
+        "vocalist": "momocashew",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "AXION",
+      "artist": "sakuzyo",
+      "sourceId": "cytus/0",
+      "credits": {
+        "composer": "sakuzyo",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "CODE NAME : ZERO",
+      "artist": "NeLiME",
+      "sourceId": "cytus/1",
+      "credits": {
+        "composer": "NeLiME",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "conflict",
+      "artist": "Cranky / siromaru",
+      "sourceId": "cytus/2",
+      "credits": {
+        "composer": "Cranky / siromaru",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "EMber",
+      "artist": "SIHanatsuka",
+      "sourceId": "cytus/3",
+      "credits": {
+        "composer": "SIHanatsuka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Entrance",
+      "artist": "Ice",
+      "sourceId": "cytus/4",
+      "credits": {
+        "composer": "Ice",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "L",
+      "artist": "Ice",
+      "sourceId": "cytus/5",
+      "credits": {
+        "composer": "Ice",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Les Parfums de L'Amour",
+      "artist": "naotyu-",
+      "sourceId": "cytus/6",
+      "credits": {
+        "composer": "naotyu-",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Mammal",
+      "artist": "Teikyou",
+      "sourceId": "cytus/7",
+      "credits": {
+        "composer": "Teikyou",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Myosotis",
+      "artist": "M2U",
+      "sourceId": "cytus/8",
+      "credits": {
+        "composer": "M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Old Gold",
+      "artist": "Cranky",
+      "sourceId": "cytus/9",
+      "credits": {
+        "composer": "Cranky",
+        "remixer": "",
+        "vocalist": "Pico",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Shoot out",
+      "artist": "Tsukasa",
+      "sourceId": "cytus/10",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "",
+        "vocalist": "Erica Masaki",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ververg",
+      "artist": "onoken",
+      "sourceId": "cytus/11",
+      "credits": {
+        "composer": "onoken",
+        "remixer": "",
+        "vocalist": "b",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cyberozar",
+      "artist": "sakuzyo",
+      "sourceId": "chunithm/0",
+      "credits": {
+        "composer": "sakuzyo",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Garakuta Doll Play",
+      "artist": "t+pazolite",
+      "sourceId": "chunithm/1",
+      "credits": {
+        "composer": "t+pazolite",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ikazuchi",
+      "artist": "Takenobu Mitsuyoshi",
+      "sourceId": "chunithm/2",
+      "credits": {
+        "composer": "Takenobu Mitsuyoshi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ray Tuning",
+      "artist": "NayutalieN",
+      "sourceId": "chunithm/3",
+      "credits": {
+        "composer": "NayutalieN",
+        "remixer": "",
+        "vocalist": "000",
+        "lyricist": "NayutalieN"
+      }
+    },
+    {
+      "title": "Trrricksters!!",
+      "artist": "s-don / Hino Isuka",
+      "sourceId": "chunithm/5",
+      "credits": {
+        "composer": "s-don / Hino Isuka",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "안아줘",
+      "artist": "TAK / seibin",
+      "sourceId": "estimate/0",
+      "credits": {
+        "composer": "TAK / seibin",
+        "remixer": "",
+        "vocalist": "YUKIKA",
+        "lyricist": "TAK"
+      }
+    },
+    {
+      "title": "HELIX",
+      "artist": "ESTi",
+      "sourceId": "estimate/1",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "In My Heart ~ESTi Remix~",
+      "artist": "Tsukasa (remix: ESTi)",
+      "sourceId": "estimate/2",
+      "credits": {
+        "composer": "Tsukasa",
+        "remixer": "ESTi",
+        "vocalist": "Misato",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Obelisque",
+      "artist": "ESTi / M2U",
+      "sourceId": "estimate/3",
+      "credits": {
+        "composer": "ESTi / M2U",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "U-NIVUS",
+      "artist": "ESTi",
+      "sourceId": "estimate/4",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "공성전 ~Pierre Blanche, Yonce Remix~",
+      "artist": "NEXON (remix: Pierre Blanche / Yonce)",
+      "sourceId": "nexon/0",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "Pierre Blanche / Yonce",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "광명의 루 : 루 라바다",
+      "artist": "Studio EIM",
+      "sourceId": "nexon/1",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "부여성 ~Blosso Remix~",
+      "artist": "NEXON (remix: Blosso)",
+      "sourceId": "nexon/2",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "Blosso",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "소년 모험가 ~SiNA Remix~",
+      "artist": "HanStone (remix: SiNA)",
+      "sourceId": "nexon/3",
+      "credits": {
+        "composer": "HanStone",
+        "remixer": "SiNA",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "어릴적 할머니가 들려주신 옛 전설",
+      "artist": "HanStone",
+      "sourceId": "nexon/4",
+      "credits": {
+        "composer": "HanStone",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "연합군과 제국군",
+      "artist": "NEXON",
+      "sourceId": "nexon/5",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "전설이 시작된 곳 ~VoidRover Remix~",
+      "artist": "Asteria (remix: VoidRover)",
+      "sourceId": "nexon/6",
+      "credits": {
+        "composer": "Asteria",
+        "remixer": "VoidRover",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "죽음의 신 : 크로우 크루아흐",
+      "artist": "Studio EIM",
+      "sourceId": "nexon/7",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "최종무곡",
+      "artist": "HanStone",
+      "sourceId": "nexon/8",
+      "credits": {
+        "composer": "HanStone",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "카트라이더 Mashup ~Cosmograph Remix~",
+      "artist": "NEXON / Studio EIM (remix: Cosmograph)",
+      "sourceId": "nexon/9",
+      "credits": {
+        "composer": "NEXON / Studio EIM",
+        "remixer": "Cosmograph",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "카트라이더 Mashup ~Pure 100% Remix~",
+      "artist": "NEXON / Studio EIM (remix: Pure 100%)",
+      "sourceId": "nexon/10",
+      "credits": {
+        "composer": "NEXON / Studio EIM",
+        "remixer": "Pure 100%",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "카트라이더, 크레이지아케이드, 버블파이터 Main theme ~CHUCK Remix~",
+      "artist": "NEXON (remix: CHUCK)",
+      "sourceId": "nexon/11",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "CHUCK",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Apparition",
+      "artist": "ESTi",
+      "sourceId": "nexon/12",
+      "credits": {
+        "composer": "ESTi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Constant Moderato",
+      "artist": "Mitsukiyo",
+      "sourceId": "nexon/13",
+      "credits": {
+        "composer": "Mitsukiyo",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "It's my war now",
+      "artist": "김동현",
+      "sourceId": "nexon/14",
+      "credits": {
+        "composer": "김동현",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Lacheln, The City of Dreams",
+      "artist": "NEXON",
+      "sourceId": "nexon/15",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Reminiscence",
+      "artist": "Nauts",
+      "sourceId": "nexon/16",
+      "credits": {
+        "composer": "Nauts",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Start The Adventure ~SOPHI Remix~",
+      "artist": "NEXON (remix: SOPHI)",
+      "sourceId": "nexon/17",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "SOPHI",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Tayberrs - Collapsed Paradise",
+      "artist": "정영걸",
+      "sourceId": "nexon/18",
+      "credits": {
+        "composer": "정영걸",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Little Adventurer",
+      "artist": "Studio EIM",
+      "sourceId": "nexon/19",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Raindrop Flower ~jam-jam Remix~",
+      "artist": "Studio EIM (remix: jam-jam)",
+      "sourceId": "nexon/20",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "jam-jam",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Bang!!",
+      "artist": "BOOGEY VOXX",
+      "sourceId": "musedash/0",
+      "credits": {
+        "composer": "BOOGEY VOXX",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "can you feel it",
+      "artist": "MK",
+      "sourceId": "musedash/1",
+      "credits": {
+        "composer": "MK",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Comet Coaster",
+      "artist": "DJ Noriken / aran",
+      "sourceId": "musedash/2",
+      "credits": {
+        "composer": "DJ Noriken / aran",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Cthugha",
+      "artist": "USAO",
+      "sourceId": "musedash/3",
+      "credits": {
+        "composer": "USAO",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "DataErr0r",
+      "artist": "Cosmograph",
+      "sourceId": "musedash/4",
+      "credits": {
+        "composer": "Cosmograph",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Dysthymia",
+      "artist": "a_hisa",
+      "sourceId": "musedash/5",
+      "credits": {
+        "composer": "a_hisa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "ENERGY SYNERGY MATRIX",
+      "artist": "Tanchiky",
+      "sourceId": "musedash/6",
+      "credits": {
+        "composer": "Tanchiky",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Koi no Moonlight",
+      "artist": "REDALiCE",
+      "sourceId": "musedash/7",
+      "credits": {
+        "composer": "REDALiCE",
+        "remixer": "",
+        "vocalist": "Tamaki Inuyama",
+        "lyricist": "MARON(IOSYS)"
+      }
+    },
+    {
+      "title": "Lights of Muse",
+      "artist": "Ayatsugu_Otowa",
+      "sourceId": "musedash/8",
+      "credits": {
+        "composer": "Ayatsugu_Otowa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "MUSEDASH!!!!",
+      "artist": "Dan@Yomi",
+      "sourceId": "musedash/9",
+      "credits": {
+        "composer": "Dan@Yomi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Pancake is Love",
+      "artist": "3R2",
+      "sourceId": "musedash/10",
+      "credits": {
+        "composer": "3R2",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "PUPA",
+      "artist": "Morimori Atsushi",
+      "sourceId": "musedash/11",
+      "credits": {
+        "composer": "Morimori Atsushi",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "tape/stop/night",
+      "artist": "Sugar & Co.",
+      "sourceId": "musedash/12",
+      "credits": {
+        "composer": "Sugar & Co.",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The 90's Decision",
+      "artist": "MYUKKE.",
+      "sourceId": "musedash/13",
+      "credits": {
+        "composer": "MYUKKE.",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "XING",
+      "artist": "ginkiha",
+      "sourceId": "musedash/14",
+      "credits": {
+        "composer": "ginkiha",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "느낌",
+      "artist": "Kang Eun Soo / eridanus",
+      "sourceId": "ez2on/0",
+      "credits": {
+        "composer": "Kang Eun Soo / eridanus",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "A Site De La Rue",
+      "artist": "KIEN",
+      "sourceId": "ez2on/1",
+      "credits": {
+        "composer": "KIEN",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Aquaris",
+      "artist": "Croove",
+      "sourceId": "ez2on/3",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "Miya",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Back for more",
+      "artist": "Ruby Tuesday",
+      "sourceId": "ez2on/4",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "Jemmy Carlson",
+        "lyricist": "Chris Carlson"
+      }
+    },
+    {
+      "title": "Complex",
+      "artist": "Croove",
+      "sourceId": "ez2on/5",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Envy Mask",
+      "artist": "Croove / Mario Bolden",
+      "sourceId": "ez2on/6",
+      "credits": {
+        "composer": "Croove / Mario Bolden",
+        "remixer": "",
+        "vocalist": "Mario Bolden",
+        "lyricist": "Mario Bolden"
+      }
+    },
+    {
+      "title": "LIMBO",
+      "artist": "Mori+",
+      "sourceId": "ez2on/8",
+      "credits": {
+        "composer": "Mori+",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Look out ~Here comes my love~",
+      "artist": "Ruby Tuesday",
+      "sourceId": "ez2on/9",
+      "credits": {
+        "composer": "Ruby Tuesday",
+        "remixer": "",
+        "vocalist": "Angel O'Brien",
+        "lyricist": "Ruby Tuesday"
+      }
+    },
+    {
+      "title": "Metagalactic",
+      "artist": "xxdbxx",
+      "sourceId": "ez2on/10",
+      "credits": {
+        "composer": "xxdbxx",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Nihilism",
+      "artist": "nato",
+      "sourceId": "ez2on/11",
+      "credits": {
+        "composer": "nato",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sand Storm",
+      "artist": "Croove",
+      "sourceId": "ez2on/12",
+      "credits": {
+        "composer": "Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Sparrow",
+      "artist": "xxdbxx / Croove",
+      "sourceId": "ez2on/14",
+      "credits": {
+        "composer": "xxdbxx / Croove",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Stay",
+      "artist": "Jeon Jun Kyu / Mario Bolden",
+      "sourceId": "ez2on/15",
+      "credits": {
+        "composer": "Jeon Jun Kyu / Mario Bolden",
+        "remixer": "",
+        "vocalist": "Mario Bolden",
+        "lyricist": "Jeon Jun Kyu"
+      }
+    },
+    {
+      "title": "Weird Wave",
+      "artist": "Joyrock",
+      "sourceId": "ez2on/16",
+      "credits": {
+        "composer": "Joyrock",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Zeroize",
+      "artist": "Forte Escape",
+      "sourceId": "ez2on/17",
+      "credits": {
+        "composer": "Forte Escape",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ariant ~ned Remix~",
+      "artist": "NEXON Korea (remix: ned)",
+      "sourceId": "maplestory/0",
+      "credits": {
+        "composer": "NEXON Korea",
+        "remixer": "ned",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Catch Your Dreams!",
+      "artist": "신동혁 (Studio EIM)",
+      "sourceId": "maplestory/1",
+      "credits": {
+        "composer": "신동혁 (Studio EIM)",
+        "remixer": "",
+        "vocalist": "타루",
+        "lyricist": "신동혁 (Studio EIM) / TOTO / 전상민 (NEXON)"
+      }
+    },
+    {
+      "title": "Dynamic Universe",
+      "artist": "유종호 (NEXON)",
+      "sourceId": "maplestory/2",
+      "credits": {
+        "composer": "유종호 (NEXON)",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Fairytale ~Pan Remix~",
+      "artist": "NEXON (remix: Pan)",
+      "sourceId": "maplestory/3",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "Pan",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Frozen Link",
+      "artist": "유종호 (NEXON)",
+      "sourceId": "maplestory/4",
+      "credits": {
+        "composer": "유종호 (NEXON)",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Leafre (EDM ver.)",
+      "artist": "Studio EIM",
+      "sourceId": "maplestory/5",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Missing You ~SOPHI Remix~",
+      "artist": "NEXON (remix: SOPHI)",
+      "sourceId": "maplestory/6",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "SOPHI",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Moonlight Shadow ~Paul Bazooka Remix~",
+      "artist": "NEXON (remix: Paul Bazooka)",
+      "sourceId": "maplestory/7",
+      "credits": {
+        "composer": "NEXON",
+        "remixer": "Paul Bazooka",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Smile",
+      "artist": "ampstyle",
+      "sourceId": "maplestory/8",
+      "credits": {
+        "composer": "ampstyle",
+        "remixer": "",
+        "vocalist": "BANAMI",
+        "lyricist": "이소예"
+      }
+    },
+    {
+      "title": "Star Bubble",
+      "artist": "Ye-Yo! / Laser",
+      "sourceId": "maplestory/9",
+      "credits": {
+        "composer": "Ye-Yo! / Laser",
+        "remixer": "",
+        "vocalist": "Rami",
+        "lyricist": "Ye-Yo! / Laser"
+      }
+    },
+    {
+      "title": "Story of Maple",
+      "artist": "Mycin.T / ned",
+      "sourceId": "maplestory/10",
+      "credits": {
+        "composer": "Mycin.T / ned",
+        "remixer": "",
+        "vocalist": "jam-jam / 윤솜",
+        "lyricist": "Mycin.T / ned"
+      }
+    },
+    {
+      "title": "Temple of Time (EDM ver.)",
+      "artist": "Studio EIM",
+      "sourceId": "maplestory/11",
+      "credits": {
+        "composer": "Studio EIM",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Lake of Oblivion ~jam-jam Remix~",
+      "artist": "채하나 (NEXON) (remix: jam-jam)",
+      "sourceId": "maplestory/12",
+      "credits": {
+        "composer": "채하나 (NEXON)",
+        "remixer": "jam-jam",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "The Tune of the Azure Light ~Parang Remix~",
+      "artist": "김가해 (remix: Parang)",
+      "sourceId": "maplestory/13",
+      "credits": {
+        "composer": "김가해",
+        "remixer": "Parang",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Where Stars Rest",
+      "artist": "이승재",
+      "sourceId": "maplestory/14",
+      "credits": {
+        "composer": "이승재",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Ashita e no Kodou",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/0",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "Kanako Kotera",
+        "lyricist": "Yukihiro Jindo / Kyo Hifumi"
+      }
+    },
+    {
+      "title": "Blue Destination",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/1",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "GENESIS BEYOND THE BEGINNING",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/2",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Inevitable Struggle",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/3",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "NORSE WIND",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/4",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "Silver Will",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/5",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "STEP AHEAD",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/6",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SUNSHINE COASTLINE",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/7",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "TO MAKE THE END OF BATTLE",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/8",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "To the Future.",
+      "artist": "Falcom Sound Team jdk",
+      "sourceId": "falcom/9",
+      "credits": {
+        "composer": "Falcom Sound Team jdk",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "From Hell to Breakfast",
+      "artist": "Daisuke Kurosawa",
+      "sourceId": "clearpass/0",
+      "credits": {
+        "composer": "Daisuke Kurosawa",
+        "remixer": "",
+        "vocalist": "",
+        "lyricist": ""
+      }
+    },
+    {
+      "title": "SURVIVOR",
+      "artist": "jam-jam",
+      "sourceId": "clearpass/1",
+      "credits": {
+        "composer": "jam-jam",
+        "remixer": "",
+        "vocalist": "jam-jam",
+        "lyricist": "jam-jam"
+      }
+    }
+  ]
+}

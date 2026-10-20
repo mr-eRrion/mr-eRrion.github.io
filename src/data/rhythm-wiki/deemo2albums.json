@@ -1,0 +1,3730 @@
+[
+  {
+    "line": 31,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 32,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 33,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 34,
+    "text": "|[[Echo over you...]]|Apo11o program|1.0.8&br;22/01/13|2|6|8|9|9|"
+  },
+  {
+    "line": 35,
+    "text": "|[[Kokoro Odoro]]|Tomggg&br;(feat. m/lue. )|1.0.8&br;22/01/13|2|5|8|9|-|"
+  },
+  {
+    "line": 36,
+    "text": "|[[Here is where your story begins]]|Milkoi, Sya Sya|1.0.8&br;22/01/13|2|4|6|-|-|"
+  },
+  {
+    "line": 37,
+    "text": "|[[雷]]|高城みよ|2.1.0&br;22/10/26|2|5|7|8|-|"
+  },
+  {
+    "line": 38,
+    "text": "|[[Delight of Life]]|Sakiko Sakuragi|1.0.8&br;22/01/13|1|4|6|7|-|"
+  },
+  {
+    "line": 39,
+    "text": "|[[Clouds clear and...]]|Qutabire|2.1.0&br;22/10/26|4|6|9|9|-|"
+  },
+  {
+    "line": 40,
+    "text": "|[[Keep You Safe (piano ver.)]]|Iris|1.0.8&br;22/01/13|4|6|9|10|-|"
+  },
+  {
+    "line": 41,
+    "text": "|[[Rain Lily]]|H△G|1.0.8&br;22/01/13|1|3|5|8|-|"
+  },
+  {
+    "line": 42,
+    "text": "|■[[Purple Strings]]|Kevin Penkin|1.0.8&br;22/01/13|3|7|9|-|-|"
+  },
+  {
+    "line": 43,
+    "text": "|[[felzione]]|onoken|1.0.8&br;22/01/13|5|8|10|-|-|"
+  },
+  {
+    "line": 44,
+    "text": "|[[Haru Tomei]]|Ayaka Tachibana|1.0.8&br;22/01/13|3|5|7|9|-|"
+  },
+  {
+    "line": 45,
+    "text": "|[[Fairy's Crown]]|Powerless|1.0.8&br;22/01/13|4|7|10|10|-|"
+  },
+  {
+    "line": 46,
+    "text": "|■[[Bento Box Bivouac]]|Mili|1.0.8&br;22/01/13|2|5|7|-|-|"
+  },
+  {
+    "line": 47,
+    "text": "|[[Reverie]]|satella|1.0.8&br;22/01/13|2|5|8|9|-|"
+  },
+  {
+    "line": 52,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 53,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 54,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 55,
+    "text": "|■[[Precious Days]]|Rin Matsubayashi (INSPION)|1.0.8&br;22/01/13|1|4|7|-|"
+  },
+  {
+    "line": 56,
+    "text": "|■[[Rain Carnation, Ruin Lilac>Rain Carnation Ruin Lilac]]|Apo11o program ft.ATSUMI UEDA|1.0.8&br;22/01/13|4|6|8|-|"
+  },
+  {
+    "line": 57,
+    "text": "|[[雨模様]]|ぷにぷに電機 arr. ぺのれり|1.0.8&br;22/01/13|2|5|8|-|"
+  },
+  {
+    "line": 58,
+    "text": "|[[反映]]|Rin Matsubayashi (INSPION)|1.0.8&br;22/01/13|2|5|7|-|"
+  },
+  {
+    "line": 59,
+    "text": "|■[[Unmelting]]|t+pazolite|1.0.8&br;22/01/13|3|7|9|-|"
+  },
+  {
+    "line": 60,
+    "text": "|[[Lycoris]]|THE SxPLAY(菅原紗由理)|1.0.8&br;22/01/13|1|3|5|-|"
+  },
+  {
+    "line": 61,
+    "text": "|■[[Bubble Tea]]|dark cat|1.0.8&br;22/01/13|4|6|8|-|"
+  },
+  {
+    "line": 62,
+    "text": "|■[[雲間のひがさ]]|Yamajet feat. ひうらまさこ|1.0.8&br;22/01/13|3|6|8|-|"
+  },
+  {
+    "line": 63,
+    "text": "|[[空の巣]]|ユアミトス|1.0.8&br;22/01/13|2|5|7|9|"
+  },
+  {
+    "line": 64,
+    "text": "|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''[[イベント]]限定楽曲 ▼''};|"
+  },
+  {
+    "line": 65,
+    "text": "|[[Particle Parade]]|Tomggg|1.3.0&br;22/08/24|2|5|9|-|"
+  },
+  {
+    "line": 66,
+    "text": "|[[Miracle Leaf]]|Nahre Sol|3.0.0&br;23/04/26|2|4|6|8|"
+  },
+  {
+    "line": 72,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 73,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 74,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 75,
+    "text": "|■[[あめの日には]]|Sakiko Sakuragi (INSPION)|1.0.8&br;22/01/13|1|3|5|-|"
+  },
+  {
+    "line": 76,
+    "text": "|■[[floating]]|PARKGOLF|1.0.8&br;22/01/13|2|5|7|-|"
+  },
+  {
+    "line": 77,
+    "text": "|[[Replica]]|bq studio|1.0.8&br;22/01/13|2|5|6|-|"
+  },
+  {
+    "line": 78,
+    "text": "|■[[Plathome]]|ISAFAT|1.0.8&br;22/01/13|3|5|8|-|"
+  },
+  {
+    "line": 79,
+    "text": "|■[[ずっとそばに]]|odol|1.0.8&br;22/01/13|1|4|7|-|"
+  },
+  {
+    "line": 80,
+    "text": "|■[[Try to]]|banene|1.0.8&br;22/01/13|3|5|8|-|"
+  },
+  {
+    "line": 81,
+    "text": "|■[[hikari no michi]]|Tomggg|1.0.8&br;22/01/13|3|6|8|-|"
+  },
+  {
+    "line": 82,
+    "text": "|[[Not alone]]|ISAFAT|1.0.8&br;22/01/13|4|7|10|-|"
+  },
+  {
+    "line": 83,
+    "text": "|[[Story]]|Rabpit│Apo11o program│&br;アマギセーラ│ゆうきねこ|1.0.8&br;22/01/13|3|7|9|-|"
+  },
+  {
+    "line": 84,
+    "text": "|[[Be Alive]]|naotyu- feat. 美咲|1.0.8&br;22/01/13|2|4|6|-|"
+  },
+  {
+    "line": 85,
+    "text": "|■[[After The Rain]]|Neighbors Complain|1.0.8&br;22/01/13|3|6|9|-|"
+  },
+  {
+    "line": 86,
+    "text": "|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''[[イベント]]限定楽曲 ▼''};|"
+  },
+  {
+    "line": 87,
+    "text": "|[[Moving Shadows]]|Fjun|2.1.2&br;22/11/23|1|4|7|-|"
+  },
+  {
+    "line": 93,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 94,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 95,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 96,
+    "text": "|[[with your prayer]]|Takenoko boy|2.0.1&br;22/09/07|1|4|7|8|7|"
+  },
+  {
+    "line": 97,
+    "text": "|[[Un Deux Trois]]|Miyolophone feat. natsunaya|2.0.1&br;22/09/07|3|6|8|9|8|"
+  },
+  {
+    "line": 98,
+    "text": "|[[Recreant of the Everlasting]]|Elliot Hsu|2.0.1&br;22/09/07|4|7|9|9|9|"
+  },
+  {
+    "line": 99,
+    "text": "|[[sleeping flowers]]|kidlit|2.0.1&br;22/09/07|3|6|9|-|9|"
+  },
+  {
+    "line": 100,
+    "text": "|[[Forgotten Sanctuary]]|Elliot Hsu|2.0.1&br;22/09/07|4|7|10|-|10|"
+  },
+  {
+    "line": 101,
+    "text": "|[[Resurrection \"Samurai\">Resurrection Samurai]]|Shogo Nomura (BNSI)|2.0.1&br;22/09/07|3|6|9|-|9|"
+  },
+  {
+    "line": 102,
+    "text": "|[[ヤドリギ]]|高城みよ|2.0.1&br;22/09/07|2|5|6|-|6|"
+  },
+  {
+    "line": 103,
+    "text": "|[[Antheia]]|ARForest|2.0.1&br;22/09/07|4|8|10|-|10|"
+  },
+  {
+    "line": 104,
+    "text": "|[[Ambivalenz]]|大嶋啓之|2.0.1&br;22/09/07|2|4|7|9|7|"
+  },
+  {
+    "line": 105,
+    "text": "|[[Graves -Ancient Memories-]]|Juggernaut.|2.0.1&br;22/09/07|5|9|10|-|10|"
+  },
+  {
+    "line": 106,
+    "text": "|[[Deemo's Flight I: Piano>Deemo's Flight I Piano]]|Seycara|2.0.1&br;22/09/07|4|7|9|-|9|"
+  },
+  {
+    "line": 107,
+    "text": "|[[Deemo's Flight II: Rain>Deemo's Flight II Rain]]|Seycara|2.0.1&br;22/09/07|3|6|9|-|9|"
+  },
+  {
+    "line": 114,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 115,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 116,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 117,
+    "text": "|[[Mark of Remembrance]]|seatrus|3.0.0&br;23/04/26|3|5|8|-|-|"
+  },
+  {
+    "line": 118,
+    "text": "|[[Anti]]|Error Signal|3.0.0&br;23/04/26|2|5|7|-|-|"
+  },
+  {
+    "line": 119,
+    "text": "|[[Unwavering Spirit]]|Elliot Hsu|3.0.0&br;23/04/26|4|7|9|-|-|"
+  },
+  {
+    "line": 120,
+    "text": "|[[空蝉]]|高城みよ|3.0.0&br;23/04/26|2|5|7|-|-|"
+  },
+  {
+    "line": 121,
+    "text": "|[[Blessing]]|Harito|3.0.0&br;23/04/26|3|6|8|10|-|"
+  },
+  {
+    "line": 122,
+    "text": "|[[Serendibite]]|Nego_tiator|3.0.0&br;23/04/26|5|8|10|-|10|"
+  },
+  {
+    "line": 123,
+    "text": "|[[Balloon]]|Harito|3.0.0&br;23/04/26|1|5|7|-|-|"
+  },
+  {
+    "line": 124,
+    "text": "|[[Achromic Riddle]]|Nego_tiator|3.0.0&br;23/04/26|6|8|10|-|''11''|"
+  },
+  {
+    "line": 125,
+    "text": "|[[Antikythera]]|technoplanet|3.0.0&br;23/04/26|6|9|''11''|-|-|"
+  },
+  {
+    "line": 126,
+    "text": "|[[Antikythera [Vocal Version] >Antikythera (Vocal Version)]]|technoplanet&br;feat.木下珠子|4.1.8&br;26/03/25|7|9|''11''|-|-|"
+  },
+  {
+    "line": 127,
+    "text": "|[[Overture your dream &#8222;Carpe-Diem“>Overture your dream Carpe-Diem]]|Apo11o program&br;vs. onoken &br;ft. 木下珠子|3.0.0&br;23/04/26|5|8|10|-|-|"
+  },
+  {
+    "line": 128,
+    "text": "|[[Finale our hope &#8222;Carpe-Diem“>Finale our hope Carpe-Diem]]|onoken&br;vs. Apo11o program&br; with gaQdan &br;ft. 木下珠子|3.0.0&br;23/04/26|1|4|9|9|-|"
+  },
+  {
+    "line": 134,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 135,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 136,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 137,
+    "text": "|[[Sketchbook]]|Aethoro feat. vally.exe|4.0.0&br;23/12/13|1|4|7|-|"
+  },
+  {
+    "line": 138,
+    "text": "|[[memories of love]]|kidlit|4.0.0&br;23/12/13|3|6|8|-|"
+  },
+  {
+    "line": 139,
+    "text": "|[[Coastline]]|Harito|4.0.0&br;23/12/13|4|7|9|-|"
+  },
+  {
+    "line": 140,
+    "text": "|[[Tango Estrecho]]|Miyolophone|4.0.0&br;23/12/13|3|6|8|9|"
+  },
+  {
+    "line": 141,
+    "text": "|[[Echoes of Obscurity]]|TSK|4.0.0&br;23/12/13|2|5|9|-|"
+  },
+  {
+    "line": 142,
+    "text": "|[[Mafdet’s Hands]]|Crimsona|4.0.0&br;23/12/13|5|8|10|-|"
+  },
+  {
+    "line": 143,
+    "text": "|[[artemis]]|Miyolophone feat. bkbk_tomoko|4.0.0&br;23/12/13|6|9|''11''|-|"
+  },
+  {
+    "line": 144,
+    "text": "|[[Everything I’ll Ever Need]]|DEW|4.0.0&br;23/12/13|2|4|7|-|"
+  },
+  {
+    "line": 151,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 152,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 153,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 154,
+    "text": "|[[Ripple]]|Chamber Chu|4.1.5&br;25/06/23|5|8|10|-|"
+  },
+  {
+    "line": 155,
+    "text": "|[[Nourish]]|Chamber Chu|4.1.5&br;25/06/23|3|6|8|-|"
+  },
+  {
+    "line": 156,
+    "text": "|[[Bloom]]|Chamber Chu|4.1.5&br;25/06/23|3|7|9|-|"
+  },
+  {
+    "line": 157,
+    "text": "|[[The Vow]]|Chamber Chu|4.1.5&br;25/06/23|4|7|10|-|"
+  },
+  {
+    "line": 158,
+    "text": "|[[Echoes of Tomorrow]]|Chamber Chu|4.1.5&br;25/06/23|2|5|9|-|"
+  },
+  {
+    "line": 159,
+    "text": "|[[Away from the rain]]|Chamber Chu|4.1.5&br;25/06/23|3|7|9|-|"
+  },
+  {
+    "line": 175,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 176,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 177,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 178,
+    "text": "|[[Reunite]]|月代 彩|1.0.8&br;22/01/13|1|4|6|-|-|"
+  },
+  {
+    "line": 179,
+    "text": "|[[小さな旅人]]|ISAFAT|1.0.8&br;22/01/13|4|6|9|-|-|"
+  },
+  {
+    "line": 180,
+    "text": "|■[[追憶機]]|庭師|1.0.8&br;22/01/13|4|7|10|-|-|"
+  },
+  {
+    "line": 181,
+    "text": "|■[[エノーラの餞]]|HALLPBE.S|1.0.8&br;22/01/13|2|5|7|-|-|"
+  },
+  {
+    "line": 182,
+    "text": "|■[[aimai-days]]|Takenoko boy feat. touna|1.0.8&br;22/01/13|4|7|9|-|-|"
+  },
+  {
+    "line": 183,
+    "text": "|>|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''[[イベント]]限定楽曲 ▼''};|"
+  },
+  {
+    "line": 184,
+    "text": "|[[Two roads diverged]]|Chamber Chu|1.1.0&br;22/03/16|3|5|9|-|-|"
+  },
+  {
+    "line": 185,
+    "text": "|[[Ayame]]|Freeleaves|1.3.0&br;22/07/20|4|6|9|-|-|"
+  },
+  {
+    "line": 186,
+    "text": "|[[Game on Together ! - Short Ver. (Inst.)]]|Rayark Sound Team|2.0.1&br;22/09/07|4|6|8|-|8|"
+  },
+  {
+    "line": 187,
+    "text": "|[[Haunted parade]]|Freeleaves|2.1.0&br;22/10/26|5|8|10|-|-|"
+  },
+  {
+    "line": 188,
+    "text": "|[[Utopiosphere]]|Mili|2.1.2&br;22/11/09|3|5|8|-|-|"
+  },
+  {
+    "line": 189,
+    "text": "|>|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''「風車巡礼」リリース記念配信楽曲 ▼''};|"
+  },
+  {
+    "line": 190,
+    "text": "|[[Legacy]]|switchworks|3.0.0&br;23/04/26|2|4|7|-|-|"
+  },
+  {
+    "line": 191,
+    "text": "|[[Red Storm Sentiment]]|Tsukasa feat. kalon|3.0.0&br;23/04/26|4|7|9|-|-|"
+  },
+  {
+    "line": 192,
+    "text": "|[[SnowFlake]]|Lunatic Sounds|3.0.0&br;23/04/26|3|5|10|-|-|"
+  },
+  {
+    "line": 196,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 197,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 198,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 199,
+    "text": "|[[Through Mist and Fog]]|iolli|1.0.8&br;22/01/13|1|4|7|8|"
+  },
+  {
+    "line": 200,
+    "text": "|■[[Petals Fall]]|Hudson Lee (feat. Oyeme)|1.0.8&br;22/01/13|3|5|8|-|"
+  },
+  {
+    "line": 201,
+    "text": "|■[[AwasekagamI]]|Guriri vs.DD\"ナカタ\"Metal (Gt.Daisuke Kurosawa/Bs.Seabridge)|1.0.8&br;22/01/13|6|8|10|10|"
+  },
+  {
+    "line": 202,
+    "text": "|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''[[イベント]]限定楽曲 ▼''};|"
+  },
+  {
+    "line": 203,
+    "text": "|[[Waffles and Mimosas]]|Complexive|2.2.1&br;22/12/21|2|6|8|-|"
+  },
+  {
+    "line": 204,
+    "text": "|[[A damaged Path]]|Fjun|2.2.1&br;23/04/12|3|5|7|9|"
+  },
+  {
+    "line": 205,
+    "text": "|[[MirageStation]]|Feryquitous|2.2.1&br;23/04/19|4|6|8|10|"
+  },
+  {
+    "line": 206,
+    "text": "|[[Shiny!]]|Ayatsugu_Otowa|3.0.0&br;23/06/21|3|6|9|-|"
+  },
+  {
+    "line": 207,
+    "text": "|[[saeru]]|yourmythos|3.0.0&br;23/06/21|2|5|7|-|"
+  },
+  {
+    "line": 208,
+    "text": "|[[Paraline]]|Yuta Murase|3.1.0&br;23/07/26|4|7|9|-|"
+  },
+  {
+    "line": 209,
+    "text": "|[[H]]|orangentle|3.1.0&br;23/08/23|5|8|10|-|"
+  },
+  {
+    "line": 214,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 215,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 216,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 217,
+    "text": "|[[Just Like Me]]|Glacier|1.2.2&br;22/06/08|1|4|7|-|-|"
+  },
+  {
+    "line": 218,
+    "text": "|[[Wishful Spirit]]|Tutara ft. Zes|1.2.2&br;22/06/29|1|3|6|-|-|"
+  },
+  {
+    "line": 219,
+    "text": "|[[Forever]]|Patrick James|1.3.0&br;22/07/27|2|6|9|-|-|"
+  },
+  {
+    "line": 220,
+    "text": "|[[Reminisce]]|Airuei ft. Renko|1.3.0&br;22/08/17|3|5|8|-|-|"
+  },
+  {
+    "line": 221,
+    "text": "|[[Rain Glitch]]|PARKGOLF|2.0.1&br;22/10/12|2|5|8|-|-|"
+  },
+  {
+    "line": 222,
+    "text": "|[[Go Adventure!]]|Rayark Sound Team|3.1.1&br;23/09/06|3|5|8|-|-|"
+  },
+  {
+    "line": 223,
+    "text": "|[[Delusion (Yume-Maboroshi)]]|NIKITA|3.1.1&br;23/10/18|5|7|10|-|-|"
+  },
+  {
+    "line": 224,
+    "text": "|[[doll eyes]]|ユアミトス|3.1.1&br;23/12/06|3|6|9|-|-|"
+  },
+  {
+    "line": 225,
+    "text": "|[[Lose my mind]]|brz1128vs.M-UE|4.0.1&br;24/01/03|5|7|10|-|-|"
+  },
+  {
+    "line": 226,
+    "text": "|[[Me]]|Laur|4.0.1&br;24/01/31|3|6|8|-|-|"
+  },
+  {
+    "line": 227,
+    "text": "|[[in a cradle]]|ユアミトス|4.0.3&br;24/03/06|2|6|8|-|-|"
+  },
+  {
+    "line": 228,
+    "text": "|[[Dance in the midnight]]|Manhattan Midnight|4.0.3&br;24/03/27|2|5|8|-|-|"
+  },
+  {
+    "line": 229,
+    "text": "|[[Clematis]]|Taishi|4.0.4&br;24/05/08|3|7|9|-|-|"
+  },
+  {
+    "line": 230,
+    "text": "|[[Blue evenfall]]|Freeleaves|4.0.4&br;24/06/05|4|7|9|-|-|"
+  },
+  {
+    "line": 231,
+    "text": "|[[Delphinium]]|SIHanatsuka|4.0.5&br;24/07/03|2|4|6|-|-|"
+  },
+  {
+    "line": 232,
+    "text": "|[[Tempestuous]]|Keikaku Tsuukou|4.0.5&br;24/08/07|5|8|10|-|-|"
+  },
+  {
+    "line": 233,
+    "text": "|[[liar]]|Takashi OKAMOTO(12sound)|4.0.5&br;24/09/04|2|4|7|-|-|"
+  },
+  {
+    "line": 234,
+    "text": "|[[Place Your Bets]]|3R2|4.0.5&br;24/10/02|3|6|9|-|-|"
+  },
+  {
+    "line": 235,
+    "text": "|[[Ukakuf Kins]]|t+pazolite&br;feat.Nanahira|4.0.5&br;24/11/06|3|7|9|-|-|"
+  },
+  {
+    "line": 236,
+    "text": "|[[If Any]]|Sherwin|4.0.5&br;24/12/04|3|5|9|-|-|"
+  },
+  {
+    "line": 237,
+    "text": "|[[Summer Dream (feat. Chevy)]]|Kirara Magic|4.1.2&br;25/02/19|3|5|7|-|-|"
+  },
+  {
+    "line": 238,
+    "text": "|[[yawnkat]]|星宮とと+TEMPLIME|4.1.2&br;25/05/21|3|5|8|-|-|"
+  },
+  {
+    "line": 239,
+    "text": "|[[Clockwork Afterhours]]|Yamajet |4.1.8&br;26/09/30|2|5|8|-|-|"
+  },
+  {
+    "line": 240,
+    "text": "|[[Satellites]]|Tsukasa|4.1.8&br;26/09/30|3|6|8|-|-|"
+  },
+  {
+    "line": 241,
+    "text": "|[[Mezereon]]|M2U&br;& Guriri|4.1.8&br;26/09/30|4|6|9|-|-|"
+  },
+  {
+    "line": 242,
+    "text": "|[[Nebula184]]|Persona&br;a.k.a Tatsh|4.1.8&br;26/09/30|4|7|9|-|-|"
+  },
+  {
+    "line": 243,
+    "text": "|[[Ververg III]] |onoken&br;feat. b |4.1.8&br;26/09/30|5|8|10|-|-|"
+  },
+  {
+    "line": 244,
+    "text": "|[[MESSiΛH COMPL3X]]|xi|4.1.8&br;26/09/30|6|9|''11''|-|''12''|"
+  },
+  {
+    "line": 250,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 251,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 252,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 253,
+    "text": "|[[Zinnia]]|Titancube|2.0.1&br;22/09/07|1|3|5|-|5|"
+  },
+  {
+    "line": 254,
+    "text": "|[[Terminus]]|ARForest|2.0.1&br;22/09/07|4|6|8|10|8|"
+  },
+  {
+    "line": 255,
+    "text": "|[[Endure]]|Iris feat. LynH|2.0.1&br;22/09/07|3|6|8|-|8|"
+  },
+  {
+    "line": 256,
+    "text": "|[[Nightster]]|Nightster|2.0.1&br;22/09/07|4|6|8|-|8|"
+  },
+  {
+    "line": 257,
+    "text": "|[[Lucerna]]|Iris|2.0.1&br;22/09/07|4|7|10|-|10|"
+  },
+  {
+    "line": 258,
+    "text": "|[[Cxielarko]]|Ayatsugu_Otowa|2.0.1&br;22/09/07|4|6|9|-|9|"
+  },
+  {
+    "line": 259,
+    "text": "|[[KUMO]]|ASOBOiSM|2.0.1&br;22/09/07|2|4|6|-|6|"
+  },
+  {
+    "line": 260,
+    "text": "|[[Come Over]]|Neighbors Complain|2.0.1&br;22/09/07|3|5|7|-|7|"
+  },
+  {
+    "line": 261,
+    "text": "|[[リアルノーツ]]|ユアミトス|2.0.1&br;22/09/07|2|5|9|9|9|"
+  },
+  {
+    "line": 262,
+    "text": "|[[Phases of the Moon]]|xi|2.0.1&br;22/09/07|6|9|10|-|10|"
+  },
+  {
+    "line": 268,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 269,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Speciall|"
+  },
+  {
+    "line": 270,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 271,
+    "text": "|[[Gunners in the Rain]]|Mili|3.0.0&br;23/04/26|1|4|7|-|9|"
+  },
+  {
+    "line": 272,
+    "text": "|[[a step to hope (feat. suui)]]|phritz|3.0.0&br;23/04/26|2|3|6|-|-|"
+  },
+  {
+    "line": 273,
+    "text": "|[[Symphony Blue for 2 Pianos]]|kidlit|3.0.0&br;23/04/26|3|5|9|-|-|"
+  },
+  {
+    "line": 274,
+    "text": "|[[Rokhの楽譜]]|Apo11o program ft.栢森エマ|3.0.0&br;23/04/26|3|6|8|-|-|"
+  },
+  {
+    "line": 275,
+    "text": "|[[カスミソウ]]|くるぶっこちゃん|3.0.0&br;23/04/26|3|5|9|-|-|"
+  },
+  {
+    "line": 276,
+    "text": "|[[Express 102]]|Nagiha|3.0.0&br;23/04/26|4|8|10|-|-|"
+  },
+  {
+    "line": 277,
+    "text": "|[[Lost Utopia]]|pan|3.0.0&br;23/04/26|4|7|9|10|-|"
+  },
+  {
+    "line": 278,
+    "text": "|[[2度目の空]]|ユアミトス|3.0.0&br;23/04/26|3|6|8|-|-|"
+  },
+  {
+    "line": 279,
+    "text": "|[[Cold Dusk]]|seatrus|3.0.0&br;23/04/26|6|9|10|-|-|"
+  },
+  {
+    "line": 280,
+    "text": "|[[windmolen]]|Qutabire|3.0.0&br;23/04/26|2|4|7|-|-|"
+  },
+  {
+    "line": 286,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 287,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 288,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 289,
+    "text": "|[[しらせ]]|高城みよ|4.0.0&br;23/12/13|2|4|7|-|"
+  },
+  {
+    "line": 290,
+    "text": "|[[Puzzle]]|street|4.0.0&br;23/12/13|3|7|9|-|"
+  },
+  {
+    "line": 291,
+    "text": "|[[綿毛]]|KiWi|4.0.0&br;23/12/13|3|5|8|9|"
+  },
+  {
+    "line": 292,
+    "text": "|[[Unravelling]]|Aethoro & Moon Jelly|4.0.0&br;23/12/13|4|6|9|-|"
+  },
+  {
+    "line": 293,
+    "text": "|[[sowasowa]]|Harito|4.0.0&br;23/12/13|1|4|7|-|"
+  },
+  {
+    "line": 294,
+    "text": "|[[Grope in the Dark]]|satie|4.0.0&br;23/12/13|3|7|10|-|"
+  },
+  {
+    "line": 295,
+    "text": "|[[platform-5]]|Aethoro feat. xia|4.0.0&br;23/12/13|4|6|8|-|"
+  },
+  {
+    "line": 296,
+    "text": "|[[また会える日まで]]|KiWi|4.0.0&br;23/12/13|2|5|9|-|"
+  },
+  {
+    "line": 297,
+    "text": "|[[Memories of You]]|Sad Keyboard Guy|4.0.0&br;23/12/13|4|8|10|-|"
+  },
+  {
+    "line": 298,
+    "text": "|[[Mondlicht]]|street|4.0.0&br;23/12/13|6|9|''11''|-|"
+  },
+  {
+    "line": 299,
+    "text": "|[[Secret Place]]|ARForest|4.0.0&br;23/12/13|2|5|7|-|"
+  },
+  {
+    "line": 300,
+    "text": "|[[Inaequalis Stella]]|Ascellia Mio|4.0.0&br;23/12/13|4|8|10|-|"
+  },
+  {
+    "line": 306,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 307,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 308,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 309,
+    "text": "|[[薄氷-usurai-]]|ぺのれり|4.1.1&br;25/01/08|5|8|10|-|"
+  },
+  {
+    "line": 310,
+    "text": "|[[First Letter]]|かねこちはる|4.1.2&br;25/02/26|3|6|8|-|"
+  },
+  {
+    "line": 311,
+    "text": "|[[Aqua vivida]]|Nego_tiator|4.1.2&br;25/04/21|5|7|9|-|"
+  },
+  {
+    "line": 312,
+    "text": "|[[祈雨の菖蒲]]|Nego_tiator×&br;神宮要×Avtorica|4.1.5&br;25/07/02|5|9|10|-|"
+  },
+  {
+    "line": 313,
+    "text": "|[[Colchicum]]|Error Signal|4.1.6&br;25/08/25|2|5|7|-|"
+  },
+  {
+    "line": 314,
+    "text": "|[[Melty Lover]]|seatrus|4.1.6&br;25/10/29|4|7|9|-|"
+  },
+  {
+    "line": 315,
+    "text": "|[[航時機]]|庭師|4.1.7&br;25/12/31|4|8|10|-|"
+  },
+  {
+    "line": 321,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 322,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 323,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 324,
+    "text": "|[[夢見月]]|ユアミトス|4.1.7&br;26/02/13|2|6|8|-|"
+  },
+  {
+    "line": 325,
+    "text": "|[[When The Time Comes]]|Juggernaut.|4.1.8&br;26/05/13|2|6|8|-|"
+  },
+  {
+    "line": 326,
+    "text": "|[[Dissolving Light]]|Connexio|4.1.8&br;26/08/12|1|4|7|-|"
+  },
+  {
+    "line": 338,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 339,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 340,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 341,
+    "text": "|[[Altale (Duo Rework)]]|Sakuzyo (Violin: Katali)|1.0.8&br;22/01/13|4|7|10|-|"
+  },
+  {
+    "line": 342,
+    "text": "|■[[Scent (piano ver.)]]|Farhan, arranged by Nahre Sol|1.0.8&br;22/01/13|4|6|8|9|"
+  },
+  {
+    "line": 343,
+    "text": "|[[DRG (piano ver.)]]|onoken, arranged by SLS|1.0.8&br;22/01/13|5|9|10|-|"
+  },
+  {
+    "line": 344,
+    "text": "|[[Post-Script (piano ver.)]]|the hoshizora project (HZP), arranged by Keikaku Tsuukou|1.0.8&br;22/01/13|2|5|7|-|"
+  },
+  {
+    "line": 351,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 352,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 353,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 354,
+    "text": "|[[Knots Way]]|NICODE(SQUAREMUSIQ)|2.0.1&br;22/09/21|5|7|9|-|9|"
+  },
+  {
+    "line": 355,
+    "text": "|[[Witch's Invitation]]|Mili|2.2.1&br;23/01/04|3|7|9|-|-|"
+  },
+  {
+    "line": 356,
+    "text": "|[[Sea Side Road]]|Eshen|2.2.1&br;23/01/04|2|4|7|-|-|"
+  },
+  {
+    "line": 357,
+    "text": "|[[Occidens]]|ginkiha|2.2.1&br;23/01/04|4|8|10|-|-|"
+  },
+  {
+    "line": 358,
+    "text": "|[[Journey with You]]|Iris|4.1.5&br;25/06/23|4|6|9|-|-|"
+  },
+  {
+    "line": 359,
+    "text": "|[[Mystic Moon]]|yuugen6|4.1.5&br;25/07/28|4|6|8|-|-|"
+  },
+  {
+    "line": 360,
+    "text": "|[[LINK x LIN#S>LINK x LINES]]|Halv|4.1.5&br;25/08/25|3|6|8|-|-|"
+  },
+  {
+    "line": 361,
+    "text": "|[[Xenolith]]|Tatsh|4.1.8&br;26/03/25|6|8|10|-|-|"
+  },
+  {
+    "line": 362,
+    "text": "|[[NEO]]|じん|4.1.8&br;26/06/24|3|6|9|-|-|"
+  },
+  {
+    "line": 368,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 369,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 370,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 371,
+    "text": "|[[Squeaky Mind]]|t+pazolite|4.0.1&br;24/01/03|3|6|9|-|"
+  },
+  {
+    "line": 372,
+    "text": "|[[Veritas]]|Presti|4.0.1&br;24/01/03|4|8|10|-|"
+  },
+  {
+    "line": 373,
+    "text": "|[[Kaguya]]|BlackY|4.0.1&br;24/01/03|5|7|10|-|"
+  },
+  {
+    "line": 374,
+    "text": "|[[To next page]]|kamome sano|4.0.3&br;24/03/27|4|7|9|-|"
+  },
+  {
+    "line": 375,
+    "text": "|[[Like Asian Spirit]]|Valunava|4.0.3&br;24/03/27|5|8|10|-|"
+  },
+  {
+    "line": 376,
+    "text": "|[[Rhuzerv]]|Feryquitous feat.Sennzai|4.0.3&br;24/03/27|6|9|''11''|-|"
+  },
+  {
+    "line": 377,
+    "text": "|[[Funeral of Stars]]|void (mournfinale)|4.0.5&br;24/07/03|3|7|10|-|"
+  },
+  {
+    "line": 378,
+    "text": "|[[Demonic Pray]]|Crawk × Capchii|4.0.5&br;24/07/03|5|8|10|-|"
+  },
+  {
+    "line": 379,
+    "text": "|[[CHAOS MAGNVM]]|Team Grimoire feat.Sennzai|4.0.5&br;24/07/03|6|9|''11''|-|"
+  },
+  {
+    "line": 380,
+    "text": "|[[Monochrome Anomaly]]|Feryquitous feat.F9|4.0.5&br;24/10/02|4|6|9|-|"
+  },
+  {
+    "line": 381,
+    "text": "|[[Naughty Cats]]|Alice Lee & Michael Wyckoff|4.0.5&br;24/10/02|5|9|10|-|"
+  },
+  {
+    "line": 382,
+    "text": "|[[ANiMA]]|xi|4.0.5&br;24/10/02|6|9|''11''|-|"
+  },
+  {
+    "line": 400,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 401,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 402,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 403,
+    "text": "|[[Debussy - Arabesque No.1 (Excerpt)]]|pianist: Yi-Chen Feng|1.0.8&br;22/01/13|3|6|8|-|"
+  },
+  {
+    "line": 404,
+    "text": "|[[Kreisler/Rachmaninoff - Love's Sorrow (Excerpt)]]|pianist: Yi-Chen Feng|1.0.8&br;22/01/13|3|6|8|-|"
+  },
+  {
+    "line": 405,
+    "text": "|>|>|>|>|>|>|COLOR(white):~&color(#ffffff){''[[イベント]]限定楽曲 ▼''};|"
+  },
+  {
+    "line": 406,
+    "text": "|[[Chopin - Fantaisie Impromptu (Excerpt)]]|pianist: Yi-Chen Feng|1.0.8&br;22/01/13|4|8|10|-|"
+  },
+  {
+    "line": 407,
+    "text": "|[[Chopin nocturne op.9 no.2]]|pianist: Yi-Chen Feng|1.1.0&br;22/03/30|2|4|6|-|"
+  },
+  {
+    "line": 408,
+    "text": "|[[Vivaldi - summer, presto>Vivaldi - summer presto]]|pianist: Yi-Chen Feng|1.1.0&br;22/04/06|5|8|10|-|"
+  },
+  {
+    "line": 409,
+    "text": "|[[Chopin op. 64 no.2]]|pianist: Yi-Chen Feng|2.2.1&br;23/03/08|1|4|8|-|"
+  },
+  {
+    "line": 410,
+    "text": "|[[Rachmaninoff - Paganini Variation No.18 (Arrangement for piano solo)]]|pianist: Yi-Chen Feng|2.2.1&br;23/03/15|2|5|7|-|"
+  },
+  {
+    "line": 411,
+    "text": "|[[Clementi - Op.36 No.1 Three Movts]]|pianist: Yi-Chen Feng|3.0.0&br;23/05/10|3|5|7|-|"
+  },
+  {
+    "line": 412,
+    "text": "|[[Bach - The Goldberg Variations (Aria & Variation I)>Bach - The Goldberg Variations (Aria and Variation I)]]|pianist: Yi-Chen Feng|3.0.0&br;23/05/24|2|5|8|-|"
+  },
+  {
+    "line": 413,
+    "text": "|[[Chopin - Etude Op.10 No.5 “Black Keys”]]|pianist: Yi-Chen Feng|3.0.0&br;23/06/14|4|7|10|-|"
+  },
+  {
+    "line": 417,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 418,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 419,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 420,
+    "text": "|[[Schubert - Impromptu No.3 (Excerpt)]]|pianist: Yi-Chen Feng|1.0.8&br;22/01/19|2|6|8|-|"
+  },
+  {
+    "line": 421,
+    "text": "|[[Bach - Rondeaux, Capriccio from Partita No.2>Bach - Rondeaux Capriccio from Partita No.2]]|pianist: Yi-Chen Feng|1.0.8&br;22/01/19|5|7|9|-|"
+  },
+  {
+    "line": 422,
+    "text": "|[[Beethoven - Appassionata (Excerpt)]]|pianist: Yi-Chen Feng|1.0.10&br;22/02/23|5|8|10|-|"
+  },
+  {
+    "line": 423,
+    "text": "|[[Respighi - Valse Caressante]]|pianist: Yi-Chen Feng|1.1.0&br;22/03/23|3|5|8|-|"
+  },
+  {
+    "line": 424,
+    "text": "|[[Scarlatti - k.1]]|pianist: Yi-Chen Feng|1.1.0&br;22/04/20|3|6|8|-|"
+  },
+  {
+    "line": 425,
+    "text": "|[[Bach - French Suite No.2 Allemande et Courante]]|pianist: Yi-Chen Feng|3.1.0&br;23/07/12|3|5|8|-|"
+  },
+  {
+    "line": 426,
+    "text": "|[[Mozart - Serenade in G Major, K.525 (Excerpt)>Mozart - Serenade in G Major K.525 (Excerpt)]]|pianist: Yi-Chen Feng|3.1.0&br;23/08/02|4|7|9|-|"
+  },
+  {
+    "line": 427,
+    "text": "|[[Beethoven - Pathetique Mov.3]]|pianist: Yi-Chen Feng|3.1.1&br;23/09/27|3|6|9|-|"
+  },
+  {
+    "line": 428,
+    "text": "|[[Chopin - Waltz in A minor, B.150, Op. Posth.>Chopin - Waltz in A minor B.150 Op. Posth.]]|pianist: Yi-Chen Feng|3.1.1&br;23/11/04|2|4|6|-|"
+  },
+  {
+    "line": 429,
+    "text": "|[[Chopin - Etude Op.10 No.12 \"Revolutionary\">Chopin - Etude Op.10 No.12 Revolutionary]]|pianist: Yi-Chen Feng|3.1.1&br;23/11/15|6|8|10|-|"
+  },
+  {
+    "line": 433,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 434,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 435,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 436,
+    "text": "|[[Clementi Piano Sonatina Op.36 No.6 mov.1]]|pianist: Yi-Chen Feng|1.0.10&br;22/02/16|4|7|9|-|"
+  },
+  {
+    "line": 437,
+    "text": "|[[Scarlatti - Sonata in G Major]]|pianist: Yi-Chen Feng|1.2.2&br;22/05/11|5|8|10|-|"
+  },
+  {
+    "line": 438,
+    "text": "|[[Brahms - Hungarian Dance No.5]]|pianist: Yi-Chen Feng|1.2.2&br;22/05/25|2|5|9|-|"
+  },
+  {
+    "line": 439,
+    "text": "|[[Liszt paganini etude 6]]|pianist: Yi-Chen Feng|2.0.1&br;22/09/28|4|7|9|-|"
+  },
+  {
+    "line": 440,
+    "text": "|[[Bach - Italian Concerto Mov.3]]|pianist: Yi-Chen Feng|2.2.1&br;23/01/18|5|8|10|-|"
+  },
+  {
+    "line": 441,
+    "text": "|[[Beethoven - Tempest Mov.1]]|pianist: Yi-Chen Feng|3.1.1&br;23/11/22|3|5|8|-|"
+  },
+  {
+    "line": 442,
+    "text": "|[[Haydn - Piano Sonata in E Minor, Hob.&#8553;&#8549;/34>Haydn - Piano Sonata in E Minor Hob.XVI/34]]|pianist: Yi-Chen Feng|4.0.0&br;23/12/13|4|7|9|-|"
+  },
+  {
+    "line": 443,
+    "text": "|[[Medtner Op.39 No.5(recap to the end)]]|pianist: Yi-Chen Feng|4.0.1&br;24/01/03|6|8|10|-|"
+  },
+  {
+    "line": 444,
+    "text": "|[[Chopin - Mazurka Op.63 No.1]]|pianist: Yi-Chen Feng|4.0.1&br;24/01/31|2|4|7|-|"
+  },
+  {
+    "line": 445,
+    "text": "|[[Chopin - Op.69 No.2]]|pianist: Yi-Chen Feng|4.0.3&br;24/03/06|3|5|8|-|"
+  },
+  {
+    "line": 448,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 449,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 450,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 451,
+    "text": "|[[Beethoven tempest mov.3]]|pianist: Yi-Chen Feng|1.3.0&br;22/08/03|3|6|9|-|"
+  },
+  {
+    "line": 452,
+    "text": "|[[Liszt liebestraum no.3]]|pianist: Yi-Chen Feng|2.0.1&br;22/10/19|3|5|8|-|"
+  },
+  {
+    "line": 453,
+    "text": "|[[Mozart Sonata k.545 mov.1]]|pianist: Yi-Chen Feng|2.1.2&br;22/11/30|4|7|9|-|"
+  },
+  {
+    "line": 454,
+    "text": "|[[Tchaikovsky the Seasons op.37a, Feb.>Tchaikovsky the Seasons op.37a Feb.]]|pianist: Yi-Chen Feng|2.1.2&br;22/12/14|3|7|9|-|"
+  },
+  {
+    "line": 455,
+    "text": "|[[Clementi Piano Sonatina Op.36 no.3 mov.1]]|pianist: Yi-Chen Feng|2.2.1&br;23/02/08|3|6|9|-|"
+  },
+  {
+    "line": 456,
+    "text": "|[[Gershwin - Rhapsody in Blue]]|pianist: Yi-Chen Feng|4.0.3&br;24/03/27|3|6|9|-|"
+  },
+  {
+    "line": 457,
+    "text": "|[[Elgar - Pomp and Circumstance, Op.39 No.1]]|pianist: Yi-Chen Feng|4.0.4&br;24/05/08|4|6|8|-|"
+  },
+  {
+    "line": 458,
+    "text": "|[[Schubert - Wanderer Fantasy Mov.4]]|pianist: Yi-Chen Feng|4.0.4&br;24/06/05|6|9|10|-|"
+  },
+  {
+    "line": 459,
+    "text": "|[[Mozart - Piano Sonata in B-flat K.570 Mov.3]]|pianist: Yi-Chen Feng|4.0.5&br;24/07/03|3|6|9|-|"
+  },
+  {
+    "line": 460,
+    "text": "|[[Mozart - Piano Sonata No.4 in E-flat Major, K.282 Mov.3]]|pianist: Yi-Chen Feng|4.0.5&br;24/08/07|3|6|8|-|"
+  },
+  {
+    "line": 461,
+    "text": "|[[Manuel Ponce - Intermezzo No.1 in E Minor]]|pianist: Yi-Chen Feng|4.0.5&br;24/09/04|2|5|7|-|"
+  },
+  {
+    "line": 462,
+    "text": "|[[Debussy - Suite Bergamasque, Ⅳ. Passepied]]|pianist: Yi-Chen Feng|4.0.5&br;24/10/02|2|6|8|-|"
+  },
+  {
+    "line": 463,
+    "text": "|[[Beethoven - Op.126 No.2]]|pianist: Yi-Chen Feng|4.0.5&br;24/11/06|4|6|9|-|"
+  },
+  {
+    "line": 464,
+    "text": "|[[Mozart - Piano Sonata No.2 in F , K280: III. Presto>Mozart - Piano Sonata No.2 in F K280 III. Presto]]|pianist: Yi-Chen Feng|4.0.5&br;24/12/18|4|7|9|-|"
+  },
+  {
+    "line": 465,
+    "text": "|[[Haydn - Piano Sonata in A-flat Major, Hob.XVI/46-Presto]]|pianist: Yi-Chen Feng|4.1.1&br;25/01/22|5|8|9|-|"
+  },
+  {
+    "line": 466,
+    "text": "|[[Paderewski - Op.9 No.3]]|pianist: Yi-Chen Feng|4.1.2&br;25/03/24|2|4|6|-|"
+  },
+  {
+    "line": 467,
+    "text": "|[[C.P.E. Bach - Sonata in C Minor, Wq. 65/31 - 3. Allegro Scherzando>C.P.E. Bach - Sonata in C Minor, Wq. 65 31 - 3. Allegro Scherzando]]|pianist: Yi-Chen Feng|4.1.2&br;25/05/28|4|7|9|-|"
+  },
+  {
+    "line": 468,
+    "text": "|[[Bach / Marcello - Concerto No.3 in D Minor, BWV 974, III - Presto>Bach Marcello - Concerto No.3 in D Minor, BWV 974, III - Presto]]|pianist: Yi-Chen Feng|4.1.5&br;25/07/28|5|8|9|-|"
+  },
+  {
+    "line": 469,
+    "text": "|[[Haydn - Piano Sonata in E-flat, No.59, Hob.XVI/49, Mov.1 Expo]]|pianist: Yi-Chen Feng|4.1.6&br;25/09/24|3|6|8|-|"
+  },
+  {
+    "line": 470,
+    "text": "|[[Mozart - Piano Sonata No.12 in F Major, K.332 Mov.3]]|pianist: Yi-Chen Feng|4.1.7&br;25/11/26|3|7|9|-|"
+  },
+  {
+    "line": 487,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 488,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 489,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 490,
+    "text": "|[[Clockwork Afterhours]]|Yamajet |4.1.8&br;26/09/30|2|5|8|-|-|"
+  },
+  {
+    "line": 491,
+    "text": "|[[Satellites]]|Tsukasa|4.1.8&br;26/09/30|3|6|8|-|-|"
+  },
+  {
+    "line": 492,
+    "text": "|[[Mezereon]]|M2U&br;& Guriri|4.1.8&br;26/09/30|4|6|9|-|-|"
+  },
+  {
+    "line": 493,
+    "text": "|[[Nebula184]]|Persona&br;a.k.a Tatsh|4.1.8&br;26/09/30|4|7|9|-|-|"
+  },
+  {
+    "line": 494,
+    "text": "|[[Ververg III]] |onoken&br;feat. b |4.1.8&br;26/09/30|5|8|10|-|-|"
+  },
+  {
+    "line": 495,
+    "text": "|[[MESSiΛH COMPL3X]]|xi|4.1.8&br;26/09/30|6|9|11|-|12|"
+  },
+  {
+    "line": 501,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 502,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 503,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 504,
+    "text": "|[[ふじつのまあち]]| 高城みよ|4.1.8&br;26/09/30 |1|4|6|-|"
+  },
+  {
+    "line": 505,
+    "text": "|[[turn around]]| 高城みよ|4.1.8&br;26/09/30|3|6|8|-|"
+  },
+  {
+    "line": 506,
+    "text": "|[[Seed of Fate]]| 高城みよ|4.1.8&br;26/09/30|3|6|9 |-|"
+  },
+  {
+    "line": 507,
+    "text": "|[[過去の明日を願うなら]]| 高城みよ|4.1.8&br;26/09/30|3|7|9 |-|"
+  },
+  {
+    "line": 508,
+    "text": "|[[Schleife]]| 高城みよ|4.1.8&br;26/09/30|4|8|10|-|"
+  },
+  {
+    "line": 516,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 517,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 518,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 519,
+    "text": "|[[仮死化]]|遼遼|4.1.8&br;26/06/24|3|6|8|-|"
+  },
+  {
+    "line": 520,
+    "text": "|[[ロウワー]]|ぬゆり|4.1.8&br;26/06/24|2|5|8|-|"
+  },
+  {
+    "line": 521,
+    "text": "|[[ステラ]]|じん|4.1.8&br;26/06/24|4|7|9|-|"
+  },
+  {
+    "line": 522,
+    "text": "|[[キラー]]|夏代孝明| 4.1.8&br;26/06/24|4|7|9|-|"
+  },
+  {
+    "line": 523,
+    "text": "|[[トンデモワンダーズ]]|sasakure.UK|4.1.8&br;26/06/24|5|8|10|-|"
+  },
+  {
+    "line": 529,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 530,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 531,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 532,
+    "text": "|[[Heat Haze - Vo.加藤はるか]]|諸星なな&br;feat.加藤はるか&br;&ユーキヒロセ|1.0.8&br;22/01/13|3|5|8|-|-|"
+  },
+  {
+    "line": 533,
+    "text": "|[[Snowflake]]|H△G|1.0.8&br;22/01/13|2|5|7|-|7|"
+  },
+  {
+    "line": 534,
+    "text": "|[[安寧]]|MIDInco|1.0.8&br;22/01/13|2|4|6|-|-|"
+  },
+  {
+    "line": 535,
+    "text": "|[[Dream together]]|Hydra Tsai (INSPION)|1.0.8&br;22/01/13|2|6|8|-|-|"
+  },
+  {
+    "line": 536,
+    "text": "|[[Sunday Coffee]]|Alice Lee & Michael Wyckoff|1.0.8&br;22/01/13|2|5|7|-|-|"
+  },
+  {
+    "line": 539,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 540,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 541,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 542,
+    "text": "|[[Boring Day?]]|Tomggg|1.0.8&br;22/01/13|4|7|9|-|"
+  },
+  {
+    "line": 543,
+    "text": "|[[Suiu]]|Ayaka Tachibana|1.0.8&br;22/01/13|1|3|5|-|"
+  },
+  {
+    "line": 544,
+    "text": "|[[angelic arrow(DEEMO Edition)]]|Cierula|1.0.8&br;22/01/13|3|7|9|-|"
+  },
+  {
+    "line": 545,
+    "text": "|[[I will never forget you]]|Feryquitous|1.0.8&br;22/01/13|3|6|8|-|"
+  },
+  {
+    "line": 546,
+    "text": "|[[Gemini about the Darkness]]|Ayatsugu_Revolved|1.0.8&br;22/01/13|6|9|10|-|"
+  },
+  {
+    "line": 550,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 551,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 552,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 553,
+    "text": "|[[Culoare]]|Avans|1.0.8&br;22/01/13|3|5|8|-|-|"
+  },
+  {
+    "line": 554,
+    "text": "|[[Yume]]|Hannah & Y.U.E.|1.0.8&br;22/01/13|3|5|7|-|8|"
+  },
+  {
+    "line": 555,
+    "text": "|[[Precious Paramount]]|Hannah & Y.U.E.|1.0.8&br;22/01/13|2|6|8|-|-|"
+  },
+  {
+    "line": 556,
+    "text": "|[[Ride Those Winds]]|tanigon|1.0.8&br;22/01/13|4|7|9|-|-|"
+  },
+  {
+    "line": 557,
+    "text": "|[[Practical Joke]]|good-cool feat. KI-SA-MA Sisters|1.0.8&br;22/01/13|3|6|8|-|-|"
+  },
+  {
+    "line": 561,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 562,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 563,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 564,
+    "text": "|[[紫陽花]]|ユアミトス|1.0.8&br;22/01/13|4|7|9|-|"
+  },
+  {
+    "line": 565,
+    "text": "|[[Gemini about the Innocence]]|Ayatsugu_Revolved|1.0.8&br;22/01/13|6|9|10|-|"
+  },
+  {
+    "line": 566,
+    "text": "|[[Journey to the light]]|ゆnovation|1.0.8&br;22/01/13|3|5|7|-|"
+  },
+  {
+    "line": 567,
+    "text": "|[[White Clover]]|H△G|1.0.8&br;22/01/13|3|5|9|-|"
+  },
+  {
+    "line": 568,
+    "text": "|[[Galanthus - Vo.加藤はるか]]|諸星なな feat.ユーキヒロセ|1.0.8&br;22/01/13|4|6|9|-|"
+  },
+  {
+    "line": 572,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 573,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 574,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 575,
+    "text": "|[[The Illusionist]]|Sakiko Sakuragi (INSPION)|1.0.8&br;22/01/13|5|9|10|10|-|"
+  },
+  {
+    "line": 576,
+    "text": "|[[INNOCENCE]]|Hydra Tsai (INSPION)|1.0.8&br;22/01/13|6|8|10|-|-|"
+  },
+  {
+    "line": 577,
+    "text": "|[[Run]]|Michael Wyckoff & Patrick John Lu|1.0.8&br;22/01/13|1|3|6|-|-|"
+  },
+  {
+    "line": 578,
+    "text": "|[[Begin Anew]]|Michael Wyckoff & Veronica Goudie|1.0.8&br;22/01/13|2|4|6|-|-|"
+  },
+  {
+    "line": 579,
+    "text": "|[[Mistweaver]]|Sobrem|1.0.8&br;22/01/13|3|6|9|-|9|"
+  },
+  {
+    "line": 583,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 584,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 585,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 586,
+    "text": "|[[Run go run and run]]|kaeru underground feat. Analog digitaL|1.0.8&br;22/01/13|4|7|8|-|-|"
+  },
+  {
+    "line": 587,
+    "text": "|[[Forest of Clock]]|ARForest|1.0.8&br;22/01/13|3|7|10|-|9|"
+  },
+  {
+    "line": 588,
+    "text": "|[[Carry You Away]]|Patrick James|1.0.8&br;22/01/13|3|5|7|-|-|"
+  },
+  {
+    "line": 589,
+    "text": "|[[Flutter]]|Hudson Lee (feat. Oyeme)|1.0.8&br;22/01/13|1|4|6|-|-|"
+  },
+  {
+    "line": 590,
+    "text": "|[[Agbenamu Hill]]|Milkoi|1.0.8&br;22/01/13|3|6|8|-|-|"
+  },
+  {
+    "line": 594,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 595,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 596,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 597,
+    "text": "|[[ghost in my place]]|technoplanet feat. setsat|1.0.8&br;22/01/13|4|6|9|-|"
+  },
+  {
+    "line": 598,
+    "text": "|[[Be a Soldier]]|Sammi Lin|1.0.8&br;22/01/13|4|6|9|-|"
+  },
+  {
+    "line": 599,
+    "text": "|[[Yoake]]|Ayaka Tachibana|1.0.8&br;22/01/13|1|3|5|-|"
+  },
+  {
+    "line": 600,
+    "text": "|[[Go a long way]]|TzuChieh Wen, You Xue Qian|1.0.8&br;22/01/13|2|5|8|-|"
+  },
+  {
+    "line": 601,
+    "text": "|[[Dandelion Girls, Dandelion Boys>Dandelion Girls Dandelion Boys]]|Mili|1.0.8&br;22/01/13|3|6|9|-|"
+  },
+  {
+    "line": 605,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 606,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 607,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 608,
+    "text": "|[[But I Know]]|naotyu- feat. Aizdean|1.0.8&br;22/01/13|3|5|7|-|-|"
+  },
+  {
+    "line": 609,
+    "text": "|[[Heritage Remain]]|Yu_Asahina feat.Kanata.N|1.0.8&br;22/01/13|2|4|7|-|-|"
+  },
+  {
+    "line": 610,
+    "text": "|[[In The Air]]|Neighbors Complain|1.0.8&br;22/01/13|1|5|8|-|9|"
+  },
+  {
+    "line": 611,
+    "text": "|[[Jackpot]]|kuhu|1.0.8&br;22/01/13|4|7|9|-|-|"
+  },
+  {
+    "line": 612,
+    "text": "|[[Alecto]]|ISAFAT|1.0.8&br;22/01/13|3|8|10|-|-|"
+  },
+  {
+    "line": 616,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 617,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 618,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 619,
+    "text": "|[[Ao]]|Ayaka Tachibana|1.0.8&br;22/01/13|3|6|8|9|"
+  },
+  {
+    "line": 620,
+    "text": "|[[Blades of Grass]]|Tutara Peak ft. Zes|1.0.8&br;22/01/13|1|4|6|-|"
+  },
+  {
+    "line": 621,
+    "text": "|[[Losing Myself]]|Alice Lee & Michael Wyckoff|1.0.8&br;22/01/13|4|7|9|-|"
+  },
+  {
+    "line": 622,
+    "text": "|[[Hakoniwa Clock]]|Hamu|1.0.8&br;22/01/13|1|5|7|-|"
+  },
+  {
+    "line": 623,
+    "text": "|[[Halzion]]|H△G|1.0.8&br;22/01/13|2|5|7|-|"
+  },
+  {
+    "line": 627,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 628,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 629,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 630,
+    "text": "|[[この広い世界で]]|odol|1.0.8&br;22/01/13|2|4|7|-|-|"
+  },
+  {
+    "line": 631,
+    "text": "|[[Moonlight Fragrance]]|H△G|1.0.8&br;22/01/13|3|7|9|-|-|"
+  },
+  {
+    "line": 632,
+    "text": "|[[Moonrise]]|Complexive|1.0.8&br;22/01/13|2|5|7|-|-|"
+  },
+  {
+    "line": 633,
+    "text": "|[[SOMEWHERE ELSE]]|dark cat|1.0.8&br;22/01/13|4|8|10|-|10|"
+  },
+  {
+    "line": 634,
+    "text": "|[[Tuberose]]|7mai|1.0.8&br;22/01/13|4|7|10|-|-|"
+  },
+  {
+    "line": 638,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 639,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 640,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 641,
+    "text": "|[[Ghost Dance]]|PARKGOLF|1.0.8&br;22/01/13|2|5|7|9|"
+  },
+  {
+    "line": 642,
+    "text": "|[[Dewdrops]]|Complexive|1.0.8&br;22/01/13|2|4|7|-|"
+  },
+  {
+    "line": 643,
+    "text": "|[[Take a Breath]]|Glacier|1.0.8&br;22/01/13|2|4|8|-|"
+  },
+  {
+    "line": 644,
+    "text": "|[[Kadode]]|Tomggg (feat. Utae)|1.0.8&br;22/01/13|3|5|8|-|"
+  },
+  {
+    "line": 645,
+    "text": "|[[NostaRoad]]|Feryquitous|1.0.8&br;22/01/13|4|6|8|-|"
+  },
+  {
+    "line": 649,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 650,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 651,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 652,
+    "text": "|[[With your rain]]|Takenoko boy|1.0.8&br;22/01/13|2|5|7|-|-|"
+  },
+  {
+    "line": 653,
+    "text": "|[[花雨]]|THE SxPLAY(菅原紗由理)|1.0.8&br;22/01/13|1|3|5|-|-|"
+  },
+  {
+    "line": 654,
+    "text": "|[[kizashi]]|ユアミトス|1.0.8&br;22/01/13|2|4|6|-|-|"
+  },
+  {
+    "line": 655,
+    "text": "|[[DO YOU MISS ME ?]]|dark cat|1.0.8&br;22/01/13|5|8|10|-|10|"
+  },
+  {
+    "line": 656,
+    "text": "|[[てんきあめ]]|Yamajet|1.0.8&br;22/01/13|3|6|8|-|-|"
+  },
+  {
+    "line": 660,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 661,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 662,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 663,
+    "text": "|[[暗渠の旅]]|ソシテアルイハ|1.0.10&br;22/02/09|1|4|8|-|"
+  },
+  {
+    "line": 664,
+    "text": "|[[This is Rain, Not Tears>This is Rain Not Tears]]|Fjun|1.0.10&br;22/02/09|3|5|7|-|"
+  },
+  {
+    "line": 665,
+    "text": "|[[l`aurore]]|ISAFAT|1.0.10&br;22/02/09|3|5|8|-|"
+  },
+  {
+    "line": 666,
+    "text": "|[[Popcorn]]|Nahre Sol|1.0.10&br;22/02/09|3|6|9|-|"
+  },
+  {
+    "line": 667,
+    "text": "|[[Stand Steel]]|Sammi Lin|1.0.10&br;22/02/09|4|8|10|-|"
+  },
+  {
+    "line": 672,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 673,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 674,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 675,
+    "text": "|[[Platinum (piano ver.)]]|Sta, arranged by Nahre Sol|1.2.1&br;22/04/27|2|4|7|-|"
+  },
+  {
+    "line": 676,
+    "text": "|[[wilt (piano ver.)]]|VerseQuence, arranged by Keikaku Tsuukou|1.2.1&br;22/04/27|3|6|8|-|"
+  },
+  {
+    "line": 677,
+    "text": "|[[Anchor (piano ver.)]]|Iris|1.2.1&br;22/04/27|4|6|8|-|"
+  },
+  {
+    "line": 678,
+    "text": "|[[漂流 (piano ver.)]]|THE SxPLAY(菅原紗由理) & KIVΛ, arranged by SLS|1.2.1&br;22/04/27|5|8|10|-|"
+  },
+  {
+    "line": 679,
+    "text": "|[[Light up my LOVE!! (piano ver.)]]|onoken, arranged by SLS|1.2.1&br;22/04/27|5|9|10|-|"
+  },
+  {
+    "line": 683,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 684,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 685,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 686,
+    "text": "|[[Secret Letters]]|Sakiko Sakuragi (INSPION)|1.2.2&br;22/05/25|2|5|7|-|8|"
+  },
+  {
+    "line": 687,
+    "text": "|[[Pray for the rain - 雨に祈りを]]|onoken feat. 木下珠子|1.2.2&br;22/05/25|4|6|8|-|-|"
+  },
+  {
+    "line": 688,
+    "text": "|[[溶けた心の想い人]]|technoplanet|1.2.2&br;22/05/25|2|5|9|-|-|"
+  },
+  {
+    "line": 689,
+    "text": "|[[Autumn-like - Vo.加藤はるか]]|諸星なな feat.ユーキヒロセ|1.2.2&br;22/05/25|4|6|9|-|-|"
+  },
+  {
+    "line": 690,
+    "text": "|[[Unlimited]]|technoplanet|1.2.2&br;22/05/25|6|9|10|-|-|"
+  },
+  {
+    "line": 695,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 696,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 697,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 698,
+    "text": "|[[Still (piano ver.)]]|Rua feat. K,&br;arranged by Nahre Sol|1.3.0&br;22/07/06|1|5|7|-|-|"
+  },
+  {
+    "line": 699,
+    "text": "|[[Imprinting (Orchestral Rework)]]|Sakuzyo|1.3.0&br;22/07/06|3|6|9|-|-|"
+  },
+  {
+    "line": 700,
+    "text": "|[[Tsukiyura (piano ver.)]]|mitssi,&br;arranged by Keikaku Tsuukou|1.3.0&br;22/07/06|4|7|9|-|10|"
+  },
+  {
+    "line": 701,
+    "text": "|[[sy&#363;ten (piano ver.)>syuten (piano ver.)]]|Apo11o\"COLLAPSAR\"program,&br;arranged by SLS|1.3.0&br;22/07/06|4|7|10|-|-|"
+  },
+  {
+    "line": 702,
+    "text": "|[[Owari to Hajimari no Oto (piano ver.)]]|Umeboshi Chazuke,&br;arranged by SLS|1.3.0&br;22/07/06|6|9|10|-|-|"
+  },
+  {
+    "line": 706,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 707,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 708,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 709,
+    "text": "|[[Piano Bend]]|Kevin Penkin|1.1.0&br;22/04/06|5|8|10|-|"
+  },
+  {
+    "line": 710,
+    "text": "|[[伝えたい想い]]|Rin Matsubayashi (INSPION)|1.1.0&br;22/04/06|1|4|6|-|"
+  },
+  {
+    "line": 711,
+    "text": "|[[再星のカケラ]]|WonderRats feat.駄々子|1.1.0&br;22/04/06|3|6|9|-|"
+  },
+  {
+    "line": 712,
+    "text": "|[[You can dance with me]]|You Xue Qian|1.1.0&br;22/04/06|2|5|8|-|"
+  },
+  {
+    "line": 713,
+    "text": "|[[Somewhere]]|You Xue Qian|1.1.0&br;22/04/06|3|5|8|9|"
+  },
+  {
+    "line": 717,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 718,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 719,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 720,
+    "text": "|[[New Chapter]]|Milkoi|2.0.1&br;22/09/07|2|4|7|-|7|"
+  },
+  {
+    "line": 721,
+    "text": "|[[廻る世界と到る星]]|Ayatsugu_Otowa&br;feat. Sennzai|2.0.1&br;22/09/07|2|6|8|-|8|"
+  },
+  {
+    "line": 722,
+    "text": "|[[softly illuminated]]|Shoichiro Hirata|2.0.1&br;22/09/07|4|7|9|-|9|"
+  },
+  {
+    "line": 723,
+    "text": "|[[Sunrise]]|Hydra Tsai (INSPION)|2.0.1&br;22/09/07|3|7|9|-|9|"
+  },
+  {
+    "line": 724,
+    "text": "|[[stati&#248;n -Last train bound for saihate.->station -Last train bound for saihate.-]]|Apo11o\"DAISYWORLD\"program ft.Guriri|2.0.1&br;22/09/07|4|8|10|-|10|"
+  },
+  {
+    "line": 728,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 729,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 730,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 731,
+    "text": "|[[Cicatrice*]]|八草&br;feat.Apo11o program&br;vo.たみー|2.0.1&br;22/09/28|1|4|7|9|-|"
+  },
+  {
+    "line": 732,
+    "text": "|[[On & On>On and On]]|Neighbors Complain|2.0.1&br;22/09/28|2|5|8|-|-|"
+  },
+  {
+    "line": 733,
+    "text": "|[[Re:Saika～追想の景、湎む風花へ～>Re Saika～追想の景、湎む風花へ～]]|RABPIT&br;× Apo11o program&br;ft. アマギセーラ|2.0.1&br;22/09/28|3|5|8|-|9|"
+  },
+  {
+    "line": 734,
+    "text": "|[[Letters from Heaven]]|Capchii feat. 凛々咲|2.0.1&br;22/09/28|4|6|9|-|-|"
+  },
+  {
+    "line": 735,
+    "text": "|[[夢の続き (Never After Dreams)]]|Capchii feat. 柚子花|2.0.1&br;22/09/28|5|9|10|10|-|"
+  },
+  {
+    "line": 739,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 740,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 741,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 742,
+    "text": "|[[碧に成れたら]]|JYOCHO|2.1.2&br;22/11/30|2|4|7|-|"
+  },
+  {
+    "line": 743,
+    "text": "|[[Dandelion]]|Ice Bird Studio/Flow|2.1.2&br;22/11/30|2|5|7|-|"
+  },
+  {
+    "line": 744,
+    "text": "|[[Grave]]|高城みよ|2.1.2&br;22/11/30|3|5|8|-|"
+  },
+  {
+    "line": 745,
+    "text": "|[[輪の中にいればたいせつにしてあげる]]|JYOCHO|2.1.2&br;22/11/30|1|4|8|-|"
+  },
+  {
+    "line": 746,
+    "text": "|[[Linkage]]|technoplanet feat. Risa Yuzuki & Kuroto Sion|2.1.2&br;22/11/30|5|9|10|-|"
+  },
+  {
+    "line": 750,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 751,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 752,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 753,
+    "text": "|[[Breathe in Breathe out]]|Night Keepers|2.2.1&br;22/12/21|2|4|6|-|-|"
+  },
+  {
+    "line": 754,
+    "text": "|[[Time Goes By]]|Rhyan D'Errico|2.2.1&br;22/12/21|2|5|8|-|-|"
+  },
+  {
+    "line": 755,
+    "text": "|[[Shelter]]|Iris|2.2.1&br;22/12/21|3|6|8|-|-|"
+  },
+  {
+    "line": 756,
+    "text": "|[[Frosty Forest]]|かねこちはる|2.2.1&br;22/12/21|4|7|9|-|10|"
+  },
+  {
+    "line": 757,
+    "text": "|[[Dream of Blind]]|ARForest|2.2.1&br;22/12/21|3|7|10|-|-|"
+  },
+  {
+    "line": 761,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 762,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 763,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 764,
+    "text": "|[[gleammer]]|kidlit|2.2.1&br;23/01/04|2|4|7|-|-|"
+  },
+  {
+    "line": 765,
+    "text": "|[[Strangers on the station]]|kidlit|2.2.1&br;23/01/04|3|5|8|9|-|"
+  },
+  {
+    "line": 766,
+    "text": "|[[Labyrinth of Desire]]|Elliot Hsu|2.2.1&br;23/01/04|3|6|9|-|-|"
+  },
+  {
+    "line": 767,
+    "text": "|[[Imhullu]]|Miyolophone|2.2.1&br;23/01/04|3|7|10|-|-|"
+  },
+  {
+    "line": 768,
+    "text": "|[[HydroMe+eor]]|seatrus|2.2.1&br;23/01/04|5|8|10|-|10|"
+  },
+  {
+    "line": 772,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 773,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 774,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 775,
+    "text": "|[[Dear :>Dear]]|Night Keepers|2.2.1&br;23/01/18|1|4|6|-|"
+  },
+  {
+    "line": 776,
+    "text": "|[[Little Steps]]|ginrei|2.2.1&br;23/01/18|2|4|7|-|"
+  },
+  {
+    "line": 777,
+    "text": "|[[Mystery Journal]]|Melo:D (The 380's)|2.2.1&br;23/01/18|2|5|8|-|"
+  },
+  {
+    "line": 778,
+    "text": "|[[Shinigami Line]]|Miyolophone feat. eris elysia|2.2.1&br;23/01/18|3|6|9|10|"
+  },
+  {
+    "line": 779,
+    "text": "|[[2:99am>2 99am]]|Shogo Nomura (BNSI)|2.2.1&br;23/01/18|5|8|10|-|"
+  },
+  {
+    "line": 783,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 784,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 785,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 786,
+    "text": "|[[HarvestSeason!]]|Yu_Asahina|2.2.1&br;23/02/08|3|6|8|-|10|"
+  },
+  {
+    "line": 787,
+    "text": "|[[Four Seasons Winter (Piano Edit)]]|A. Vivaldi arranged by Double Tree|2.2.1&br;23/02/08|4|7|9|-|-|"
+  },
+  {
+    "line": 788,
+    "text": "|[[Page 0]]|Chroma|2.2.1&br;23/02/08|3|6|9|10|-|"
+  },
+  {
+    "line": 789,
+    "text": "|[[bAllAd]]|かねこちはる|2.2.1&br;23/02/08|5|8|10|-|-|"
+  },
+  {
+    "line": 790,
+    "text": "|[[No+e o/= Hope]]|xi|2.2.1&br;23/02/08|6|9|10|-|-|"
+  },
+  {
+    "line": 794,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 795,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 796,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 797,
+    "text": "|[[Ame ni tokete]]|Ayaka Tachibana|2.2.1&br;23/02/22|1|4|7|-|-|"
+  },
+  {
+    "line": 798,
+    "text": "|[[Luchta]]|清水 嶺|2.2.1&br;23/02/22|2|6|8|-|-|"
+  },
+  {
+    "line": 799,
+    "text": "|[[The Missing Chapter]]|Osamu Kubota|2.2.1&br;23/02/22|4|6|8|-|-|"
+  },
+  {
+    "line": 800,
+    "text": "|[[Tishtrya-G&#216;DEES SΛVE THE AFTERGLOW->Tishtrya-GODEES SAVE THE AFTERGLOW-]]|Apo11o program vs. Yuma.Mizo ft.Ai Ohsera|2.2.1&br;23/02/22|4|7|9|-|-|"
+  },
+  {
+    "line": 801,
+    "text": "|[[Another Ending]]|Mizuki Halcy|2.2.1&br;23/02/22|5|7|10|-|10|"
+  },
+  {
+    "line": 805,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 806,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 807,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 808,
+    "text": "|[[Lost Memory]]|yuichi NAGAO|2.2.1&br;23/03/15|4|7|9|-|"
+  },
+  {
+    "line": 809,
+    "text": "|[[Heap Of Rubble]]|くるぶっこちゃん|2.2.1&br;23/03/15|2|5|7|8|"
+  },
+  {
+    "line": 810,
+    "text": "|[[衝突]]|callasoiled|2.2.1&br;23/03/15|3|5|8|-|"
+  },
+  {
+    "line": 811,
+    "text": "|[[Moments]]|Jerico|2.2.1&br;23/03/15|4|7|10|-|"
+  },
+  {
+    "line": 812,
+    "text": "|[[Valhalla]]|Error Signal|2.2.1&br;23/03/15|4|8|10|-|"
+  },
+  {
+    "line": 816,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 817,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 818,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 819,
+    "text": "|[[The sky is the limit]]|JAKAZiD+Apo11o program ft.保立美和子|3.0.0&br;23/04/26|3|6|9|10|"
+  },
+  {
+    "line": 820,
+    "text": "|[[Looking for Radiant Rainbow]]|seatrus|3.0.0&br;23/04/26|5|8|10|-|"
+  },
+  {
+    "line": 821,
+    "text": "|[[次女]]|Miyolophone feat. Miori Celesta|3.0.0&br;23/04/26|2|5|8|-|"
+  },
+  {
+    "line": 822,
+    "text": "|[[a rift in the clouds]]|phritz|3.0.0&br;23/04/26|1|4|7|-|"
+  },
+  {
+    "line": 823,
+    "text": "|[[All doors closed]]|KiWi|3.0.0&br;23/04/26|4|7|9|-|"
+  },
+  {
+    "line": 827,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 828,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 829,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 830,
+    "text": "|[[Blue and Amor]]|Shogo Nomura (BNSI)|3.0.0&br;23/05/10|2|5|7|8|"
+  },
+  {
+    "line": 831,
+    "text": "|[[二つの扉]]|KiWi|3.0.0&br;23/05/10|3|5|8|9|"
+  },
+  {
+    "line": 832,
+    "text": "|[[マイゴノウタ]]|ユアミトス|3.0.0&br;23/05/10|4|7|9|-|"
+  },
+  {
+    "line": 833,
+    "text": "|[[Wholeheartedness]]|BlackY|3.0.0&br;23/05/10|5|7|10|-|"
+  },
+  {
+    "line": 834,
+    "text": "|[[wavelets]]|Ryo Arue|3.0.0&br;23/05/10|3|6|8|9|"
+  },
+  {
+    "line": 838,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 839,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 840,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 841,
+    "text": "|[[iron flower]]|Room97 feat.EVO+|3.0.0&br;23/05/31|1|4|7|-|9|"
+  },
+  {
+    "line": 842,
+    "text": "|[[FLASH DIVER]]|WHITEFISTS|3.0.0&br;23/05/31|3|6|9|10|-|"
+  },
+  {
+    "line": 843,
+    "text": "|[[Stay with me]]|Mitsukiyo|3.0.0&br;23/05/31|4|7|9|-|-|"
+  },
+  {
+    "line": 844,
+    "text": "|[[Yarazu Ame]]|Shogo Nomura (BNSI)|3.0.0&br;23/05/31|5|8|10|-|-|"
+  },
+  {
+    "line": 845,
+    "text": "|[[Flew]]|Sad Keyboard Guy|3.0.0&br;23/05/31|2|5|8|-|-|"
+  },
+  {
+    "line": 849,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 850,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 851,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 852,
+    "text": "|[[Fractured Cantabile]]|Elliot Hsu|3.0.0&br;23/06/21|3|6|8|-|-|"
+  },
+  {
+    "line": 853,
+    "text": "|[[Revoltade]]|Miyolophone|3.0.0&br;23/06/21|6|8|10|-|-|"
+  },
+  {
+    "line": 854,
+    "text": "|[[Life review]]|*-Teris.|3.0.0&br;23/06/21|3|5|9|-|-|"
+  },
+  {
+    "line": 855,
+    "text": "|[[Diary of Loneliness]]|Mitsukiyo|3.0.0&br;23/06/21|1|4|8|-|9|"
+  },
+  {
+    "line": 856,
+    "text": "|[[Dream to you…]]|Apo11o program &br;ft.安月名莉子|3.0.0&br;23/06/21|4|7|9|9|-|"
+  },
+  {
+    "line": 859,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 860,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 861,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 862,
+    "text": "|[[Nemophila]]|naotyu- feat.双葉湊音|3.1.0&br;23/07/12|4|7|9|10|10|"
+  },
+  {
+    "line": 863,
+    "text": "|[[D&#233;j&#224;-vu>Deja-vu]]|Shunji Fujii|3.1.0&br;23/07/12|3|7|9|-|-|"
+  },
+  {
+    "line": 864,
+    "text": "|[[op258]]|K.Shiraki|3.1.0&br;23/07/12|4|8|10|-|-|"
+  },
+  {
+    "line": 865,
+    "text": "|[[Gear]]|Street|3.1.0&br;23/07/12|2|5|7|-|-|"
+  },
+  {
+    "line": 866,
+    "text": "|[[Pray for Breeze]]|Fty feat.双葉湊音|3.1.0&br;23/07/12|3|6|8|-|-|"
+  },
+  {
+    "line": 870,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 871,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 872,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 873,
+    "text": "|[[vacant]]|callasolied|3.1.1&br;23/08/02|1|5|7|-|-|"
+  },
+  {
+    "line": 874,
+    "text": "|[[Baa-raa-ra]]|Sobrem|3.1.1&br;23/08/02|2|6|8|-|10|"
+  },
+  {
+    "line": 875,
+    "text": "|[[Dubblethink]]|Avans|3.1.1&br;23/08/02|5|8|10|-|-|"
+  },
+  {
+    "line": 876,
+    "text": "|[[Discipline]]|Street|3.1.1&br;23/08/02|6|9|10|-|-|"
+  },
+  {
+    "line": 877,
+    "text": "|[[Deadlogue]]|WHITEFISTS|3.1.1&br;23/08/02|4|7|9|-|-|"
+  },
+  {
+    "line": 881,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 882,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 883,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 884,
+    "text": "|[[Sweetheart Crush]]|seatrus|3.1.1&br;23/10/04|3|5|8|-|-|"
+  },
+  {
+    "line": 885,
+    "text": "|[[Bitter=Bitter=Lovesick]]|seatrus|3.1.1&br;23/10/04|3|7|9|-|-|"
+  },
+  {
+    "line": 886,
+    "text": "|[[Disastear]]|technoplanet|3.1.1&br;23/10/04|6|9|10|-|-|"
+  },
+  {
+    "line": 887,
+    "text": "|[[FACE THE MUSIC]]|Apo11o program vs. DJ WILDPARTY vs. RiraN|3.1.1&br;23/10/04|5|8|10|-|10|"
+  },
+  {
+    "line": 888,
+    "text": "|[[小夜時雨]]|高城みよ|3.1.1&br;23/10/04|2|4|7|-|-|"
+  },
+  {
+    "line": 893,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 894,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 895,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 896,
+    "text": "|[[Little Tourist]]|Kaname Shigeyoshi|4.0.0&br;23/12/13|2|5|7|-|"
+  },
+  {
+    "line": 897,
+    "text": "|[[Jump into a puddle]]|muyu|4.0.0&br;23/12/13|3|6|8|-|"
+  },
+  {
+    "line": 898,
+    "text": "|[[Mystraveler]]|Nego_tiator|4.0.0&br;23/12/13|5|7|9|-|"
+  },
+  {
+    "line": 899,
+    "text": "|[[re:con[figurar]>re configurar]]|Ascellia 澪 & Na'o|4.0.0&br;23/12/13|5|8|10|-|"
+  },
+  {
+    "line": 900,
+    "text": "|[[Chamber of Shackles]]|Elliot Hsu|4.0.0&br;23/12/13|4|7|9|-|"
+  },
+  {
+    "line": 905,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 906,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 907,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 908,
+    "text": "|[[Lesedrama]]|Avans＆Blacklolita|4.0.1&br;24/01/03|1|4|7|-|"
+  },
+  {
+    "line": 909,
+    "text": "|[[crumsy propause]]|seatrus|4.0.1&br;24/01/03|2|5|8|-|"
+  },
+  {
+    "line": 910,
+    "text": "|[[Radio Station]]|Essbee|4.0.1&br;24/01/03|4|8|10|10|"
+  },
+  {
+    "line": 911,
+    "text": "|[[SHOWTIME!!]]|Aethoro feat.Traceco|4.0.1&br;24/01/03|3|6|8|-|"
+  },
+  {
+    "line": 912,
+    "text": "|[[そよ風のように]]|KiWi|4.0.1&br;24/01/03|3|7|9|-|"
+  },
+  {
+    "line": 917,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 918,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 919,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 920,
+    "text": "|[[Fabricatia]]|Nego_tiator|4.0.1&br;24/01/31|3|6|8|9|"
+  },
+  {
+    "line": 921,
+    "text": "|[[Star]]|Street|4.0.1&br;24/01/31|2|5|8|-|"
+  },
+  {
+    "line": 922,
+    "text": "|[[Turbulent Hearts]]|Elliot Hsu|4.0.1&br;24/01/31|4|7|9|-|"
+  },
+  {
+    "line": 923,
+    "text": "|[[Hope for the Stars]]|Aethoro feat.Moon Jelly|4.0.1&br;24/01/31|5|7|10|-|"
+  },
+  {
+    "line": 924,
+    "text": "|[[Last Guardian]]|ARForest|4.0.1&br;24/01/31|3|6|9|10|"
+  },
+  {
+    "line": 928,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 929,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 930,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 931,
+    "text": "|[[嵐の前に]]|KiWi|4.0.3&br;24/03/27|3|5|8|9|"
+  },
+  {
+    "line": 932,
+    "text": "|[[SUICHU]]|星宮とと+TEMPLIME|4.0.3&br;24/03/27|1|4|8|-|"
+  },
+  {
+    "line": 933,
+    "text": "|[[Indelible Yore]]|Taishi|4.0.3&br;24/03/27|5|8|10|-|"
+  },
+  {
+    "line": 934,
+    "text": "|[[All In]]|Avans|4.0.3&br;24/03/27|3|6|9|-|"
+  },
+  {
+    "line": 935,
+    "text": "|[[Hydrangea]]|Musicarus|4.0.3&br;24/03/27|2|6|8|-|"
+  },
+  {
+    "line": 940,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 941,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|CENTER:COLOR(lightcoral):~ Special|c"
+  },
+  {
+    "line": 942,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 943,
+    "text": "|[[つくろい]]|高城みよ|4.0.4&br;24/05/08|2|4|7|-|-|"
+  },
+  {
+    "line": 944,
+    "text": "|[[End of the Spiral Version 1a.01.a]]|Tsynphonia|4.0.4&br;24/05/08|5|7|9|-|10|"
+  },
+  {
+    "line": 945,
+    "text": "|[[The Long Voyage]]|kidlit|4.0.4&br;24/05/08|3|6|9|-|-|"
+  },
+  {
+    "line": 946,
+    "text": "|[[Advances]]|K.Shiraki|4.0.4&br;24/05/08|4|8|10|-|-|"
+  },
+  {
+    "line": 947,
+    "text": "|[[Aurora VIP (feat. Shion)]]|Kirara Magic|4.0.4&br;24/05/08|1|3|6|-|-|"
+  },
+  {
+    "line": 951,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 952,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 953,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 954,
+    "text": "|[[ぱやぱや]]|高城みよ|4.0.4&br;24/06/05|2|4|7|-|"
+  },
+  {
+    "line": 955,
+    "text": "|[[Corridor of reminiscence]]|effe|4.0.4&br;24/06/05|3|5|8|-|"
+  },
+  {
+    "line": 956,
+    "text": "|[[wonder world]]|kidlit|4.0.4&br;24/06/05|5|8|10|-|"
+  },
+  {
+    "line": 957,
+    "text": "|[[Cruelame+hyst]]|seatrus|4.0.4&br;24/06/05|4|6|9|10|"
+  },
+  {
+    "line": 958,
+    "text": "|[[From There]]|TSK|4.0.4&br;24/06/05|3|5|7|-|"
+  },
+  {
+    "line": 962,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 963,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 964,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 965,
+    "text": "|[[Sweet Sweet]]|TSK|4.0.5&br;24/07/03|3|6|8|-|"
+  },
+  {
+    "line": 966,
+    "text": "|[[Fruits of Sequana]]|Crimsona|4.0.5&br;24/07/03|5|8|10|-|"
+  },
+  {
+    "line": 967,
+    "text": "|[[overloaded emotions]]|ARForest|4.0.5&br;24/07/03|4|7|9|-|"
+  },
+  {
+    "line": 968,
+    "text": "|[[Stardust Pickpocket]]|kidlit|4.0.5&br;24/07/03|4|6|8|-|"
+  },
+  {
+    "line": 969,
+    "text": "|[[op280]]|K.Shiraki|4.0.5&br;24/07/03|2|5|7|-|"
+  },
+  {
+    "line": 973,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 974,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 975,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 976,
+    "text": "|[[Jump Up]]|TSK|4.0.5&br;24/09/04|4|6|8|-|"
+  },
+  {
+    "line": 977,
+    "text": "|[[うつろい]]|高城みよ|4.0.5&br;24/09/04|2|4|6|-|"
+  },
+  {
+    "line": 978,
+    "text": "|[[Execute]]|Tsynphonia|4.0.5&br;24/09/04|5|8|10|-|"
+  },
+  {
+    "line": 979,
+    "text": "|[[op286]]|K.Shiraki|4.0.5&br;24/09/04|3|7|9|-|"
+  },
+  {
+    "line": 980,
+    "text": "|[[Finilave]]|高城みよ|4.0.5&br;24/09/04|3|5|7|-|"
+  },
+  {
+    "line": 984,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 985,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 986,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 987,
+    "text": "|[[Blue ixia]]|effe|4.0.5&br;24/10/02|2|5|8|-|-|"
+  },
+  {
+    "line": 988,
+    "text": "|[[NLAMTA]]|Tsynphonia|4.0.5&br;24/10/02|5|8|10|-|''11''|"
+  },
+  {
+    "line": 989,
+    "text": "|[[Nonexistence]]|Renpul|4.0.5&br;24/10/02|4|7|9|-|-|"
+  },
+  {
+    "line": 990,
+    "text": "|[[Anoxia]]|technoplanet feat. Risa Yuzuki|4.0.5&br;24/10/02|5|8|10|-|-|"
+  },
+  {
+    "line": 991,
+    "text": "|[[Finale]]|Street|4.0.5&br;24/10/02|6|9|10|-|-|"
+  },
+  {
+    "line": 992,
+    "text": "|[[Paradise Ⅱ]]|Sound Souler|4.0.5&br;24/10/02|3|6|8|-|-|"
+  },
+  {
+    "line": 998,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 999,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1000,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1001,
+    "text": "|[[Smile-mileS]]|onoken|4.0.5&br;24/11/06|3|6|8|-|"
+  },
+  {
+    "line": 1002,
+    "text": "|[[Urban Magic]]|technoplanet feat.nayuta|4.0.5&br;24/11/06|4|7|9|-|"
+  },
+  {
+    "line": 1003,
+    "text": "|[[Maid's Prank]]|Sound Souler|4.0.5&br;24/11/06|2|5|8|-|"
+  },
+  {
+    "line": 1004,
+    "text": "|[[Fantasia Sonata Colorful feat. V!C]]|PYKAMIA|4.0.5&br;24/11/06|4|8|10|-|"
+  },
+  {
+    "line": 1005,
+    "text": "|[[Mew mew magical summer]]|uynet|4.0.5&br;24/11/06|5|8|10|-|"
+  },
+  {
+    "line": 1012,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1013,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1014,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1015,
+    "text": "|[[Untheory]]|Avans|4.0.5&br;24/12/04|3|6|7|9|"
+  },
+  {
+    "line": 1016,
+    "text": "|[[傀儡のためのコンチェルト]]|のとを|4.0.5&br;24/12/04|4|7|8|-|"
+  },
+  {
+    "line": 1017,
+    "text": "|[[Flying Emotion]]|BlackY|4.0.5&br;24/12/04|3|6|9|-|"
+  },
+  {
+    "line": 1018,
+    "text": "|[[Flows With Errors]]|ARForest|4.0.5&br;24/12/04|5|8|10|10|"
+  },
+  {
+    "line": 1019,
+    "text": "|[[Phantoflux]]|xi|4.0.5&br;24/12/04|6|9|10|-|"
+  },
+  {
+    "line": 1023,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1024,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1025,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1026,
+    "text": "|[[Cloudburst]]|Error Signal|4.1.1&br;25/01/08|2|4|7|-|"
+  },
+  {
+    "line": 1027,
+    "text": "|[[黒影]]|高城みよ|4.1.1&br;25/01/08|1|5|8|-|"
+  },
+  {
+    "line": 1028,
+    "text": "|[[Rain Dance]]|Musicarus|4.1.1&br;25/01/08|4|6|9|-|"
+  },
+  {
+    "line": 1029,
+    "text": "|[[Graciousrain]]|seatrus|4.1.1&br;25/01/08|6|8|10|-|"
+  },
+  {
+    "line": 1030,
+    "text": "|[[Over the Rain]]|Chroma|4.1.1&br;25/01/08|5|8|10|-|"
+  },
+  {
+    "line": 1036,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1037,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1038,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1039,
+    "text": "|[[ViViD Delusion]]|KARUT|4.1.1&br;25/01/22|3|6|8|-|"
+  },
+  {
+    "line": 1040,
+    "text": "|[[キャロルの瓦解]]|*-Teris.|4.1.1&br;25/01/22|5|8|10|-|"
+  },
+  {
+    "line": 1041,
+    "text": "|[[Reincarnation]]|Essbee|4.1.1&br;25/01/22|4|7|10|-|"
+  },
+  {
+    "line": 1042,
+    "text": "|[[Amore Appassionato]]|seatrus|4.1.1&br;25/01/22|4|7|9|-|"
+  },
+  {
+    "line": 1043,
+    "text": "|[[secretspell]]|tn-shi|4.1.1&br;25/01/22|6|9|''11''|-|"
+  },
+  {
+    "line": 1049,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1050,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 1051,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 1052,
+    "text": "|[[白煙]]|音感れもねーど|4.1.2&br;25/02/26|4|7|9|-|10|"
+  },
+  {
+    "line": 1053,
+    "text": "|[[ナースのおままごと]]|iru feat. ついなちゃん|4.1.2&br;25/02/26|3|8|10|-|-|"
+  },
+  {
+    "line": 1054,
+    "text": "|[[CHAOS CONTROL]]|AZALI|4.1.2&br;25/02/26|3|6|9|-|-|"
+  },
+  {
+    "line": 1055,
+    "text": "|[[Pulsatilla]]|LucaProject vs NeLiME|4.1.2&br;25/02/26|5|8|10|-|-|"
+  },
+  {
+    "line": 1056,
+    "text": "|[[Synthesis.]]|tn-shi|4.1.2&br;25/02/26|6|9|''11''|-|-|"
+  },
+  {
+    "line": 1060,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1061,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1062,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1063,
+    "text": "|[[流星群に会えた夏]]|Chroma|4.1.2&br;25/03/24|3|7|9|-|"
+  },
+  {
+    "line": 1064,
+    "text": "|[[ディアよスポールよ、永遠に]]|劇団庭師|4.1.2&br;25/03/24|4|7|9|-|"
+  },
+  {
+    "line": 1065,
+    "text": "|[[Shade Of Shadow]]|かねこちはる|4.1.2&br;25/03/24|4|8|10|-|"
+  },
+  {
+    "line": 1066,
+    "text": "|[[Verdelite]]|Nego_tiator|4.1.2&br;25/03/24|2|8|10|-|"
+  },
+  {
+    "line": 1067,
+    "text": "|[[Spiegel]]|Street|4.1.2&br;25/03/24|6|9|''11''|-|"
+  },
+  {
+    "line": 1071,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1072,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1073,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1074,
+    "text": "|[[燈]]|高城みよ|4.1.2&br;25/04/21|1|4|6|-|"
+  },
+  {
+    "line": 1075,
+    "text": "|[[フリージア]]|H△G|4.1.2&br;25/04/21|3|5|7|-|"
+  },
+  {
+    "line": 1076,
+    "text": "|[[カモミール]]|ユアミトス|4.1.2&br;25/04/21|3|6|8|-|"
+  },
+  {
+    "line": 1077,
+    "text": "|[[crumsy express]]|seatrus|4.1.2&br;25/04/21|4|6|8|-|"
+  },
+  {
+    "line": 1078,
+    "text": "|[[Akashic Blue Records]]|naotyu- feat.双葉湊音|4.1.2&br;25/04/21|5|7|10|-|"
+  },
+  {
+    "line": 1082,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1083,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1084,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1085,
+    "text": "|[[ペンタス]]|H△G|4.1.2&br;25/05/28|2|4|6|-|"
+  },
+  {
+    "line": 1086,
+    "text": "|[[Weiser]]|street|4.1.2&br;25/05/28|3|5|7|8|"
+  },
+  {
+    "line": 1087,
+    "text": "|[[The Inventor]]|Aethoro|4.1.2&br;25/05/28|4|6|9|-|"
+  },
+  {
+    "line": 1088,
+    "text": "|[[KVEYKVA]]|Nego_tiator|4.1.2&br;25/05/28|4|8|10|-|"
+  },
+  {
+    "line": 1089,
+    "text": "|[[ΛVeS]]|Apo11o\"EQUATOR\"program vs.Nightster|4.1.2&br;25/05/28|6|9|''11''|-|"
+  },
+  {
+    "line": 1095,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1096,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1097,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1098,
+    "text": "|[[Swirling Blue]]|Nagiha|4.1.5&br;25/06/23|3|5|8|-|"
+  },
+  {
+    "line": 1099,
+    "text": "|[[Toys' Nightlife Area]]|ShiBa|4.1.5&br;25/06/23|2|6|9|-|"
+  },
+  {
+    "line": 1100,
+    "text": "|[[Looking for Stella]]|Junk|4.1.5&br;25/06/23|2|6|9|-|"
+  },
+  {
+    "line": 1101,
+    "text": "|[[Inverted World]]|ARForest|4.1.5&br;25/06/23|4|7|10|-|"
+  },
+  {
+    "line": 1102,
+    "text": "|[[翠杜]]|隣の庭は青い(庭師+Aoi)|4.1.5&br;25/06/23|6|9|''11''|-|"
+  },
+  {
+    "line": 1107,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1108,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1109,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1110,
+    "text": "|[[Prism Rain:君に咲いた feat.北條響>Prism Rain 君に咲いた feat.北條響]]|AXTORM SOUND RELATION|4.1.5&br;25/07/28|3|5|7|-|"
+  },
+  {
+    "line": 1111,
+    "text": "|[[Prism Rain: 君に咲いた × Mystic Moon -Mash Up->Prism Rain 君に咲いた × Mystic Moon -Mash Up-]]|Mashup Arranged by AXTORM SOUND RELATION|4.1.5&br;25/07/28|4|6|9|-|"
+  },
+  {
+    "line": 1112,
+    "text": "|[[GRADATION～あれからの現在～]]|NAOKI feat.RIYU KOSAKA|4.1.5&br;25/07/28|2|5|7|-|"
+  },
+  {
+    "line": 1113,
+    "text": "|[[Blue Spinel]]|onoken|4.1.5&br;25/07/28|5|8|10|-|"
+  },
+  {
+    "line": 1114,
+    "text": "|[[GRADATION × Blue Spinel -Mash Up-]]|Mashup Arranged by &br;AXTORM SOUND RELATION|4.1.5&br;25/07/28|5|9|''11''|-|"
+  },
+  {
+    "line": 1120,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1121,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1122,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1123,
+    "text": "|[[Pastel Lines]]|Reku Mochizuki|4.1.6&br;25/08/25|4|6|8|-|"
+  },
+  {
+    "line": 1124,
+    "text": "|[[LEONIDS]]|SaMZIng / Titan Chaos|4.1.6&br;25/08/25|4|7|9|-|"
+  },
+  {
+    "line": 1125,
+    "text": "|[[Clock Paradox]]|WyvernP|4.1.6&br;25/08/25|3|5|9|-|"
+  },
+  {
+    "line": 1126,
+    "text": "|[[Lost Future]]|Aspid Cat|4.1.6&br;25/08/25|5|8|10|-|"
+  },
+  {
+    "line": 1127,
+    "text": "|[[BRAVE：ROAD]]|uma vs. モリモリあつし |4.1.6&br;25/08/25|6|9|''11''|-|"
+  },
+  {
+    "line": 1131,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1132,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1133,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1134,
+    "text": "|[[Tears of a Sunken World]]|Connexio|4.1.6&br;25/09/24|2|4|6|-|"
+  },
+  {
+    "line": 1135,
+    "text": "|[[Beyond the stream]]|天束|4.1.6&br;25/09/24|3|6|8|-|"
+  },
+  {
+    "line": 1136,
+    "text": "|[[泡沫-utakata-]]|ぺのれり|4.1.6&br;25/09/24|3|6|9|-|"
+  },
+  {
+    "line": 1137,
+    "text": "|[[Maelstrom]]|Freeleaves|4.1.6&br;25/09/24|5|8|10|-|"
+  },
+  {
+    "line": 1138,
+    "text": "|[[Deluge]]|Juggernaut.|4.1.6&br;25/09/24|6|9|''11''|-|"
+  },
+  {
+    "line": 1142,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1143,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1144,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1145,
+    "text": "|[[Cinza de Roxo]]|Musicarus|4.1.6&br;25/10/29|3|5|7|-|"
+  },
+  {
+    "line": 1146,
+    "text": "|[[Remember]]|Juggernaut.|4.1.6&br;25/10/29|2|6|8|-|"
+  },
+  {
+    "line": 1147,
+    "text": "|[[Fragmented Happiness]]|Chroma|4.1.6&br;25/10/29|4|7|9|-|"
+  },
+  {
+    "line": 1148,
+    "text": "|[[The Bewilder BlueMartini]]|seatrus|4.1.6&br;25/10/29|5|8|10|-|"
+  },
+  {
+    "line": 1149,
+    "text": "|[[沈黙は金、雄弁も金]]|庭師|4.1.6&br;25/10/29|5|9|''11''|-|"
+  },
+  {
+    "line": 1154,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1155,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1156,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1157,
+    "text": "|[[Yukianesa]]|tezuka|4.1.7&br;25/11/26|3|7|8|-|"
+  },
+  {
+    "line": 1158,
+    "text": "|[[Nobo -outflowing heart-]]|Se-U-Ra|4.1.7&br;25/11/26|2|6|9|-|"
+  },
+  {
+    "line": 1159,
+    "text": "|[[Frey's Philosophy]]|Powerless|4.1.7&br;25/11/26|4|7|10|-|"
+  },
+  {
+    "line": 1160,
+    "text": "|[[Ne Night ＆ All Night]]|MYUKKE.|4.1.7&br;25/11/26|5|9|10|-|"
+  },
+  {
+    "line": 1161,
+    "text": "|[[Wolves Standing Towards Enemies]]|Camellia(EDP)|4.1.7&br;25/11/26|6|9|''11''|-|"
+  },
+  {
+    "line": 1163,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1164,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1165,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1166,
+    "text": "|[[Germination]]|Chroma|4.1.7&br;25/12/31|3|6|8|9|"
+  },
+  {
+    "line": 1167,
+    "text": "|[[Leaf Veins]]|kidlit|4.1.7&br;25/12/31|4|7|9|-|"
+  },
+  {
+    "line": 1168,
+    "text": "|[[アナベル]]|H△G|4.1.7&br;25/12/31|2|5|7|-|"
+  },
+  {
+    "line": 1169,
+    "text": "|[[Ajisai]]|天束|4.1.7&br;25/12/31|4|7|10|-|"
+  },
+  {
+    "line": 1170,
+    "text": "|[[エテルニテ]]|ユアミトス|4.1.7&br;25/12/31|1|4|6|-|"
+  },
+  {
+    "line": 1175,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1176,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1177,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1178,
+    "text": "|[[KN0Q]]|Koke×ねぎまさや|4.1.7&br;26/02/13|4|6|9|-|"
+  },
+  {
+    "line": 1179,
+    "text": "|[[Othello]]|Abel & Fiverwater|4.1.7&br;26/02/13|4|7|9|-|"
+  },
+  {
+    "line": 1180,
+    "text": "|[[Abyssion Bloom]]|Essbee|4.1.7&br;26/02/13|3|7|10|-|"
+  },
+  {
+    "line": 1181,
+    "text": "|[[箱庭のセレスティアルエデン]]|PriM&#228;rTia&br;(Tsukidono&br;×雛宮ぶちょす)|4.1.7&br;26/02/13|5|8|10|-|"
+  },
+  {
+    "line": 1182,
+    "text": "|[[A Tale of the Witch in the Forest]]|Felysrator|4.1.7&br;26/02/13|5|8|10|-|"
+  },
+  {
+    "line": 1185,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1186,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1187,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1188,
+    "text": "|[[verite]]|ユアミトス|4.1.8&br;26/03/25|3|6|8|-|"
+  },
+  {
+    "line": 1189,
+    "text": "|[[sense of wonder]]|Yu_Asahina|4.1.8&br;26/03/25|3|6|9|10|"
+  },
+  {
+    "line": 1190,
+    "text": "|[[Kakuriyo]]|polysha|4.1.8&br;26/03/25|4|7|9|-|"
+  },
+  {
+    "line": 1191,
+    "text": "|[[Verreta]]|Se-U-Ra|4.1.8&br;26/03/25|5|8|10|-|"
+  },
+  {
+    "line": 1192,
+    "text": "|[[Indelible Scar]]|Noah|4.1.8&br;26/03/25|5|8|10|-|"
+  },
+  {
+    "line": 1196,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1197,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1198,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1199,
+    "text": "|[[天国と地獄 -言ノ葉リンネ-]]|伊東歌詞太郎&br;・ろん×れるりり|4.1.8&br;26/05/13|4|7|9|-|"
+  },
+  {
+    "line": 1200,
+    "text": "|[[ツムギボシ]]|大国奏音 feat.timao|4.1.8&br;26/05/13|3|6|9|-|"
+  },
+  {
+    "line": 1201,
+    "text": "|[[VeRForTe αRtE:VEiN>VeRForTe αRtE VEiN]]|orangentle|4.1.8&br;26/05/13|6|8|10|-|"
+  },
+  {
+    "line": 1202,
+    "text": "|[[Sage]]|かめりあ|4.1.8&br;26/05/13|6|8|10|-|"
+  },
+  {
+    "line": 1203,
+    "text": "|[[RondeauX of RagnaroQ]]|Morrigan&br; feat.Lily&br;and 結城碧|4.1.8&br;26/05/13|7|9|''11''|-|"
+  },
+  {
+    "line": 1207,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1208,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1209,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1210,
+    "text": "|[[Antonym]]| kidlit |4.1.8&br;26/08/12|3|6|8|-|"
+  },
+  {
+    "line": 1211,
+    "text": "|[[念写]]|庭師|4.1.8&br;26/08/12|4|7|9|-|"
+  },
+  {
+    "line": 1212,
+    "text": "|[[Squonk]]|technoplanet &br;feat. Risa Yuzuki|4.1.8&br;26/08/12|4|8|10|-|"
+  },
+  {
+    "line": 1213,
+    "text": "|[[Genesis (DEEMO II Edit)]]| Juggernaut. |4.1.8&br;26/08/12|6|9|10|-|"
+  },
+  {
+    "line": 1214,
+    "text": "|[[Fake Fiction]]|technoplanet |4.1.8&br;26/08/12|6|9|''11''|-|"
+  },
+  {
+    "line": 1226,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1227,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1228,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1229,
+    "text": "|[[Carnation]]|himmel|1.2.2&br;22/05/11|1|4|6|-|"
+  },
+  {
+    "line": 1230,
+    "text": "|[[A Little Servant]]|Alice Schach and &br;the Magic Orchestra|1.2.2&br;22/05/11|2|5|7|-|"
+  },
+  {
+    "line": 1231,
+    "text": "|[[Mirage of Mind]]|Hamu Vo.F9|1.2.2&br;22/05/11|2|6|8|-|"
+  },
+  {
+    "line": 1232,
+    "text": "|[[Hakoniwa Daybreak]]|Shurin x Sound-Box&br;feat.nayuta|1.2.2&br;22/05/11|3|6|8|-|"
+  },
+  {
+    "line": 1233,
+    "text": "|[[Lost in the nowhere]]|Rave Cyanide&br;vs Lunatic Sounds|1.2.2&br;22/05/11|6|9|10|-|"
+  },
+  {
+    "line": 1238,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1239,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1240,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1241,
+    "text": "|[[Sprout]]|HALLPBESTUDIO|1.2.2&br;22/06/15|2|3|5|-|"
+  },
+  {
+    "line": 1242,
+    "text": "|[[Heaven's Light]]|Kitkit Lu|1.2.2&br;22/06/15|2|3|6|-|"
+  },
+  {
+    "line": 1243,
+    "text": "|[[nightfall]]|ginkiha|1.2.2&br;22/06/15|3|5|8|-|"
+  },
+  {
+    "line": 1244,
+    "text": "|[[Shedding Season]]|TERU FOX|1.2.2&br;22/06/15|4|6|9|-|"
+  },
+  {
+    "line": 1245,
+    "text": "|[[UFO]]|Mili|1.2.2&br;22/06/15|4|6|9|-|"
+  },
+  {
+    "line": 1249,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1250,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1251,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1252,
+    "text": "|[[Yoake no Uta]]|M2U / Vocal: Dazbee|1.3.0&br;22/08/03|2|4|7|-|"
+  },
+  {
+    "line": 1253,
+    "text": "|[[Lifill]]|Feryquitous feat.Sennzai|1.3.0&br;22/08/03|3|5|8|-|"
+  },
+  {
+    "line": 1254,
+    "text": "|[[SAIRAI]]|Shinichi Kobayashi|1.3.0&br;22/08/03|3|5|8|-|"
+  },
+  {
+    "line": 1255,
+    "text": "|[[Koqurow]]|Feryquitous|1.3.0&br;22/08/03|4|6|9|-|"
+  },
+  {
+    "line": 1256,
+    "text": "|[[Gekkouka]]|Masanori Akita|1.3.0&br;22/08/03|5|8|10|-|"
+  },
+  {
+    "line": 1262,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1263,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 1264,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 1265,
+    "text": "|[[sanctity]]|Rabpit|2.0.1&br;22/09/07|2|4|8|-|8|"
+  },
+  {
+    "line": 1266,
+    "text": "|[[Conflict (VILA Remix)]]|siromaru + cranky|2.0.1&br;22/09/07|5|8|10|-|10|"
+  },
+  {
+    "line": 1267,
+    "text": "|[[son nani watashi wo...]]|Uemura Kanae|2.0.1&br;22/09/07|2|6|8|-|8|"
+  },
+  {
+    "line": 1268,
+    "text": "|[[Olympia]]|Nardis|2.0.1&br;22/09/07|4|8|10|-|10|"
+  },
+  {
+    "line": 1269,
+    "text": "|[[Mayoizuki]]|onoken feat. Misaki|2.0.1&br;22/09/07|3|5|7|-|7|"
+  },
+  {
+    "line": 1275,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1276,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1277,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1278,
+    "text": "|[[Pharmacy of heart]]|white tail box ft.riri|1.1.0&br;22/03/09|2|4|6|-|"
+  },
+  {
+    "line": 1279,
+    "text": "|[[Hello (DEEMO Version)]]|aioi feat. Kamata Junko|1.1.0&br;22/03/09|2|5|8|-|"
+  },
+  {
+    "line": 1280,
+    "text": "|[[Bloody Purity]]|eyemedia|1.1.0&br;22/03/09|5|7|10|-|"
+  },
+  {
+    "line": 1284,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1285,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1286,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1287,
+    "text": "|[[Miocene]]|HAGANE|2.1.0&br;22/10/26|3|5|8|-|"
+  },
+  {
+    "line": 1288,
+    "text": "|[[Moon Halo]]|M2U|2.1.0&br;22/10/26|3|5|8|-|"
+  },
+  {
+    "line": 1289,
+    "text": "|[[LILI]]|Rigel Theatre|2.1.0&br;22/10/26|4|7|10|-|"
+  },
+  {
+    "line": 1290,
+    "text": "|[[I luv U]]|SQUAR|2.1.0&br;22/10/26|5|7|10|-|"
+  },
+  {
+    "line": 1291,
+    "text": "|[[Soaring]]|Jerico|2.1.0&br;22/10/26|5|8|10|-|"
+  },
+  {
+    "line": 1296,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1297,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1298,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1299,
+    "text": "|[[Rainy Memory]]|Rabpit|2.1.2&br;22/11/09|1|4|6|-|"
+  },
+  {
+    "line": 1300,
+    "text": "|[[Nine Point Eight]]|Mili|2.1.2&br;22/11/09|2|6|8|-|"
+  },
+  {
+    "line": 1301,
+    "text": "|[[I race the dawn]]|Kevin Penkin&br;feat. Michiyo Honda|2.1.2&br;22/11/09|1|6|9|-|"
+  },
+  {
+    "line": 1302,
+    "text": "|[[Wish upon a shooting star]]|SUi|2.1.2&br;22/11/09|4|6|9|-|"
+  },
+  {
+    "line": 1303,
+    "text": "|[[Toys Etude]]|soyomogi|2.1.2&br;22/11/09|5|8|10|-|"
+  },
+  {
+    "line": 1306,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1307,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1308,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1309,
+    "text": "|[[Exodus]]|Iris|3.1.1&br;23/09/06|2|6|8|-|"
+  },
+  {
+    "line": 1310,
+    "text": "|[[The Longest Night]]|Euchaeta|3.1.1&br;23/09/06|3|7|9|-|"
+  },
+  {
+    "line": 1311,
+    "text": "|[[Tondari-Hanetari]]|Yuichi Tsuchiya|3.1.1&br;23/09/06|4|7|9|9|"
+  },
+  {
+    "line": 1312,
+    "text": "|[[FEHLT -DEEMO edition-]]|Alice Schach and the Magic Orchestra|3.1.1&br;23/09/06|5|8|10|-|"
+  },
+  {
+    "line": 1313,
+    "text": "|[[Dominant]]|MIDInco|3.1.1&br;23/09/06|6|9|''11''|-|"
+  },
+  {
+    "line": 1317,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1318,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1319,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1320,
+    "text": "|[[Mirai]]|onoken feat. b|3.1.1&br;23/10/25|3|6|9|-|"
+  },
+  {
+    "line": 1321,
+    "text": "|[[F&#252;r Alice>Fur Alice]]|onoken|3.1.1&br;23/10/25|3|5|7|-|"
+  },
+  {
+    "line": 1322,
+    "text": "|[[Aitai]]|onoken feat. Rin|3.1.1&br;23/10/25|5|8|10|-|"
+  },
+  {
+    "line": 1323,
+    "text": "|[[Nier Fluquor]]|onoken|3.1.1&br;23/10/25|1|4|7|-|"
+  },
+  {
+    "line": 1324,
+    "text": "|[[Pr&#233;lude de l’adieu>Prelude de l’adieu]]|onoken|3.1.1&br;23/10/25|2|5|8|-|"
+  },
+  {
+    "line": 1328,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1329,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|"
+  },
+  {
+    "line": 1330,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|CENTER:COLOR(lightcoral):62|c"
+  },
+  {
+    "line": 1331,
+    "text": "|[[Abiogenesis]]|Juggernaut.|3.1.1&br;23/11/22|4|6|8|-|-|"
+  },
+  {
+    "line": 1332,
+    "text": "|[[Tempest]]|Freeleaves|3.1.1&br;23/11/22|3|5|9|-|-|"
+  },
+  {
+    "line": 1333,
+    "text": "|[[Amagiri]]|Uemura Kanae|3.1.1&br;23/11/22|3|6|9|-|-|"
+  },
+  {
+    "line": 1334,
+    "text": "|[[LUNE]]|M2U&br;Arranger:M2U & NICODE|3.1.1&br;23/11/22|5|8|10|-|-|"
+  },
+  {
+    "line": 1335,
+    "text": "|[[Parousia]]|xi|3.1.1&br;23/11/22|5|7|10|-|11|"
+  },
+  {
+    "line": 1339,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1340,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1341,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1342,
+    "text": "|[[Dawn of the ruins]]|Freeleaves|4.0.3&br;24/03/06|4|7|9|-|"
+  },
+  {
+    "line": 1343,
+    "text": "|[[Accelerando]]|Keikaku Tsuukou|4.0.3&br;24/03/06|5|8|10|-|"
+  },
+  {
+    "line": 1344,
+    "text": "|[[eterno]]|Takashi OKAMOTO(12sound)&br;feat.Tsukasa Shiraki|4.0.3&br;24/03/06|3|5|7|-|"
+  },
+  {
+    "line": 1345,
+    "text": "|[[The Last Bloom]]|3R2|4.0.3&br;24/03/06|2|5|8|-|"
+  },
+  {
+    "line": 1346,
+    "text": "|[[Faith, Hope & Love>Faith Hope Love]]|Iris ft. Victor Kong & LynH|4.0.3&br;24/03/06|3|6|8|-|"
+  },
+  {
+    "line": 1350,
+    "text": "|CENTER:~Song|CENTER:~Composer|~Version|>|>|>|~Difficulty|h"
+  },
+  {
+    "line": 1351,
+    "text": "|~|~|~|COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|"
+  },
+  {
+    "line": 1352,
+    "text": "|LEFT:176|LEFT:176|CENTER:80|CENTER:COLOR(lightgreen):62|CENTER:COLOR(royalblue):62|CENTER:COLOR(violet):62|CENTER:COLOR(gold):62|c"
+  },
+  {
+    "line": 1353,
+    "text": "|[[Last Promise]]|HyuN & Ritoru feat.Serentium|4.0.5&br;24/08/07|4|7|9|-|"
+  },
+  {
+    "line": 1354,
+    "text": "|[[Quimi (DEEMO Edit)]]|Yooh|4.0.5&br;24/08/07|5|8|10|-|"
+  },
+  {
+    "line": 1355,
+    "text": "|[[Ray Of Sunshine]]|Sherwin|4.0.5&br;24/08/07|3|6|8|-|"
+  },
+  {
+    "line": 1356,
+    "text": "|[[Empedrado]]|Yuma.Mizo|4.0.5&br;24/08/07|6|8|10|-|"
+  },
+  {
+    "line": 1357,
+    "text": "|[[Hana no Kotoba]]|Shina Kami & Silaver|4.0.5&br;24/08/07|2|5|7|-|"
+  },
+  {
+    "line": 1369,
+    "text": "|CENTER:100|CENTER:COLOR(lightgreen):65|CENTER:COLOR(royalblue):65|CENTER:COLOR(violet):65|CENTER:COLOR(gold):65|CENTER:COLOR(lightcoral):65|CENTER:80|c"
+  },
+  {
+    "line": 1370,
+    "text": "||COLOR(lightgreen):~Easy|COLOR(royalblue):~Normal|COLOR(violet):~Hard|COLOR(gold):~Expert|COLOR(lightcoral):~Special|総譜面数|"
+  },
+  {
+    "line": 1371,
+    "text": "|無料常設|73|73|73|-|12|231|"
+  },
+  {
+    "line": 1372,
+    "text": "|イベント報酬|108|108|108|58|31|413|"
+  },
+  {
+    "line": 1373,
+    "text": "|有償切符|50|50|50|-|10|160|"
+  },
+  {
+    "line": 1374,
+    "text": "|有償アルバム|374|374|374|-|10|1132|"
+  },
+  {
+    "line": 1375,
+    "text": "|実績|-|-|-|1|-|1|"
+  },
+  {
+    "line": 1376,
+    "text": "|楽譜の欠片|12|12|12|-|-|36|"
+  },
+  {
+    "line": 1377,
+    "text": "|合計|617|617|617|59|63|1973|"
+  }
+]

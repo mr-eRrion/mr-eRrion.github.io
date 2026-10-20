@@ -1,0 +1,479 @@
+{
+  "id": "bof-127",
+  "game": "BOF",
+  "url": "https://manbow.nothing.sh/event/event.cgi?action=List_def&event=127",
+  "retrievedAt": "2026-10-20",
+  "creditType": "event-display-credit",
+  "rawSha256": "e3ea23dc03681c5e083b3ae65411be754d3020cbc6e632784eb1d79cc74ddb7d",
+  "partialSnapshot": true,
+  "records": [
+    {
+      "title": "Paracelestia",
+      "artist": "Nego_tiator(mov:*reinahitomi)",
+      "sourceId": "127-13",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=13&event=127"
+    },
+    {
+      "title": "GAME ON",
+      "artist": ":Poin7less",
+      "sourceId": "127-9",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=127"
+    },
+    {
+      "title": "Rush-More",
+      "artist": "litmus*",
+      "sourceId": "127-21",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=127"
+    },
+    {
+      "title": "Abandoned Planet",
+      "artist": "litmus* as Ester",
+      "sourceId": "127-27",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=127"
+    },
+    {
+      "title": "Rainy Gate",
+      "artist": "E0ri4(mov:GAMEBAKA)",
+      "sourceId": "127-60",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=60&event=127"
+    },
+    {
+      "title": "Rebirth",
+      "artist": "Sound Souler(mov:鴫野エイカー / Se-U-Ra)",
+      "sourceId": "127-20",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=20&event=127"
+    },
+    {
+      "title": "Blackorient",
+      "artist": "Sound Souler(mov:Shuto)",
+      "sourceId": "127-36",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=36&event=127"
+    },
+    {
+      "title": "Hold You Back",
+      "artist": "BilliumMoto(needme)",
+      "sourceId": "127-34",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=127"
+    },
+    {
+      "title": "alicemourn",
+      "artist": "黒皇帝(mov:inukoro / illust : Tonosuke)",
+      "sourceId": "127-19",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=127"
+    },
+    {
+      "title": "ruby",
+      "artist": "BilliumMoto(mov:A-Zero Project)",
+      "sourceId": "127-70",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=127"
+    },
+    {
+      "title": "Intersection",
+      "artist": "JDF(mov:YuumiA)",
+      "sourceId": "127-45",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=127"
+    },
+    {
+      "title": "SUper.TEmplate.MArketing",
+      "artist": "hapi⇒ feat. 初音ミク",
+      "sourceId": "127-3",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=127"
+    },
+    {
+      "title": "謝れ！匠のピンクボール！ -屋内レーンLIVE☆特別Shortver-",
+      "artist": "パンデミック新装姉妹 vs. ストロボーリーRail ＆ タイプミアスEmew.(パンデミック新装姉妹 vs. ストロボーリーRail ＆ タイプミアスEmew.) / グリーングリーンズ(mov:illust : 石王マサト)",
+      "sourceId": "127-92",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=92&event=127"
+    },
+    {
+      "title": "Kadai",
+      "artist": "小鬼(mov:Niba)",
+      "sourceId": "127-41",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=127"
+    },
+    {
+      "title": "Just one word",
+      "artist": "140/fth + ルゼ(mov:140/fth)",
+      "sourceId": "127-98",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=98&event=127"
+    },
+    {
+      "title": "XVOTO",
+      "artist": "ETIA. feat. Jenga(mov:わっふゑ)",
+      "sourceId": "127-4",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=127"
+    },
+    {
+      "title": "MOBILYS",
+      "artist": "Dachs(mov:わっふゑ)",
+      "sourceId": "127-24",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=127"
+    },
+    {
+      "title": "Awaking Beat-From the next generation-",
+      "artist": "nmk feat.橘花音(mov:わっふゑ)",
+      "sourceId": "127-189",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=189&event=127"
+    },
+    {
+      "title": "テウメッサ",
+      "artist": "LisicA / Orphee a.k.a. morph(LisicA)(mov:movie : ルゼ / illust : Orphée)",
+      "sourceId": "127-87",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=87&event=127"
+    },
+    {
+      "title": "SUPER RENDA BEAT",
+      "artist": "ルゼ",
+      "sourceId": "127-89",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=89&event=127"
+    },
+    {
+      "title": "切踏",
+      "artist": "A.T.M.(mov:wosderge)",
+      "sourceId": "127-146",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=146&event=127"
+    },
+    {
+      "title": "Ignite",
+      "artist": "Neutral Moon(mov:Bustge / ZBRANSTRIM)",
+      "sourceId": "127-129",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=129&event=127"
+    },
+    {
+      "title": "Appreciate Sunset",
+      "artist": "1112(Bougainvillea aka. 1112 / BG 満天星)(mov:Lv 9)",
+      "sourceId": "127-67",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=67&event=127"
+    },
+    {
+      "title": "Impact Resistance",
+      "artist": "Star*(mov:Mahua)",
+      "sourceId": "127-230",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=230&event=127"
+    },
+    {
+      "title": "Subterranean Blastoff",
+      "artist": "SEPHID(mov:EraPi0neer)",
+      "sourceId": "127-63",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=63&event=127"
+    },
+    {
+      "title": "Time For Revenge",
+      "artist": "RiraN ft. core mc(mov:Irelriser)",
+      "sourceId": "127-238",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=238&event=127"
+    },
+    {
+      "title": "煉情ミスティフィリア",
+      "artist": "Sakamiya feat.一花(mov:tolz illust:ttv)",
+      "sourceId": "127-2",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=127"
+    },
+    {
+      "title": "Seiren",
+      "artist": "kanoryo(mov:MOAIWORKS)",
+      "sourceId": "127-235",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=235&event=127"
+    },
+    {
+      "title": "Press",
+      "artist": "VeetaCrush(mov:NichRabbit)",
+      "sourceId": "127-107",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=127"
+    },
+    {
+      "title": "Sanity Withdrawal",
+      "artist": "chronicdrug(mov:AparallelX & FanfRS)",
+      "sourceId": "127-144",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=127"
+    },
+    {
+      "title": "Dark Chain (feat. Tonishkov)",
+      "artist": "Hatred Spectorz(mov:FanfRS)",
+      "sourceId": "127-145",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=145&event=127"
+    },
+    {
+      "title": "Damped Fall",
+      "artist": "Supa7onyz(mov:chronicdrug)",
+      "sourceId": "127-156",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=156&event=127"
+    },
+    {
+      "title": "pwd",
+      "artist": "snowsphere",
+      "sourceId": "127-30",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=127"
+    },
+    {
+      "title": "Pastel Colorful Freshable",
+      "artist": "Smile storm(mov:心太(Movie)、りんか(Illust))",
+      "sourceId": "127-112",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=112&event=127"
+    },
+    {
+      "title": "Sprinting coastline",
+      "artist": "kireji",
+      "sourceId": "127-184",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=184&event=127"
+    },
+    {
+      "title": "Love me",
+      "artist": "kei_iwata(mov:kireji)",
+      "sourceId": "127-277",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=277&event=127"
+    },
+    {
+      "title": "カタリスト",
+      "artist": "P4koo/つゆり花鈴/BlueArpeggio(mov:Ratif/GATTOMOTTO)",
+      "sourceId": "127-147",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=127"
+    },
+    {
+      "title": "Door Nock",
+      "artist": "BilliumMoto(mov:Jidousya)",
+      "sourceId": "127-69",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=69&event=127"
+    },
+    {
+      "title": "サマータイム・サブコンシャス",
+      "artist": "Dachs(mov:edit)",
+      "sourceId": "127-86",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=127"
+    },
+    {
+      "title": "Hair",
+      "artist": "VeetaCrush(mov:C4ieh)",
+      "sourceId": "127-182",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=182&event=127"
+    },
+    {
+      "title": "水漬",
+      "artist": "PassgoV",
+      "sourceId": "127-253",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=253&event=127"
+    },
+    {
+      "title": "Stargaze Station",
+      "artist": "seatrus(mov:SELDO(Illust:shi0n))",
+      "sourceId": "127-231",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=231&event=127"
+    },
+    {
+      "title": "Krave",
+      "artist": "litmus* as Ester(mov:なおや)",
+      "sourceId": "127-76",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=76&event=127"
+    },
+    {
+      "title": "8bit Voyager",
+      "artist": "Lime",
+      "sourceId": "127-285",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=285&event=127"
+    },
+    {
+      "title": "Ground Z.E.R.O.",
+      "artist": "kanone(mov:Love's Nonadeca)",
+      "sourceId": "127-327",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=327&event=127"
+    },
+    {
+      "title": "Another Day",
+      "artist": "GUANA(mov:LuCenT)",
+      "sourceId": "127-82",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=82&event=127"
+    },
+    {
+      "title": "introspect",
+      "artist": "Lokan",
+      "sourceId": "127-211",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=127"
+    },
+    {
+      "title": "花たちに希望を",
+      "artist": "Sound piercer feat.DAZBEE",
+      "sourceId": "127-276",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=276&event=127"
+    },
+    {
+      "title": "positive dance -BM9820A HYPER TEQNO nekomix-",
+      "artist": "Cranky remixed by ねこみりん / Cranky(mov:むらしん)",
+      "sourceId": "127-280",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=280&event=127"
+    },
+    {
+      "title": "something",
+      "artist": "dioptereD-Full (DJ.DAI & daiki*)(mov:zcm)",
+      "sourceId": "127-220",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=220&event=127"
+    },
+    {
+      "title": "ADRAMELECH",
+      "artist": "ikaruga(mov:ムッシュ竹崎)",
+      "sourceId": "127-183",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=183&event=127"
+    },
+    {
+      "title": "Fight Against Myself",
+      "artist": "rider(mov:iimo)",
+      "sourceId": "127-219",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=127"
+    },
+    {
+      "title": "Echoes from Pangaea",
+      "artist": "0310",
+      "sourceId": "127-16",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=16&event=127"
+    },
+    {
+      "title": "VANGUARD-1",
+      "artist": "II-L",
+      "sourceId": "127-204",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=204&event=127"
+    },
+    {
+      "title": "format0",
+      "artist": "Zris(雑味蔵)(mov:横尾太喵 (犬欲しい))",
+      "sourceId": "127-320",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=320&event=127"
+    },
+    {
+      "title": "Music for Life",
+      "artist": "FALL feat. elu_amaga",
+      "sourceId": "127-214",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=127"
+    },
+    {
+      "title": "NIGHTFALL",
+      "artist": "Est feat. 雪歌ユフ",
+      "sourceId": "127-228",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=127"
+    },
+    {
+      "title": "iRELLiA",
+      "artist": "HyuN / HyuN(mov:Haight)",
+      "sourceId": "127-65",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=65&event=127"
+    },
+    {
+      "title": "Apocaliptix",
+      "artist": "Juggernaut.(mov:Cube)",
+      "sourceId": "127-233",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=233&event=127"
+    },
+    {
+      "title": "GLaDOS",
+      "artist": "Avantgarde(mov:SELDO)",
+      "sourceId": "127-351",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=127"
+    },
+    {
+      "title": "It goes like Blink",
+      "artist": "Trerey-U",
+      "sourceId": "127-363",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=363&event=127"
+    },
+    {
+      "title": "Cyclone♠Joker",
+      "artist": "庭師(mov:SELDO)",
+      "sourceId": "127-357",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=357&event=127"
+    },
+    {
+      "title": "Verktix",
+      "artist": "MALVA.(RicoLys)(mov:Movie : raii)",
+      "sourceId": "127-222",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=127"
+    },
+    {
+      "title": "The Last Page",
+      "artist": "ARForest / inukoro(mov:inukoro)",
+      "sourceId": "127-163",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=163&event=127"
+    },
+    {
+      "title": "Celeste",
+      "artist": "ΣX3 / ΣX3(mov:yusi.)",
+      "sourceId": "127-284",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=284&event=127"
+    },
+    {
+      "title": "White Howlerz",
+      "artist": "Normal1zer(mov:Supa777)",
+      "sourceId": "127-221",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=221&event=127"
+    },
+    {
+      "title": "Dark Lune",
+      "artist": "LUNARiUM(mov:Supa777)",
+      "sourceId": "127-322",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=322&event=127"
+    },
+    {
+      "title": "カラッポ・ノンフィクション",
+      "artist": "Ino(chronoize) feat. 柳瀬マサキ(mov:TOHRU MiTSUHASHi)",
+      "sourceId": "127-288",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=127"
+    },
+    {
+      "title": "Second Synthesis",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)(mov:MUSH. T)",
+      "sourceId": "127-278",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=278&event=127"
+    },
+    {
+      "title": "Chimes",
+      "artist": "Aliesrite* (Ym1024 feat. lamie*)(mov:MUSH. T)",
+      "sourceId": "127-283",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=127"
+    },
+    {
+      "title": "Burn",
+      "artist": "NceS",
+      "sourceId": "127-187",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=187&event=127"
+    },
+    {
+      "title": "T3",
+      "artist": "T3trajectory",
+      "sourceId": "127-303",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=303&event=127"
+    },
+    {
+      "title": "Rubbish Sorting",
+      "artist": "Ctymax vs. NceS",
+      "sourceId": "127-343",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=343&event=127"
+    },
+    {
+      "title": "IN",
+      "artist": "Zris feat. Katie",
+      "sourceId": "127-354",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=354&event=127"
+    },
+    {
+      "title": "breathe",
+      "artist": "qfeileadh(mov:Maeus)",
+      "sourceId": "127-287",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=287&event=127"
+    },
+    {
+      "title": "Aurora",
+      "artist": "Lime",
+      "sourceId": "127-330",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=330&event=127"
+    },
+    {
+      "title": "Bluelily",
+      "artist": "eicateve x sam",
+      "sourceId": "127-332",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=332&event=127"
+    },
+    {
+      "title": "Seventh Summer of Love",
+      "artist": "void",
+      "sourceId": "127-361",
+      "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=361&event=127"
+    }
+  ]
+}
