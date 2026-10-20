@@ -15,7 +15,7 @@ const zh = {
   games: '小游戏', playBingo: '开始 Bingo →',
   friends: '友链', friendsDescription: '朋友们的博客与个人网站。', friendsIntro: '去朋友们的小屋坐坐。',
   friendsEmpty: '友链慢慢收集中', friendsEmptyHint: '这里会放上朋友们的博客。', visitFriend: '去逛逛 ↗',
-  language: '语言', chapter: '章节', phaseNotes: '相空间札记', seriesHeading: '专栏 · 卷册', emptySet: '空集',
+  language: '语言', chapter: '章节', phaseNotes: 'eRrion 的小屋', seriesHeading: '专栏 · 卷册', emptySet: '空集',
   home: '首页', posts: '文章', allPosts: '全部文章', series: '专栏',
   topics: '主题', otherSections: '其他栏目', about: '关于', search: '搜索', searchPosts: '搜索文章',
   skip: '跳到正文', browseSections: '浏览与栏目', explore: '浏览', mainNav: '主导航',
