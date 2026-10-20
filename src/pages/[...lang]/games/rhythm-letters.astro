@@ -15,7 +15,7 @@ const description = zh ? '音游开字母游戏，支持曲名和曲名加署名
       <h1>{title}</h1>
     </header>
     <div id="rhythm" data-lang={lang} data-url={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/data/rhythm-playable.json`} data-pagefind-ignore>
-      <p class="rules">{zh ? '开字符，猜完整答案；不区分大小写，无署名只猜曲名。' : 'Reveal characters and guess the full answer. Case ignored; no credit means title only.'}</p>
+      <p class="rules">{zh ? '开字符，猜完整曲名；不区分大小写，两种模式均无需输入署名。' : 'Reveal characters and guess the full title. Case ignored; no credit needed in either mode.'}</p>
       <details open class="setup">
         <summary>{zh ? '曲库与开局设置' : 'Libraries & round settings'}</summary>
         <div class="tools">
@@ -47,8 +47,8 @@ const description = zh ? '音游开字母游戏，支持曲名和曲名加署名
         </form>
         <p class="opened"><span>{zh ? '已开字符：' : 'Revealed: '}</span><span id="opened">—</span></p>
         <form id="guess-form" class="tools">
-          <label for="guess">{zh ? '猜完整答案' : 'Guess the full answer'}</label>
-          <input id="guess" autocomplete="off" placeholder={zh ? '曲名 - 署名' : 'Title - Credit'} required />
+          <label for="guess">{zh ? '猜完整曲名' : 'Guess the full title'}</label>
+          <input id="guess" autocomplete="off" placeholder={zh ? '完整曲名（无需署名）' : 'Full title (no credit needed)'} required />
           <button type="submit">{zh ? '提交答案' : 'Submit'}</button>
         </form>
         <div class="tools"><button id="finish" type="button">{zh ? '结束并揭晓' : 'End & reveal all'}</button><button id="copy" type="button">{zh ? '复制当前题面' : 'Copy board'}</button></div>
@@ -131,7 +131,6 @@ const description = zh ? '音游开字母游戏，支持曲名和曲名加署名
     songs = pickSongs(available, count); solved = new Set(); opened = new Set(); ended = false;
     roundMode = selectedMode();
     el('round-mode').textContent = roundMode === 'title' ? (zh ? '本局：只开曲名' : 'This round: Title only') : (zh ? '本局：曲名 - 署名' : 'This round: Title - Credit');
-    el<HTMLInputElement>('guess').placeholder = roundMode === 'title' ? (zh ? '完整曲名' : 'Full title') : (zh ? '曲名 - 署名' : 'Title - Credit');
     el('round').hidden = false;
     root.querySelector('details')!.open = false;
     el<HTMLInputElement>('guess').value = '';
@@ -147,10 +146,9 @@ const description = zh ? '音游开字母游戏，支持曲名和曲名加署名
     event.preventDefault();
     if (ended) return;
     const key = answerKey(el<HTMLInputElement>('guess').value);
-    const matches = songs.map((song, i) => answerKey(songText(song)) === key && !solved.has(i) ? i : -1).filter(i => i >= 0);
+    const matches = songs.map((song, i) => answerKey(song.title) === key && !solved.has(i) ? i : -1).filter(i => i >= 0);
     if (!matches.length) {
-      if (roundMode === 'title') say('没有匹配到尚未猜中的曲目，请检查完整曲名。', 'No unsolved answer matches. Check the full title.');
-      else say('没有匹配到尚未猜中的曲目，请检查完整的「曲名 - 署名」；无署名时只填曲名。', 'No unsolved answer matches. Check the full “Title - Credit”; use only the title for songs without a credit.');
+      say('没有匹配到尚未猜中的曲目，请检查完整曲名，无需输入署名。', 'No unsolved answer matches. Check the full title; no credit needed.');
       return;
     }
     matches.forEach(i => solved.add(i));
