@@ -122,6 +122,9 @@ const navigation = [
             <a href={`${base}/games/`} aria-current={isActive('/games') ? 'page' : undefined}>
               <span>{t.games}</span><small>06</small>
             </a>
+            <a href={`${base}/friends/`} aria-current={isActive('/friends') ? 'page' : undefined}>
+              <span>{t.friends}</span><small>07</small>
+            </a>
           </nav>
         </div>
         <div class="sidebar-note"><span>{t.posts} / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>{t.rss}</a></div>

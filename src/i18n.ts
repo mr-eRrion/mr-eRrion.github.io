@@ -13,6 +13,8 @@ export const htmlLang = (lang: Locale) => lang === 'zh' ? 'zh-CN' : 'en';
 
 const zh = {
   games: '小游戏', playBingo: '开始 Bingo →',
+  friends: '友链', friendsDescription: '朋友们的博客与个人网站。', friendsIntro: '去朋友们的小屋坐坐。',
+  friendsEmpty: '友链慢慢收集中', friendsEmptyHint: '这里会放上朋友们的博客。', visitFriend: '去逛逛 ↗',
   language: '语言', chapter: '章节', phaseNotes: '相空间札记', seriesHeading: '专栏 · 卷册', emptySet: '空集',
   home: '首页', posts: '文章', allPosts: '全部文章', series: '专栏',
   topics: '主题', otherSections: '其他栏目', about: '关于', search: '搜索', searchPosts: '搜索文章',
@@ -28,8 +30,8 @@ const zh = {
   partOf: '所属专栏', previous: '← 上一章', next: '下一章 →', backSeries: '返回专栏 →', fullContents: '查看完整目录',
   searchDescription: '搜索站内数学与物理文章。', searchIntro: '检索文章标题、正文以及数学与物理主题。',
   searchPlaceholder: '输入关键词……', aboutDescription: '关于 eRrion 的小屋。',
-  aboutHeading: '我是一个正在学习的人', aboutSubheading: '请和我交朋友', avatar: 'eRrion 的头像',
-  aboutIntro: '你好，我是 eRrion。这里是我整理数学与物理学习过程的笔记，偶尔随机掉落其他随笔。',
+  avatar: 'eRrion 的头像',
+  aboutIntro: '我是一个正在学习的人，请和我交朋友',
   aboutAside: '有哪些优秀的百合同人作品？', notFound: '页面未找到', notFoundHeading: '这个页面不存在。',
   notFoundIntro: '你可能来到了一片荒原', backHome: '返回首页', definition: '定义', theorem: '定理', proof: '证明', qed: '证毕',
   postCount: (n: number) => `${n} 篇文章`, chapterCount: (n: number) => `${n} 个章节`,
@@ -39,6 +41,8 @@ const zh = {
 };
 const en: typeof zh = {
   games: 'Mini games', playBingo: 'Play Bingo →',
+  friends: 'Friends', friendsDescription: 'Blogs and personal websites by friends.', friendsIntro: 'Drop by a friend’s corner of the web.',
+  friendsEmpty: 'More friends to come', friendsEmptyHint: 'Friends’ blogs will find a home here.', visitFriend: 'Visit website ↗',
   language: 'Language', chapter: 'Chapter', phaseNotes: 'Phase Space Notes', seriesHeading: 'Series · Monographs', emptySet: 'Empty set',
   home: 'Home', posts: 'Articles', allPosts: 'All articles', series: 'Series',
   topics: 'Topics', otherSections: 'Other sections', about: 'About', search: 'Search', searchPosts: 'Search articles',
@@ -54,8 +58,8 @@ const en: typeof zh = {
   partOf: 'Part of the series', previous: '← Previous chapter', next: 'Next chapter →', backSeries: 'Back to series →', fullContents: 'View all chapters',
   searchDescription: 'Search mathematics and physics articles.', searchIntro: 'Search article titles, text, and mathematics and physics topics.',
   searchPlaceholder: 'Enter keywords…', aboutDescription: 'About eRrion’s Corner.',
-  aboutHeading: 'I’m still learning.', aboutSubheading: 'Let’s be friends.', avatar: 'eRrion’s avatar',
-  aboutIntro: 'Hi, I’m eRrion. This is where I keep notes as I learn mathematics and physics, with the occasional essay on something else.',
+  avatar: 'eRrion’s avatar',
+  aboutIntro: 'I’m still learning. Let’s be friends.',
   aboutAside: 'Any good yuri fan works to recommend?', notFound: 'Page not found', notFoundHeading: 'This page doesn’t exist.',
   notFoundIntro: 'You may have wandered into the wilderness.', backHome: 'Back to home', definition: 'Definition', theorem: 'Theorem', proof: 'Proof', qed: 'End of proof',
   postCount: (n) => `${n} ${n === 1 ? 'article' : 'articles'}`, chapterCount: (n) => `${n} ${n === 1 ? 'chapter' : 'chapters'}`,

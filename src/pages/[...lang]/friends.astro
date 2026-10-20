@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { friends } from '../../data/friends';
+import { i18n, routeLocale, languagePaths } from '../../i18n';
+
+export const getStaticPaths = languagePaths;
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+const links = friends.map((friend) => {
+  const url = new URL(friend.url);
+  if (!['https:', 'http:'].includes(url.protocol)) {
+    throw new Error(`Invalid friend URL: ${friend.url}`);
+  }
+  return { ...friend, host: url.host };
+});
+---
+
+<BaseLayout title={`${t.friends} · ${site.title}`} description={t.friendsDescription}>
+  <section class="listing-shell" data-pagefind-body>
+    <header class="listing-header">
+      <span class="eyebrow">{t.otherSections}</span>
+      <h1>{t.friends}</h1>
+      <p>{t.friendsIntro}</p>
+    </header>
+    {links.length > 0 ? (
+      <div class="tag-grid friends-grid">
+        {links.map((friend) => (
+          <a href={friend.url} rel="friend">
+            <span>{friend.host}</span>
+            <h2>{friend.name}</h2>
+            <p>{friend.description[lang]}</p>
+            <p class="visit">{t.visitFriend}</p>
+          </a>
+        ))}
+      </div>
+    ) : (
+      <div class="friends-empty">
+        <h2>{t.friendsEmpty}</h2>
+        <p>{t.friendsEmptyHint}</p>
+      </div>
+    )}
+  </section>
+</BaseLayout>
+
+<style>
+  .friends-grid a { min-width: 0; overflow-wrap: anywhere; }
+  .friends-grid h2 { line-height: 1.5; }
+  .friends-grid p { font: 13px/1.8 var(--sans); }
+  .friends-grid .visit { margin-top: 24px; color: var(--blue); }
+  .friends-empty { margin-top: 24px; padding: 32px 24px; border: 1px solid var(--rule); }
+  .friends-empty h2 { margin: 0 0 12px; font: 400 24px/1.5 var(--serif); }
+  .friends-empty p { margin: 0; color: var(--ink-soft); font-size: 13px; line-height: 1.8; }
+</style>

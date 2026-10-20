@@ -9,11 +9,11 @@ const { t, site } = i18n(lang);
 
 <BaseLayout title={`${t.about} · ${site.title}`} description={t.aboutDescription}>
   <section class="about-shell" data-pagefind-body>
-    <header><span class="eyebrow">{t.about.toUpperCase()}</span><h1>{t.aboutHeading}<br />{t.aboutSubheading}</h1></header>
+    <header><span class="eyebrow">{t.about.toUpperCase()}</span><h1>{site.title}</h1></header>
     <div class="about-grid">
       <div class="about-aside">
         <img src={`${assetBase}/chara.png`} alt={t.avatar} width="230" height="230" />
-        <p>eRrion<br />{t.phaseNotes.toUpperCase()}</p>
+        <p>eRrion</p>
       </div>
       <div class="about-copy">
         <p class="lead">{t.aboutIntro}</p>
