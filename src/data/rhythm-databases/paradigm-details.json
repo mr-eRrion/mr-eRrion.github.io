@@ -1,0 +1,19 @@
+{
+  "id": "paradigm-details",
+  "game": "Paradigm:Reboot",
+  "url": "https://wikiwiki.jp/paradigm_/",
+  "retrievedAt": "2026-10-20",
+  "creditType": "in-game-credit",
+  "retrieval": "Reviewed public page excerpts. Hash covers JSON.stringify(records.map(({sourceUrl, sourceExcerpt}) => ({sourceUrl, sourceExcerpt}))), not full remote pages.",
+  "rawSha256": "25ec2b2f46f5fd03e4e6a4bc956f457d2e7f9d06dbb05231924b2da30554473e",
+  "records": [
+    {
+      "title": "resoLve",
+      "artist": "Halv",
+      "sourceId": "/paradigm_/resoLve",
+      "sourceUrl": "https://wikiwiki.jp/paradigm_/resoLve",
+      "sourceExcerpt": "|>|>|>|LEFT:~&size(20){resoLve};|\n|>|~アーティスト|>|>|Halv|"
+    }
+  ],
+  "selection": "Reviewed missing titles only; existing matches and conflicts are not overridden."
+}

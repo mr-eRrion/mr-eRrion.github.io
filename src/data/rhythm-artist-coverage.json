@@ -1,109 +1,30 @@
 {
   "retrievedAt": "2026-10-20",
-  "totalEntries": 13911,
-  "matchedEntries": 12149,
-  "trackRecords": 12151,
+  "totalEntries": 13938,
+  "matchedEntries": 12252,
+  "trackRecords": 12258,
   "games": {
     "Phigros": {
       "total": 327,
-      "matched": 307,
-      "trackRecords": 307,
-      "sourceRows": 311,
-      "conflicts": [
-        {
-          "title": "Another Me",
-          "candidates": [
-            {
-              "title": "Another Me",
-              "artist": "D_AAN",
-              "line": 113,
-              "source": "phigros"
-            },
-            {
-              "title": "Another Me",
-              "artist": "Neutral Moon",
-              "line": 114,
-              "source": "phigros"
-            }
-          ]
-        }
-      ],
-      "missing": [
-        "Entrance to the Chaos",
-        "Exoplanetary Mirage",
-        "True Home, True World (Rework)",
-        "Ametrine",
-        "Petrichor",
-        "ハテ",
-        "Desultory Signals",
-        "Message",
-        "What do you want more than a Happy ending?",
-        "Cryogenic",
-        "Implexrough",
-        "Evanescent",
-        "About The Universe",
-        "星拂云锦 feat. koi",
-        "Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-",
-        "Spasmodic (Haocore Mix)",
-        "Oblivion: PHIN",
-        "[PRAW]",
-        "贝多芬祝福 (Beethoven Blessing)"
-      ]
+      "matched": 327,
+      "trackRecords": 328,
+      "sourceRows": 330,
+      "conflicts": [],
+      "missing": []
     },
     "Arcaea": {
       "total": 634,
-      "matched": 594,
-      "trackRecords": 596,
-      "sourceRows": 550,
+      "matched": 634,
+      "trackRecords": 636,
+      "sourceRows": 571,
       "conflicts": [],
-      "missing": [
-        "Château de cartes",
-        "⊥⊬",
-        "Ember",
-        "Cataclysm Cry",
-        "DEINOS PHAINEIN",
-        "DIE IN",
-        "Balor",
-        "DREAD AREA",
-        "un",
-        "Riven Pilgrimage",
-        "Love me, Love me, Love me",
-        "MIRROR (kamome sano remix)",
-        "Axium Divergence",
-        "キャラメルポップコーンたべたいよ~",
-        "Anokumene",
-        "神奈川電腦暗渠",
-        "始マりノ詩",
-        "Opium and Purple haze",
-        "guardina",
-        "ピコPico*とらんすれーしょんっ！",
-        "緋色月下 狂咲ノ絶 (nayuta 2017 ver.)",
-        "LIVHT MY WΔY",
-        "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
-        "World Fragment III (radio edit)",
-        "一輪",
-        "disintergration",
-        "妖艷魔女 -trappola bewitching-",
-        "Last | Moment",
-        "Last | Eternity",
-        "Romance Wars",
-        "AI[UE]OON",
-        "neo kosmo",
-        "光速神授説 -Divine Light of Myriad-",
-        "aterlbus",
-        "Misdeed -la bonté de Dieu et l'origine du mal-",
-        "業 -善なる神とこの世の悪について-",
-        "w4",
-        "[X]",
-        "II",
-        "Word Problems"
-      ]
+      "missing": []
     },
     "Rotaeno": {
       "total": 427,
-      "matched": 410,
-      "trackRecords": 410,
-      "sourceRows": 427,
+      "matched": 405,
+      "trackRecords": 405,
+      "sourceRows": 428,
       "conflicts": [],
       "missing": [
         "Take U Higher",
@@ -114,6 +35,11 @@
         "Dextroqpella",
         "[C]ENti_mentAL",
         "Provison",
+        "Break Through Myself feat. Risa yuzuki",
+        "Awaken in Ruins",
+        "Huggy wuggy",
+        "Alfheim's faith",
+        "Lonely Departure",
         "恶修女——永火熔铸",
         "^/7(L|?[_(L+#<>+&|^(o)",
         "Sweet Dreams (short ver.)",
@@ -127,21 +53,22 @@
     },
     "Rizline": {
       "total": 148,
-      "matched": 145,
-      "trackRecords": 145,
+      "matched": 144,
+      "trackRecords": 144,
       "sourceRows": 150,
       "conflicts": [],
       "missing": [
         "ZEUS ♰ 666",
         "Dot! Watch out!",
-        "FRIEND"
+        "FRIEND",
+        "RapTure"
       ]
     },
     "Orzmic": {
       "total": 214,
-      "matched": 200,
-      "trackRecords": 200,
-      "sourceRows": 228,
+      "matched": 197,
+      "trackRecords": 197,
+      "sourceRows": 230,
       "conflicts": [
         {
           "title": "Cryheart",
@@ -182,22 +109,25 @@
         "麦乡",
         "Iris",
         "FORRBIDDEN MAGICKA",
-        "心機一轉[白]",
-        "エセ交響詩[若き白の女王]",
+        "Forget Me Not",
         "アルデバランの理想乡",
         "UИOHЯ1Λ: Seventh Syberia Strike",
         "Interference",
+        "Rainbow",
+        "Elegy for the betrayed",
+        "somebody",
         "Hypothesis",
         "坠光の都市より",
         "Candy Bomb!!",
+        "星相运轨-The Fake of Endcat-(Badcore Mix)",
         "永雨妈妈。人生是旷野江清-(notBadcore MIX)"
       ]
     },
     "Cytus II": {
       "total": 680,
-      "matched": 658,
-      "trackRecords": 658,
-      "sourceRows": 694,
+      "matched": 649,
+      "trackRecords": 649,
+      "sourceRows": 695,
       "conflicts": [
         {
           "title": "The Whole Rest",
@@ -287,18 +217,27 @@
       ],
       "missing": [
         "Fireflies",
-        "digitAl pun[K]",
+        "The Cross (Feat. Silvia Su)",
         "II-V",
         "バステット [Cytus II Edit]",
         "非·現実逃避",
         "非·現実逃避 Rabpit Remix",
         "Go Advanture!",
         "Whisper in my Head",
+        "Samurai",
+        "Inari",
+        "change",
+        "Bring the light",
+        "Make U Mine",
+        "Perspectives",
+        "Drop The World",
         "R.I.P.",
         "mirai (Prod. ✰Taku Takahashi)",
         "ManiFesto",
         "小悪魔×3の大脫走！？",
         "Memory Unit [A1]",
+        "Break Through The Barrier",
+        "Break The Core",
         "DON'T LISTEN TO THIS WHILE DRVING",
         "[SILENT[[·-·]]MOMENT]",
         "白の影、蒼の影。",
@@ -306,76 +245,18 @@
       ]
     },
     "Paradigm:Reboot": {
-      "total": 426,
-      "matched": 402,
-      "trackRecords": 402,
-      "sourceRows": 429,
-      "conflicts": [
-        {
-          "title": "OMG",
-          "candidates": [
-            {
-              "title": "OMG",
-              "artist": "Dopam!ne vs zEnsEn",
-              "line": 183,
-              "source": "paradigm"
-            },
-            {
-              "title": "OMG",
-              "artist": "Halv",
-              "line": 360,
-              "source": "paradigm"
-            }
-          ]
-        },
-        {
-          "title": "Alexandrite",
-          "candidates": [
-            {
-              "title": "Alexandrite",
-              "artist": "onoken",
-              "line": 215,
-              "source": "paradigm"
-            },
-            {
-              "title": "Alexandrite",
-              "artist": "WAiKURO",
-              "line": 404,
-              "source": "paradigm"
-            }
-          ]
-        }
-      ],
-      "missing": [
-        "タイムラインの向こう",
-        "SING A LOUD",
-        "ゆめのまもの",
-        "思春期AI Syndrome",
-        "＊･ﾟCanopy+｡.°",
-        "Nox Sliva",
-        "Cereris （Original Mix）",
-        "Traveler ~Stand Aloof~ （Paradigm Edit.）",
-        "Rrhar'ilREDASH",
-        "アイム·マイヒーロー",
-        "爱上想象的你 (feat. 穆小冷)",
-        "resoLve",
-        "DivergencePantomime",
-        "Fracture Temporelle （Paradigm Edit.）",
-        "[PRAW] （Paradigm Edit.）",
-        "The Grand F-STAR （Paradigm Edit.）",
-        "SHIFT (·ω·)",
-        "InfomorphFinal Farewell",
-        "Take On The H.E.A.T!!!",
-        "9876734123Tomoshibi",
-        "Twilight Concerto （A.K.A. 黄昏の協奏曲）",
-        "Colourless Coldness"
-      ]
+      "total": 430,
+      "matched": 430,
+      "trackRecords": 432,
+      "sourceRows": 434,
+      "conflicts": [],
+      "missing": []
     },
     "TAKUMI³": {
       "total": 272,
       "matched": 266,
       "trackRecords": 266,
-      "sourceRows": 276,
+      "sourceRows": 277,
       "conflicts": [
         {
           "title": "OMG",
@@ -397,30 +278,32 @@
       ],
       "missing": [
         "Cipher : /2&//<|0",
+        "MAZE",
         "Paradise",
         "WORLD sketched MAN",
-        "ZEUS ♰ 666",
-        "[410]:Odyssey"
+        "ZEUS ♰ 666"
       ]
     },
     "vivid/stasis": {
       "total": 206,
-      "matched": 191,
-      "trackRecords": 191,
-      "sourceRows": 247,
+      "matched": 189,
+      "trackRecords": 189,
+      "sourceRows": 252,
       "conflicts": [],
       "missing": [
         "Farewell to Syzygia",
         "execution_program",
         "Crimson Dance (vivid/stasis Edit)",
-        "Nightshade",
         "SEIKAISEN::OBSERVER",
         "There",
         "G e n g a o z o",
         "3,2,1 Let's Go",
+        "Mysterious Trigger",
         "BEATROCK (get it? )",
+        "Proper Rhythm",
         "Worn Out Tapes [tally-ho! version]",
         "Star Dream -Millenium Version-",
+        "When The Dragon Falls",
         "Scarlet Death",
         "Goodbye To Your Vicious Cycles",
         "Era Chimaera",
@@ -429,23 +312,54 @@
     },
     "Deemo": {
       "total": 449,
-      "matched": 434,
-      "trackRecords": 434,
+      "matched": 403,
+      "trackRecords": 403,
       "sourceRows": 477,
       "conflicts": [],
       "missing": [
+        "Jumpy Star",
+        "Beyond the stratus",
+        "Suspenseful third day",
+        "Living In The one",
         "Shadow in the mirrow",
+        "Nightfall",
         "Ensenble Curtain Fall",
+        "Witch Hunting",
         "Matricaria -Paza cfzj ze Epfbfzm-",
         "Epilogue",
         "Valle De Los Caídos",
         "The 105th Days",
+        "Amber Wishes (DEEMO edit)",
+        "A Collection of names",
         "Rhapsody on a Theme of Aud Beaf",
         "Sonata for Bygone Piano",
+        "Starry night",
+        "Girl meets World",
+        "naughty Cats",
+        "Vivere La vita",
         "Ephemeal",
         "Music. The Eternity of Us",
+        "CREAM STEW (DEEMO Ver.)",
+        "I can not say (DEEMO Ver.)",
+        "Image (DEEMO Ver.)",
+        "kireigoto (DEEMO Ver.)",
+        "NEW WORLD (DEEMO Ver.)",
+        "Everybody Koishiteru (DEEMO Ver.)",
+        "Lassi (DEEMO Ver.)",
+        "Platonic Electro (DeEMO Ver.)",
+        "Travelling (DEEMO Ver.)",
+        "Winter (Deemo ver.)",
+        "Beyond the Altostratus (DEEMO Ver.)",
+        "Continuum (DEEMO Ver.)",
         "Don`t go - stay with me forever",
+        "glory day (DEEMO Arr.)",
+        "Far East Princess (DEEMO Arr.)",
+        "OBLIVION (DEEMO Arr.)",
+        "Heart of Witch (DEEMO Arr.)",
+        "Nightmare (DEEMO Arr.)",
         "Fighting Spirit",
+        "snow thaw",
+        "liar",
         "Let's Meet Here Again",
         "Symphonic Poem \"Forbidden Love\"",
         "Ms.Velmunda and the Crystal Ark"
@@ -453,9 +367,9 @@
     },
     "Deemo II": {
       "total": 584,
-      "matched": 520,
-      "trackRecords": 520,
-      "sourceRows": 1067,
+      "matched": 517,
+      "trackRecords": 517,
+      "sourceRows": 1069,
       "conflicts": [
         {
           "title": "Rain Carnation,Ruin Lilac",
@@ -648,35 +562,6 @@
           ]
         },
         {
-          "title": "SnowFlake",
-          "candidates": [
-            {
-              "title": "Snowflake",
-              "artist": "H△G",
-              "line": 519,
-              "source": "deemo2"
-            },
-            {
-              "title": "SnowFlake",
-              "artist": "Lunatic Sounds",
-              "line": 520,
-              "source": "deemo2"
-            },
-            {
-              "title": "SnowFlake",
-              "artist": "Lunatic Sounds",
-              "line": 192,
-              "source": "deemo2albums"
-            },
-            {
-              "title": "Snowflake",
-              "artist": "H△G",
-              "line": 533,
-              "source": "deemo2albums"
-            }
-          ]
-        },
-        {
           "title": "doll eyes",
           "candidates": [
             {
@@ -740,35 +625,6 @@
               "title": "Veritas",
               "artist": "Presti",
               "line": 372,
-              "source": "deemo2albums"
-            }
-          ]
-        },
-        {
-          "title": "Snowflake",
-          "candidates": [
-            {
-              "title": "Snowflake",
-              "artist": "H△G",
-              "line": 519,
-              "source": "deemo2"
-            },
-            {
-              "title": "SnowFlake",
-              "artist": "Lunatic Sounds",
-              "line": 520,
-              "source": "deemo2"
-            },
-            {
-              "title": "SnowFlake",
-              "artist": "Lunatic Sounds",
-              "line": 192,
-              "source": "deemo2albums"
-            },
-            {
-              "title": "Snowflake",
-              "artist": "H△G",
-              "line": 533,
               "source": "deemo2albums"
             }
           ]
@@ -1013,29 +869,6 @@
           ]
         },
         {
-          "title": "Hydrangea",
-          "candidates": [
-            {
-              "title": "hydrangea",
-              "artist": "yourmythos",
-              "line": 258,
-              "source": "deemo2"
-            },
-            {
-              "title": "Hydrangea",
-              "artist": "Musicarus",
-              "line": 259,
-              "source": "deemo2"
-            },
-            {
-              "title": "Hydrangea",
-              "artist": "Musicarus",
-              "line": 935,
-              "source": "deemo2albums"
-            }
-          ]
-        },
-        {
           "title": "Hakoniwa Daybreak",
           "candidates": [
             {
@@ -1078,6 +911,7 @@
         "また会える日まて",
         "Secret PlaceInaequalis Stella",
         "Chopin - Op.64 No.2",
+        "Rachmaninoff - Paganini Variation No.18 (Arrangement for Piano Solo)",
         "Mozart - Serenade in G Major,K.525",
         "Chopin - Waltz in A Minor, B.150,Op.PosthChopin - Etude Op.10 No.12 \"Revolutionary\"",
         "Clementi - Piano Sonatina Op.36 No.6 Mov.1",
@@ -1091,7 +925,11 @@
         "White CloverGalanthus - Vo.加藤はるか",
         "l'aurore",
         "再星のカゲラ",
+        "statiØn -Last train bound for saihate.-",
+        "Time goes by",
         "bAllAdNo+e o/= Hope",
+        "A rift in the clouds",
+        "Life Review",
         "Dream to you...",
         "re:con[figurar]Chamber of Shackles",
         "Hope for Stars",
@@ -1104,22 +942,25 @@
         "ディアよスポ一ルよ、永遠に",
         "Cinza de RoxoRemember",
         "son nani watashi wo…",
-        "AitaiNier Fluquor"
+        "AitaiNier Fluquor",
+        "Hana no kotoba"
       ]
     },
     "InFalsus": {
       "total": 75,
-      "matched": 75,
-      "trackRecords": 75,
+      "matched": 74,
+      "trackRecords": 74,
       "sourceRows": 81,
       "conflicts": [],
-      "missing": []
+      "missing": [
+        "Now I Know"
+      ]
     },
     "Lanota": {
       "total": 723,
-      "matched": 692,
-      "trackRecords": 692,
-      "sourceRows": 881,
+      "matched": 688,
+      "trackRecords": 688,
+      "sourceRows": 883,
       "conflicts": [
         {
           "title": "The Promised Land",
@@ -1281,29 +1122,33 @@
         "The Daybreak Will Never Come Again.",
         "Tenten (New Vocal Version)",
         "ZENITHALIZE (Alternative Guitar Solo ver.)",
+        "Lonely Departure",
         "Sol e Mar",
         "Miracle Sugite Yabai (feat. shully)",
         "Frost Burn",
+        "suisou ni shizumu machi",
         "Hidden Intentions (feat. TRI△NGLE)",
         "Deadeye \"Lanota Edit\"",
         "MIDI Slayer (Lanota Ver.)",
         "Receives (game edit)",
         "The Highway No.105 |XXX|",
+        "kaerizaki",
         "Sunny Side Up↗️↗️ (Lanota Edit)",
+        "About the Universe 2019",
         "Hyperlight. (feat. Tsuyurikarin)",
         "Carmen Silvaticum",
         "Unusual Sktechbook",
         "Oniichan to…",
         "Hooray! Changing seats!",
-        "Villain Virus [feat. Camellia]",
+        "Hope for the flowers",
         "Almana Intacta",
         "PLAYERRRS!!"
       ]
     },
     "Dynamix": {
       "total": 565,
-      "matched": 467,
-      "trackRecords": 467,
+      "matched": 460,
+      "trackRecords": 460,
       "sourceRows": 500,
       "conflicts": [],
       "missing": [
@@ -1344,6 +1189,7 @@
         "Blue Sphere",
         "Elph's Sadness -DNX Edit-",
         "GOEMONGo Escape",
+        "Crank up",
         "Tunneling",
         "^/7(L|?[_(L+#<>+&|^(o)",
         "夏色メラソコリー",
@@ -1356,6 +1202,7 @@
         "ムーンリット·ワンダラー",
         "脱潾",
         "FREEZEAlone",
+        "sleepless",
         "The Dystopia's Tomorrow",
         "The Defiant's Anthem",
         "活著",
@@ -1386,11 +1233,15 @@
         "Gray Horse UnderworldVoyangers",
         "Rising Soul -DNX Edit-",
         "Dyspnea -DNX Edit-",
+        "Danse de Romani",
+        "WaH!",
+        "duet",
         "White Chocolate (dynamix edit)Crystal Ribbon",
         "Ace Sniper (DNX edit)",
         "HEADROON WITH PLEASANT RHYTHM",
         "-奏-KANADE-",
         "In Search Of…",
+        "Rave! and Get On It!",
         "Ängstlicher VermeidenderMarsh Winds",
         "Grayscale Tragedy",
         "Horloge",
@@ -1404,72 +1255,16 @@
         "Secret Illumination",
         "Starlight Traveler",
         "vs.TREAMEЯ",
+        "Bewitched",
         "ǝɹǝɥdsᴉɯǝH"
       ]
     },
     "BOF": {
       "total": 1848,
-      "matched": 927,
-      "trackRecords": 927,
+      "matched": 885,
+      "trackRecords": 885,
       "sourceRows": 966,
       "conflicts": [
-        {
-          "title": "PHYSALIS",
-          "candidates": [
-            {
-              "title": "physalis",
-              "artist": "atmbzk(mov:Y.A.B.tutidama)",
-              "sourceId": "116-197",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=197&event=116",
-              "source": "bof-116"
-            },
-            {
-              "title": "PHYSALIS",
-              "artist": "TAG(mov:ShakeJ)",
-              "sourceId": "146-125",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=125&event=146",
-              "source": "bof-146"
-            }
-          ]
-        },
-        {
-          "title": "dreaming",
-          "candidates": [
-            {
-              "title": "DREAMING",
-              "artist": "h0pe",
-              "sourceId": "110-346",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=346&event=110",
-              "source": "bof-110"
-            },
-            {
-              "title": "dreaming",
-              "artist": "LeCiel feat. 蔡花零(mov:sowol&Bustge)",
-              "sourceId": "116-45",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=45&event=116",
-              "source": "bof-116"
-            }
-          ]
-        },
-        {
-          "title": "Vista",
-          "candidates": [
-            {
-              "title": "VISTA",
-              "artist": "tanacoro(mov:5argon)",
-              "sourceId": "116-21",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=21&event=116",
-              "source": "bof-116"
-            },
-            {
-              "title": "Vista",
-              "artist": "Aliesrite* (Ym1024 feat. lamie*)(mov:Landscaper, retu)",
-              "sourceId": "140-476",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=476&event=140",
-              "source": "bof-140"
-            }
-          ]
-        },
         {
           "title": "LIFE",
           "candidates": [
@@ -1486,13 +1281,6 @@
               "sourceId": "142-351",
               "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=351&event=142",
               "source": "bof-142"
-            },
-            {
-              "title": "Life",
-              "artist": "Ferrum / MetaGalaxy",
-              "sourceId": "88-48",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=48&event=88",
-              "source": "bof-88"
             }
           ]
         },
@@ -1554,25 +1342,6 @@
           ]
         },
         {
-          "title": "echo",
-          "candidates": [
-            {
-              "title": "Echo",
-              "artist": "wheatfox",
-              "sourceId": "140-84",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=84&event=140",
-              "source": "bof-140"
-            },
-            {
-              "title": "echo",
-              "artist": "黒皇帝 feat. qfeileadh + 高城みよ(mov:DARUMUL)",
-              "sourceId": "140-250",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=250&event=140",
-              "source": "bof-140"
-            }
-          ]
-        },
-        {
           "title": "Escape",
           "candidates": [
             {
@@ -1618,25 +1387,6 @@
           ]
         },
         {
-          "title": "Fever",
-          "candidates": [
-            {
-              "title": "Fever",
-              "artist": "NceS",
-              "sourceId": "133-445",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=445&event=133",
-              "source": "bof-133"
-            },
-            {
-              "title": "FEVER",
-              "artist": "Spiral_",
-              "sourceId": "149-137",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=137&event=149",
-              "source": "bof-149"
-            }
-          ]
-        },
-        {
           "title": "Rebirth",
           "candidates": [
             {
@@ -1675,25 +1425,6 @@
           ]
         },
         {
-          "title": "Another",
-          "candidates": [
-            {
-              "title": "ANOTHER",
-              "artist": "邑符窮承 vs. Hydorian",
-              "sourceId": "140-489",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=489&event=140",
-              "source": "bof-140"
-            },
-            {
-              "title": "Another",
-              "artist": "polycube",
-              "sourceId": "88-259",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=259&event=88",
-              "source": "bof-88"
-            }
-          ]
-        },
-        {
           "title": "Finale",
           "candidates": [
             {
@@ -1709,44 +1440,6 @@
               "sourceId": "149-288",
               "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=288&event=149",
               "source": "bof-149"
-            }
-          ]
-        },
-        {
-          "title": "Nightfall",
-          "candidates": [
-            {
-              "title": "NIGHTFALL",
-              "artist": "Est feat. 雪歌ユフ",
-              "sourceId": "127-228",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=127",
-              "source": "bof-127"
-            },
-            {
-              "title": "nightfall",
-              "artist": "ginkiha",
-              "sourceId": "96-252",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=252&event=96",
-              "source": "bof-96"
-            }
-          ]
-        },
-        {
-          "title": "Fin",
-          "candidates": [
-            {
-              "title": "FIN",
-              "artist": "4ZR(RUMMER)",
-              "sourceId": "74-326",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=326&event=74",
-              "source": "bof-74"
-            },
-            {
-              "title": "fin",
-              "artist": "azu",
-              "sourceId": "88-188",
-              "sourceUrl": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=188&event=88",
-              "source": "bof-88"
             }
           ]
         },
@@ -1786,6 +1479,7 @@
         "Diphylleia (山荷叶)",
         "[BOF21]Implode",
         "Girouette dorée",
+        "Idency",
         "Rainy Float feat. ポリセ",
         "White Petals for the Unspoken (Instrumental Ver.)",
         "Egoistential/何以为我",
@@ -1817,6 +1511,7 @@
         "Sunny",
         "Θrbit",
         "Now in the Castle Age (2018 Remix)",
+        "NeutrΦn Reaper",
         "Colorful Polytope(Extended Mix)",
         "Mugikamagika [GdbG ver.]",
         "Ayame In Wonderland -Fantasy Mix-",
@@ -1824,6 +1519,7 @@
         "IOR (Extended mix)",
         "τ (tau) exτended",
         "loneliness -extended edit-",
+        "the diary of starfall",
         "SKYTAKER(prototype)",
         "THEY'RE COMING!! (Extended)",
         "魚の目 (dub mix)",
@@ -1857,14 +1553,17 @@
         "XX Rising2024 XX ver. BOF",
         "Being The Vacuous（VIP）",
         "2to-2second-2enith(24-02-22 ver.)",
+        "random 431!!!",
         "THE UPHEAVAL LOCUS",
         "Peaceful Neighborhood Dash",
+        "¡Viva la Speedcore!",
         "はなびのうた",
         "Heartfelt: Brown Sugar Rush!",
         "ふわり。",
         "Domination & Submission (HH mix)",
         "Wakame Dance (Dried UP TANAGEN REFIX)",
         "Burning×Warning! feat. はらもりよしな",
+        "Squashmusic.meme",
         "Wrong night feat. ふじてん",
         "Angelic Photon (Extended Mix)",
         "Inflow (Extended Mix)",
@@ -1872,6 +1571,7 @@
         "Space Route to Kepler-186f (Extended Mix)",
         "RETROCONNECTION (Extended Mix)",
         "Beyond the Solar System (Long ver.)",
+        "Between a Non-Existent Reality",
         "Kirakirize World （Extended）",
         "天鹅之舞-Dance of the Swan",
         "ENFP in Emotion",
@@ -1946,6 +1646,7 @@
         "モノリスの園",
         "Quickening 2 the RED",
         "Phantasmagoria (Original Mix)",
+        "Total Eclipse of The Sun",
         "Sacrifice",
         "Be With U (Extended Mix)",
         "Night Resolution (Extended Mix)",
@@ -1956,10 +1657,12 @@
         "Endless Journey",
         "Mind Quest",
         "雪月夜鐘",
+        "Eye Light",
         "#狂った民族 AGNIKAYANIZM",
         "astral.exe (Nirotiy's interstellar.dll remix)",
         "APOCALYPTICA (feat. 符白牙)",
         "Forgotten City(Demo)",
+        "Belle de nuit",
         "Shattered Impulse",
         "苍青漩流-AquaFlow",
         "Rush-Hour EX",
@@ -1969,7 +1672,9 @@
         "ε-δ",
         "Ereshkigal",
         "Retroactive Rain",
+        "The World of Cyber",
         "WATAGASHI RUSH",
+        "Nostalgic yume",
         "AeroXea(Full Version)",
         "Termination",
         "Time to beat the odds (extended)",
@@ -2044,6 +1749,7 @@
         "U SAiD (\"FiRST\" Long Ver.)",
         "NceS-burn(Haocore Mix)（Daily天利 remix）",
         "JULIAN",
+        "schicksal",
         "Song -Begin Nostalgia-",
         "ハッピーフェイクショー (feat. はぁち)",
         "お兄火 (feat. はぁち)",
@@ -2051,6 +1757,7 @@
         "Ops:Limone -FINAL EX-",
         "Head BONK ache (feat. kei_iwata & qfeileadh)",
         "[BOF:ET]ABSOLUTE DARK",
+        "GazingAtsky",
         "The Apocalypse",
         "Illusion of Inflict",
         "Psychedelic Syndrome",
@@ -2067,6 +1774,7 @@
         "Wild Animal",
         "Call Of City (Original Mix)",
         "Autumn",
+        "alkaline hallucinations",
         "聖 -アスパラギン極楽- (BOF:ET Not Free wxfk)",
         "【BOF:ET】TaimeSSS (2022.8",
         "人鱼电台 feat.兰音Reine",
@@ -2074,6 +1782,7 @@
         "決死のレイブ～RAVE W!TH ME (BMS ED!T)",
         "冰花-Ice Flower",
         "XtR;Blue (Reprise)",
+        "Before It Ends",
         "獅子舞 (feat. Pica)",
         "U Gotta Party (Original Extended)",
         "furioso melodia",
@@ -2082,6 +1791,7 @@
         "Night Queen (ANKI'z Hardstyle Remix)",
         "starshore",
         "PuppyMill (広有射怪鳥事　～ Till When?)",
+        "Kusanagi",
         "DISCHARGE RUSH (Arch remix)",
         "T'Suramic (2017 mix)",
         "L'amour D'amour",
@@ -2098,6 +1808,7 @@
         "last decisive -Another Edit-",
         "Scorpion Dance -innova nation VIP-",
         "reliance (feat. madoka*) [Extended Mix]",
+        "At the Ground's Edge",
         "Song -Glory of time's Oblivion-",
         "C0nclsIon",
         "Technobeat (refine)",
@@ -2109,6 +1820,7 @@
         "Gazin’ U Tonight",
         "Wings of Silence (feat. Pica)",
         "熱帯夜の祭り (feat. Pica)",
+        "Sunshine Dance",
         "recollect (Street Remix)",
         "おでんぱ☆ラヴガール",
         "Guess What? (Extended Mix)",
@@ -2172,8 +1884,10 @@
         "Sunny Day, Funny Day (feat. まるもこ & あいの)",
         "God in the Tunnel (BOFXVII)",
         "Prayer (feat. Greetea)",
+        "Jello Jelly",
         "彼女が告白をした理由 (feat. かずらなつ)",
         "Paradigm Shift (Original Mix)",
+        "A Gleam For The Sightless",
         "ぱぴぽ？ (feat. まるもこ)",
         "Your Smile (Extended Mix)",
         "ゼイタクするまで抱きしめて (long Ver.)",
@@ -2182,6 +1896,7 @@
         "Cutter (Extended Mix)",
         "告白进行中",
         "παρασιτώο",
+        "Sprinting Coastline",
         "Sunset Toybox (feat. 桃雛なの) [Full Length]",
         "ニニ (feat. Qayo & mii)",
         "hallucia (as Gsus)",
@@ -2200,14 +1915,17 @@
         "インフェルノシティ (feat. はぁち)",
         "せんせーしょん！ (feat. 妃苺) [Album Ver.]",
         "竹 (feat. ちょこ)",
+        "ULTRA HAPPY MIRACLE BAZOOOOOKA!!",
         "White Out",
         "水晶世界 ～Fracture ext～ テスト",
         "symbolic gear",
         "Warlords of Atlantis",
         "Bliss (Extended Mix)",
         "Altersist (feat. えば)",
+        "Vallista",
         "axs (full length version)",
         "Lost My Love (update)",
+        "Driftwords",
         "Snowfairy (Original mix)",
         "トラワレ少女",
         "メロンクリームソーダ概論Ⅱ",
@@ -2229,12 +1947,17 @@
         "ReLieX (Extended Mix)",
         "Computer FREAKS!!!!!!",
         "Astar (Extended)",
+        "Lilith Ambivalence Lovers",
+        "This Club is Not 4 U",
+        "I Wanna Be Strongeeeer",
         "energy trixxx (HAMA remix)",
+        "Glados",
         "Kung-gu Emperor (TRINITRONIC Trap Mix)",
         "Prizm",
         "GOODBOUNCE(Groove Edit)",
         "告白・告別",
         "Angel's Salad ('Le mythe йtendu' ver.)",
+        "What Is Enthusiasm",
         "Vanishing Glimmer(BMS Edit)",
         "Lunatic Rave Extend",
         "現世発、希望行。 終着。",
@@ -2270,9 +1993,11 @@
         "Angel dust",
         "Endless journey (Druggy's_remix)",
         "貴方の居る場所",
+        "It goes like blink",
         "Circulation (liquid funk mix)",
         "Shadow Ray",
         "Twilight of Anemone (feat. 橘花音)",
+        "sanity withdrawal",
         "Nuts -Side B+-",
         "Charging Up for the Struggle",
         "ha＠ppy s＠mmer v＠c＠tion!! (Long ver.)",
@@ -2289,12 +2014,14 @@
         "Game Ride(GdbG ver.)",
         "Sparkling☆Sunshine!! [Beyond the Future]",
         "FLASHBACK (REPRISE)",
+        "Echoes From Pangaea",
         "Placebo(delirium) --r",
         "TEXTURE VIP",
         "LEVEL-DOWN(Extended Mix)",
         "contemplate (extended mix)",
         "c.s.q.n.(\"GdbG\" Extended Mix)",
         "Rush-More VIP",
+        "Ruby",
         "Freefloat (Original Mix)",
         "The Sundering, at the end of the Hadean Eon",
         "Mortuary(Gdbg edit)",
@@ -2380,6 +2107,7 @@
         "Funky Life (Extended Mix)",
         "I Knew You (feat.ManicKillian)",
         "Earthlight (Extended)",
+        "Flame war",
         "Suffering of screw",
         "Memory Of Sunrise (Extended Mix)",
         "Is This Real (SOTUI's 2018 Re-kick)",
@@ -2393,6 +2121,7 @@
         "Gradually Arised Strangerness(To the past)",
         "STAR TRACK (NiraicA_nai Mix)",
         "Flashdance VIP",
+        "Eos",
         "進め!イッスン軍団 -Rebellion of the Dwarfs-",
         "Re：End of a Dream (long ver.)",
         "プナイプナイたいそう (feat. ちょこ) [長プナイプナイ Ver.]",
@@ -2437,6 +2166,7 @@
         "Turndup (One-Loop Edit)",
         "Blacksphere(Extend Mix)",
         "TearVid-Long mix-",
+        "Qliphoth",
         "Scaffold (Original Mix)",
         "Joker (Full Destiny)",
         "13/VIS (Crackin' Mix)",
@@ -2468,6 +2198,7 @@
         "Doppelganger (Long Ver.)",
         "B.B.K.K.B.K.K. (Extended Mix)",
         "Ascension to Heaven",
+        "Alice in misanthrope -厭世アリス-",
         "Aleph-0 (Long Ver.)",
         "AVALON",
         "ATHAZA (Long Ver.)",
@@ -2480,6 +2211,7 @@
         "ELECTRiCiTY -Full Illuminate-",
         "TURNDOWN (Gdbg Edit)",
         "Futurity (Original Mix)",
+        "Kindly Breeze",
         "Crystalline White (Long Ver.)",
         "Forty-Four (V.N.P.O.)",
         "僕たちの旅とエピローグ。[Long Ver.]",
@@ -2492,6 +2224,7 @@
         "Yay Yeah (Chatblanc Mashup Mix)",
         "友情>>> (越えられない壁) >>>恋愛",
         "Galaxy In Toybox (Long Edit)",
+        "Nightfall",
         "endrole",
         "Please, Don't Give Up (Mystinia Mash Up)",
         "dreaming (tech rework)",
@@ -2527,13 +2260,16 @@
         "VIOLET-また一歩、海に近づいたな-",
         "We Are The Xxxx (Bestrafen Mix)",
         "DistorteD MoonlighT (anubasu-anubasu's UK Hardcore Remix)",
+        "Soul Of Deep-sea Fish",
         "Gamegame(Extended Mix)",
         "Say A Vengeance (Original Extended)",
+        "Like A Sunflower",
         "コケシネコ・メドレー",
         "Late Summer (Original Mix)",
         "Summertime (2013 Mix)",
         "STAGER (ALL STAGE CLEAR)",
         "Mercury Prayer (Extend Mix)",
+        "Fin",
         "彼ら二人は愛と歓喜の極彩世界の中を歩いている—",
         "Mr.Entertainment Special",
         "夜明けの少女たち",
@@ -2543,6 +2279,7 @@
         "Natullary (Original Mix)",
         "Toki(Club Mix)",
         "Äventyr (Long Ver.)",
+        "Unexpected Rewind",
         "Chinless (Extended mix)",
         "Portal [LU LONG VIP]",
         "at.tn.ut.",
@@ -2551,6 +2288,7 @@
         "Aerialwalker (Lapis Ver.)",
         "宇宙のMI'Sキッチン (Max Seg Edition)",
         "Pembroke Welsh Corgiterrier [Mashup]",
+        "Moonlife",
         "Exception Hearts [Re-tk4-directed]",
         "Fake (Alternative Edit)",
         "Fiesta Del Mar Y Sol",
@@ -2558,6 +2296,8 @@
         "Conflict (Groundbreaking Edit)",
         "Neurotoxin (Full Length)",
         "HOOKER (Pandar edit)",
+        "Just A One Night Love Song",
+        "Maria Walking Across The 100000000 Pieces",
         "Deep **** **** **** (Extended)",
         "あの娘の静脈 (Remix)",
         "風の塔 (Long Remix)",
@@ -2576,8 +2316,11 @@
         "Right Back -Extend-",
         "Cafeteria (Remix)",
         "Come Out Of A Dream!",
+        "Crafty Trick",
+        "7 Colors*",
         "Coda (Extend Mix)",
         "ポッポヨズのテーマ (Long Version)",
+        "Strawberry Happiness",
         "Dddddd'n'bbbbbb (Break Arrange)",
         "☆をかけるアドベンチャー ~ We Are Forever Friends! ~ [Long Ver.]",
         "Sakura Fubuki(Arrange ver)",
@@ -2678,8 +2421,8 @@
     },
     "DJMAX": {
       "total": 768,
-      "matched": 529,
-      "trackRecords": 529,
+      "matched": 527,
+      "trackRecords": 527,
       "sourceRows": 595,
       "conflicts": [
         {
@@ -2808,6 +2551,7 @@
         "Yo Creo Que SiYour Own Miracle",
         "Memory of Wind",
         "Come to me",
+        "Dark ENVY",
         "Forever",
         "Proposed, Flower, Wolf",
         "To You",
@@ -2935,6 +2679,7 @@
         "trappola bewitching",
         "ultradiaxon-N3",
         "The wheel to the right",
+        "Nine point eight",
         "Appeal",
         "Lie Lie",
         "HB-axeleration",
@@ -3011,8 +2756,8 @@
     },
     "Milthm": {
       "total": 127,
-      "matched": 96,
-      "trackRecords": 96,
+      "matched": 95,
+      "trackRecords": 95,
       "sourceRows": 156,
       "conflicts": [
         {
@@ -3131,6 +2876,7 @@
         "雲絡漫游",
         "雫",
         "泫",
+        "Habitable zone",
         "时落之雨",
         "雨之城",
         "粗线条的雨",
@@ -3149,8 +2895,8 @@
     },
     "Muse Dash": {
       "total": 724,
-      "matched": 699,
-      "trackRecords": 699,
+      "matched": 697,
+      "trackRecords": 697,
       "sourceRows": 750,
       "conflicts": [
         {
@@ -3191,6 +2937,7 @@
         "マーマレード·ツインズ",
         "room light feat.chancylemonInvisible",
         "overwork feat.Uoonoo",
+        "Gleam Stone",
         "OTTAMA GAZERSleep Tight feat. まこと",
         "琉璃色前奏曲ネオンライト",
         "Crimson Nightingle",
@@ -3200,230 +2947,31 @@
         "い～やい～やい～やねぇねぇねぇ。",
         "梦幻时光永夜城",
         "HelixirHighway Cruisin'",
+        "TEST ME (feat. Uyeon)",
         "心跳叮叮咚 iKz feat.Warma",
         "OHO·SHI·KA·TSU"
       ]
     },
     "CHUNITHM": {
-      "total": 1638,
-      "matched": 1599,
-      "trackRecords": 1599,
-      "sourceRows": 1759,
-      "conflicts": [
-        {
-          "title": "FLOWER",
-          "candidates": [
-            {
-              "title": "FLOWER",
-              "artist": "DJ YOSHITAKA",
-              "sourceId": "203",
-              "sourceIndex": 638,
-              "source": "otoge-chunithm"
-            },
-            {
-              "title": "Flower",
-              "artist": "曲：白戸佑輔(Dream Monster)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]",
-              "sourceId": "2663",
-              "sourceIndex": 1136,
-              "source": "otoge-chunithm"
-            }
-          ]
-        },
-        {
-          "title": "Flower",
-          "candidates": [
-            {
-              "title": "FLOWER",
-              "artist": "DJ YOSHITAKA",
-              "sourceId": "203",
-              "sourceIndex": 638,
-              "source": "otoge-chunithm"
-            },
-            {
-              "title": "Flower",
-              "artist": "曲：白戸佑輔(Dream Monster)／歌：ASTERISM [星咲 あかり(CV：赤尾 ひかる)、藤沢 柚子(CV：久保田 梨沙)、三角 葵(CV：春野 杏)]",
-              "sourceId": "2663",
-              "sourceIndex": 1136,
-              "source": "otoge-chunithm"
-            }
-          ]
-        }
-      ],
-      "missing": [
-        "Paradisus-Paradoxum",
-        "ラブって ジュエリー えんじぇる☆ブレイク！！",
-        "巫女みこナース 愛のテーマ",
-        "地獄屋八丁荒らし3倍！Sun Shine！カーニバル！",
-        "未来への咆哮",
-        "Love Cheat!",
-        "Sleep Walking OrchestraCampus mode!!",
-        "六兆年と一夜物語セツナトリップ",
-        "地球最後の告白をエイリアンエイリアン",
-        "惑星ループポジティブ・パレード",
-        "キャットラビング群青讃歌",
-        "絶対敵対メチャキライヤー好きな惣菜発表ドラゴン",
-        "Help me, ERINNNNNN!! （Band ver.）魔理沙は大変なものを盗んでいきました",
-        "星色夜空Spring of Dreams",
-        "全力ハッピーライフYakumo ＞＞JOINT STRUGGLE (2019 Update)",
-        "New Worldメイドノココロハアヤツリドール",
-        "Fracture RayAxium Crisis",
-        "Love's Theme of BADASS ～バッド・アス 愛のテーマ～Chocolate Happy",
-        "Be A Shooter！ ～NORMAL BIG BONUS～L9",
-        "Pure RubyZEUS",
-        "イロドリミドリ",
-        "DETARAME ROCK＆ROLL THEORYハート・ビート",
-        "エンドマークに希望と涙を添えて～イロドリミドリアレンジ～SUPER RESULT BEAT vol.1",
-        "とびだせ！TO THE COSMIC!!星めぐり、果ての君へ。",
-        "Iudicium “Apocalypsis Mix”Girl's Party Planet!",
-        "RadianceBaqeela",
-        "4月1日でございましたTo：Be Continued",
-        "後夜祭Tuning Rangers",
-        "Oshama Scramumble! (Cranky Remix)",
-        "Rendezvous時の冒険者",
-        "逃げろ！サテライトキャンパス！！THE BRASS OF GOODSPEED!!",
-        "ROAD TO DREAMHey Yeah!!",
-        "CrackDDDD",
-        "Bitter JuicyDisruptor Array",
-        "X.Y.Z.優勝Princess♡",
-        "OUTRAGEWarp Speed",
-        "メルティランドナイトメア"
-      ]
+      "total": 1665,
+      "matched": 1665,
+      "trackRecords": 1665,
+      "sourceRows": 1763,
+      "conflicts": [],
+      "missing": []
     },
     "maimai": {
-      "total": 1500,
-      "matched": 1433,
-      "trackRecords": 1433,
-      "sourceRows": 1603,
-      "conflicts": [
-        {
-          "title": "Link",
-          "candidates": [
-            {
-              "title": "Link",
-              "artist": "Clean Tears feat. Youna",
-              "sourceId": "1354",
-              "sourceIndex": 67,
-              "source": "otoge-maimai"
-            },
-            {
-              "title": "Link",
-              "artist": "Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)",
-              "sourceId": "530",
-              "sourceIndex": 240,
-              "source": "otoge-maimai"
-            }
-          ]
-        },
-        {
-          "title": "Trust",
-          "candidates": [
-            {
-              "title": "TRUST",
-              "artist": "小仏 凪(CV:佐倉 薫)",
-              "sourceId": "1512",
-              "sourceIndex": 449,
-              "source": "otoge-maimai"
-            },
-            {
-              "title": "Trust",
-              "artist": "Massive New Krew feat. 光吉猛修",
-              "sourceId": "831",
-              "sourceIndex": 1195,
-              "source": "otoge-maimai"
-            }
-          ]
-        },
-        {
-          "title": "TRUST",
-          "candidates": [
-            {
-              "title": "TRUST",
-              "artist": "小仏 凪(CV:佐倉 薫)",
-              "sourceId": "1512",
-              "sourceIndex": 449,
-              "source": "otoge-maimai"
-            },
-            {
-              "title": "Trust",
-              "artist": "Massive New Krew feat. 光吉猛修",
-              "sourceId": "831",
-              "sourceIndex": 1195,
-              "source": "otoge-maimai"
-            }
-          ]
-        }
-      ],
-      "missing": [
-        "天霊霊地霊霊",
-        "爱言葉V",
-        "Wonderland Wars オープニング",
-        "DX",
-        "お願いマッスル",
-        "インドア系ならトラックメイカーx0o0x_",
-        "残響散歌",
-        "アノーイング！さんさんウィーク！",
-        "アマカミサマ",
-        "青春コンプレックス",
-        "Burn My Soul",
-        "story",
-        "きゅびびびびずむもういいよ",
-        "ぽっぴっぽー",
-        "モザイクロールI ♥",
-        "ECHO木彫り鯰と右肩ゾンビ",
-        "ブリキノダンスおねがいダーリン",
-        "KILLER Bクレイジー・ビート",
-        "春嵐ラグトレイン",
-        "好きな惣菜発表ドラゴンクーネル・エンゲイザー",
-        "恋色マスタースパーク",
-        "オリエンタルダークフライト",
-        "エピクロスの虹はもう見えない患部で止まってすぐ溶ける～狂気の優曇華院",
-        "亡き王女の為のセプテット",
-        "千年幻想郷　～ History of the Moon",
-        "ネイティブフェイス",
-        "妖魔夜行",
-        "竹取飛翔　～ Lunatic Princess",
-        "Starlight Dance Floor妖精村の月誕祭 ～Lunate Elf",
-        "月まで届け、不死の煙",
-        "緑眼のジェラシー",
-        "月時計　～ ルナ・ダイアル",
-        "ティアオイエツォン (withered leaf)",
-        "ネクロファンタジア",
-        "U.N.オーエンは彼女なのか？",
-        "絡繰りドール人形裁判　～ 人の形弄びし少女",
-        "東方妖怪小町",
-        "ハルトマンの妖怪少女",
-        "万年置き傘にご注意を",
-        "天空のグリニッジ",
-        "廃獄ララバイ",
-        "死体旅行　～ Be of good cheer!",
-        "業火マントル",
-        "霊知の太陽信仰　～ Nuclear Fusion",
-        "ラストリモート",
-        "永夜の報い　～ Imperishable Night",
-        "超最終鬼畜妹フランドール・S有頂天ドリーマーズ",
-        "鼓動キズナの物語",
-        "FREEDROM DiVE (tpz Overcute Remix)",
-        "セイクリッド　ルインScarlet Lance",
-        "ヒステリックナイトガールDreadnought",
-        "Love Kills UDANGEROOOOUS JUNGLE",
-        "System “Z”Monochrome Rainbow",
-        "Sta",
-        "AMAZING MIGHTYYYY!!!!Prophesy One",
-        "BLACK ROSEでらっくmaimai♪てんてこまい!",
-        "シアトリカル・ケースオリフィス",
-        "sølips遺伝子レベル∞スパイラル",
-        "モ°ルモ°ル (MZK Skippin' Remix)VERTeX (rintaro soma deconstructed remix)",
-        "False Amber",
-        "InvitationInfantoon Fantasy",
-        "crazy (about you)Drivessover",
-        "全世界共通リズム感テスト",
-        "怒槌～光吉猛修一部謎～"
-      ]
+      "total": 1496,
+      "matched": 1496,
+      "trackRecords": 1497,
+      "sourceRows": 1613,
+      "conflicts": [],
+      "missing": []
     },
     "オンゲキ": {
       "total": 840,
-      "matched": 828,
-      "trackRecords": 828,
+      "matched": 827,
+      "trackRecords": 827,
       "sourceRows": 1112,
       "conflicts": [
         {
@@ -3464,7 +3012,8 @@
         "Goodbye Innocence",
         "こどものしくみ",
         "名探偵連続殺人事件",
-        "Help me, ERINNNNNN!!"
+        "Help me, ERINNNNNN!!",
+        "magic"
       ]
     },
     "PJSK": {

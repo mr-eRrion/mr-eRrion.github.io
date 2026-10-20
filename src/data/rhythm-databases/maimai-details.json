@@ -1,0 +1,27 @@
+{
+  "id": "maimai-details",
+  "game": "maimai",
+  "url": "https://gamerch.com/maimai",
+  "retrievedAt": "2026-10-20",
+  "creditType": "community-attribution",
+  "retrieval": "Reviewed public page excerpts. Hash covers JSON.stringify(records.map(({sourceUrl, sourceExcerpt}) => ({sourceUrl, sourceExcerpt}))), not full remote pages.",
+  "rawSha256": "0065df8b1438b423c70209a7bbb29b7dcf9df2d049c54754bca67f4b77b875a3",
+  "records": [
+    {
+      "title": "怒槌～光吉猛修一部謎～",
+      "artist": "光吉猛修",
+      "sourceId": "533616",
+      "sourceUrl": "https://gamerch.com/maimai/533616",
+      "sourceExcerpt": "タイトル | 怒槌～光吉猛修一部謎～\nアーティスト | 光吉猛修"
+    },
+    {
+      "title": "ぽっぴっぽー",
+      "artist": "(ラマーズP)",
+      "sourceId": "533431",
+      "sourceUrl": "https://gamerch.com/maimai/533431",
+      "sourceExcerpt": "タイトル | ぽっぴっぽー\nアーティスト | (ラマーズP)*1",
+      "creditNote": "Wiki 明确说明游戏机台、NET 和官网未显示署名；这里保留 Wiki 的括号署名，不声称为游戏内显示。"
+    }
+  ],
+  "selection": "Reviewed missing titles only; existing matches and conflicts are not overridden."
+}

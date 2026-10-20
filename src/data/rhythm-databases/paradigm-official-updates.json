@@ -1,0 +1,42 @@
+{
+  "id": "paradigm-official-updates",
+  "game": "Paradigm:Reboot",
+  "url": "https://www.sina.cn/news/detail/5347374949468765.html",
+  "retrievedAt": "2026-10-20",
+  "creditType": "in-game-credit",
+  "retrieval": "Reviewed public page excerpts. Hash covers JSON.stringify(records.map(({sourceUrl, sourceExcerpt}) => ({sourceUrl, sourceExcerpt}))), not full remote pages.",
+  "rawSha256": "119e8b9c6a163dfdaeaf0ea9faf0897e9499ea640d95e8f3cfe4829f49ab4307",
+  "records": [
+    {
+      "title": "タイムラインの向こう",
+      "artist": "SADA 2Futureanthem feat. せいら",
+      "sourceId": "v4.12/timeline",
+      "sourceUrl": "https://www.sina.cn/news/detail/5347374949468765.html",
+      "sourceExcerpt": "“タイムラインの向こう” by SADA 2Futureanthem feat. せいら"
+    },
+    {
+      "title": "SING A LOUD",
+      "artist": "Tatsh feat. 佐伯伊織",
+      "sourceId": "v4.12/sing",
+      "sourceUrl": "https://www.sina.cn/news/detail/5347374949468765.html",
+      "sourceExcerpt": "“SING A LOUD” by Tatsh feat. 佐伯伊織"
+    },
+    {
+      "title": "ゆめのまもの",
+      "artist": "ルゼ × ゆめゆめ feat. 甘暦 × 小宮真央",
+      "sourceId": "v4.12/dreamer",
+      "sourceUrl": "https://www.sina.cn/news/detail/5347374949468765.html",
+      "sourceExcerpt": "“ゆめのまもの” by ルゼ × ゆめゆめ feat. 甘暦 × 小宮真央"
+    },
+    {
+      "title": "思春期AI Syndrome",
+      "artist": "technoplanet feat. 木下珠子",
+      "sourceId": "v4.12/syndrome",
+      "sourceUrl": "https://www.sina.cn/news/detail/5347374949468765.html",
+      "sourceExcerpt": "“思春期AI Syndrome” by technoplanet feat. 木下珠子"
+    }
+  ],
+  "publishedAt": "2026-09-26",
+  "publisher": "范式起源ParadigmReboot",
+  "selection": "Reviewed missing titles only; existing matches and conflicts are not overridden."
+}

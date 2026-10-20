@@ -1,0 +1,19 @@
+{
+  "id": "arcaea-details",
+  "game": "Arcaea",
+  "url": "https://wikiwiki.jp/arcaea/",
+  "retrievedAt": "2026-10-20",
+  "creditType": "composer",
+  "retrieval": "Reviewed public page excerpts. Hash covers JSON.stringify(records.map(({sourceUrl, sourceExcerpt}) => ({sourceUrl, sourceExcerpt}))), not full remote pages.",
+  "rawSha256": "f71b24eda0bce027d5c0b9d01ae3f3e008af08e3ab1fe532b2452a3d5b4a1fc5",
+  "records": [
+    {
+      "title": "Château de cartes",
+      "artist": "Inverted Silence ft. Pernelle",
+      "sourceId": "/arcaea/Ch%C3%A2teau%20de%20cartes",
+      "sourceUrl": "https://wikiwiki.jp/arcaea/Ch%C3%A2teau%20de%20cartes",
+      "sourceExcerpt": "Château de cartes\nComposer | Inverted Silence ft. Pernelle"
+    }
+  ],
+  "selection": "Reviewed missing titles only; existing matches and conflicts are not overridden."
+}

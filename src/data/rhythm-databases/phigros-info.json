@@ -1,0 +1,116 @@
+{
+  "id": "phigros-info",
+  "game": "Phigros",
+  "url": "https://raw.githubusercontent.com/7aGiven/Phigros_Resource/info/info.tsv",
+  "retrievedAt": "2026-10-20",
+  "creditType": "composer",
+  "selection": "Missing titles only at first import; retain selected titles on reimport. Existing matches and conflicts are not overridden.",
+  "rawSha256": "de1624f0199307e5b4ebe4041635d60434f75009d74d2ba3ecb6934031e3202d",
+  "records": [
+    {
+      "sourceId": "AboutTheUniverse.SOTUIMIssionary",
+      "title": "About The Universe",
+      "artist": "SOTUI & MIssionary",
+      "sourceRow": "AboutTheUniverse.SOTUIMIssionary\tAbout The Universe\tSOTUI & MIssionary\tMC大神knife美工刀\t普朗克波长\t普朗克波长\t波硫二象性",
+      "sourceLine": 46
+    },
+    {
+      "sourceId": "Implexrough.Silentroommommy",
+      "title": "Implexrough",
+      "artist": "Silentroom × mommy",
+      "sourceRow": "Implexrough.Silentroommommy\tImplexrough\tSilentroom × mommy\tNate\tFractwist  - Helabot\tFractwist  - Helabot\tTurbulax - Simon_Axis & Stray_Cat",
+      "sourceLine": 47
+    },
+    {
+      "sourceId": "Evanescent.LeaF",
+      "title": "Evanescent",
+      "artist": "LeaF",
+      "sourceRow": "Evanescent.LeaF\tEvanescent\tLeaF\t海产 feat. 佑木いずみ\tSalt -a remaining dream-\tSalt -a fading boundary-\tSalt feat. Ner -an evanescent reality-",
+      "sourceLine": 48
+    },
+    {
+      "sourceId": "EntrancetotheChaos.打打だいずvssiromaru",
+      "title": "Entrance to the Chaos",
+      "artist": "打打だいず vs. siromaru",
+      "sourceRow": "EntrancetotheChaos.打打だいずvssiromaru\tEntrance to the Chaos\t打打だいず vs. siromaru\t群青kurara\tApproaching the Gates\tCrossing the Threshold\tDescending the Abyss\tEmbracing the Madness",
+      "sourceLine": 49
+    },
+    {
+      "sourceId": "ExoplanetaryMirage.かめりあ",
+      "title": "Exoplanetary Mirage",
+      "artist": "Camellia",
+      "sourceRow": "ExoplanetaryMirage.かめりあ\tExoplanetary Mirage\tCamellia\t神居冰绘 feat. 祈莲\tOrbital Velocity: 7.900 km/s\tOrbital Velocity: 11.200 km/s\tOrbital Velocity: 16.700 km/s\tOrbital Velocity:  ■■■ km/s",
+      "sourceLine": 50
+    },
+    {
+      "sourceId": "TrueHomeTrueWorldRework.816ThreeNumbers",
+      "title": "True Home, True World (Rework)",
+      "artist": "816ThreeNumbers",
+      "sourceRow": "TrueHomeTrueWorldRework.816ThreeNumbers\tTrue Home, True World (Rework)\t816ThreeNumbers\tPEZZ\tBackward, go backward,\tturn back to the antemundane realm,\tgo back to the -",
+      "sourceLine": 51
+    },
+    {
+      "sourceId": "Ametrine.GRYSCLMIssionary",
+      "title": "Ametrine",
+      "artist": "GRYSCL & MIssionary",
+      "sourceRow": "Ametrine.GRYSCLMIssionary\tAmetrine\tGRYSCL & MIssionary\t子狼\tEnstatite\tHeliodor\tIndigolite\tAmetrine",
+      "sourceLine": 52
+    },
+    {
+      "sourceId": "Petrichor.voidMournfinale",
+      "title": "Petrichor",
+      "artist": "void (Mournfinale)",
+      "sourceRow": "Petrichor.voidMournfinale\tPetrichor\tvoid (Mournfinale)\t青鸟 feat. 祈莲\tSeed | Promise\tRain | Rewrites\tSilence | Us\tReturn | Petrichor",
+      "sourceLine": 53
+    },
+    {
+      "sourceId": "ハテ.rNFrums",
+      "title": "ハテ",
+      "artist": "rN || Frums",
+      "sourceRow": "ハテ.rNFrums\tハテ\trN || Frums\t宙風みけ || rN\tthe end of hope.\tthe end of ache.\tthe end of this.\tthe end of ever.",
+      "sourceLine": 54
+    },
+    {
+      "sourceId": "DesultorySignals.technoplanet",
+      "title": "Desultory Signals",
+      "artist": "technoplanet",
+      "sourceRow": "DesultorySignals.technoplanet\tDesultory Signals\ttechnoplanet\t月光大刺剑\tHesitating Trepidation \"踌躇的惶恐\"\tDenying Pseudomorph \"否认的伪形\"\tRetaliating Resolve \"反击的决意\"\tCeaseless Signal \"不息的信号\"",
+      "sourceLine": 55
+    },
+    {
+      "sourceId": "Message.くるぶっこちゃん",
+      "title": "Message",
+      "artist": "くるぶっこちゃん",
+      "sourceRow": "Message.くるぶっこちゃん\tMessage\tくるぶっこちゃん\t神居冰绘 feat. 祈莲\t■■■p■l■a\t■■o■elia's l\tGeo■elia's lov\tGeopelia's love 2u",
+      "sourceLine": 56
+    },
+    {
+      "sourceId": "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい",
+      "title": "What do you want more than a Happy ending?",
+      "artist": "Apo11o\"HALO\"program ft. 安月名 莉子×大瀬良あい",
+      "sourceRow": "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい\tWhat do you want more than a Happy ending?\tApo11o\"HALO\"program ft. 安月名 莉子×大瀬良あい\tAmor fati\t欢迎回到 Phigros！\t欢迎回到 Phigros！\t欢迎回到 Phigros！\t欢迎回到 Phigros！",
+      "sourceLine": 57
+    },
+    {
+      "sourceId": "贝多芬祝福BeethovenBlessing.Nauts",
+      "title": "贝多芬祝福 (Beethoven Blessing)",
+      "artist": "Nauts",
+      "sourceRow": "贝多芬祝福BeethovenBlessing.Nauts\t贝多芬祝福 (Beethoven Blessing)\tNauts\tRM Design Team (青鸟 modified)\tStupiGGy\tBlessing beyond myself.\tSalt feat. XMT小咩兔",
+      "sourceLine": 247
+    },
+    {
+      "sourceId": "星拂云锦featkoi.S9ryne",
+      "title": "星拂云锦 feat. koi",
+      "artist": "S9ryne",
+      "sourceRow": "星拂云锦featkoi.S9ryne\t星拂云锦 feat. koi\tS9ryne\t青鸟\t华星秋月\t帷畔托星\t灵琶弄月",
+      "sourceLine": 302
+    },
+    {
+      "sourceId": "Cryogenic.CamelliaftPetraGurin",
+      "title": "Cryogenic",
+      "artist": "Camellia ft. Petra Gurin",
+      "sourceRow": "Cryogenic.CamelliaftPetraGurin\tCryogenic\tCamellia ft. Petra Gurin\tアオノアオ + Vormis. (Design: V17AMax)\t「EZ」 Falsus\t「HD」 Falsus\t「IN」 Falsus",
+      "sourceLine": 305
+    }
+  ]
+}

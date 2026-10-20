@@ -1,0 +1,95 @@
+{
+  "id": "arcaea-charts",
+  "game": "Arcaea",
+  "url": "https://raw.githubusercontent.com/TechnicalVessel/Arcaea-Chart-List/main/arcaea_chart_list.csv",
+  "retrievedAt": "2026-10-20",
+  "creditType": "artist",
+  "selection": "Missing titles only at first import; retain selected titles on reimport. Existing matches and conflicts are not overridden.",
+  "rawSha256": "0498f6868cf8da97a7345f6ba622e67c3fddbbf47038b634e6ed713b07a2b237",
+  "records": [
+    {
+      "sourceId": "row-148",
+      "title": "Romance Wars",
+      "artist": "U-ske (feat. lueur)",
+      "sourceRow": "Romance Wars,U-ske (feat. lueur),Past,1,1,423,Kurorak,1.1.4",
+      "sourceLine": 148
+    },
+    {
+      "sourceId": "row-1166",
+      "title": "LIVHT MY WΔY",
+      "artist": "かめりあ feat. STΔRLIVHT",
+      "sourceRow": "LIVHT MY WΔY,かめりあ feat. STΔRLIVHT,Past,4,4.5,673,\"k//eternal + nitro\"\"ephemeral past\"\"\",5.2.2",
+      "sourceLine": 1166
+    },
+    {
+      "sourceId": "row-1773",
+      "title": "Love me, Love me, Love me",
+      "artist": "きくお",
+      "sourceRow": "\"Love me, Love me, Love me\",きくお,Past,3,3.5,676,反水反水反水,6.15.0",
+      "sourceLine": 1773
+    },
+    {
+      "sourceId": "row-1809",
+      "title": "Ember",
+      "artist": "Powerless & siqlo feat. Tia",
+      "sourceRow": "Ember,Powerless & siqlo feat. Tia,Past,5,5.0,740,Fate's End,7.0.0",
+      "sourceLine": 1809
+    },
+    {
+      "sourceId": "row-1812",
+      "title": "DEINOS PHAINEIN",
+      "artist": "Blackiota vs Juggernaut.",
+      "sourceRow": "DEINOS PHAINEIN,Blackiota vs Juggernaut.,Past,7,7.5,1008,DIVINE INSIGHT ⟦識眼⟧,7.0.0",
+      "sourceLine": 1812
+    },
+    {
+      "sourceId": "row-1816",
+      "title": "Cataclysm Cry",
+      "artist": "Aid",
+      "sourceRow": "Cataclysm Cry,Aid,Past,6,6.5,920,運命の響 -echo of fate-,7.0.0",
+      "sourceLine": 1816
+    },
+    {
+      "sourceId": "row-1820",
+      "title": "Riven Pilgrimage",
+      "artist": "rejection & Supire feat. eili",
+      "sourceRow": "Riven Pilgrimage,rejection & Supire feat. eili,Past,5,5.5,889,零下「kuratoro」,7.0.0",
+      "sourceLine": 1820
+    },
+    {
+      "sourceId": "row-1824",
+      "title": "un",
+      "artist": "黒魔",
+      "sourceRow": "un,黒魔,Past,4,4.5,853,én「The Resolute」,7.0.0",
+      "sourceLine": 1824
+    },
+    {
+      "sourceId": "row-1828",
+      "title": "DREAD AREA",
+      "artist": "Ashrount vs. 打打だいず",
+      "sourceRow": "DREAD AREA,Ashrount vs. 打打だいず,Past,5,5.5,858,絶滅「天道」,7.0.0",
+      "sourceLine": 1828
+    },
+    {
+      "sourceId": "row-1832",
+      "title": "Balor",
+      "artist": "Redsign",
+      "sourceRow": "Balor,Redsign,Past,3,3.5,677,\"karat, the Piercing Eye\",7.0.0",
+      "sourceLine": 1832
+    },
+    {
+      "sourceId": "row-1836",
+      "title": "DIE IN",
+      "artist": "TAK x Sobrem",
+      "sourceRow": "DIE IN,TAK x Sobrem,Past,5,5.0,808,antymIV,7.0.0",
+      "sourceLine": 1836
+    },
+    {
+      "sourceId": "row-1840",
+      "title": "⊥⊬",
+      "artist": "Silentroom Dismantled XOR かたぎり",
+      "sourceRow": "⊥⊬,Silentroom Dismantled XOR かたぎり,Past,6,6.5,1256,▯,7.0.255",
+      "sourceLine": 1840
+    }
+  ]
+}

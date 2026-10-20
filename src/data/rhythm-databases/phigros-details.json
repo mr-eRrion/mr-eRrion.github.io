@@ -1,0 +1,33 @@
+{
+  "id": "phigros-details",
+  "game": "Phigros",
+  "url": "https://wikiwiki.jp/phigros/",
+  "retrievedAt": "2026-10-20",
+  "creditType": "composer",
+  "retrieval": "Reviewed public page excerpts. Hash covers JSON.stringify(records.map(({sourceUrl, sourceExcerpt}) => ({sourceUrl, sourceExcerpt}))), not full remote pages.",
+  "rawSha256": "6b4271afefe1e2e135691ce441558c31ba6f93b2183465ceba98f259e015a892",
+  "records": [
+    {
+      "title": "Oblivion: PHIN",
+      "artist": "Daily天利 vs. Endcat-終猫 ft. AiSS w/夜輪",
+      "sourceId": "/phigros/Oblivion%20%20PHIN",
+      "sourceUrl": "https://wikiwiki.jp/phigros/Oblivion%20%20PHIN",
+      "sourceExcerpt": "Oblivion: PHIN\nComposer | Daily天利 vs. Endcat-終猫 ft. AiSS w/夜輪"
+    },
+    {
+      "title": "Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-",
+      "artist": "lIKEY",
+      "sourceId": "/phigros/Dlyrotz%20-SUPER%20ULTIMATE%20AMAZING%20AWESOME%20PRO%20MAX%20EXTRA%20REMIX-",
+      "sourceUrl": "https://wikiwiki.jp/phigros/Dlyrotz%20-SUPER%20ULTIMATE%20AMAZING%20AWESOME%20PRO%20MAX%20EXTRA%20REMIX-",
+      "sourceExcerpt": "Dlyrotz -SUPER ULTIMATE AMAZING AWESOME PRO MAX EXTRA REMIX-\nComposer | lIKEY"
+    },
+    {
+      "title": "Spasmodic(Haocore Mix)",
+      "artist": "姜米條-天利",
+      "sourceId": "/phigros/Spasmodic%28Haocore%20Mix%29",
+      "sourceUrl": "https://wikiwiki.jp/phigros/Spasmodic%28Haocore%20Mix%29",
+      "sourceExcerpt": "Spasmodic(Haocore Mix)\nComposer | 姜米條-天利"
+    }
+  ],
+  "selection": "Reviewed missing titles only; existing matches and conflicts are not overridden."
+}

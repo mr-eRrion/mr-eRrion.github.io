@@ -31,11 +31,11 @@ const readJSON = path => JSON.parse(readFileSync(new URL(path, root), 'utf8'));
 const writeJSON = (path, value) => writeFileSync(new URL(path, root), JSON.stringify(value, null, 2) + '\n');
 
 // Only explicit typography and spacing equivalence; no fuzzy or cross-game matching.
-export const matchKey = text => text.normalize('NFC').toLowerCase().replace(/\s+/gu, ' ').trim();
+export const matchKey = text => text.normalize('NFC').replace(/\s+/gu, ' ').trim();
 export function cleanCell(text) {
   let value = text
     .replace(/\(\([\s\S]*?\)\)/g, '')
-    .replace(/\[\[([^\]]+)\]\]/g, (_, link) => link.split('>')[0])
+    .replace(/\[\[([\s\S]*?)\]\](?!\])/g, (_, link) => link.split('>')[0])
     .replace(/&br;/gi, ' ')
     .replace(/&(?:size|color|ruby)\([^)]*\)\{([^{}]*)\};/g, '$1');
   for (let i = 0; i < 3; i++) value = value.replace(/&(?:size|color)\([^)]*\)\{([^{}]*)\};/g, '$1');
@@ -51,7 +51,7 @@ export function cleanCell(text) {
 const valid = text => !!text && !/^[-~>?\s]+$/.test(text) && !/\[\[|\]\]|&(?:\w+)[;(]|\{\{|\}\}|https?:/.test(text);
 function titleAliases(id, cell, title) {
   if (!['arcaea', 'deemo', 'lanotaplan'].includes(id)) return [];
-  const links = [...cell.matchAll(/\[\[([^\]]+)\]\]/g)];
+  const links = [...cell.matchAll(/\[\[([\s\S]*?)\]\](?!\])/g)];
   if (links.length !== 1) return [];
   const names = [cleanCell(links[0][1].split('>')[0])];
   // Arcaea puts translated names in small text; keep full version suffixes.
@@ -93,7 +93,11 @@ export function extractRows(id, rows, titleColumn, artistColumn) {
     if (plainTitle) {
       const numericCells = id === 'paradigm' ? [cells[3], cells[6]] : cells.slice(2, 7);
       if (!numericCells.some(c => /^\s*\d+(?:\.\d+)?\s*$/.test(c ?? ''))) continue;
-    } else if (!cells[titleColumn]?.includes('[[') || /#/.test(cells[titleColumn].split('>')[1] ?? '')) continue;
+    } else {
+      const link = cells[titleColumn]?.match(/\[\[([\s\S]*?)\]\](?!\])/);
+      // A colour annotation after the link is not an anchor in its destination.
+      if (!link || /#/.test(link[1].split('>')[1] ?? '')) continue;
+    }
     if (!['phigros', 'deemo'].includes(id) && !cells.slice(artistColumn + 1).some(c => /\d/.test(c))) continue;
     let title = cleanCell(cells[titleColumn]);
     if (plainTitle) title = title.replace(/^~/, '');
@@ -105,8 +109,18 @@ export function extractRows(id, rows, titleColumn, artistColumn) {
   return records;
 }
 
-// These pairs are distinct compositions, supported by separate Wiki destinations/packs.
+// Distinct compositions confirmed from source records and user review.
 const confirmedHomonyms = {
+  maimai: {
+    Link: ['Clean Tears feat. Youna', 'Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)'],
+  },
+  'Paradigm:Reboot': {
+    OMG: ['Dopam!ne vs zEnsEn', 'Halv'],
+    Alexandrite: ['onoken', 'WAiKURO'],
+  },
+  Phigros: {
+    'Another Me': ['D_AAN', 'Neutral Moon'],
+  },
   Arcaea: {
     Genesis: ['Iris', 'Morrigan feat.Lily'],
     Quon: ['Feryquitous', 'DJ Noriken'],
@@ -150,7 +164,7 @@ export function reconcile(titles, candidates, game = '') {
       return {
         artist, sourceTitle: hit.title, sourceLine: hit.line,
         ...(hit.artistLine ? { artistLine: hit.artistLine } : {}),
-        match: title === hit.title ? 'exact' : matchKey(title) === matchKey(hit.title) ? 'case-unicode-spacing' :
+        match: title === hit.title ? 'exact' : matchKey(title) === matchKey(hit.title) ? 'unicode-spacing' :
           hit.aliasReviews?.some(r => r.title === title) ? 'reviewed-alias' : 'source-alias',
         evidence,
       };
@@ -176,8 +190,11 @@ export function build() {
     output.sources[id] = { game, url: `https://wikiwiki.jp/${path}`, creditType, retrievedAt: output.retrievedAt };
     add(game, candidates.map(record => ({ ...record, source: id })));
   }
-  for (const file of readdirSync(new URL('src/data/rhythm-databases/', root)).filter(f => f.endsWith('.json')).sort()) {
-    const { records, id, ...metadata } = readJSON(`src/data/rhythm-databases/${file}`);
+  // Append gap supplements after base sources so unchanged games retain their order.
+  const databases = readdirSync(new URL('src/data/rhythm-databases/', root))
+    .filter(f => f.endsWith('.json')).sort().map(file => readJSON(`src/data/rhythm-databases/${file}`))
+    .sort((a, b) => Number(!!a.selection) - Number(!!b.selection));
+  for (const { records, id, ...metadata } of databases) {
     output.sources[id] = metadata;
     if (!library[metadata.game]) throw new Error(`Unknown game ${metadata.game}`);
     add(metadata.game, records.map(record => ({ ...record, source: id })));

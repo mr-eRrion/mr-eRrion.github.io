@@ -1,0 +1,75 @@
+{
+  "id": "otoge-maimai-deleted",
+  "game": "maimai",
+  "url": "https://raw.githubusercontent.com/zvuc/otoge-db/main/maimai/data/music-ex-deleted.json",
+  "retrievedAt": "2026-10-20",
+  "creditType": "artist",
+  "selection": "Missing titles only at first import; retain selected titles on reimport. Existing matches and conflicts are not overridden.",
+  "rawSha256": "00ac0c95dbb644d08f5f1aff033d04455f36e4ff2566203c45b94a240836f2dc",
+  "records": [
+    {
+      "sourceId": "42",
+      "title": "アマカミサマ",
+      "artist": "名取さな",
+      "sourceIndex": 40,
+      "deletedDate": "20250822",
+      "sourceUrl": "https://gamerch.com/maimai/534703"
+    },
+    {
+      "sourceId": "59",
+      "title": "アノーイング！さんさんウィーク！",
+      "artist": "五十嵐双葉（ＣＶ：楠木ともり）、桜井桃子（ＣＶ：早見沙織）、黒部夏美（ＣＶ：青山玲菜）、月城モナ（ＣＶ：古賀葵）",
+      "sourceIndex": 41,
+      "deletedDate": "20250822",
+      "sourceUrl": "https://gamerch.com/maimai/534673"
+    },
+    {
+      "sourceId": "21",
+      "title": "残響散歌",
+      "artist": "Aimer",
+      "sourceIndex": 42,
+      "deletedDate": "20250822",
+      "sourceUrl": "https://gamerch.com/maimai/534672"
+    },
+    {
+      "sourceId": "460",
+      "title": "ブリキノダンス",
+      "artist": "日向電工",
+      "sourceIndex": 46,
+      "deletedDate": "20260320",
+      "sourceUrl": "https://gamerch.com/maimai/533417"
+    },
+    {
+      "sourceId": "29",
+      "title": "青春コンプレックス",
+      "artist": "結束バンド",
+      "sourceIndex": 47,
+      "deletedDate": "20260807",
+      "sourceUrl": "https://gamerch.com/maimai/796970"
+    },
+    {
+      "sourceId": "33",
+      "title": "story",
+      "artist": "前島麻由",
+      "sourceIndex": 49,
+      "deletedDate": "20260807",
+      "sourceUrl": "https://gamerch.com/maimai/810991"
+    },
+    {
+      "sourceId": "35",
+      "title": "お願いマッスル",
+      "artist": "紗倉ひびき（CV:ファイルーズあい）＆街雄鳴造（CV:石川界人）",
+      "sourceIndex": 51,
+      "deletedDate": "20260917",
+      "sourceUrl": "https://gamerch.com/maimai/534493"
+    },
+    {
+      "sourceId": "73",
+      "title": "Burn My Soul",
+      "artist": "She is Legend",
+      "sourceIndex": 52,
+      "deletedDate": "20260917",
+      "sourceUrl": "https://gamerch.com/maimai/802118"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "otoge-chunithm-deleted",
+  "game": "CHUNITHM",
+  "url": "https://raw.githubusercontent.com/zvuc/otoge-db/main/chunithm/data/music-ex-deleted.json",
+  "retrievedAt": "2026-10-20",
+  "creditType": "artist",
+  "selection": "Missing titles only at first import; retain selected titles on reimport. Existing matches and conflicts are not overridden.",
+  "rawSha256": "5abe5a55e3c9faac3ff71b1efdb2b87349de174bdd744c3398b52c12e6687620",
+  "records": [
+    {
+      "sourceId": "921",
+      "title": "メルティランドナイトメア",
+      "artist": "はるまきごはん",
+      "sourceIndex": 135,
+      "deletedDate": "20251211",
+      "sourceUrl": "https://wikiwiki.jp/chunithmwiki/メルティランドナイトメア"
+    },
+    {
+      "sourceId": "2481",
+      "title": "Love Cheat!",
+      "artist": "MOSAIC.WAV",
+      "sourceIndex": 148,
+      "deletedDate": "20260702",
+      "sourceUrl": "https://wikiwiki.jp/chunithmwiki/Love Cheat!"
+    },
+    {
+      "sourceId": "2483",
+      "title": "未来への咆哮",
+      "artist": "JAM Project feat. 影山ヒロノブ・遠藤正明・きただにひろし・福山芳樹",
+      "sourceIndex": 155,
+      "deletedDate": "20260702",
+      "sourceUrl": "https://wikiwiki.jp/chunithmwiki/未来への咆哮"
+    },
+    {
+      "sourceId": "525",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID「Re:ゼロから始める異世界生活」",
+      "sourceIndex": 158,
+      "deletedDate": "20260702",
+      "sourceUrl": "https://wikiwiki.jp/chunithmwiki/Paradisus-Paradoxum"
+    }
+  ]
+}

@@ -2043,5 +2043,495 @@
     "line": 161,
     "reason": "已核对来源：同一曲目的不同标题拼写。",
     "url": "https://lanota.fandom.com/wiki/VR_in_the_Virtual_World"
+  },
+  {
+    "game": "Arcaea",
+    "title": "MIRROR (kamome sano remix)",
+    "source": "arcaea",
+    "sourceTitle": "MIRROR - kamome sano remix",
+    "artist": "kamome sano",
+    "line": 420,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "キャラメルポップコーンたべたいよ~",
+    "source": "arcaea",
+    "sourceTitle": "キャラメルポップコーン たべたいよ～ Gimme Caramel Popcorn!",
+    "artist": "ヤミナベレコーズ feat. 繭糸",
+    "line": 758,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Anokumene",
+    "source": "arcaea",
+    "sourceTitle": "Anökumene",
+    "artist": "Jun Kuroda",
+    "line": 57,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "神奈川電腦暗渠",
+    "source": "arcaea",
+    "sourceTitle": "神奈川電脳暗渠 Kanagawa Cyber Culvert",
+    "artist": "南ゆに",
+    "line": 752,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "始マりノ詩",
+    "source": "arcaea",
+    "sourceTitle": "始マリノ詩 Wake in Hour",
+    "artist": "有村京悟 feat. July",
+    "line": 825,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "ピコPico*とらんすれーしょんっ！",
+    "source": "arcaea",
+    "sourceTitle": "ピコPico* とらんすれーしょんっ！ PICO-Pico-Translation!",
+    "artist": "t+pazolite,ななひら,Cranky,Pico*",
+    "line": 829,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "緋色月下 狂咲ノ絶 (nayuta 2017 ver.)",
+    "source": "arcaea",
+    "sourceTitle": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.) Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+    "artist": "nayuta x 黒鳥(EastNewSound)",
+    "line": 827,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。",
+    "source": "arcaea",
+    "sourceTitle": "［筏］は云う。 幾ら漂流すれど不撓の心 さえ有れば軈て行到ると。 The 'Raft' taught me: your heart will always find a way.",
+    "artist": "庭師",
+    "line": 738,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "World Fragment III (radio edit)",
+    "source": "arcaea",
+    "sourceTitle": "World Fragments III(radio edit)",
+    "artist": "xi",
+    "line": 683,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "disintergration",
+    "source": "arcaea",
+    "sourceTitle": "disintegration",
+    "artist": "ひゅ～ぶ",
+    "line": 173,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "妖艷魔女 -trappola bewitching-",
+    "source": "arcaea",
+    "sourceTitle": "妖艶魔女 -trappola bewitching- trappola bewitching",
+    "artist": "gmtn.",
+    "line": 863,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "光速神授説 -Divine Light of Myriad-",
+    "source": "arcaea",
+    "sourceTitle": "光速神授説 - Divine Light of Myriad - Divine Light of Myriad",
+    "artist": "yoho",
+    "line": 766,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "業 -善なる神とこの世の悪について-",
+    "source": "arcaea",
+    "sourceTitle": "業 -善なる神と この世の悪について- Misdeed -la bonté de Dieu et l'origine du mal-",
+    "artist": "光吉猛修 VS 穴山大輔",
+    "line": 765,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "II",
+    "source": "arcaea",
+    "sourceTitle": "͟͝͞Ⅱ́̕",
+    "artist": "Cytus",
+    "line": 887,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "guardina",
+    "source": "arcaea",
+    "sourceTitle": "γuarδina",
+    "artist": "Aoi",
+    "line": 914,
+    "reason": "Wiki 语言设置说明明确列出的希腊字母／拉丁字母标题对应。",
+    "url": "https://wikiwiki.jp/arcaea/ルール"
+  },
+  {
+    "game": "Arcaea",
+    "title": "aterlbus",
+    "source": "arcaea",
+    "sourceTitle": "αterlβus",
+    "artist": "Aoi",
+    "line": 913,
+    "reason": "Wiki 语言设置说明明确列出的希腊字母／拉丁字母标题对应。",
+    "url": "https://wikiwiki.jp/arcaea/ルール"
+  },
+  {
+    "game": "Arcaea",
+    "title": "w4",
+    "source": "arcaea",
+    "sourceTitle": "ω4",
+    "artist": "穴山大輔 VS 光吉猛修 VS Kai",
+    "line": 917,
+    "reason": "Wiki 语言设置说明明确列出的希腊字母／拉丁字母标题对应。",
+    "url": "https://wikiwiki.jp/arcaea/ルール"
+  },
+  {
+    "game": "Arcaea",
+    "title": "neo kosmo",
+    "source": "arcaea",
+    "sourceTitle": "nέο κόsmo",
+    "artist": "ak+q × Street",
+    "line": 450,
+    "reason": "nέο κόsmo 的拉丁字母转写；资料中的 song ID neokosmo 与显示名对应。",
+    "url": "https://gist.github.com/ConfeitoHS/f4a9303fe7b2fd816f60ff58dd0ffef0"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Opium and Purple haze",
+    "source": "arcaea",
+    "sourceTitle": "Xxium and Purple haze",
+    "artist": "D.watt",
+    "line": 699,
+    "reason": "歌曲页明确说明 Arcaea 的 Xxium and Purple haze 原名为 Opium and Purple haze。",
+    "url": "https://wikiwiki.jp/arcaea/Xxium%20and%20Purple%20haze"
+  },
+  {
+    "game": "Arcaea",
+    "title": "一輪",
+    "source": "arcaea",
+    "sourceTitle": "〇、",
+    "artist": "Kolaa & 熊子",
+    "line": 899,
+    "reason": "歌曲页明确给出 〇、的别名一輪 (Ichirin)，内部 song ID 也为 ichirin。",
+    "url": "https://arcaea.fandom.com/wiki/%E3%80%87%E3%80%81"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Word Problems",
+    "source": "arcaea",
+    "sourceTitle": "Tutorial",
+    "artist": "ak+q",
+    "line": 624,
+    "reason": "教程歌曲页明确记载原曲名 Word Problems。",
+    "url": "https://arcwiki.mcd.blue/index.php?title=Tutorial&variant=zh"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "＊･ﾟCanopy+｡.°",
+    "source": "paradigm",
+    "sourceTitle": "＊･ﾟcanopy +｡.ﾟ",
+    "artist": "硝酸生菜Synzak",
+    "line": 121,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Nox Sliva",
+    "source": "paradigm",
+    "sourceTitle": "Nox Silva",
+    "artist": "Nox Silva",
+    "line": 123,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "アイム·マイヒーロー",
+    "source": "paradigm",
+    "sourceTitle": "アイム・マイヒーロー",
+    "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+    "line": 365,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "爱上想象的你 (feat. 穆小冷)",
+    "source": "paradigm",
+    "sourceTitle": "爱上想象的你 (feat. 穆小泠)",
+    "artist": "KOTONOHOUSE",
+    "line": 347,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "SHIFT (·ω·)",
+    "source": "paradigm",
+    "sourceTitle": "SHIFT (・ω・)",
+    "artist": "Blacklolita",
+    "line": 329,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Take On The H.E.A.T!!!",
+    "source": "paradigm",
+    "sourceTitle": "Take On The H.E.A.T.!!!",
+    "artist": "Supa7onyz",
+    "line": 134,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Colourless Coldness",
+    "source": "paradigm",
+    "sourceTitle": "Colorless Coldness",
+    "artist": "かねこちはる",
+    "line": 81,
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Traveler ~Stand Aloof~ （Paradigm Edit.）",
+    "source": "paradigm",
+    "sourceTitle": "Traveler ~Stand Aloof~",
+    "artist": "Se-U-Ra",
+    "line": 461,
+    "reason": "同一来源表格行的 Genre 栏明确标注 PARADIGM EDIT.；不是删除版本后缀后猜测。",
+    "url": "https://wikiwiki.jp/paradigm_/全曲ソート表"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Fracture Temporelle （Paradigm Edit.）",
+    "source": "paradigm",
+    "sourceTitle": "Fracture Temporelle",
+    "artist": "黒皇帝",
+    "line": 396,
+    "reason": "同一来源表格行的 Genre 栏明确标注 PARADIGM EDIT.；不是删除版本后缀后猜测。",
+    "url": "https://wikiwiki.jp/paradigm_/全曲ソート表"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "[PRAW] （Paradigm Edit.）",
+    "source": "paradigm",
+    "sourceTitle": "[PRAW]",
+    "artist": "Knighthood",
+    "line": 46,
+    "reason": "同一来源表格行的 Genre 栏明确标注 PARADIGM EDIT.；不是删除版本后缀后猜测。",
+    "url": "https://wikiwiki.jp/paradigm_/全曲ソート表"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "The Grand F-STAR （Paradigm Edit.）",
+    "source": "paradigm",
+    "sourceTitle": "The Grand F-STAR",
+    "artist": "AiSS",
+    "line": 52,
+    "reason": "同一来源表格行的 Genre 栏明确标注 PARADIGM EDIT.；不是删除版本后缀后猜测。",
+    "url": "https://wikiwiki.jp/paradigm_/全曲ソート表"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Cereris （Original Mix）",
+    "source": "paradigm",
+    "sourceTitle": "Cereris",
+    "artist": "SunsetRay vs. NceS",
+    "line": 427,
+    "reason": "曲目页面 Genre 明确标注 ORIGINAL MIX / NEUROFUNK。",
+    "url": "https://wikiwiki.jp/paradigm_/Cereris"
+  },
+  {
+    "game": "Paradigm:Reboot",
+    "title": "Twilight Concerto （A.K.A. 黄昏の協奏曲）",
+    "source": "paradigm",
+    "sourceTitle": "Twilight Concerto",
+    "artist": "Scarlette",
+    "line": 179,
+    "reason": "曲目页面 Genre 明确标注 A.K.A. 黄昏の協奏曲 / ARTCORE CONCERTO。",
+    "url": "https://wikiwiki.jp/paradigm_/Twilight%20Concerto"
+  },
+  {
+    "game": "maimai",
+    "title": "爱言葉V",
+    "source": "otoge-maimai",
+    "sourceTitle": "愛言葉V",
+    "artist": "DECO*27",
+    "sourceId": "129",
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "maimai",
+    "title": "FREEDROM DiVE (tpz Overcute Remix)",
+    "source": "otoge-maimai",
+    "sourceTitle": "FREEDOM DiVE (tpz Overcute Remix)",
+    "artist": "t+pazolite",
+    "sourceId": "826",
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "maimai",
+    "title": "Wonderland Wars オープニング",
+    "source": "otoge-maimai",
+    "sourceTitle": "[宴]Wonderland Wars　オープニング",
+    "artist": "「童話」は、全て「戦記」だった",
+    "sourceId": "1598",
+    "reason": "来源标题的 [宴] 是宴会场谱面标记，曲名及署名与同表另外两个谱面记录一致。"
+  },
+  {
+    "game": "maimai",
+    "title": "False Amber",
+    "source": "otoge-maimai",
+    "sourceTitle": "False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)",
+    "artist": "かめりあ",
+    "sourceId": "1297",
+    "reason": "题库使用主标题；来源完整标题在括号中列出三个 Or 连接的副标题，并非 Remix/Edit 版本后缀。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "ラブって ジュエリー えんじぇる☆ブレイク！！",
+    "source": "otoge-chunithm",
+    "sourceTitle": "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",
+    "artist": "あべにゅうぷろじぇくと feat.天月めぐる＆如月すみれ「ツインエンジェルBREAK」",
+    "sourceId": "585",
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "巫女みこナース 愛のテーマ",
+    "source": "otoge-chunithm",
+    "sourceTitle": "巫女みこナース・愛のテーマ",
+    "artist": "Chu☆",
+    "sourceId": "889",
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "Oshama Scramumble! (Cranky Remix)",
+    "source": "otoge-chunithm",
+    "sourceTitle": "Oshama Scramble! (Cranky Remix)",
+    "artist": "Cranky",
+    "sourceId": "259",
+    "reason": "逐条核对来源标题：空格、标点、字形或可辨认的拼写差异；保持版本和署名不变。"
+  },
+  {
+    "game": "Phigros",
+    "title": "Spasmodic (Haocore Mix)",
+    "source": "phigros-details",
+    "sourceTitle": "Spasmodic(Haocore Mix)",
+    "artist": "姜米條-天利",
+    "sourceId": "/phigros/Spasmodic%28Haocore%20Mix%29",
+    "reason": "仅版本括号前空格差异，保持 Haocore Mix 后缀。"
+  },
+  {
+    "game": "maimai",
+    "title": "天霊霊地霊霊",
+    "source": "otoge-maimai",
+    "sourceTitle": "天靈靈地靈靈",
+    "artist": "iKz feat.小可學妹",
+    "sourceId": "711",
+    "reason": "来源以繁体靈字显示，题库使用日文字形霊；其余标题相同。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "Help me, ERINNNNNN!! （Band ver.）",
+    "source": "otoge-chunithm",
+    "sourceTitle": "Help me, ERINNNNNN!!（Band ver.）",
+    "artist": "ビートまりお",
+    "sourceId": "97",
+    "reason": "拆分用户确认的粘连曲名后，核对空格或全半角符号差异；版本后缀不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "Yakumo ＞＞JOINT STRUGGLE (2019 Update)",
+    "source": "otoge-chunithm",
+    "sourceTitle": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+    "artist": "くっちー (DARKSIDE APPROACH)",
+    "sourceId": "2084",
+    "reason": "拆分用户确认的粘连曲名后，核对空格或全半角符号差异；版本后缀不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "Be A Shooter！ ～NORMAL BIG BONUS～",
+    "source": "otoge-chunithm",
+    "sourceTitle": "Be A Shooter！～NORMAL BIG BONUS～",
+    "artist": "Sammy sound team",
+    "sourceId": "901",
+    "reason": "拆分用户确认的粘连曲名后，核对空格或全半角符号差异；版本后缀不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "DETARAME ROCK＆ROLL THEORY",
+    "source": "otoge-chunithm",
+    "sourceTitle": "DETARAME ROCK&ROLL THEORY",
+    "artist": "箱部 なる(CV:M・A・O)",
+    "sourceId": "170",
+    "reason": "拆分用户确认的粘连曲名后，核对空格或全半角符号差异；版本后缀不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "エンドマークに希望と涙を添えて～イロドリミドリアレンジ～",
+    "source": "otoge-chunithm",
+    "sourceTitle": "エンドマークに希望と涙を添えて ～イロドリミドリアレンジ～",
+    "artist": "イロドリミドリ",
+    "sourceId": "913",
+    "reason": "拆分用户确认的粘连曲名后，核对空格或全半角符号差异；版本后缀不变。"
+  },
+  {
+    "game": "CHUNITHM",
+    "title": "Reach for the Stars",
+    "source": "otoge-chunithm",
+    "sourceTitle": "Reach For The Stars",
+    "artist": "ソニック カラーズ",
+    "sourceId": "6",
+    "reason": "用户确认该曲署名为 Sonic Colors 的片假名日文；与本游戏来源中的 Reach For The Stars / ソニック カラーズ 对应，仅此条允许已核实的大小写别名（2026-10-20）。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Dancin' on a Cat's Paw",
+    "source": "arcaea",
+    "sourceTitle": "ネコノテ・カリタガール Dancin' on A Cat's Paw",
+    "artist": "Ino(chronoize)",
+    "line": 815,
+    "reason": "用户确认该曲名写法及署名；与来源英文／罗马字别名存在大小写差异，仅对本曲建立明确映射（2026-10-20）。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Can I Friend You on Bassbook? Lol",
+    "source": "arcaea",
+    "sourceTitle": "ベースラインやってる？w Can I Friend You On Bassbook? Lol",
+    "artist": "かめりあ feat. ななひら",
+    "line": 838,
+    "reason": "用户确认该曲名写法及署名；与来源英文／罗马字别名存在大小写差异，仅对本曲建立明确映射（2026-10-20）。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Kanjou no Matenrou ～Arr.Demetori",
+    "source": "arcaea",
+    "sourceTitle": "感情の摩天楼 ～Arr.Demetori Kanjou no matenrou ～Arr.Demetori",
+    "artist": "Demetori",
+    "line": 756,
+    "reason": "用户确认该曲名写法及署名；与来源英文／罗马字别名存在大小写差异，仅对本曲建立明确映射（2026-10-20）。"
+  },
+  {
+    "game": "Arcaea",
+    "title": "Death By Glamour",
+    "source": "arcaea",
+    "sourceTitle": "華麗なる死闘 Death by Glamour",
+    "artist": "Toby Fox",
+    "line": 755,
+    "reason": "用户确认该曲名写法及署名；与来源英文／罗马字别名存在大小写差异，仅对本曲建立明确映射（2026-10-20）。"
   }
 ]
