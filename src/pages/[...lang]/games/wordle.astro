@@ -1,0 +1,168 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { i18n, routeLocale, languagePaths, localeBase } from '../../../i18n';
+export const getStaticPaths = languagePaths;
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+const zh = lang === 'zh';
+const intro = zh ? '六次机会，猜出英文单词；可选 4–7 个字母。' : 'Six tries to find an English word. Choose 4–7 letters.';
+---
+<BaseLayout title={`Wordle · ${site.title}`} description={intro}>
+  <section class="listing-shell" data-pagefind-body>
+    <header class="listing-header">
+      <a class="back-link" href={`${localeBase(lang)}/games/`}>← {t.games}</a>
+      <h1>Wordle</h1><p>{intro}</p>
+    </header>
+    <div class="legend" aria-label={zh ? '提示规则' : 'Clue guide'}>
+      <span><b class="correct">✓</b>{zh ? '位置正确' : 'Right spot'}</span>
+      <span><b class="present">↔</b>{zh ? '位置不对' : 'Wrong spot'}</span>
+      <span><b class="absent">×</b>{zh ? '没有更多这个字母' : 'No more of this letter'}</span>
+    </div>
+    <noscript><p>{zh ? '请启用 JavaScript 后开始游戏。' : 'Enable JavaScript to play.'}</p></noscript>
+    <div id="wordle" data-lang={lang} data-pagefind-ignore hidden>
+      <div class="settings">
+        <label for="word-length">{zh ? '单词长度' : 'Word length'}</label>
+        <select id="word-length">{[4, 5, 6, 7].map((length) => <option value={length} selected={length === 5}>{zh ? `${length} 个字母` : `${length} letters`}</option>)}</select>
+        <span id="word-count"></span>
+      </div>
+      <div class="board" role="group" aria-label={zh ? '猜词记录' : 'Guess board'}>
+        {Array.from({ length: 6 }, () => <div class="word-row">{Array.from({ length: 7 }, () => <div class="tile"><span></span><small></small></div>)}</div>)}
+      </div>
+      <p id="status" role="status" aria-live="polite" aria-atomic="true"></p>
+      <div class="keyboard" role="group" aria-label={zh ? '字母键盘' : 'Letter keyboard'}>
+        {['qwertyuiop', 'asdfghjkl', '!zxcvbnm<'].map((row) => <div class="key-row">{[...row].map((key) =>
+          <button type="button" data-key={key} class:list={[{wide: key === '!' || key === '<'}]} aria-label={key === '!' ? (zh ? '提交单词' : 'Submit word') : key === '<' ? (zh ? '删除字母' : 'Delete letter') : key.toUpperCase()}>
+            {key === '!' ? (zh ? '提交' : 'Enter') : key === '<' ? '⌫' : key.toUpperCase()}
+          </button>)}</div>)}
+      </div>
+      <div class="actions"><span id="attempts"></span><button id="restart" type="button">{zh ? '重新开局' : 'New game'}</button></div>
+    </div>
+    <p class="note">{zh ? '答案选自常用词，猜测可使用更大的离线词库；无效词不计次数。切换长度会开始新局。支持实体键盘（Enter 提交、Backspace 删除）。刷新页面会开始新局。' : 'Answers come from common words, with a larger offline dictionary for guesses. Invalid words do not use a try. Changing length starts a new game. Use your keyboard: Enter to submit, Backspace to delete. Reloading starts a new game.'}</p>
+  </section>
+</BaseLayout>
+
+<script>
+  import { vocabulary, wordsByLength, wordLengths, pickAnswer, scoreGuess, type WordLength, type LetterState } from '../../../lib/wordle';
+  const game = document.querySelector<HTMLElement>('#wordle')!;
+  const zh = game.dataset.lang === 'zh';
+  const rows = [...game.querySelectorAll<HTMLElement>('.word-row')];
+  const keys = [...game.querySelectorAll<HTMLButtonElement>('[data-key]')];
+  const status = game.querySelector<HTMLElement>('#status')!;
+  const names = { correct: zh ? '位置正确' : 'correct', present: zh ? '位置不对' : 'wrong spot', absent: zh ? '没有更多这个字母' : 'no more of this letter' };
+  const symbols = { correct: '✓', present: '↔', absent: '×' };
+  const rank = { absent: 0, present: 1, correct: 2 };
+  const lengthSelect = game.querySelector<HTMLSelectElement>('#word-length')!;
+  let wordLength: WordLength = 5;
+  let answer = '';
+  let input = '';
+  let guesses: string[] = [];
+  let finished = false;
+
+  function render() {
+    const keyboard = new Map<string, LetterState>();
+    rows.forEach((row, index) => {
+      const guess = guesses[index];
+      const text = guess ?? (index === guesses.length ? input : '');
+      const scores = guess ? scoreGuess(guess, answer) : undefined;
+      row.setAttribute('aria-label', zh ? `第 ${index + 1} 次` : `Try ${index + 1}`);
+      [...row.querySelectorAll<HTMLElement>('.tile')].forEach((tile, i) => {
+        tile.hidden = i >= wordLength;
+        const state = scores?.[i];
+        tile.className = `tile ${state ?? ''}`;
+        tile.querySelector('span')!.textContent = text[i]?.toUpperCase() ?? '';
+        tile.querySelector('small')!.textContent = state ? symbols[state] : '';
+        tile.setAttribute('aria-label', text[i] ? `${text[i].toUpperCase()}${state ? `: ${names[state]}` : ''}` : (zh ? '空格' : 'Empty'));
+        if (state && (!keyboard.has(text[i]) || rank[state] > rank[keyboard.get(text[i])!])) keyboard.set(text[i], state);
+      });
+    });
+    keys.forEach((key) => {
+      const letter = key.dataset.key!;
+      const state = keyboard.get(letter);
+      key.classList.remove('correct', 'present', 'absent');
+      if (state) key.classList.add(state);
+      if (/^[a-z]$/.test(letter)) key.setAttribute('aria-label', `${letter.toUpperCase()}${state ? `: ${names[state]}` : ''}`);
+      key.disabled = finished;
+    });
+    game.querySelector('#attempts')!.textContent = zh ? `已猜 ${guesses.length} / 6 次` : `${guesses.length} / 6 tries used`;
+  }
+
+  function handleKey(key: string) {
+    if (finished) return;
+    if (key === '!') {
+      if (input.length !== wordLength) { status.textContent = zh ? `请输入 ${wordLength} 个字母再提交。` : `Enter ${wordLength} letters first.`; return; }
+      if (!vocabulary.has(input)) { status.textContent = zh ? '这个单词不在内置词库中，换一个试试，不扣次数。' : 'This word is not in the vocabulary. Try another; no try used.'; return; }
+      if (guesses.includes(input)) { status.textContent = zh ? '这个单词已经猜过了，换一个吧。' : 'You already tried this word. Try another.'; return; }
+      const guess = input;
+      guesses.push(guess);
+      input = '';
+      finished = guess === answer || guesses.length === 6;
+      const clues = scoreGuess(guess, answer).map((state, i) => `${guess[i].toUpperCase()} ${names[state]}`).join(', ');
+      status.textContent = guess === answer
+        ? (zh ? `猜对了！${answer.toUpperCase()}，用了 ${guesses.length} 次。` : `You got it! ${answer.toUpperCase()} in ${guesses.length} tries.`)
+        : finished ? (zh ? `这局结束，答案是 ${answer.toUpperCase()}。再来一局吧！` : `The answer was ${answer.toUpperCase()}. Play again!`)
+        : clues;
+    } else if (key === '<') {
+      input = input.slice(0, -1);
+      status.textContent = zh ? '继续输入，完成后提交。' : 'Keep typing, then submit.';
+    } else if (/^[a-z]$/.test(key) && input.length < wordLength) {
+      input += key;
+      status.textContent = zh ? '完成后按 Enter 或点击提交。' : 'Press Enter or tap Enter to submit.';
+    }
+    render();
+  }
+  keys.forEach((key) => key.addEventListener('click', () => { handleKey(key.dataset.key!); game.focus({ preventScroll: true }); }));
+  document.addEventListener('keydown', (event) => {
+    if (event.ctrlKey || event.metaKey || event.altKey || event.isComposing || event.repeat) return;
+    const target = event.target;
+    if (target instanceof HTMLElement && (target.isContentEditable || target.closest('input, textarea, select'))) return;
+    // Keep Enter's native activation for focused buttons and links.
+    if (event.key === 'Enter' && target instanceof HTMLElement && target.closest('button, a, summary')) return;
+    const key = event.key === 'Enter' ? '!' : event.key === 'Backspace' ? '<' : event.key.toLowerCase();
+    if (key === '!' || key === '<' || /^[a-z]$/.test(key)) { event.preventDefault(); handleKey(key); }
+  });
+  function start() {
+    answer = pickAnswer(wordLength, answer); input = ''; guesses = []; finished = false;
+    game.style.setProperty('--word-length', String(wordLength));
+    const count = [...vocabulary].filter((word) => word.length === wordLength).length;
+    game.querySelector('#word-count')!.textContent = zh ? `${wordsByLength[wordLength].length} 个答案 · ${count} 个可猜词` : `${wordsByLength[wordLength].length} answers · ${count} accepted words`;
+    status.textContent = zh ? `输入第一个 ${wordLength} 字母单词，开始吧。` : `Start with a ${wordLength}-letter word.`;
+    render();
+  }
+  game.querySelector('#restart')!.addEventListener('click', () => { start(); game.focus(); });
+  lengthSelect.addEventListener('change', () => {
+    const length = Number(lengthSelect.value) as WordLength;
+    if (!wordLengths.includes(length)) return;
+    wordLength = length; start(); game.focus({ preventScroll: true });
+  });
+  game.tabIndex = -1;
+  start(); game.hidden = false;
+</script>
+
+<style>
+  .legend { display: flex; flex-wrap: wrap; gap: 12px 20px; margin: 24px 0; font-size: 12px; }
+  .legend > span { display: flex; align-items: center; gap: 8px; }
+  .legend b { display: inline-grid; place-items: center; width: 24px; height: 24px; }
+  #wordle { max-width: 520px; margin: 32px auto; }
+  .settings { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 24px; font-size: 13px; }
+  .settings select { min-height: 44px; padding: 8px; color: var(--ink); background: var(--paper); border: 1px solid var(--rule); font: inherit; }
+  #word-count { width: 100%; color: var(--ink-soft); font-size: 12px; }
+  .tile[hidden] { display: none; }
+  .board { max-width: calc(var(--word-length, 5) * 66px); margin: auto; display: grid; gap: 6px; }
+  .word-row { display: grid; grid-template-columns: repeat(var(--word-length, 5), minmax(0, 1fr)); gap: 6px; }
+  .tile { aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; border: 1px solid var(--rule); font: 600 clamp(22px, 4vw, 30px) var(--mono); }
+  .tile small { height: 12px; font: 10px/12px var(--sans); }
+  #status { min-height: 3.6em; margin: 20px 0; font-size: 13px; line-height: 1.8; text-align: center; }
+  .keyboard { display: grid; gap: 7px; }
+  .key-row { display: flex; justify-content: center; gap: 4px; }
+  button { border: 1px solid var(--rule); color: var(--ink); background: var(--paper-deep); cursor: pointer; font: 600 14px var(--mono); min-height: 44px; border-radius: 3px; }
+  button:focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
+  [data-key] { flex: 1; max-width: 46px; min-width: 0; padding: 0; }
+  [data-key].wide { flex: 1.5; max-width: 65px; font-size: 11px; }
+  .correct { background: #356a48; border-color: #356a48; color: #fff; }
+  .present { background: #88651b; border-color: #88651b; color: #fff; }
+  .absent { background: #55585c; border-color: #55585c; color: #fff; }
+  button:disabled { cursor: default; }
+  .actions { display: flex; justify-content: space-between; align-items: center; margin-top: 24px; color: var(--ink-soft); font-size: 12px; }
+  #restart { padding: 8px 14px; font: 13px var(--sans); }
+  .note { border-top: 1px solid var(--rule); padding-top: 20px; color: var(--ink-soft); font-size: 12px; line-height: 1.9; }
+</style>

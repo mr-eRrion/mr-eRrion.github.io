@@ -12,6 +12,7 @@ export const contentSlug = (id: string) => id.replace(/^en\//, '');
 export const htmlLang = (lang: Locale) => lang === 'zh' ? 'zh-CN' : 'en';
 
 const zh = {
+  games: '小游戏', gamesIntro: '读累了，来玩一局。', playBingo: '开始 Bingo →',
   language: '语言', chapter: '章节', phaseNotes: '相空间札记', seriesHeading: '专栏 · 卷册', emptySet: '空集',
   home: '首页', posts: '文章', allPosts: '全部文章', series: '专栏',
   topics: '主题', otherSections: '其他栏目', about: '关于', search: '搜索', searchPosts: '搜索文章',
@@ -37,6 +38,7 @@ const zh = {
   chapterProgress: (n: number, total: number) => `第 ${n} 章，共 ${total} 章`
 };
 const en: typeof zh = {
+  games: 'Mini games', gamesIntro: 'Take a break. Play a round.', playBingo: 'Play Bingo →',
   language: 'Language', chapter: 'Chapter', phaseNotes: 'Phase Space Notes', seriesHeading: 'Series · Monographs', emptySet: 'Empty set',
   home: 'Home', posts: 'Articles', allPosts: 'All articles', series: 'Series',
   topics: 'Topics', otherSections: 'Other sections', about: 'About', search: 'Search', searchPosts: 'Search articles',

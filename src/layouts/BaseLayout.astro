@@ -118,6 +118,11 @@ const navigation = [
         </div>
         <div class="sidebar-group">
           <p class="sidebar-label">{t.otherSections}</p>
+          <nav class="primary-nav" aria-label={t.otherSections}>
+            <a href={`${base}/games/`} aria-current={isActive('/games') ? 'page' : undefined}>
+              <span>{t.games}</span><small>06</small>
+            </a>
+          </nav>
         </div>
         <div class="sidebar-note"><span>{t.posts} / {SITE.author}</span><p>{SITE.motto}</p><a href={`${base}/rss.xml`}>{t.rss}</a></div>
       </details>

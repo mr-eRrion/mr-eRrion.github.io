@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { i18n, routeLocale, languagePaths, localeBase } from '../../../i18n';
+export const getStaticPaths = languagePaths;
+const lang = routeLocale(Astro.params.lang);
+const { t, site } = i18n(lang);
+---
+<BaseLayout title={`${t.games} · ${site.title}`} description={t.gamesIntro}>
+  <section class="listing-shell" data-pagefind-body>
+    <header class="listing-header">
+      <span class="eyebrow">{t.otherSections}</span>
+      <h1>{t.games}</h1>
+      <p>{t.gamesIntro}</p>
+    </header>
+    <div class="tag-grid">
+      <a href={`${localeBase(lang)}/games/bingo/`}>
+        <span>01 / BINGO</span>
+        <h2>{lang === 'zh' ? '数字 Bingo' : 'Number Bingo'}</h2>
+        <p>{lang === 'zh' ? '抽取数字，点亮卡片，连成一线。' : 'Draw numbers, mark your card, complete a line.'}</p>
+        <p class="play">{t.playBingo}</p>
+      </a>
+      <a href={`${localeBase(lang)}/games/wordle/`}>
+        <span>02 / WORDLE</span>
+        <h2>Wordle</h2>
+        <p>{lang === 'zh' ? '六次机会，挑战 4–7 字母英文单词。' : 'Six tries. Choose a 4–7 letter English word.'}</p>
+        <p class="play">{lang === 'zh' ? '开始猜词 →' : 'Play Wordle →'}</p>
+      </a>
+    </div>
+  </section>
+</BaseLayout>
+<style>.tag-grid .play { margin-top: 24px; color: var(--blue); }</style>
